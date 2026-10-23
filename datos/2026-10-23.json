@@ -1,5 +1,35 @@
 [
  {
+  "plataforma": "nacional",
+  "fuente": "Infobae",
+  "autor": "Infobae",
+  "tipo": "nota",
+  "titulo": "Sergio Massa se reunió con rectores de universidades nacionales en medio de la disputa por el financiamiento",
+  "texto": "El líder del Frente Renovador mantuvo un encuentro con algunos representantes de las altas casas tras un nuevo reclamo por el aumento de los salarios docentes",
+  "url": "https://www.infobae.com/politica/2026/10/21/sergio-massa-se-reunio-con-rectores-de-universidades-nacionales-en-medio-de-la-disputa-por-el-financiamiento/",
+  "publicado": "2026-10-23T23:26:46+00:00",
+  "id": "42cebad55e881753",
+  "titulo_norm": "sergio massa se reunió con rectores de universidades nacionales en medio de la disputa por el financiamiento",
+  "resumen": "El líder del Frente Renovador, Sergio Massa, se reunió con rectores de universidades nacionales en medio de la disputa por el financiamiento universitario, tras un nuevo reclamo por el aumento de los salarios docentes. La nota lo presenta como interlocutor político del sector.",
+  "relevante": 1,
+  "recolectado": "2026-10-23T23:37:24+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Diario La Mañana - La verdad en tus manos",
+  "autor": "Diario La Mañana - La verdad en tus manos",
+  "tipo": "nota",
+  "titulo": "Insfrán participó de una cumbre con Kicillof, Massa y Máximo Kirchner para organizar el PJ de cara al 2027",
+  "texto": "Si bien el encuentro fue cerrado, trascendió que la agenda incluyó la defensa de las PASO, el Presupuesto 2027 y la búsqueda de acuerdos para construir una estrategia política común frente al Gobierno de Milei. Mayans mencionó a gobernadores y exmandatarios como posibles candidatos",
+  "url": "https://www.xn--lamaanaonline-lkb.com.ar/noticia/108094/insfrn-particip-de-una-cumbre-con-kicillof-massa-y-mximo-kirchner-para-organizar-el-pj-de-cara-al-2027/",
+  "publicado": "2026-10-23T23:24:54+00:00",
+  "id": "481238ba760f50cd",
+  "titulo_norm": "insfrán participó de una cumbre con kicillof massa y máximo kirchner para organizar el pj de cara al 2027",
+  "resumen": "Insfrán participó de una cumbre cerrada con Kicillof, Massa y Máximo Kirchner para organizar el PJ de cara a 2027. Trascendió que trataron la defensa de las PASO, el Presupuesto 2027 y una estrategia común frente al Gobierno de Milei.",
+  "relevante": 1,
+  "recolectado": "2026-10-23T23:37:24+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "Agencia NOVA",
   "autor": "Agencia NOVA",
@@ -523,6 +553,21 @@
   "resumen": "Describe una cumbre con Kicillof, Massa y Máximo Kirchner, con intendentes y figuras de peso, para delinear estrategias electorales y consensos frente a la crisis de representación partidaria. Massa es parte del encuentro.",
   "relevante": 1,
   "titulo_norm": "cumbre kicillof massa y máximo kirchner los acuerdos del peronismo para 2027"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Cuarto: Salta a diario",
+  "autor": "Cuarto: Salta a diario",
+  "tipo": "nota",
+  "titulo": "Elecciones 2027 | Kicillof, Massa y Máximo se reunieron con gobernadores y legisladores",
+  "texto": "Cenaron durante más de tres horas en la Casa de La Pampa en Buenos Aires. Ratificaron la “vocación de unidad”, advirtieron que eliminar las primarias “puede transformarse en una trampa” y anticiparon propuestas para el debate del Presupuesto.",
+  "url": "https://www.cuarto.com.ar/elecciones-2027-kicillof-massa-y-maximo-se-reunieron-con-gobernadores-y-legisladores/",
+  "publicado": "2026-10-23T12:48:29+00:00",
+  "id": "32520c38a4a12344",
+  "titulo_norm": "elecciones 2027 kicillof massa y máximo se reunieron con gobernadores y legisladores",
+  "resumen": "Kicillof, Massa y Máximo Kirchner se reunieron durante más de tres horas con gobernadores y legisladores en la Casa de La Pampa. Ratificaron la unidad, advirtieron que eliminar las primarias puede ser una trampa y anticiparon propuestas para el Presupuesto.",
+  "relevante": 1,
+  "recolectado": "2026-10-23T23:37:24+00:00"
  },
  {
   "id": "54e61ec127dae4e6",
