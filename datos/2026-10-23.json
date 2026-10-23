@@ -75,6 +75,21 @@
   "titulo_norm": "axel kicillof máximo kirchner y sergio massa se reunieron para armar un frente anti milei"
  },
  {
+  "plataforma": "portal",
+  "fuente": "Gazeta Norte",
+  "autor": "Gazeta Norte",
+  "tipo": "nota",
+  "titulo": "Cumbre Peronista entre Massa, Kicillof y Máximo Kirchner de cara a las elecciones",
+  "texto": "El ex candidato a presidente Sergio Massa mantuvo una reunión el pasado jueves con gobernadores y dirigentes políticos del peronismo",
+  "url": "https://www.gazetanorte.com.ar/2026/10/cumbre-peronista-entre-massa-kicillof-y-maximo-kirchner-de-cara-a-las-elecciones/",
+  "publicado": "2026-10-23T17:09:35+00:00",
+  "id": "48a6bb4408beed6b",
+  "titulo_norm": "cumbre peronista entre massa kicillof y máximo kirchner de cara a las elecciones",
+  "resumen": "Cumbre Peronista entre Massa, Kicillof y Máximo Kirchner de cara a las elecciones. El ex candidato a presidente Sergio Massa mantuvo una reunión el pasado jueves con gobernadores y dirigentes políticos del peronismo",
+  "relevante": 1,
+  "recolectado": "2026-10-23T20:26:08+00:00"
+ },
+ {
   "id": "bb3475f77c38ba64",
   "plataforma": "nacional",
   "fuente": "El Intransigente",
@@ -613,6 +628,21 @@
   "resumen": "Sergio Massa integra una reunión de Kicillof, Máximo Kirchner y gobernadores en la Casa de La Pampa, en Buenos Aires, para buscar puntos de acuerdo en la agenda parlamentaria y política.",
   "relevante": 1,
   "titulo_norm": "cumbre de kicillof massa máximo y los gobernadores"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "El Teclado",
+  "autor": "El Teclado",
+  "tipo": "nota",
+  "titulo": "Tregua: Kicillof, Massa y Máximo se juntaron con gobernadores para armarse contra Milei",
+  "texto": "Periodismo desde La Plata, para toda la Provincia",
+  "url": "https://www.elteclado.com.ar/nota/32239/tregua-kicillof-massa-y-maximo-se-juntaron-con-gobernadores-para-armarse-contra-milei.html",
+  "publicado": "2026-10-23T11:59:00+00:00",
+  "id": "df2118733c3a14e8",
+  "titulo_norm": "tregua kicillof massa y máximo se juntaron con gobernadores para armarse contra milei",
+  "resumen": "Tregua: Kicillof, Massa y Máximo se juntaron con gobernadores para armarse contra Milei. Periodismo desde La Plata, para toda la Provincia",
+  "relevante": 1,
+  "recolectado": "2026-10-23T20:26:08+00:00"
  },
  {
   "id": "2d8ecdf64b697095",
