@@ -945,6 +945,21 @@
   "titulo_norm": "reunión cumbre entre kicillof máximo kirchner massa y gobernadores del pj para ordenar la interna y defender las paso"
  },
  {
+  "plataforma": "portal",
+  "fuente": "Diario Junio",
+  "autor": "Diario Junio",
+  "tipo": "nota",
+  "titulo": "Cumbre peronista: Máximo Kirchner, Axel Kicillof y Sergio Massa otra vez juntos",
+  "texto": "El peronismo puso segunda en su camino hacia 2027. Máximo Kirchner, Axel Kicillof y Sergio Massa volvieron a compartir una mesa anoche con un grupo de gobernadores y legisladores justicialistas para afinar la coordinación parlamentaria y discutir el armado electoral. La suspensión de las PASO y la confección del Presupuesto,…",
+  "url": "https://www.diariojunio.com.ar/162718_cumbre-peronista-maximo-kirchner-axel-kicillof-y-sergio-massa-otra-vez-juntos/",
+  "publicado": "2026-10-23T10:28:05+00:00",
+  "id": "fc0ec0c19819e32b",
+  "titulo_norm": "cumbre peronista máximo kirchner axel kicillof y sergio massa otra vez juntos",
+  "resumen": "Nota sobre una reunión de dirigentes peronistas, con Máximo Kirchner, Axel Kicillof y Sergio Massa juntos, para coordinar la estrategia parlamentaria y el armado electoral rumbo a 2027. Massa aparece como participante de la cumbre, sin una postura crítica ni de apoyo explícita.",
+  "relevante": 1,
+  "recolectado": "2026-10-23T23:07:21+00:00"
+ },
+ {
   "id": "678b57e55eed9f52",
   "plataforma": "portal",
   "fuente": "Canal 10 Tucumán",
@@ -1063,6 +1078,21 @@
   "resumen": "Cumbre de Axel Kicillof, Sergio Massa y Máximo Kirchner con gobernadores y legisladores en medio de una interna peronista recargada. Analizaron las PASO y el Presupuesto nacional. Es una nota informativa sobre la reunión, sin valoración explícita de Massa.",
   "relevante": 1,
   "titulo_norm": "kicillof massa y máximo kirchner se reunieron en medio de una interna recargada"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "noticiasmercedinas.com",
+  "autor": "noticiasmercedinas.com",
+  "tipo": "nota",
+  "titulo": "Rector de la UNLu, Walter Panessi, participó de encuentro con Sergio Massa por financiamiento universitario",
+  "texto": "El máximo referente de la casa de altos estudios con sede central en Luján formó parte de la reunión de autoridades académicas con el líder del Frente Renovador en la UNSAM. Durante la jornada, se analizó el ajuste en el sistema superior, la caída presupuestaria del 41,6% y la pérdida del poder adquisitivo salarial.",
+  "url": "https://noticiasmercedinas.com/site/2026/10/23/rector-de-la-unlu-walter-panessi-participo-de-encuentro-con-sergio-massa-por-financiamiento-universitario/",
+  "publicado": "2026-10-23T07:42:48+00:00",
+  "id": "c15777114dccfe52",
+  "titulo_norm": "rector de la unlu walter panessi participó de encuentro con sergio massa por financiamiento universitario",
+  "resumen": "Nota sobre un encuentro del rector de la UNLu, Walter Panessi, con Sergio Massa, líder del Frente Renovador, en la UNSAM. Se abordaron el ajuste en el sistema universitario, la caída presupuestaria del 41,6% y la pérdida del poder adquisitivo salarial.",
+  "relevante": 1,
+  "recolectado": "2026-10-23T23:07:21+00:00"
  },
  {
   "id": "e42492ef130f92d9",
