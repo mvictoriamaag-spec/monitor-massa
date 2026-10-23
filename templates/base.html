@@ -1,0 +1,86 @@
+{% from "_tarjeta.html" import tarjeta %}<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  {% block refresco %}{% endblock %}
+  <title>{% block titulo %}Menciones a Massa{% endblock %}</title>
+  {% include "_estilos.html" %}
+</head>
+<body>
+<header class="sitio">
+  <div class="contenedor">
+    <h1>Menciones a Sergio Massa</h1>
+    <p class="sub">Portales nacionales y medios del interior · se actualiza sola cada 15 minutos</p>
+    <nav class="pestanas">
+      <a href="{{ raiz }}index.html" class="{{ 'activa' if pestana == 'ultima' }}">Última hora</a>
+      <a href="{{ raiz }}hoy.html" class="{{ 'activa' if pestana == 'hoy' }}">Hoy, por hora</a>
+      <a href="{{ raiz }}historial.html" class="{{ 'activa' if pestana == 'historial' }}">Menciones pasadas</a>
+    </nav>
+  </div>
+</header>
+<main class="contenedor">
+  <div class="estado">
+    <span>Actualizado: {{ generado.strftime('%d/%m %H:%M') }} h</span>
+    <button type="button" id="compartir" style="margin-left:auto">Compartir esta página</button>
+  </div>
+  {% if avisos %}
+  <details class="errores"><summary>{{ avisos|length }} medio(s) no respondieron en la última búsqueda</summary>
+    <ul>{% for e in avisos %}<li>{{ e }}</li>{% endfor %}</ul>
+  </details>
+  {% endif %}
+  {% block contenido %}{% endblock %}
+</main>
+<script>
+  // Copiar link de una nota
+  document.addEventListener("click", async (ev) => {
+    const b = ev.target.closest("[data-copiar]");
+    if (!b) return;
+    const texto = b.dataset.copiar;
+    try { await navigator.clipboard.writeText(texto); }
+    catch (_) {
+      const t = document.createElement("textarea"); t.value = texto; document.body.appendChild(t);
+      t.select(); document.execCommand("copy"); t.remove();
+    }
+    const antes = b.textContent; b.textContent = "¡Copiado!";
+    setTimeout(() => (b.textContent = antes), 1500);
+  });
+
+  // Compartir la página (en el celular abre el menú de compartir)
+  document.getElementById("compartir").addEventListener("click", async (ev) => {
+    const datos = { title: document.title, url: location.href };
+    if (navigator.share) { try { await navigator.share(datos); } catch (_) {} return; }
+    await navigator.clipboard.writeText(location.href);
+    ev.target.textContent = "¡Link copiado!";
+    setTimeout(() => (ev.target.textContent = "Compartir esta página"), 1500);
+  });
+
+  // Filtros por tipo de medio y, en "Última hora", sólo lo de los últimos 60 minutos
+  let filtro = "";
+  function aplicar() {
+    const limite = document.body.dataset.ultimaHora ? Date.now() - 60 * 60 * 1000 : 0;
+    document.querySelectorAll(".tarjeta").forEach((t) => {
+      t.hidden = (filtro && t.dataset.plataforma !== filtro) || Number(t.dataset.ts) < limite;
+    });
+    let visibles = 0;
+    document.querySelectorAll(".grupo").forEach((g) => {
+      const n = g.querySelectorAll(".tarjeta:not([hidden])").length;
+      g.hidden = n === 0;
+      const c = g.querySelector(".cantidad");
+      if (c) c.textContent = n;
+      visibles += n;
+    });
+    const vacio = document.getElementById("vacio");
+    if (vacio) vacio.hidden = visibles > 0;
+  }
+  document.querySelectorAll("[data-filtro]").forEach((b) => b.addEventListener("click", () => {
+    filtro = b.dataset.filtro;
+    document.querySelectorAll("[data-filtro]").forEach((x) => x.classList.toggle("sel", x === b));
+    aplicar();
+  }));
+  aplicar();
+  setInterval(aplicar, 60 * 1000);
+</script>
+</body>
+</html>

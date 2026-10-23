@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block refresco %}{% if pestana == 'hoy' %}<meta http-equiv="refresh" content="300">{% endif %}{% endblock %}
+{% block titulo %}Menciones a Massa · {{ fecha.strftime('%d/%m/%Y') }}{% endblock %}
+{% block contenido %}
+<div>
+  <strong style="font-size:17px">{{ fecha_larga|capitalize }}</strong>
+  <div class="sub">{{ total }} mención(es)</div>
+</div>
+{% include "_filtros.html" %}
+{% for etiqueta, items in grupos %}
+<section class="grupo">
+  <h2 class="hora"><span>{{ etiqueta }} h</span><span class="cantidad">{{ items|length }}</span></h2>
+  {% for m in items %}{{ tarjeta(m) }}{% endfor %}
+</section>
+{% endfor %}
+<div class="vacio" id="vacio" hidden>No hay menciones {{ 'todavía ' if pestana == 'hoy' }}para este filtro.</div>
+{% endblock %}

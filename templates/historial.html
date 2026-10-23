@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% block titulo %}Menciones pasadas · Menciones a Massa{% endblock %}
+{% block contenido %}
+<p class="sub" style="margin-bottom:12px">Cada día queda guardado con su fecha y sus menciones ordenadas por hora.
+  Cada día tiene su propio link para compartir.</p>
+{% if dias %}
+<table class="dias">
+  <thead><tr><th>Fecha</th><th>Total</th><th class="ocultar-movil">Nacionales</th>
+    <th class="ocultar-movil">Interior</th><th class="ocultar-movil">Otros</th></tr></thead>
+  <tbody>
+  {% for d in dias %}
+    <tr>
+      <td><a href="{{ raiz }}dia/{{ d.fecha.isoformat() }}.html">{{ d.fecha_larga|capitalize }}</a></td>
+      <td class="num"><strong>{{ d.total }}</strong></td>
+      <td class="num ocultar-movil">{{ d.nacional }}</td>
+      <td class="num ocultar-movil">{{ d.interior }}</td>
+      <td class="num ocultar-movil">{{ d.portal }}</td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+{% else %}
+<div class="vacio">Todavía no hay menciones guardadas.</div>
+{% endif %}
+{% endblock %}

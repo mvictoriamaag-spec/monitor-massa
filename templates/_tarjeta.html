@@ -1,0 +1,19 @@
+{% set ETQ = {"nacional": "Nacional", "interior": "Interior", "portal": "Otro portal"} %}
+{% macro tarjeta(m) -%}
+<article class="tarjeta" data-plataforma="{{ m.plataforma }}" data-ts="{{ (m.publicado_local.timestamp() * 1000)|int }}">
+  <div class="meta">
+    <span class="badge {{ m.plataforma }}">{{ ETQ[m.plataforma] }}</span>
+    <strong>{{ m.fuente }}</strong>
+    <time datetime="{{ m.publicado }}">{{ m.publicado_local.strftime('%H:%M') }} h</time>
+  </div>
+  {% if m.titulo %}<h3>{{ m.titulo }}</h3>{% endif %}
+  {% if m.resumen and m.resumen != m.titulo %}<p class="resumen">{{ m.resumen }}</p>{% endif %}
+  <a class="link" href="{{ m.url }}" target="_blank" rel="noopener">{{ m.url }}</a>
+  <div class="acciones">
+    <a class="boton primario" href="{{ m.url }}" target="_blank" rel="noopener">Abrir nota</a>
+    <button type="button" data-copiar="{{ m.url }}">Copiar link</button>
+    <a class="boton" target="_blank" rel="noopener"
+       href="https://wa.me/?text={{ ((m.titulo or m.resumen) ~ ' ' ~ m.url) | urlencode }}">WhatsApp</a>
+  </div>
+</article>
+{%- endmacro %}

@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block refresco %}<meta http-equiv="refresh" content="300">{% endblock %}
+{% block titulo %}Última hora · Menciones a Massa{% endblock %}
+{% block contenido %}
+<script>document.body.dataset.ultimaHora = "1";</script>
+{% include "_filtros.html" %}
+<section class="grupo">
+  <h2 class="hora"><span>Últimos 60 minutos</span><span class="cantidad">{{ menciones|length }}</span></h2>
+  {% for m in menciones %}{{ tarjeta(m) }}{% endfor %}
+</section>
+<div class="vacio" id="vacio" hidden>No hay menciones publicadas en la última hora.<br>
+  La página se actualiza sola cada 5 minutos.</div>
+{% endblock %}
