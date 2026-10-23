@@ -15,6 +15,21 @@
   "titulo_norm": "cumbre del peronismo axel kicillof sergio massa y máximo kirchner se reunieron en medio de la interna"
  },
  {
+  "plataforma": "portal",
+  "fuente": "Central de Noticias | Olavarría",
+  "autor": "Central de Noticias | Olavarría",
+  "tipo": "nota",
+  "titulo": "Crisis del sistema universitario: rectores y rectoras de universidades nacionales se reunieron con Sergio Massa",
+  "texto": "",
+  "url": "https://cdnoticias.com/index.php/2026/10/23/crisis-del-sistema-universitario-rectores-y-rectoras-de-universidades-nacionales-se-reunieron-con-sergio-massa/",
+  "publicado": "2026-10-23T19:11:40+00:00",
+  "id": "b789a6a2c8e9e888",
+  "titulo_norm": "crisis del sistema universitario rectores y rectoras de universidades nacionales se reunieron con sergio massa",
+  "resumen": "Rectores y rectoras de universidades nacionales se reunieron con Sergio Massa para tratar la crisis del sistema universitario. Massa aparece como interlocutor político ante el reclamo del sector.",
+  "relevante": 1,
+  "recolectado": "2026-10-23T20:29:13+00:00"
+ },
+ {
   "id": "eafe78c43a7a130b",
   "plataforma": "interior",
   "fuente": "0223 (Mar del Plata)",
@@ -733,6 +748,21 @@
   "resumen": "Kicillof, Máximo Kirchner y Massa se reúnen en secreto con referentes del PJ y otros mandatarios para defender las PASO y bajar la tensión interna. Buscan cerrar filas frente a Milei.",
   "relevante": 1,
   "titulo_norm": "kicillof máximo kirchner y massa se reunieron en secreto para defender las paso y bajar la tensión en el peronismo"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Radio Gol",
+  "autor": "Radio Gol",
+  "tipo": "nota",
+  "titulo": "El peronismo busca orden: Cumbre clave entre Kicillof, Máximo Kirchner, Massa y gobernadores por las PASO",
+  "texto": "El peronismo busca orden: Cumbre clave entre Kicillof, Máximo Kirchner, Massa y gobernadores por las PASO",
+  "url": "https://www.radiogol.com.ar/politica/el-peronismo-busca-orden-cumbre-clave-entre-kicillof-maximo-kirchner-massa-y-gobernadores-por-las-paso-232639/?amp=1",
+  "publicado": "2026-10-23T10:58:58+00:00",
+  "id": "fc4543b25568fd88",
+  "titulo_norm": "el peronismo busca orden cumbre clave entre kicillof máximo kirchner massa y gobernadores por las paso",
+  "resumen": "Se anuncia una cumbre del peronismo con Kicillof, Máximo Kirchner, Massa y gobernadores para ordenar la interna de cara a las PASO. Massa figura como participante de la reunión.",
+  "relevante": 1,
+  "recolectado": "2026-10-23T20:29:13+00:00"
  },
  {
   "id": "7cbead9342aa90b2",
