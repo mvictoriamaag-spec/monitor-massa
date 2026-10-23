@@ -1,6 +1,36 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "Agencia NOVA",
+  "autor": "Agencia NOVA",
+  "tipo": "nota",
+  "titulo": "Sergio Massa se reunió con las 62 Organizaciones Peronistas para impulsar la unidad y construir un programa electoral",
+  "texto": "Sergio Massa mantuvo una reunión con la conducción nacional de las 62 Organizaciones Peronistas en la sede central de la entidad, con el objetivo de avanzar en la unidad del justicialismo y elaborar un programa político de cara a las próximas elecciones. El encuentro también permitió analizar la situación socioeconómica del país, el mercado laboral y las demandas de los trabajadores.",
+  "url": "https://www.agencianova.com/nota.asp?n=2026_10_23&id=174335&id_tiponota=85",
+  "publicado": "2026-10-23T21:25:11+00:00",
+  "id": "8ea2bdf4eda1ceb2",
+  "titulo_norm": "sergio massa se reunió con las 62 organizaciones peronistas para impulsar la unidad y construir un programa electoral",
+  "resumen": "Massa se reunió con la conducción nacional de las 62 Organizaciones Peronistas para avanzar en la unidad del justicialismo y elaborar un programa electoral de cara a las próximas elecciones. También analizaron la situación socioeconómica, el mercado laboral y las demandas de los trabajadores.",
+  "relevante": 1,
+  "recolectado": "2026-10-23T21:42:10+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Cronos noticias",
+  "autor": "Cronos noticias",
+  "tipo": "nota",
+  "titulo": "“El mejor tiene que competir”: Massa puso sobre la mesa las claves para enfrentar al Gobierno de Milei en 2027",
+  "texto": "El referente renovador hizo un llamado a la reorganización del peronismo y otorgó su perspectiva sobre cómo se debe proceder, a nivel partidario, p",
+  "url": "https://infocronos.com.ar/nota/58500/el-mejor-tiene-que-competir-massa-puso-sobre-la-mesa-las-claves-para-enfrentar-al-gobierno-de-milei-en-2027/",
+  "publicado": "2026-10-23T21:16:21+00:00",
+  "id": "46afe25938981c8d",
+  "titulo_norm": "el mejor tiene que competir massa puso sobre la mesa las claves para enfrentar al gobierno de milei en 2027",
+  "resumen": "Massa, referente del renovador, llama a reorganizar el peronismo y plantea cómo debe encararse, a nivel partidario, el desafío de enfrentar al Gobierno de Milei en 2027. Aparece como dirigente que propone una estrategia opositora.",
+  "relevante": 1,
+  "recolectado": "2026-10-23T21:42:10+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Junín Digital",
   "autor": "Junín Digital",
   "tipo": "nota",
@@ -28,6 +58,21 @@
   "resumen": "Massa participó de un encuentro del PJ con Kicillof y Máximo Kirchner, donde se renovó el compromiso de frenar la reforma de las reglas electorales que impulsa el Gobierno, incluida la eliminación de las PASO. La nota destaca su regreso a la actividad junto a viejos aliados.",
   "relevante": 1,
   "recolectado": "2026-10-23T21:12:01+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Enterate Noticias",
+  "autor": "Enterate Noticias",
+  "tipo": "nota",
+  "titulo": "El peronismo busca blindar las PASO y Sergio Massa reactiva su agenda con gobernadores y el sector sindical",
+  "texto": "Kicillof, Massa y Máximo Kirchner se reunieron en la Casa de La Pampa para rechazar la suspensión de las PASO y el Presupuesto 2027.",
+  "url": "https://www.enteratenoticias.com.ar/politica/el-peronismo-busca-blindar-las-paso-y-sergio-massa-reactiva-su-agenda-con-gobernadores-y-el-sector-sindical/",
+  "publicado": "2026-10-23T19:44:19+00:00",
+  "id": "1b4e84fca5786f12",
+  "titulo_norm": "el peronismo busca blindar las paso y sergio massa reactiva su agenda con gobernadores y el sector sindical",
+  "resumen": "Massa, junto a Kicillof y Máximo Kirchner, se reunió en la Casa de La Pampa para rechazar la suspensión de las PASO y el Presupuesto 2027. La nota lo muestra reactivando su agenda con gobernadores y el sector sindical.",
+  "relevante": 1,
+  "recolectado": "2026-10-23T21:42:10+00:00"
  },
  {
   "id": "d45c9928f6813887",
