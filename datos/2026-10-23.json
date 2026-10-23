@@ -1,5 +1,35 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "Junín Digital",
+  "autor": "Junín Digital",
+  "tipo": "nota",
+  "titulo": "Massa pidió humildad y generosidad en el peronismo: “Lo importante es construir una alternativa para ganar”",
+  "texto": "Tras la última cumbre del peronismo, se difundió un nuevo fragmento del diálogo que Sergio Massa mantuvo con rectores y rectoras de universidades nacionales. El exministro de Economía planteó que la prioridad debe ser construir una alternativa al Gobierno nacional y sostuvo que las aspiraciones personales deben quedar en un segundo plano.",
+  "url": "https://www.junindigital.com/politica/2026-10-23-18-2-0-massa-pidio-humildad-y-generosidad-en-el-peronismo-lo-importante-es-construir-una-alternativa-para-ganar",
+  "publicado": "2026-10-23T21:09:18+00:00",
+  "id": "c19d11a72938dea0",
+  "titulo_norm": "massa pidió humildad y generosidad en el peronismo lo importante es construir una alternativa para ganar",
+  "resumen": "Massa, en un diálogo con rectores de universidades nacionales difundido tras una cumbre peronista, pidió humildad y generosidad en el peronismo. Sostuvo que la prioridad es construir una alternativa para ganar al Gobierno y que las ambiciones personales deben quedar en segundo plano.",
+  "relevante": 1,
+  "recolectado": "2026-10-23T21:12:01+00:00"
+ },
+ {
+  "plataforma": "nacional",
+  "fuente": "La Nación",
+  "autor": "La Nación",
+  "tipo": "nota",
+  "titulo": "El PJ trabaja para blindar las PASO y Massa vuelve a mostrarse activo con viejos aliados",
+  "texto": "Tras el encuentro del jueves, del que participaron el tigrense, Kicillof y Máximo Kirchner, entre otros, se renovó el compromiso para evitar que el Gobierno avance con la reforma de las reglas electorales",
+  "url": "https://www.lanacion.com.ar/politica/el-pj-trabaja-para-blindar-las-paso-y-massa-vuelve-a-mostrarse-activo-con-viejos-aliados-nid23102026/",
+  "publicado": "2026-10-23T20:54:31+00:00",
+  "id": "616757010e8fd439",
+  "titulo_norm": "el pj trabaja para blindar las paso y massa vuelve a mostrarse activo con viejos aliados",
+  "resumen": "Massa participó de un encuentro del PJ con Kicillof y Máximo Kirchner, donde se renovó el compromiso de frenar la reforma de las reglas electorales que impulsa el Gobierno, incluida la eliminación de las PASO. La nota destaca su regreso a la actividad junto a viejos aliados.",
+  "relevante": 1,
+  "recolectado": "2026-10-23T21:12:01+00:00"
+ },
+ {
   "id": "d45c9928f6813887",
   "plataforma": "portal",
   "fuente": "Ecos Diarios Necochea",
@@ -553,6 +583,21 @@
   "resumen": "Kicillof, Máximo Kirchner y Massa, junto a legisladores y gobernadores, se reunieron a puertas cerradas y ratificaron la \"vocación de unidad\" del PJ. El encuentro buscó ordenar la interna y defender las PASO nacionales.",
   "relevante": 1,
   "titulo_norm": "cumbre del peronismo para ordenar la interna y defender las paso nacionales"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "www.lamanana.com.ar",
+  "autor": "www.lamanana.com.ar",
+  "tipo": "nota",
+  "titulo": "Cumbre de Kicillof, Massa, Kirchner y Gobernadores",
+  "texto": "",
+  "url": "https://www.lamanana.com.ar/cumbre-de-kicillof-massa-kirchner-y-gobernadores/amp/",
+  "publicado": "2026-10-23T12:31:00+00:00",
+  "id": "0a37ef883a92e742",
+  "titulo_norm": "cumbre de kicillof massa kirchner y gobernadores",
+  "resumen": "Cumbre peronista que reúne a Kicillof, Massa, Kirchner y gobernadores provinciales. Massa aparece como uno de los dirigentes participantes del encuentro.",
+  "relevante": 1,
+  "recolectado": "2026-10-23T21:12:01+00:00"
  },
  {
   "id": "245feb3b03303104",
