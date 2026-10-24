@@ -91,6 +91,21 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "Flipr.news",
+  "autor": "Flipr.news",
+  "tipo": "nota",
+  "titulo": "Kicillof, Massa y Máximo Kirchner se reunieron: qué acordaron sobre las PASO y el Presupuesto",
+  "texto": "",
+  "url": "https://flipr.com.ar/nacionales/politica/iprofesional/kicillof-massa-y-maximo-kirchner-se-reunieron-que-acordaron-sobre-las-paso-y-el-presupuesto/",
+  "publicado": "2026-10-23T23:20:44+00:00",
+  "id": "ff0638b71390a971",
+  "titulo_norm": "kicillof massa y máximo kirchner se reunieron qué acordaron sobre las paso y el presupuesto",
+  "resumen": "Kicillof, Sergio Massa y Máximo Kirchner se reunieron y acordaron posiciones sobre las PASO y el Presupuesto. La nota informa el encuentro como noticia de la coalición peronista, sin tono crítico.",
+  "relevante": 1,
+  "recolectado": "2026-10-24T05:10:06+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Agencia NOVA",
   "autor": "Agencia NOVA",
   "tipo": "nota",
@@ -1138,6 +1153,21 @@
   "resumen": "Sergio Massa, excandidato presidencial, fue recibido en la sede del espacio sindical 62 Organizaciones. Durante el encuentro analizaron la situación del país, el empleo y los desafíos del peronismo en medio de la reconfiguración del PJ.",
   "relevante": 1,
   "recolectado": "2026-10-23T22:11:26+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Agenda Salta",
+  "autor": "Agenda Salta",
+  "tipo": "nota",
+  "titulo": "Alineando la tropa: Kicillof, Máximo y Massa se unen para blindar las Paso",
+  "texto": "Los jefes de los bloques legislativos convocaron a los gobernadores y a los principales referentes del peronismo para definir una estrategia común en el Congreso.",
+  "url": "https://www.agendasalta.com.ar/noticias/nacionales-3/alineando-la-tropa-kicillof-maximo-y-massa-se-unen-para-blindar-las-paso-72094",
+  "publicado": "2026-10-23T09:52:09+00:00",
+  "id": "676fb95e7234f29e",
+  "titulo_norm": "alineando la tropa kicillof máximo y massa se unen para blindar las paso",
+  "resumen": "Kicillof, Máximo Kirchner y Sergio Massa se alinean para blindar las PASO en el Congreso. Los jefes de bloque convocaron a gobernadores y referentes del peronismo para definir una estrategia común, con Massa como parte de esa unidad.",
+  "relevante": 1,
+  "recolectado": "2026-10-24T05:10:06+00:00"
  },
  {
   "id": "8f90d47e1f717da0",
