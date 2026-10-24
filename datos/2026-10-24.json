@@ -1,5 +1,20 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "Diario El Norte - San Nicolás",
+  "autor": "Diario El Norte - San Nicolás",
+  "tipo": "nota",
+  "titulo": "Massa se alinea con Lula en la recta final del balotaje",
+  "texto": "",
+  "url": "https://diarioelnorte.com.ar/massa-se-alinea-con-lula-en-la-recta-final-del-balotaje/",
+  "publicado": "2026-10-24T23:04:28+00:00",
+  "id": "3e59fdd38c4b49be",
+  "titulo_norm": "massa se alinea con lula en la recta final del balotaje",
+  "resumen": "Nota que informa que Massa se alinea con Lula en la etapa final del balotaje. Sergio Massa aparece tomando posición política pública a favor del candidato brasileño en la segunda vuelta.",
+  "relevante": 1,
+  "recolectado": "2026-10-24T23:34:00+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Agencia Noticias Argentinas",
   "autor": "Agencia Noticias Argentinas",
@@ -58,6 +73,21 @@
   "resumen": "Una encuesta de Afiches simula siete balotajes para 2027 en los que Massa, Cristina Kirchner y Kicillof vencen a Javier Milei. Un 37% de votantes todavía no se define.",
   "relevante": 1,
   "recolectado": "2026-10-24T23:03:18+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Infonoa Salta",
+  "autor": "Infonoa Salta",
+  "tipo": "nota",
+  "titulo": "Fuerza Patria Salta suma al Frente Renovador de Sergio Massa y amplía su armado político rumbo a 2027",
+  "texto": "En un movimiento estratégico que sacude el tablero político provincial y proyecta su impacto hacia 2027, Fuerza Patria Salta selló una alianza clave con el Frente Renovador de Sergio Massa",
+  "url": "https://infonoasalta.com.ar/fuerza-patria-salta-suma-al-frente-renovador-de-sergio-massa-y-amplia-su-armado-politico-rumbo-a-2027/",
+  "publicado": "2026-10-24T17:32:26+00:00",
+  "id": "e4d3b3538e57a92d",
+  "titulo_norm": "fuerza patria salta suma al frente renovador de sergio massa y amplía su armado político rumbo a 2027",
+  "resumen": "Noticia sobre la alianza entre Fuerza Patria Salta y el Frente Renovador de Sergio Massa, que amplía el armado político provincial rumbo a 2027. Massa aparece como líder del espacio que se suma.",
+  "relevante": 1,
+  "recolectado": "2026-10-24T23:34:00+00:00"
  },
  {
   "plataforma": "portal",
