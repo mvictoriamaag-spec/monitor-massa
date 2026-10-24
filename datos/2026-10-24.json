@@ -1,6 +1,21 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "Noticias Urbanas",
+  "autor": "Noticias Urbanas",
+  "tipo": "nota",
+  "titulo": "PJ: Axel se perfila, Massa espera y Cristina sólo observa el panorama",
+  "texto": "",
+  "url": "https://www.noticiasurbanas.com.ar/pj-axel-se-perfila-massa-espera-y-cristina-solo-observa-el-panorama",
+  "publicado": "2026-10-24T21:36:21+00:00",
+  "id": "dfa7123c33680bfd",
+  "titulo_norm": "pj axel se perfila massa espera y cristina sólo observa el panorama",
+  "resumen": "Análisis sobre la interna del PJ en el que Axel se perfila como figura de peso, mientras Sergio Massa aguarda su momento y Cristina observa sin intervenir. Massa aparece en un rol de espera, no de protagonista.",
+  "relevante": 1,
+  "recolectado": "2026-10-24T22:07:39+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Infonoroeste",
   "autor": "Infonoroeste",
   "tipo": "nota",
