@@ -106,6 +106,21 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "Hora Digital",
+  "autor": "Hora Digital",
+  "tipo": "nota",
+  "titulo": "El PJ intenta ordenar la interna: se reúne Massa, Kirchner, Kicillof y otros gobernadores",
+  "texto": "",
+  "url": "https://horadigital.com.ar/el-pj-intenta-ordenar-la-interna-se-reune-massa-kirchner-kicillof-y-otros-gobernadores/",
+  "publicado": "2026-10-23T23:15:21+00:00",
+  "id": "484cbc3bd05928dd",
+  "titulo_norm": "el pj intenta ordenar la interna se reúne massa kirchner kicillof y otros gobernadores",
+  "resumen": "Noticia sobre el intento del PJ por ordenar su interna con una reunión entre Massa, Kirchner, Kicillof y otros gobernadores. Massa aparece como uno de los dirigentes convocados a la cumbre justicialista.",
+  "relevante": 1,
+  "recolectado": "2026-10-24T05:39:17+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Agencia NOVA",
   "autor": "Agencia NOVA",
   "tipo": "nota",
