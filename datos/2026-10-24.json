@@ -1,6 +1,21 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "infocronos.com.ar",
+  "autor": "infocronos.com.ar",
+  "tipo": "nota",
+  "titulo": "Vázquez ubicó a Massa como “el gran artífice y arquitecto de la unidad del peronismo”",
+  "texto": "El diputado bonaerense se refirió a las próximas elecciones del 2027, manifestó su deseo de que Sergio Massa sea el candidato del peronismo, y habl",
+  "url": "https://infocronos.com.ar/nota/58502/vazquez-ubico-a-massa-como-el-gran-artifice-y-arquitecto-de-la-unidad-del-peronismo/",
+  "publicado": "2026-10-24T13:48:51+00:00",
+  "id": "5085de6faf052a3e",
+  "titulo_norm": "vázquez ubicó a massa como el gran artífice y arquitecto de la unidad del peronismo",
+  "resumen": "El diputado bonaerense Vázquez elogia a Sergio Massa como “el gran artífice y arquitecto de la unidad del peronismo” y expresa su deseo de que sea el candidato del peronismo en las elecciones de 2027.",
+  "relevante": 1,
+  "recolectado": "2026-10-24T14:05:28+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Agencia NOVA",
   "autor": "Agencia NOVA",
   "tipo": "nota",
