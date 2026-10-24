@@ -1,6 +1,21 @@
 [
  {
   "plataforma": "nacional",
+  "fuente": "TN",
+  "autor": "TN",
+  "tipo": "nota",
+  "titulo": "Milei enfrenta el dilema de Massa en 2023: cómo ser gobierno y candidato cuando la economía no responde",
+  "texto": "El riesgo país no para de subir, marcando que los mercados no confían en el plan económico y dudan de las chances electorales del libertario. La “malvinización” no alcanzó para sacar a la economía de la agenda pública, y el “estilo Milei” no triunfa en las encuestas.",
+  "url": "https://tn.com.ar/opinion/2026/10/24/milei-enfrenta-el-dilema-de-massa-en-2023-como-ser-gobierno-y-candidato-cuando-la-economia-no-responde/",
+  "publicado": "2026-10-24T08:23:00+00:00",
+  "id": "91fa961e63d09c2d",
+  "titulo_norm": "milei enfrenta el dilema de massa en 2023 cómo ser gobierno y candidato cuando la economía no responde",
+  "resumen": "Nota de TN sobre el dilema que enfrenta Milei, como antes Sergio Massa en 2023, para ser gobierno y candidato. Señala que el riesgo país sube, los mercados dudan del plan económico y el \"estilo Milei\" no triunfa en las encuestas.",
+  "relevante": 1,
+  "recolectado": "2026-10-24T08:57:18+00:00"
+ },
+ {
+  "plataforma": "nacional",
   "fuente": "La Nación",
   "autor": "La Nación",
   "tipo": "nota",
