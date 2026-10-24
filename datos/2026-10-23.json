@@ -151,6 +151,21 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "La Letra Chica",
+  "autor": "La Letra Chica",
+  "tipo": "nota",
+  "titulo": "“El rol personal es secundario”: Massa mete presión en la interna del PJ",
+  "texto": "Durante un encuentro con rectores universitarios, el líder del Frente Renovador pidió priorizar la competitividad electoral y la unidad de cara a la",
+  "url": "https://laletrachica.com.ar/nota/26767/el-rol-personal-es-secundario-massa-mete-presion-en-la-interna-del-pj/",
+  "publicado": "2026-10-23T20:33:16+00:00",
+  "id": "481f387f8ca86614",
+  "titulo_norm": "el rol personal es secundario massa mete presión en la interna del pj",
+  "resumen": "Sergio Massa, líder del Frente Renovador, pide en un encuentro con rectores universitarios priorizar la competitividad electoral y la unidad. Su postura busca presionar en la interna del PJ y deja secundario el rol personal.",
+  "relevante": 1,
+  "recolectado": "2026-10-24T04:41:25+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Enterate Noticias",
   "autor": "Enterate Noticias",
   "tipo": "nota",
@@ -523,6 +538,21 @@
   "resumen": "González Díaz afirma que Axel Kicillof, Massa y Máximo Kirchner abrieron la posibilidad de conformar un gran frente nacional. Es una declaración de un dirigente que valora ese acercamiento.",
   "relevante": 1,
   "titulo_norm": "gonzález díaz axel massa y máximo abrieron la posibilidad de conformar un gran frente nacional"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "La 4x4 radio",
+  "autor": "La 4x4 radio",
+  "tipo": "nota",
+  "titulo": "El peronismo vuelve a ordenarse tras la cumbre de Kicillof, Massa, Máximo, Quintela y otros gobernadores",
+  "texto": "",
+  "url": "https://la4x4radio.com.ar/el-peronismo-vuelve-a-ordenarse-tras-la-cumbre-de-kicillof-massa-maximo-quintela-y-otros-gobernadores/",
+  "publicado": "2026-10-23T13:18:30+00:00",
+  "id": "331e93a825899b23",
+  "titulo_norm": "el peronismo vuelve a ordenarse tras la cumbre de kicillof massa máximo quintela y otros gobernadores",
+  "resumen": "El peronismo se reordena tras una cumbre con Kicillof, Massa, Máximo Kirchner, Quintela y otros gobernadores. Massa aparece como participante de un encuentro político de la coalición, sin más detalles sobre su rol.",
+  "relevante": 1,
+  "recolectado": "2026-10-24T04:41:25+00:00"
  },
  {
   "id": "52507f266a2348f9",
