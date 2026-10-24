@@ -1,5 +1,20 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "La Posta del Noroeste",
+  "autor": "La Posta del Noroeste",
+  "tipo": "nota",
+  "titulo": "Kicillof, Massa y Máximo Kirchner buscan avanzar en un frente amplio contra Milei",
+  "texto": "POLÍTICA. Los principales referentes del peronismo se reunieron en la Casa de la Provincia de La Pampa para debatir una",
+  "url": "https://lapostadelnoroeste.com.ar/kicillof-massa-y-maximo-kirchner-buscan-avanzar-en-un-frente-amplio-contra-milei/",
+  "publicado": "2026-10-23T23:39:23+00:00",
+  "id": "f1f0ec2c83dfb605",
+  "titulo_norm": "kicillof massa y máximo kirchner buscan avanzar en un frente amplio contra milei",
+  "resumen": "Los principales referentes del peronismo, entre ellos Kicillof, Massa y Máximo Kirchner, se reunieron en La Pampa para debatir la conformación de un frente amplio contra Milei. Massa aparece como uno de los dirigentes convocados a la iniciativa opositora.",
+  "relevante": 1,
+  "recolectado": "2026-10-24T00:03:17+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Infobae",
   "autor": "Infobae",
@@ -703,6 +718,21 @@
   "resumen": "El Observador informa que Kicillof, Massa, Máximo Kirchner y gobernadores se reunieron para bloquear cualquier suspensión de las PASO y consensuar una postura sobre el Presupuesto 2027 frente a Milei.",
   "relevante": 1,
   "titulo_norm": "axel kicillof máximo kirchner y sergio massa se reunieron para tratar las paso y el presupuesto 2027"
+ },
+ {
+  "plataforma": "interior",
+  "fuente": "InfoBAN",
+  "autor": "InfoBAN",
+  "tipo": "nota",
+  "titulo": "Kicillof, Máximo Kirchner, Massa y gobernadores se reunieron para ordenar la interna del PJ",
+  "texto": "Política | Sin preanuncios, el gobernador bonaerense Axel Kicillof, el líder de La Cámpora Máximo Kirchner, y el del Frente Renovador Sergio Massa, se",
+  "url": "https://www.infoban.com.ar/23/10/2026/kicillof-maximo-kirchner-massa-y-gobernadores-se-reunieron-para-ordenar-la-interna-del-pj/",
+  "publicado": "2026-10-23T12:23:11+00:00",
+  "id": "55dd3ea70c44c662",
+  "titulo_norm": "kicillof máximo kirchner massa y gobernadores se reunieron para ordenar la interna del pj",
+  "resumen": "Kicillof, Máximo Kirchner, Sergio Massa y gobernadores se reunieron sin preanuncios para ordenar la interna del PJ. Massa, líder del Frente Renovador, participa como uno de los dirigentes del encuentro.",
+  "relevante": 1,
+  "recolectado": "2026-10-24T00:03:17+00:00"
  },
  {
   "id": "9675417765c77f85",
