@@ -1,5 +1,20 @@
 [
  {
+  "plataforma": "nacional",
+  "fuente": "Agencia Noticias Argentinas",
+  "autor": "Agencia Noticias Argentinas",
+  "tipo": "nota",
+  "titulo": "Massa ratificó su apoyo a Lula antes del balotaje en Brasil",
+  "texto": "El dirigente argentino volvió a expresar su respaldo a Luiz Inácio Lula da Silva en la previa de la segunda vuelta electoral brasileña.",
+  "url": "https://noticiasargentinas.com/politica/massa-ratifico-su-apoyo-a-lula-antes-del-balotaje-en-brasil_a6add2ff08d54d665108021e0",
+  "publicado": "2026-10-24T22:25:31+00:00",
+  "id": "bb9fb62845ba66da",
+  "titulo_norm": "massa ratificó su apoyo a lula antes del balotaje en brasil",
+  "resumen": "Sergio Massa volvió a expresar su respaldo a Luiz Inácio Lula da Silva antes de la segunda vuelta presidencial en Brasil. Es una declaración de apoyo político a un candidato extranjero.",
+  "relevante": 1,
+  "recolectado": "2026-10-24T23:03:18+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "Noticias Urbanas",
   "autor": "Noticias Urbanas",
@@ -28,6 +43,21 @@
   "resumen": "Massa, exministro de Economía, habla de construir una alternativa política y resta importancia a su rol personal. Se difunde un fragmento de su diálogo con rectores universitarios tras la última cumbre del peronismo.",
   "relevante": 1,
   "recolectado": "2026-10-24T21:45:04+00:00"
+ },
+ {
+  "plataforma": "nacional",
+  "fuente": "El Destape",
+  "autor": "El Destape",
+  "tipo": "nota",
+  "titulo": "Elecciones Argentina 2027: Cristina Kirchner, Sergio Massa y Axel Kicillof le ganan a Javier Milei y un 37% de votantes tiene la llave de la elección",
+  "texto": "Una encuesta de Afiches midió a Milei en siete ballotages para 2027: pierde ante Cristina, Massa y Kicillof, y un 37% de votantes todavía no se define.",
+  "url": "https://www.eldestapeweb.com/politica/elecciones-argentina-2027-cristina-kirchner-sergio-massa-axel-kicillof-le-ganan-javier-milei-37-votantes-tiene-llave-eleccion-2026102418238",
+  "publicado": "2026-10-24T21:05:47+00:00",
+  "id": "1fdf6cffe8157b75",
+  "titulo_norm": "elecciones argentina 2027 cristina kirchner sergio massa y axel kicillof le ganan a javier milei y un 37 de votantes tie",
+  "resumen": "Una encuesta de Afiches simula siete balotajes para 2027 en los que Massa, Cristina Kirchner y Kicillof vencen a Javier Milei. Un 37% de votantes todavía no se define.",
+  "relevante": 1,
+  "recolectado": "2026-10-24T23:03:18+00:00"
  },
  {
   "plataforma": "portal",
