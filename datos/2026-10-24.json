@@ -1,6 +1,21 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "La Noticia 1",
+  "autor": "La Noticia 1",
+  "tipo": "nota",
+  "titulo": "Dabove renunció a Tigre y se despidió con un saludo a Massa: \"Vine acá más que nada para agradecerle a Sergio\"",
+  "texto": "El entrenador dejó su cargo tras la derrota ante Atlético Tucumán, en Victoria. El Matador acumula siete partidos sin ganar y quedó virtualmente afuera de los playoffs del Clausura. No dirigirá los últimos dos encuentros del torneo.",
+  "url": "https://www.lanoticia1.com/noticia/dabove-renuncio-a-tigre-y-se-despidio-con-un-saludo-a-massa-vine-aca-mas-que-nada-para-agradecerle-a-sergio",
+  "publicado": "2026-10-24T14:20:43+00:00",
+  "id": "5c1a61d1d1bd59dd",
+  "titulo_norm": "dabove renunció a tigre y se despidió con un saludo a massa vine acá más que nada para agradecerle a sergio",
+  "resumen": "Dabove renunció como entrenador de Tigre tras la derrota ante Atlético Tucumán y se despidió agradeciendo a Massa, a quien dedicó un saludo. El equipo acumula siete partidos sin ganar.",
+  "relevante": 1,
+  "recolectado": "2026-10-24T14:38:03+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "infocronos.com.ar",
   "autor": "infocronos.com.ar",
   "tipo": "nota",
@@ -13,6 +28,21 @@
   "resumen": "El diputado bonaerense Vázquez elogia a Sergio Massa como “el gran artífice y arquitecto de la unidad del peronismo” y expresa su deseo de que sea el candidato del peronismo en las elecciones de 2027.",
   "relevante": 1,
   "recolectado": "2026-10-24T14:05:28+00:00"
+ },
+ {
+  "plataforma": "nacional",
+  "fuente": "Letra P",
+  "autor": "Letra P",
+  "tipo": "nota",
+  "titulo": "Urtubey se mueve como candidato, suma a Massa a su armado y desafía a Sáenz",
+  "texto": "Su espacio, Fuerza Patria, selló un acuerdo con el partido que conduce el ¿examigo? del gobernador. El juego en línea con la cúpula nacional del PJ.",
+  "url": "https://www.letrap.com.ar/politica/urtubey-se-mueve-como-candidato-suma-massa-su-armado-y-desafia-saenz-n5427615/amp",
+  "publicado": "2026-10-24T12:35:00+00:00",
+  "id": "3f96a07b269cdc52",
+  "titulo_norm": "urtubey se mueve como candidato suma a massa a su armado y desafía a sáenz",
+  "resumen": "Urtubey se perfila como candidato y suma a Massa a su armado. Su espacio, Fuerza Patria, selló un acuerdo con el partido que conduce el 'examigo' del gobernador Sáenz, en línea con la cúpula nacional del PJ.",
+  "relevante": 1,
+  "recolectado": "2026-10-24T14:38:03+00:00"
  },
  {
   "plataforma": "portal",
