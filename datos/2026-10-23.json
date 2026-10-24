@@ -1,6 +1,36 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "Diario Anticipos",
+  "autor": "Diario Anticipos",
+  "tipo": "nota",
+  "titulo": "Cumbre del peronismo: Kicillof, Massa, Máximo Kirchner y gobernadores con una agenda común (Informe Especial)",
+  "texto": "La principal dirigencia del peronismo se reunió el jueves 22 de octubre en la Casa de La Pampa, en la Ciudad de Buenos Aires, para ordenar una agenda",
+  "url": "https://diarioanticipos.com/2026/10/23/cumbre-del-peronismo-kicillof-massa-maximo-kirchner-y-gobernadores-con-una-agenda-comun-informe-especial/",
+  "publicado": "2026-10-24T00:45:47+00:00",
+  "id": "06f915c33eadb1c9",
+  "titulo_norm": "cumbre del peronismo kicillof massa máximo kirchner y gobernadores con una agenda común informe especial",
+  "resumen": "Informe especial sobre la cumbre del peronismo del 22 de octubre en la Casa de La Pampa, con Kicillof, Massa, Máximo Kirchner y gobernadores, para ordenar una agenda común. Massa aparece como uno de los participantes del encuentro.",
+  "relevante": 1,
+  "recolectado": "2026-10-24T01:34:02+00:00"
+ },
+ {
+  "plataforma": "nacional",
+  "fuente": "TN",
+  "autor": "TN",
+  "tipo": "nota",
+  "titulo": "El miedo a otros cuatro años sin cargos y sin caja volvió a juntar a Massa, Kicillof y Máximo Kirchner",
+  "texto": "El excandidato a presidente, el gobernador de Buenos Aires y el diputado participaron de un encuentro del PJ este jueves. Se odian, se traicionaron y se llamaron de todo. Pero necesitan volver al poder para mantener sus curros.",
+  "url": "https://tn.com.ar/opinion/2026/10/23/el-miedo-a-otros-cuatro-anos-sin-cargos-y-sin-caja-volvio-a-juntar-a-massa-kicillof-y-maximo-kirchner/",
+  "publicado": "2026-10-23T23:43:07+00:00",
+  "id": "40f03ed2ac45e812",
+  "titulo_norm": "el miedo a otros cuatro años sin cargos y sin caja volvió a juntar a massa kicillof y máximo kirchner",
+  "resumen": "Análisis de TN sobre el reencuentro del PJ con Massa, Kicillof y Máximo Kirchner, motivado por el temor a quedar sin cargos ni recursos. La nota presenta a los dirigentes como enfrentados pero unidos por la necesidad de recuperar el poder; tono crítico.",
+  "relevante": 1,
+  "recolectado": "2026-10-24T01:34:02+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "La Posta del Noroeste",
   "autor": "La Posta del Noroeste",
   "tipo": "nota",
