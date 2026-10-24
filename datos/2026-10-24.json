@@ -1,6 +1,36 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "el1.com.ar",
+  "autor": "el1.com.ar",
+  "tipo": "nota",
+  "titulo": "En busca de la unidad y un programa de gobierno común, las 62 Organizaciones Peronistas se reunió con Sergio Massa",
+  "texto": "",
+  "url": "https://el1.com.ar/politica/nacional-politica/en-busca-de-la-unidad-y-un-programa-de-gobierno-comun-las-62-organizaciones-peronistas-se-reunio-con-sergio-massa/",
+  "publicado": "2026-10-24T16:11:31+00:00",
+  "id": "9351e2cb08f34be3",
+  "titulo_norm": "en busca de la unidad y un programa de gobierno común las 62 organizaciones peronistas se reunió con sergio massa",
+  "resumen": "Las 62 Organizaciones Peronistas se reunieron con Sergio Massa para avanzar hacia la unidad del peronismo y elaborar un programa de gobierno común. Massa aparece como interlocutor político central del encuentro.",
+  "relevante": 1,
+  "recolectado": "2026-10-24T16:38:54+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Informe Norte",
+  "autor": "Informe Norte",
+  "tipo": "nota",
+  "titulo": "Dabove renunció a Tigre y se despidió con un saludo a Massa",
+  "texto": "Un clima enrarecido y golpeado por los resultados terminó por sellar la salida de Diego Dabove del banco de Tigre. Luego de caer por 1 a 0 como local frente a",
+  "url": "https://informenorte.com.ar/dabove-renuncio-a-tigre-y-se-despidio-con-un-saludo-a-massa/",
+  "publicado": "2026-10-24T16:11:06+00:00",
+  "id": "c14e3b15e6a2ed75",
+  "titulo_norm": "dabove renunció a tigre y se despidió con un saludo a massa",
+  "resumen": "Diego Dabove renunció como técnico de Tigre tras una derrota 1 a 0 como local, en un clima enrarecido. Al despedirse saludó a Massa, en una nota de la ciudad donde el dirigente tiene peso político.",
+  "relevante": 1,
+  "recolectado": "2026-10-24T16:38:54+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "La Razon de Chivilcoy",
   "autor": "La Razon de Chivilcoy",
   "tipo": "nota",
@@ -43,6 +73,21 @@
   "resumen": "El diputado bonaerense Vázquez elogia a Sergio Massa como “el gran artífice y arquitecto de la unidad del peronismo” y expresa su deseo de que sea el candidato del peronismo en las elecciones de 2027.",
   "relevante": 1,
   "recolectado": "2026-10-24T14:05:28+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "2Urbanos",
+  "autor": "2Urbanos",
+  "tipo": "nota",
+  "titulo": "Encuesta 2027: Santilli y Massa encabezan la carrera bonaerense y Katopodis se mete en el podio",
+  "texto": "Un relevamiento de Zuban Córdoba midió el potencial electoral de los dirigentes que aparecen en la discusión por la Gobernación. El exintendente d",
+  "url": "https://2urbanos.com/nota/50430/encuesta-2027-santilli-y-massa-encabezan-la-carrera-bonaerense-y-katopodis-se-mete-en-el-podio/",
+  "publicado": "2026-10-24T12:46:21+00:00",
+  "id": "5262fe8e65691f62",
+  "titulo_norm": "encuesta 2027 santilli y massa encabezan la carrera bonaerense y katopodis se mete en el podio",
+  "resumen": "Una encuesta de Zuban Córdoba mide el potencial electoral de dirigentes para la Gobernación bonaerense 2027. Santilli y Massa encabezan la carrera, y Katopodis aparece en el tercer lugar.",
+  "relevante": 1,
+  "recolectado": "2026-10-24T16:38:54+00:00"
  },
  {
   "plataforma": "nacional",
