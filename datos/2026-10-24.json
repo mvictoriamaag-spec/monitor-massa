@@ -1,6 +1,36 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "Agencia NOVA",
+  "autor": "Agencia NOVA",
+  "tipo": "nota",
+  "titulo": "El ajedrez de Massa: del silencio táctico a la ofensiva en todos los frentes para capitalizar el \"día después\" de Milei",
+  "texto": "El ex candidato presidencial terminó su hibernación política. Con una estrategia de pinzas que abarca a la academia, el sindicalismo ortodoxo y a los heridos del radicalismo, Sergio Massa empezó a tejer el traje de un frente amplio opositor.",
+  "url": "https://www.agencianova.com/nota.asp?n=2026_10_24&id=174355&id_tiponota=51",
+  "publicado": "2026-10-24T12:03:16+00:00",
+  "id": "b1f6046f10d76560",
+  "titulo_norm": "el ajedrez de massa del silencio táctico a la ofensiva en todos los frentes para capitalizar el día después de milei",
+  "resumen": "Massa sale de un período de bajo perfil y pasa a la ofensiva en varios frentes (academia, sindicalismo ortodoxo y dirigentes radicales desencantados) para armar un frente amplio opositor de cara al 'día después' de Milei. La nota lo describe como estrategia propia.",
+  "relevante": 1,
+  "recolectado": "2026-10-24T12:18:26+00:00"
+ },
+ {
+  "plataforma": "interior",
+  "fuente": "MDZ Online",
+  "autor": "MDZ Online",
+  "tipo": "nota",
+  "titulo": "Patricia Bullrich está viendo algo que nadie vio y Massa piensa en una \"tapada\"",
+  "texto": "",
+  "url": "https://www.mdzol.com/politica/2026/10/24/patricia-bullrich-esta-viendo-algo-que-nadie-vio-y-massa-piensa-en-una-tapada-1990388.html",
+  "publicado": "2026-10-24T11:52:06+00:00",
+  "id": "fc1df0266780e44b",
+  "titulo_norm": "patricia bullrich está viendo algo que nadie vio y massa piensa en una tapada",
+  "resumen": "Según el título, Massa evalúa la posibilidad de una 'tapada', es decir, una candidatura sorpresa, mientras Patricia Bullrich tendría una lectura del escenario que nadie más habría notado.",
+  "relevante": 1,
+  "recolectado": "2026-10-24T12:18:26+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "https://www.lafolkargentina.com.ar/",
   "autor": "https://www.lafolkargentina.com.ar/",
   "tipo": "nota",
