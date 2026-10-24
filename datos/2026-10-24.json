@@ -1,6 +1,21 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "La Razon de Chivilcoy",
+  "autor": "La Razon de Chivilcoy",
+  "tipo": "nota",
+  "titulo": "Cuanto más se habla de Kicillof, más cerca está Massa",
+  "texto": "",
+  "url": "https://www.larazondechivilcoy.com.ar/opinion/2026/10/24/cuanto-mas-se-habla-de-kicillof-mas-cerca-esta-massa-184233.html",
+  "publicado": "2026-10-24T15:51:25+00:00",
+  "id": "d1b7f050366dd096",
+  "titulo_norm": "cuanto más se habla de kicillof más cerca está massa",
+  "resumen": "Nota de La Razón de Chivilcoy que plantea que, cuanto más se habla de Axel Kicillof, más cerca de la disputa política se ubica Sergio Massa. Massa aparece como figura del escenario político opositor.",
+  "relevante": 1,
+  "recolectado": "2026-10-24T16:06:57+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "La Noticia 1",
   "autor": "La Noticia 1",
   "tipo": "nota",
