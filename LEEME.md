@@ -35,5 +35,9 @@ página sigue funcionando con resúmenes simples (título y bajada).
 ## Cómo funciona
 - `.github/workflows/actualizar.yml`: cada 15 minutos ejecuta `actualizar.py`, guarda las
   menciones nuevas en `datos/` (un archivo por día) y publica la carpeta `sitio/`.
-- Para actualizar a mano: en GitHub, pestaña **Actions** > *Actualizar menciones* > **Run workflow**.
+- Para actualizar a mano: botón **Actualizar ahora** en la página. La primera vez en cada
+  navegador pide un token de GitHub (fine-grained, sólo este repositorio, permiso *Actions: Read
+  and write*), que queda guardado en ese navegador. Dispara el mismo proceso que corre cada 15
+  minutos, muestra el avance y recarga la página cuando termina (unos 3 minutos).
+  También se puede desde GitHub: pestaña **Actions** > *Actualizar menciones* > **Run workflow**.
 - Para probar en esta PC: `.venv\Scripts\python.exe actualizar.py` y abrir `sitio\index.html`.

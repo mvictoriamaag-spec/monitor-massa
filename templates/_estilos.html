@@ -35,6 +35,15 @@
                    border: 1px solid var(--borde); background: var(--papel); color: var(--tinta);
                    text-decoration: none; display: inline-block; }
   button.primario, .boton.primario { background: var(--acento); border-color: var(--acento); color: #fff; }
+  button:disabled { opacity: .55; cursor: default; }
+  .panel-token { background: var(--papel); border: 1px solid var(--borde); border-radius: 12px;
+                 padding: 12px 16px; margin-bottom: 16px; font-size: 14px; }
+  .panel-token p { margin: 0 0 10px; }
+  .panel-token a { color: var(--acento); }
+  .panel-token .fila { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 10px; }
+  .panel-token input { flex: 1 1 220px; min-width: 0; font: inherit; font-size: 13px; padding: 6px 10px;
+                       border: 1px solid var(--borde); border-radius: 8px; background: var(--fondo); color: var(--tinta); }
+  .panel-token .error { color: var(--aviso); font-weight: 600; }
   .filtros { display: flex; flex-wrap: wrap; gap: 6px; margin: 8px 0 18px; }
   h2.hora { font-size: 14px; text-transform: uppercase; letter-spacing: .06em; color: var(--suave);
             margin: 28px 0 10px; padding-bottom: 6px; border-bottom: 1px solid var(--borde);

@@ -23,8 +23,23 @@
 <main class="contenedor">
   <div class="estado">
     <span>Actualizado: {{ generado.strftime('%d/%m %H:%M') }} h</span>
-    <button type="button" id="compartir" style="margin-left:auto">Compartir esta página</button>
+    <span id="progreso" aria-live="polite"></span>
+    <button type="button" id="actualizar" class="primario" style="margin-left:auto">Actualizar ahora</button>
+    <button type="button" id="compartir">Compartir esta página</button>
   </div>
+  <form class="panel-token" id="panel-token" hidden>
+    <p id="token-error" class="error" hidden></p>
+    <p>Para actualizar desde acá, pegá una sola vez un token de GitHub. Queda guardado sólo en este
+      navegador. Crealo en <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">GitHub</a>:
+      en <em>Repository access</em> elegí sólo <strong>{{ repo.split('/')[-1] }}</strong>, y en
+      <em>Permissions › Actions</em> poné <strong>Read and write</strong>.</p>
+    <div class="fila">
+      <input type="password" id="token" placeholder="github_pat_…" autocomplete="off" required>
+      <button type="submit" class="primario">Guardar y actualizar</button>
+    </div>
+    <p class="sub">O actualizá desde
+      <a href="https://github.com/{{ repo }}/actions/workflows/actualizar.yml" target="_blank" rel="noopener">GitHub › Actions › Run workflow</a>.</p>
+  </form>
   {% if avisos %}
   <details class="errores"><summary>{{ avisos|length }} medio(s) no respondieron en la última búsqueda</summary>
     <ul>{% for e in avisos %}<li>{{ e }}</li>{% endfor %}</ul>
@@ -55,6 +70,114 @@
     ev.target.textContent = "¡Link copiado!";
     setTimeout(() => (ev.target.textContent = "Compartir esta página"), 1500);
   });
+
+  // Actualizar a mano: dispara el mismo workflow de GitHub Actions que corre cada 15 minutos.
+  // El token se guarda sólo en este navegador; la página publicada no tiene ninguno.
+  const REPO = "{{ repo }}", WORKFLOW = "actualizar.yml";
+  const guardado = {
+    leer(almacen, clave) { try { return window[almacen].getItem(clave); } catch (_) { return null; } },
+    escribir(almacen, clave, valor) {
+      try { valor == null ? window[almacen].removeItem(clave) : window[almacen].setItem(clave, valor); } catch (_) {}
+    },
+  };
+  let tokenSesion = null;  // por si el navegador no deja guardar
+  const token = () => guardado.leer("localStorage", "github_token") || tokenSesion;
+  const github = (ruta, opciones = {}) => fetch(`https://api.github.com/repos/${REPO}${ruta}`, {
+    ...opciones, cache: "no-store",
+    headers: { Accept: "application/vnd.github+json", Authorization: `Bearer ${token()}` },
+  });
+  const botonActualizar = document.getElementById("actualizar");
+  const progreso = document.getElementById("progreso");
+  const panel = document.getElementById("panel-token");
+
+  function pedirToken(error) {
+    const p = document.getElementById("token-error");
+    p.textContent = error || ""; p.hidden = !error;
+    panel.hidden = false;
+    document.getElementById("token").focus();
+  }
+
+  async function actualizar() {
+    if (!token()) return pedirToken();
+    botonActualizar.disabled = true;
+    progreso.textContent = "Pidiendo la actualización…";
+    let r;
+    try {
+      r = await github(`/actions/workflows/${WORKFLOW}/dispatches`, {
+        method: "POST", body: JSON.stringify({ ref: "main" }),
+      });
+    } catch (_) {
+      progreso.textContent = "No se pudo conectar con GitHub. Probá de nuevo.";
+      botonActualizar.disabled = false;
+      return;
+    }
+    if (r.status === 401 || r.status === 403 || r.status === 404) {
+      guardado.escribir("localStorage", "github_token", null); tokenSesion = null;
+      progreso.textContent = ""; botonActualizar.disabled = false;
+      return pedirToken("GitHub no aceptó el token (puede estar vencido o sin permiso de Actions). Pegá uno nuevo.");
+    }
+    if (!r.ok) {
+      progreso.textContent = "GitHub no aceptó el pedido. Probá de nuevo en un rato.";
+      botonActualizar.disabled = false;
+      return;
+    }
+    // Un minuto de margen por si el reloj de esta compu no coincide con el de GitHub.
+    guardado.escribir("sessionStorage", "actualizando_desde", String(Date.now() - 60 * 1000));
+    seguir();
+  }
+
+  // Sigue la actualización hasta que termina y recarga la página. Si la página se recarga sola
+  // en el medio (Última hora se refresca cada 5 minutos), retoma desde donde estaba.
+  async function seguir() {
+    const desde = Number(guardado.leer("sessionStorage", "actualizando_desde"));
+    if (!desde || !token()) return;
+    if (Date.now() - desde > 25 * 60 * 1000) {
+      guardado.escribir("sessionStorage", "actualizando_desde", null);
+      return;
+    }
+    botonActualizar.disabled = true;
+    let corrida = null;
+    try {
+      const r = await github(`/actions/workflows/${WORKFLOW}/runs?event=workflow_dispatch&per_page=5`);
+      if (r.ok) corrida = (await r.json()).workflow_runs.find((c) => Date.parse(c.created_at) >= desde);
+    } catch (_) {}
+    if (corrida && corrida.status === "completed") {
+      guardado.escribir("sessionStorage", "actualizando_desde", null);
+      if (corrida.conclusion === "success") {
+        progreso.textContent = "¡Listo! Cargando las menciones nuevas…";
+        const url = new URL(location.href); url.searchParams.set("v", Date.now());
+        location.replace(url);
+      } else {
+        progreso.textContent = "La actualización falló. Probá de nuevo en un rato.";
+        botonActualizar.disabled = false;
+      }
+      return;
+    }
+    progreso.textContent = !corrida ? "Pedido enviado, esperando a GitHub…"
+      : corrida.status === "in_progress" ? "Buscando menciones nuevas (tarda unos 3 minutos)…"
+      : "En espera: termina otra actualización y sigue ésta…";
+    setTimeout(seguir, 10 * 1000);
+  }
+
+  // Abrir la página con #token=... guarda el token en este navegador y lo saca de la dirección.
+  const enLink = new URLSearchParams(location.hash.slice(1)).get("token");
+  if (enLink) {
+    tokenSesion = enLink;
+    guardado.escribir("localStorage", "github_token", enLink);
+    history.replaceState(null, "", location.pathname + location.search);
+    progreso.textContent = "Listo: este navegador ya puede actualizar con el botón.";
+  }
+
+  botonActualizar.addEventListener("click", actualizar);
+  panel.addEventListener("submit", (ev) => {
+    ev.preventDefault();
+    tokenSesion = document.getElementById("token").value.trim();
+    guardado.escribir("localStorage", "github_token", tokenSesion);
+    document.getElementById("token").value = "";
+    panel.hidden = true;
+    actualizar();
+  });
+  seguir();
 
   // Filtros por tipo de medio y, en "Última hora", sólo lo de los últimos 60 minutos
   let filtro = "";

@@ -9,7 +9,7 @@ from datetime import datetime
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 import db
-from config import BASE, SITIO_DIR, TZ
+from config import BASE, REPO, SITIO_DIR, TZ
 
 jinja = Environment(loader=FileSystemLoader(BASE / "templates"), autoescape=select_autoescape(["html"]))
 
@@ -42,7 +42,7 @@ def _escribir(ruta_relativa, plantilla, **contexto):
 def generar(avisos=()):
     ahora = datetime.now(TZ)
     hoy = ahora.date()
-    comun = {"generado": ahora, "hoy": hoy, "avisos": list(avisos)}
+    comun = {"generado": ahora, "hoy": hoy, "avisos": list(avisos), "repo": REPO}
 
     # Última hora: se incluyen 3 horas y el navegador oculta lo que tenga más de 60 minutos,
     # así la página sigue siendo correcta aunque se mire un rato después de generada.
