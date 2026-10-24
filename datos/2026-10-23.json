@@ -571,6 +571,21 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "La Letra Chica",
+  "autor": "La Letra Chica",
+  "tipo": "nota",
+  "titulo": "Sergio Massa acelera su despliegue político y se reunió con las 62 Organizaciones",
+  "texto": "Massa acumula músculo y se reunió con dirigentes gremiales para analizar la situación del empleo y la problemática del salario.",
+  "url": "https://laletrachica.com.ar/nota/26761/sergio-massa-acelera-su-despliegue-politico-y-se-reunio-con-las-62-organizaciones/",
+  "publicado": "2026-10-23T13:20:01+00:00",
+  "id": "d5025888c9cad6f6",
+  "titulo_norm": "sergio massa acelera su despliegue político y se reunió con las 62 organizaciones",
+  "resumen": "La Letra Chica informa que Sergio Massa intensifica su actividad política tras reunirse con dirigentes de las 62 Organizaciones para analizar la situación del empleo y el salario. Massa aparece como referente político que dialoga con el sector gremial.",
+  "relevante": 1,
+  "recolectado": "2026-10-24T07:59:09+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "La 4x4 radio",
   "autor": "La 4x4 radio",
   "tipo": "nota",
@@ -1183,6 +1198,21 @@
   "resumen": "Kicillof, Máximo Kirchner y Sergio Massa se alinean para blindar las PASO en el Congreso. Los jefes de bloque convocaron a gobernadores y referentes del peronismo para definir una estrategia común, con Massa como parte de esa unidad.",
   "relevante": 1,
   "recolectado": "2026-10-24T05:10:06+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Contexto Tucumán",
+  "autor": "Contexto Tucumán",
+  "tipo": "nota",
+  "titulo": "Kicillof, Massa y Máximo Kirchner se reunieron en medio de su interna",
+  "texto": "",
+  "url": "https://www.contextotucuman.com/nota/426324/kicillof-massa-y-maximo-kirchner-se-reunieron-en-medio-de-su-interna.html",
+  "publicado": "2026-10-23T09:50:00+00:00",
+  "id": "db52a7c4c2d4a58d",
+  "titulo_norm": "kicillof massa y máximo kirchner se reunieron en medio de su interna",
+  "resumen": "Kicillof, Massa y Máximo Kirchner se reunieron en medio de la interna del peronismo, según el título de Contexto Tucumán. Massa aparece como uno de los dirigentes del espacio en un encuentro de alto perfil político.",
+  "relevante": 1,
+  "recolectado": "2026-10-24T07:59:09+00:00"
  },
  {
   "id": "8f90d47e1f717da0",
