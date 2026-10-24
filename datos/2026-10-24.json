@@ -1,6 +1,21 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "Infonoroeste",
+  "autor": "Infonoroeste",
+  "tipo": "nota",
+  "titulo": "Massa habló de construir una alternativa y relativizó su rol personal",
+  "texto": "Tras la última cumbre del peronismo, se difundió otro fragmento del diálogo del exministro con rectores universitarios. “Lo importante no es el e",
+  "url": "https://infonoroeste.com.ar/nota/55443/massa-hablo-de-construir-una-alternativa-y-relativizo-su-rol-personal/",
+  "publicado": "2026-10-24T21:25:57+00:00",
+  "id": "35e9eda1c3dd07e7",
+  "titulo_norm": "massa habló de construir una alternativa y relativizó su rol personal",
+  "resumen": "Massa, exministro de Economía, habla de construir una alternativa política y resta importancia a su rol personal. Se difunde un fragmento de su diálogo con rectores universitarios tras la última cumbre del peronismo.",
+  "relevante": 1,
+  "recolectado": "2026-10-24T21:45:04+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "el1.com.ar",
   "autor": "el1.com.ar",
   "tipo": "nota",
