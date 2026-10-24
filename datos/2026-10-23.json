@@ -720,6 +720,21 @@
   "titulo_norm": "kicillof máximo y massa un documento contra milei pero sin foto"
  },
  {
+  "plataforma": "interior",
+  "fuente": "Diario Jornada",
+  "autor": "Diario Jornada",
+  "tipo": "nota",
+  "titulo": "Cumbre entre Kicillof, Máximo, Massa y gobernadores del PJ para salvar las PASO",
+  "texto": "Además del bonaerense Kicillof participaron Ricardo Quintela (La Rioja), Gildo Insfrán (Formosa), Sergio Ziliotto (La Pampa), Gustavo Melella (Tierra del Fuego) y el senador Gerardo Zamora (ex mandatario de Santiago del Estero).",
+  "url": "https://www.diariojornada.com.ar/425752/politica/cumbre_entre_kicillof_maximo_massa_y_gobernadores_del_pj_para_salvar_las_paso",
+  "publicado": "2026-10-23T12:44:00+00:00",
+  "id": "fa8c4e895baa40e6",
+  "titulo_norm": "cumbre entre kicillof máximo massa y gobernadores del pj para salvar las paso",
+  "resumen": "Cumbre de Kicillof, Máximo, Massa y gobernadores del PJ, como Quintela, Insfrán y Ziliotto, para salvar las PASO. Massa aparece como uno de los dirigentes que participan del encuentro.",
+  "relevante": 1,
+  "recolectado": "2026-10-24T10:54:10+00:00"
+ },
+ {
   "id": "80d5e3aec53478e1",
   "plataforma": "portal",
   "fuente": "La Noticia Web",
