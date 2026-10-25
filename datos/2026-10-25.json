@@ -1,6 +1,21 @@
 [
  {
   "plataforma": "interior",
+  "fuente": "Río Negro",
+  "autor": "Río Negro",
+  "tipo": "nota",
+  "titulo": "«Del lado Lula de la vida»: el apoyo de Sergio Massa por las elecciones en Brasil",
+  "texto": "Las urnas electrónicas abrieron este domingo 25 de octubre para el balotaje.",
+  "url": "https://www.rionegro.com.ar/politica/del-lado-lula-de-la-vida-el-apoyo-de-sergio-massa-por-las-elecciones-en-brasil-4771655/",
+  "publicado": "2026-10-25T13:23:10+00:00",
+  "id": "c2d66247d4dbfd3e",
+  "titulo_norm": "del lado lula de la vida el apoyo de sergio massa por las elecciones en brasil",
+  "resumen": "Sergio Massa expresa su apoyo a Lula da Silva de cara a las elecciones en Brasil, en una nota de Río Negro que señala la apertura del balotaje el domingo 25 de octubre.",
+  "relevante": 1,
+  "recolectado": "2026-10-25T13:54:18+00:00"
+ },
+ {
+  "plataforma": "interior",
   "fuente": "MDZ Online",
   "autor": "MDZ Online",
   "tipo": "nota",
