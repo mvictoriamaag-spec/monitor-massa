@@ -166,6 +166,21 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "Semanario de Junín",
+  "autor": "Semanario de Junín",
+  "tipo": "nota",
+  "titulo": "Massa se reunió con rectores por la crisis en el financiamiento a las universidades",
+  "texto": "",
+  "url": "https://semanariodejunin.com.ar/amp/75805/massa-se-reunio-con-rectores-por-la-crisis-en-el-financiamiento-a-las-universidades/",
+  "publicado": "2026-10-24T20:21:00+00:00",
+  "id": "3cb4a1c2a94b215e",
+  "titulo_norm": "massa se reunió con rectores por la crisis en el financiamiento a las universidades",
+  "resumen": "Según el título, Sergio Massa se reunió con rectores universitarios para tratar la crisis de financiamiento de las universidades. La nota aparece en el contexto de la discusión presupuestaria del sector educativo.",
+  "relevante": 1,
+  "recolectado": "2026-10-25T03:10:22+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Infonoa Salta",
   "autor": "Infonoa Salta",
   "tipo": "nota",
