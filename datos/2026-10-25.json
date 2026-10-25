@@ -1,5 +1,20 @@
 [
  {
+  "plataforma": "interior",
+  "fuente": "Diario Huarpe (San Juan)",
+  "autor": "Diario Huarpe (San Juan)",
+  "tipo": "nota",
+  "titulo": "Massa respaldó a Lula antes del balotaje en Brasil y reavivó la disputa política regional",
+  "texto": "El dirigente del Frente Renovador publicó un mensaje en redes sociales para expresar su apoyo al presidente brasileño, que este domingo 25 de octubre enfrenta a Flávio Bolsonaro en la segunda vuelta electoral.",
+  "url": "https://www.diariohuarpe.com/nota/sergio-massa-apoyo-a-lula-da-silva-antes-del-balotaje-contra-flavio-bolsonaro-en-brasil-202610251780",
+  "publicado": "2026-10-25T20:08:00+00:00",
+  "id": "a13b1e6a51519b3d",
+  "titulo_norm": "massa respaldó a lula antes del balotaje en brasil y reavivó la disputa política regional",
+  "resumen": "Sergio Massa, del Frente Renovador, publicó en redes sociales su apoyo al presidente brasileño Lula antes del balotaje del 25 de octubre contra Flávio Bolsonaro. La nota describe el gesto como un reavivamiento de la disputa política regional.",
+  "relevante": 1,
+  "recolectado": "2026-10-25T20:37:54+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "qpasó",
   "autor": "qpasó",
