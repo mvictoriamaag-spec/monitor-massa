@@ -1,6 +1,36 @@
 [
  {
   "plataforma": "interior",
+  "fuente": "El Ancasti (Catamarca)",
+  "autor": "El Ancasti (Catamarca)",
+  "tipo": "nota",
+  "titulo": "Massa: \"Mañana y siempre del lado Lula de la vida\"",
+  "texto": "El exministro de Economía publicó una foto junto al mandatario brasileño a horas del balotaje.",
+  "url": "https://www.elancasti.com.ar/politica-y-economia/massa-manana-y-siempre-del-lado-lula-la-vida-n624643",
+  "publicado": "2026-10-25T21:49:00+00:00",
+  "id": "05e54d2d9e710315",
+  "titulo_norm": "massa mañana y siempre del lado lula de la vida",
+  "resumen": "El exministro de Economía Sergio Massa publicó una foto junto al presidente brasileño Lula da Silva a horas del balotaje, con el mensaje \"Mañana y siempre del lado Lula de la vida\". Es una declaración de apoyo político propia.",
+  "relevante": 1,
+  "recolectado": "2026-10-25T23:02:08+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Panorama Directo",
+  "autor": "Panorama Directo",
+  "tipo": "nota",
+  "titulo": "Milei pierde en tres escenarios de ballotage con Cristina, Kicillof y Massa, según una encuesta de Afiches",
+  "texto": "Afiches midió ballotage y Milei cae 39-36 con Cristina, 38-34 con Massa y 37-35 con Kicillof. Tiene piso de 31% y 20% de indecisos que pueden volcar el resultado.",
+  "url": "https://panoramadirecto.com/milei-pierde-en-tres-escenarios-de-ballotage-con-cristina-kicillof-y-massa-segun-una-encuesta-de-afiches/",
+  "publicado": "2026-10-25T21:44:55+00:00",
+  "id": "57d8412d8ec84fcc",
+  "titulo_norm": "milei pierde en tres escenarios de ballotage con cristina kicillof y massa según una encuesta de afiches",
+  "resumen": "Una encuesta de Afiches simula un balotaje en el que Milei pierde con Cristina Kirchner (39-36), con Massa (38-34) y con Kicillof (37-35). Milei tiene un piso de 31% y un 20% de indecisos que podrían definir el resultado.",
+  "relevante": 1,
+  "recolectado": "2026-10-25T23:02:08+00:00"
+ },
+ {
+  "plataforma": "interior",
   "fuente": "Diario Huarpe (San Juan)",
   "autor": "Diario Huarpe (San Juan)",
   "tipo": "nota",
