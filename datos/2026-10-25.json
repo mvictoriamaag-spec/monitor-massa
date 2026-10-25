@@ -1,6 +1,21 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "Diario Mendoza Today",
+  "autor": "Diario Mendoza Today",
+  "tipo": "nota",
+  "titulo": "\"Siempre del lado Lula de la vida\": el (esperable) apoyo de Sergio Massa",
+  "texto": "El dirigente mostró su apoyo al candidato izquierdista que competirá ante Flávio Bolsonaro en el balotaje de este domingo por la presidencia de Brasil.",
+  "url": "https://mendozatoday.com.ar/nacionales/siempre-del-lado-lula-de-la-vida-el-esperable-apoyo-de-sergio-massa/",
+  "publicado": "2026-10-25T10:13:17+00:00",
+  "id": "1087e25feef95c13",
+  "titulo_norm": "siempre del lado lula de la vida el esperable apoyo de sergio massa",
+  "resumen": "Sergio Massa expresó su apoyo a Lula, candidato izquierdista que disputará el balotaje del domingo por la presidencia de Brasil contra Flávio Bolsonaro. La nota presenta ese respaldo como una postura previsible del dirigente argentino.",
+  "relevante": 1,
+  "recolectado": "2026-10-25T10:38:36+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "GN Noticias",
   "autor": "GN Noticias",
   "tipo": "nota",
