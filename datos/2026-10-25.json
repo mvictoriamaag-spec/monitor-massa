@@ -1,5 +1,20 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "La Noticia 1",
+  "autor": "La Noticia 1",
+  "tipo": "nota",
+  "titulo": "Massa plantea que su rol es secundario y llama a construir una alternativa peronista para 2027",
+  "texto": "El líder del Frente Renovador sostuvo que lo prioritario es articular una fuerza capaz de ganarle al Gobierno. El diputado bonaerense Alexis Guerrera difundió un video con las declaraciones de Massa desde la UNSAM, en un nuevo mensaje sobre la unidad del peronismo.",
+  "url": "https://www.lanoticia1.com/noticia/massa-plantea-que-su-rol-es-secundario-y-llama-a-construir-una-alternativa-peronista-para-2027",
+  "publicado": "2026-10-25T23:01:02+00:00",
+  "id": "908ce11b2545ccbe",
+  "titulo_norm": "massa plantea que su rol es secundario y llama a construir una alternativa peronista para 2027",
+  "resumen": "El líder del Frente Renovador sostiene que su rol es secundario y que lo prioritario es construir una fuerza peronista capaz de ganarle al Gobierno de cara a 2027. Las declaraciones fueron difundidas por el diputado bonaerense Alexis Guerrera en un video grabado en la UNSAM.",
+  "relevante": 1,
+  "recolectado": "2026-10-25T23:33:49+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "El Ancasti (Catamarca)",
   "autor": "El Ancasti (Catamarca)",
