@@ -1,6 +1,36 @@
 [
  {
   "plataforma": "nacional",
+  "fuente": "La Nación",
+  "autor": "La Nación",
+  "tipo": "nota",
+  "titulo": "Sergio Massa respaldó a Lula previo a las elecciones presidenciales en Brasil",
+  "texto": "El líder del Frente Renovador publicó un mensaje en sus redes a horas del balotaje brasileño; el gesto se suma a sus recientes apariciones públicas y definiciones sobre las elecciones que se celebrarán en la Argentina en 2027",
+  "url": "https://www.lanacion.com.ar/politica/sergio-massa-respaldo-a-lula-previo-a-las-elecciones-presidenciales-en-brasil-nid24102026/",
+  "publicado": "2026-10-25T02:03:00+00:00",
+  "id": "6458a791d8f77787",
+  "titulo_norm": "sergio massa respaldó a lula previo a las elecciones presidenciales en brasil",
+  "resumen": "Sergio Massa, líder del Frente Renovador, publicó en sus redes un mensaje de respaldo a Lula horas antes del balotaje brasileño. La nota vincula el gesto con sus recientes apariciones y definiciones sobre las elecciones argentinas de 2027.",
+  "relevante": 1,
+  "recolectado": "2026-10-25T02:09:55+00:00"
+ },
+ {
+  "plataforma": "nacional",
+  "fuente": "Ámbito",
+  "autor": "Ámbito",
+  "tipo": "nota",
+  "titulo": "Sergio Massa apoyó a Lula da Silva antes del balotaje de Brasil: \"Mañana y siempre del lado Lula de la vida\"",
+  "texto": "El tigrense eligió un posteo para hacer pública su deseo de que el líder del PT siga al frente del principal socio comercial de Argentina. Antes, Milei había tildado de \"mentiroso\" a su par brasileño y expresado abiertamente su apoyo por Flávio Bolsonaro.",
+  "url": "https://www.ambito.com/politica/sergio-massa-apoyo-lula-da-silva-antes-del-balotaje-brasil-manana-y-siempre-del-lado-lula-la-vida-n6337599",
+  "publicado": "2026-10-25T01:56:00+00:00",
+  "id": "16731f87fb864a28",
+  "titulo_norm": "sergio massa apoyó a lula da silva antes del balotaje de brasil mañana y siempre del lado lula de la vida",
+  "resumen": "Sergio Massa expresó públicamente su apoyo a Lula da Silva en un posteo previo al balotaje brasileño, con la frase «Mañana y siempre del lado Lula de la vida». La nota contrasta ese gesto con Milei, que había tildado a Lula de «mentiroso» y respaldado a Flávio Bolsonaro.",
+  "relevante": 1,
+  "recolectado": "2026-10-25T02:09:55+00:00"
+ },
+ {
+  "plataforma": "nacional",
   "fuente": "C5N",
   "autor": "C5N",
   "tipo": "nota",
