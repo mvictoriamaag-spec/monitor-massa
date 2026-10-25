@@ -16,6 +16,21 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "La Plata 1",
+  "autor": "La Plata 1",
+  "tipo": "nota",
+  "titulo": "Milei se enreda con la economía y las internas mientras Kicillof y Massa se disputan el futuro del peronismo",
+  "texto": "El Presidente admitió que la economía no responde como esperaba y Bullrich presiona por más poder. Mientras se complica la eliminación de las PASO, el...",
+  "url": "https://www.laplata1.com/2026-10-25/milei-se-enreda-con-la-economia-y-las-internas-mientras-kicillof-y-massa-se-disputan-el-futuro-del-peronismo-126826/",
+  "publicado": "2026-10-25T11:12:00+00:00",
+  "id": "f7435ae346fe4619",
+  "titulo_norm": "milei se enreda con la economía y las internas mientras kicillof y massa se disputan el futuro del peronismo",
+  "resumen": "Nota sobre las tensiones en el oficialismo y en el peronismo: Milei admite que la economía no responde como esperaba, y Kicillof y Massa se disputan el futuro del peronismo.",
+  "relevante": 1,
+  "recolectado": "2026-10-25T12:44:52+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Diario Mendoza Today",
   "autor": "Diario Mendoza Today",
   "tipo": "nota",
