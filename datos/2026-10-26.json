@@ -1,5 +1,20 @@
 [
  {
+  "plataforma": "interior",
+  "fuente": "Río Negro",
+  "autor": "Río Negro",
+  "tipo": "nota",
+  "titulo": "Las mensajes en el arco político y de famosos por la victoria de Lula en Brasil: Cristina Kirchner, Axel Kicillof, Sergio Massa y más",
+  "texto": "Tuvo diferentes repercusiones la victoria del mandatario izquierda frente a Flávio Bolsonaro en las elecciones de Brasil.",
+  "url": "https://www.rionegro.com.ar/politica/las-mensajes-en-el-arco-politico-y-de-famosos-por-la-victoria-de-lula-en-brasil-cristina-kirchner-axel-kicillof-sergio-massa-y-mas-4772832/",
+  "publicado": "2026-10-26T15:54:45+00:00",
+  "id": "42fcaa885fdca109",
+  "titulo_norm": "las mensajes en el arco político y de famosos por la victoria de lula en brasil cristina kirchner axel kicillof sergio m",
+  "resumen": "Repasa las reacciones de dirigentes y figuras públicas argentinas a la victoria de Lula frente a Flávio Bolsonaro en Brasil, incluyendo mensajes de Sergio Massa. La nota sólo menciona a Massa dentro de ese listado, sin detallar su posición.",
+  "relevante": 1,
+  "recolectado": "2026-10-26T16:20:16+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "Dénia.com",
   "autor": "Dénia.com",
@@ -43,6 +58,21 @@
   "resumen": "Nota crítica de La Izquierda Diario que cuestiona el silencio de Massa frente al ajuste de Milei y su foto con Lula tras el triunfo brasileño. Según la nota, busca reposicionarse como opositor en la interna peronista.",
   "relevante": 1,
   "recolectado": "2026-10-26T15:22:52+00:00"
+ },
+ {
+  "plataforma": "nacional",
+  "fuente": "La Izquierda Diario",
+  "autor": "La Izquierda Diario",
+  "tipo": "nota",
+  "titulo": "Sergio Massa: silencio frente a Milei, presente en la foto con Lula",
+  "texto": "Tras evitar confrontar con el ajuste de Milei, Massa reaparece abrazado a Lula y busca capitalizar su triunfo para reposicionarse en la interna peronista. Entre el silencio frente al avance de las políticas antipopulares y la foto de ocasión, intenta reciclarse como opositor sin romper con el pasado que allanó el camino a la derecha.",
+  "url": "https://www.laizquierdadiario.com/Sergio-Massa-silencio-frente-a-Milei-presente-en-la-foto-con-Lula?amp=1",
+  "publicado": "2026-10-26T13:44:08+00:00",
+  "id": "082df229b1ec79c6",
+  "titulo_norm": "sergio massa silencio frente a milei presente en la foto con lula",
+  "resumen": "Critica a Sergio Massa por su silencio frente a las políticas de Milei y por reaparecer en una foto con Lula para capitalizar su triunfo. Sostiene que busca reposicionarse en la interna peronista sin romper con su pasado.",
+  "relevante": 1,
+  "recolectado": "2026-10-26T16:20:16+00:00"
  },
  {
   "plataforma": "portal",
