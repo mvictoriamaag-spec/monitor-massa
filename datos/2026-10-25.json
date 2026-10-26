@@ -1,6 +1,21 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "Reconquista Radios",
+  "autor": "Reconquista Radios",
+  "tipo": "nota",
+  "titulo": "Cristina Kirchner, Sergio Massa, Martín Lousteau y demás referentes del arco político celebraron el triunfo de Lula da Silva",
+  "texto": "La ex mandataria fue una de las primeras que destacó el resultado del balotaje, donde el presidente reelecto venció a Flávio Bolsonaro. \"Supo despertar en sus compatriotas sentimiento y sentido para ganar esta batalla\", remarcó. El resto de los mensajes",
+  "url": "https://reconquistaradios.com.ar/a-nota/230054/cristina-kirchner-sergio-massa-martin-lousteau-y-demas-referentes-del-arco-politico-celebraron-el-triunfo-de-lula-da-silva",
+  "publicado": "2026-10-26T02:12:14+00:00",
+  "id": "f475ab61266e6661",
+  "titulo_norm": "cristina kirchner sergio massa martín lousteau y demás referentes del arco político celebraron el triunfo de lula da sil",
+  "resumen": "Nota sobre cómo Cristina Kirchner, Sergio Massa, Martín Lousteau y otros referentes del arco político celebraron el triunfo de Lula da Silva en el balotaje frente a Flávio Bolsonaro. Massa aparece como parte de ese grupo de dirigentes que expresó su respaldo al resultado.",
+  "relevante": 1,
+  "recolectado": "2026-10-26T02:42:39+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "NewsDigitales",
   "autor": "NewsDigitales",
   "tipo": "nota",
