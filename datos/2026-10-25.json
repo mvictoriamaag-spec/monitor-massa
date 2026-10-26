@@ -181,6 +181,21 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "Economis",
+  "autor": "Economis",
+  "tipo": "nota",
+  "titulo": "Massa celebró el triunfo de Lula en Brasil",
+  "texto": "Sergio Massa celebró la victoria de Luiz Inácio Lula da Silva en el balotaje presidencial de Brasil y destacó su trayectoria política",
+  "url": "https://economis.com.ar/massa-celebro-el-triunfo-de-lula-en-brasil/",
+  "publicado": "2026-10-26T00:51:01+00:00",
+  "id": "6283932500caef0d",
+  "titulo_norm": "massa celebró el triunfo de lula en brasil",
+  "resumen": "Sergio Massa celebró la victoria de Luiz Inácio Lula da Silva en el balotaje presidencial de Brasil y destacó su trayectoria política. Aparece como declaración propia del dirigente argentino.",
+  "relevante": 1,
+  "recolectado": "2026-10-26T06:53:17+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "ADNSUR",
   "autor": "ADNSUR",
   "tipo": "nota",
