@@ -285,6 +285,21 @@
   "recolectado": "2026-10-26T01:28:37+00:00"
  },
  {
+  "plataforma": "nacional",
+  "fuente": "La Política Online",
+  "autor": "La Política Online",
+  "tipo": "nota",
+  "titulo": "Euforía en el peronismo con el triunfo de Lula y espeso silencio en el Gobierno",
+  "texto": "Cristina, Massa y Kicillof celebraron. En la Rosada temen que se instale que MIlei es mufa.",
+  "url": "https://www.lapoliticaonline.com/politica/el-triunfo-de-lula-desato-festejos-en-el-peronismo-y-silencio-en-el-gobierno-temen-que-milei-quede-como-mufa/",
+  "publicado": "2026-10-26T00:41:48+00:00",
+  "id": "aa6c39d61e850adb",
+  "titulo_norm": "euforía en el peronismo con el triunfo de lula y espeso silencio en el gobierno",
+  "resumen": "Nota sobre las reacciones al triunfo de Lula en Brasil. Cristina Kirchner, Massa y Kicillof celebraron el resultado, mientras que en el Gobierno hubo silencio y temor a que se instale que Milei es mufa.",
+  "relevante": 1,
+  "recolectado": "2026-10-26T03:16:35+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "LM Neuquén",
   "autor": "LM Neuquén",
@@ -493,6 +508,21 @@
   "resumen": "Sergio Massa expresa su apoyo a Lula da Silva de cara a las elecciones en Brasil, en una nota de Río Negro que señala la apertura del balotaje el domingo 25 de octubre.",
   "relevante": 1,
   "recolectado": "2026-10-25T13:54:18+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "NotiAR",
+  "autor": "NotiAR",
+  "tipo": "nota",
+  "titulo": "Kicillof, Máximo y Massa: un documento contra Milei pero sin foto - Por Maximiliano Sardi",
+  "texto": "El peronismo se anticipó a las inundaciones y culpó a Milei por El Niño. Lo dijo en una cumbre por las PASO que terminó sin foto ni acuerdo.&nbsp; No hubo foto. Y esa ausencia dice más que cualquier comunicado. Anoche, en la Casa de La Pampa, en pleno microcentro porteño, Axel Kicillof, Máximo Kirch...",
+  "url": "https://www.notiar.com.ar/index.php/actualidad1/143259-kicillof-maximo-y-massa-un-documento-contra-milei-pero-sin-foto-por-maximiliano-sardi",
+  "publicado": "2026-10-25T12:57:00+00:00",
+  "id": "a9509d4bd655f0be",
+  "titulo_norm": "kicillof máximo y massa un documento contra milei pero sin foto",
+  "resumen": "Columna sobre una cumbre peronista por las PASO, realizada en la Casa de La Pampa, donde Kicillof, Máximo Kirchner y Massa acordaron un documento contra Milei. Se culpa al Gobierno por las inundaciones asociadas a El Niño, y el encuentro terminó sin foto ni acuerdo.",
+  "relevante": 1,
+  "recolectado": "2026-10-26T03:16:35+00:00"
  },
  {
   "plataforma": "interior",
