@@ -1,5 +1,20 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "Diario El Norte - San Nicolás",
+  "autor": "Diario El Norte - San Nicolás",
+  "tipo": "nota",
+  "titulo": "Massa celebró el triunfo de Lula y marcó distancia con Milei",
+  "texto": "",
+  "url": "https://diarioelnorte.com.ar/massa-celebro-el-triunfo-de-lula-y-marco-distancia-con-milei/",
+  "publicado": "2026-10-26T05:11:55+00:00",
+  "id": "d37677ab71c5d652",
+  "titulo_norm": "massa celebró el triunfo de lula y marcó distancia con milei",
+  "resumen": "Sergio Massa celebró el triunfo de Lula da Silva en Brasil y marcó distancia con el presidente Javier Milei. Es una toma de posición política del dirigente frente al gobierno nacional.",
+  "relevante": 1,
+  "recolectado": "2026-10-26T05:17:59+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "La Nación",
   "autor": "La Nación",
