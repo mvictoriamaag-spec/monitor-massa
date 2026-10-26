@@ -1,5 +1,35 @@
 [
  {
+  "plataforma": "nacional",
+  "fuente": "Política y Medios",
+  "autor": "Política y Medios",
+  "tipo": "nota",
+  "titulo": "Entusiasmo peronista y viralidad digital: Cristina, Kicillof y Massa saludaron la victoria de Lula mientras las redes se llenaron de memes",
+  "texto": "La confirmación del triunfo de Luiz Inácio Lula da Silva en el balotaje presidencial generó un inmediato impacto político y digital en la Argentin",
+  "url": "http://politicaymedios.com.ar/nota/24702/entusiasmo-peronista-y-viralidad-digital-cristina-kicillof-y-massa-saludaron-la-victoria-de-lula-mientras-las-redes-se-llenaron-de-memes/",
+  "publicado": "2026-10-26T17:32:22+00:00",
+  "id": "51e46efe63e85f8c",
+  "titulo_norm": "entusiasmo peronista y viralidad digital cristina kicillof y massa saludaron la victoria de lula mientras las redes se l",
+  "resumen": "Nota sobre las reacciones tras el triunfo de Lula da Silva en el balotaje brasileño. Cristina Kirchner, Axel Kicillof y Sergio Massa celebraron el resultado, mientras las redes se llenaron de memes.",
+  "relevante": 1,
+  "recolectado": "2026-10-26T17:45:15+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "La Tecl@ Eñe",
+  "autor": "La Tecl@ Eñe",
+  "tipo": "nota",
+  "titulo": "Lula, Massa, Milei y Bolsonaro – Por Marcelo Brignoni",
+  "texto": "Marcelo Brignoni sostiene que el reciente ballotage de Brasil, con la reelección de Luis Ignácio",
+  "url": "https://lateclaenerevista.com/lula-massa-milei-y-bolsonaro-por-marcelo-brignoni/",
+  "publicado": "2026-10-26T16:44:56+00:00",
+  "id": "4dc616dfa74ea0a9",
+  "titulo_norm": "lula massa milei y bolsonaro por marcelo brignoni",
+  "resumen": "Columna de Marcelo Brignoni que analiza el reciente balotaje de Brasil y la reelección de Lula, poniéndolo en relación con Massa, Milei y Bolsonaro. El texto disponible es parcial, así que no se precisa la postura específica sobre Massa.",
+  "relevante": 1,
+  "recolectado": "2026-10-26T17:45:15+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "Río Negro",
   "autor": "Río Negro",
