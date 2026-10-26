@@ -1,5 +1,35 @@
 [
  {
+  "plataforma": "interior",
+  "fuente": "Uno Entre Rios",
+  "autor": "Uno Entre Rios",
+  "tipo": "nota",
+  "titulo": "PASO e internas del PJ: Kicillof, Máximo Kirchner, Massa y gobernadores",
+  "texto": "Se reunieron a puertas cerradas en la capital porteña. Cierran filas en defensa de las PASO. Es la continuidad del cónclave del pasado 12 de septiembre",
+  "url": "https://www.unoentrerios.com.ar/el-pais/paso-e-internas-del-pj-kicillof-maximo-kirchner-massa-y-gobernadores-n10288250.html",
+  "publicado": "2026-10-26T21:39:30+00:00",
+  "id": "d0120ecc102a7888",
+  "titulo_norm": "paso e internas del pj kicillof máximo kirchner massa y gobernadores",
+  "resumen": "Kicillof, Máximo Kirchner, Massa y gobernadores se reunieron a puertas cerradas en CABA para cerrar filas en defensa de las PASO. Es la continuación del cónclave del 12 de septiembre.",
+  "relevante": 1,
+  "recolectado": "2026-10-26T21:41:04+00:00"
+ },
+ {
+  "plataforma": "nacional",
+  "fuente": "Infobae",
+  "autor": "Infobae",
+  "tipo": "nota",
+  "titulo": "En la cumbre del PJ hubo críticas al gremialismo: la CGT se quejó por su exclusión y pide integración",
+  "texto": "El líder cegetista Gerardo Martínez reclamó que se integre a todos los sectores a las reuniones de los jefes del peronismo, pero hubo cuestionamientos a los sindicalistas en el encuentro que lideraron Axel Kicillof, Sergio Massa y Máximo Kirchner",
+  "url": "https://www.infobae.com/politica/2026/10/26/en-la-cumbre-del-pj-hubo-criticas-al-gremialismo-la-cgt-se-quejo-por-su-exclusion-y-pide-integracion/",
+  "publicado": "2026-10-26T21:32:08+00:00",
+  "id": "139b3c5c12401623",
+  "titulo_norm": "en la cumbre del pj hubo críticas al gremialismo la cgt se quejó por su exclusión y pide integración",
+  "resumen": "En la cumbre del PJ encabezada por Axel Kicillof, Sergio Massa y Máximo Kirchner, la CGT, a través de Gerardo Martínez, reclamó integrar a todos los sectores, y hubo cuestionamientos a los sindicalistas. Massa aparece como uno de los líderes del encuentro.",
+  "relevante": 1,
+  "recolectado": "2026-10-26T21:41:04+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Política y Medios",
   "autor": "Política y Medios",
