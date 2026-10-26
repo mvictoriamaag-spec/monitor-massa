@@ -1,6 +1,51 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "Dénia.com",
+  "autor": "Dénia.com",
+  "tipo": "nota",
+  "titulo": "'El món té massa soroll', de Pablo Gil Trilles, gana el IX Premio de Narrativa Infantil-Juvenil Ciudad de Dénia",
+  "texto": "Pablo Gil Trilles ha ganado el IX Premio de Narrativa Infantil-Juvenil Ciudad de Dénia con 'El món té massa soroll'. Su obra aborda el autismo, la diversidad y la amistad desde una perspectiva sensible, mostrando cómo un niño singular navega diferencias en un mundo complejo.",
+  "url": "https://www.denia.com/el-mon-te-massa-soroll-de-pablo-gil-trilles-gana-el-ix-premio-de-narrativa-infantil-juvenil-ciudad-de-denia/",
+  "publicado": "2026-10-26T15:12:41+00:00",
+  "id": "8c45fd4e7785a58d",
+  "titulo_norm": "el món té massa soroll de pablo gil trilles gana el ix premio de narrativa infantil juvenil ciudad de dénia",
+  "resumen": "Crónica sobre el IX Premio de Narrativa Infantil-Juvenil Ciudad de Dénia, ganado por Pablo Gil Trilles con 'El món té massa soroll', obra sobre autismo y diversidad. 'Massa' es la palabra catalana para 'demasiado'.",
+  "relevante": 0,
+  "recolectado": "2026-10-26T15:22:52+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Cronos noticias",
+  "autor": "Cronos noticias",
+  "tipo": "nota",
+  "titulo": "Balotaje en Brasil: el festejo de Lula, Massa, Cristina y el silencio de Milei",
+  "texto": "El presidente brasileño obtuvo el 51% de los votos y consiguió un nuevo mandato. Mientras el gobernador bonaerense destacó el resultado, Javier Mil",
+  "url": "https://infocronos.com.ar/nota/58513/balotaje-en-brasil-el-festejo-de-lula-massa-cristina-y-el-silencio-de-milei/",
+  "publicado": "2026-10-26T13:46:29+00:00",
+  "id": "a85f0de9d182db9f",
+  "titulo_norm": "balotaje en brasil el festejo de lula massa cristina y el silencio de milei",
+  "resumen": "Nota sobre el balotaje en Brasil y la victoria de Lula con 51% de los votos. Según el título, Massa y Cristina Fernández celebran el resultado, mientras Milei guarda silencio.",
+  "relevante": 1,
+  "recolectado": "2026-10-26T15:22:52+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "laizquierdadiario.cl",
+  "autor": "laizquierdadiario.cl",
+  "tipo": "nota",
+  "titulo": "Arribismo al 100%. Sergio Massa: silencio frente a Milei, presente en la foto con Lula",
+  "texto": "Tras evitar confrontar con el ajuste de Milei, Massa reaparece abrazado a Lula y busca capitalizar su triunfo para reposicionarse en la interna peronista. Entre el silencio frente al avance de las políticas antipopulares y la foto de ocasión, intenta reciclarse como opositor sin romper con el pasado que allanó el camino a la derecha.",
+  "url": "https://www.laizquierdadiario.cl/Sergio-Massa-silencio-frente-a-Milei-presente-en-la-foto-con-Lula",
+  "publicado": "2026-10-26T13:44:08+00:00",
+  "id": "5f63cfa2da3f3b47",
+  "titulo_norm": "arribismo al 100 sergio massa silencio frente a milei presente en la foto con lula",
+  "resumen": "Nota crítica de La Izquierda Diario que cuestiona el silencio de Massa frente al ajuste de Milei y su foto con Lula tras el triunfo brasileño. Según la nota, busca reposicionarse como opositor en la interna peronista.",
+  "relevante": 1,
+  "recolectado": "2026-10-26T15:22:52+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Prensa Mercosur",
   "autor": "Prensa Mercosur",
   "tipo": "nota",
@@ -13,6 +58,21 @@
   "resumen": "Sergio Massa, referente del Frente Renovador y excandidato presidencial, celebró públicamente por sus canales oficiales el triunfo de Lula da Silva en el balotaje brasileño.",
   "relevante": 1,
   "recolectado": "2026-10-26T13:45:14+00:00"
+ },
+ {
+  "plataforma": "nacional",
+  "fuente": "iProfesional",
+  "autor": "iProfesional",
+  "tipo": "nota",
+  "titulo": "Massa saludó a Lula tras su reelección y recordó décadas de vínculo político",
+  "texto": "El saludo de Massa incluyó una mención a años de cooperación política en la región y expuso diferencias con la actual gestión nacional",
+  "url": "https://www.iprofesional.com/politica/467448-massa-saludo-a-lula-tras-su-reeleccion-y-recordo-decadas-de-vinculo-politico.amp",
+  "publicado": "2026-10-26T11:38:00+00:00",
+  "id": "07aeacae174b5284",
+  "titulo_norm": "massa saludó a lula tras su reelección y recordó décadas de vínculo político",
+  "resumen": "Massa felicitó a Lula por su reelección y recordó años de vínculo político y cooperación en la región. El saludo también expuso diferencias con la gestión nacional actual.",
+  "relevante": 1,
+  "recolectado": "2026-10-26T15:22:52+00:00"
  },
  {
   "plataforma": "portal",
