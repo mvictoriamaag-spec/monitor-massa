@@ -1,5 +1,35 @@
 [
  {
+  "plataforma": "nacional",
+  "fuente": "C5N",
+  "autor": "C5N",
+  "tipo": "nota",
+  "titulo": "Sergio Massa habló del balotaje en Brasil y el peronismo: \"El triunfo de Lula es una bocanada de ánimo\"",
+  "texto": "El líder del Frente Renovador habló con Fernando Borroni en Radio 10 luego de la histórica victoria del candidato del PT frente a Flávio Bolsonaro. 'Lágrimas de libertario', la oposición argentina celebró la reelección de Lula da Silva en Brasil Sergio Massa celebró el triunfo de Lula da Silva en el balotaje: \"La historia lo pone donde se merece\"",
+  "url": "https://www.c5n.com/politica/sergio-massa-hablo-del-balotaje-brasil-y-el-peronismo-el-triunfo-lula-es-una-bocanada-animo-n252620",
+  "publicado": "2026-10-26T22:16:00+00:00",
+  "id": "6dac49cf6a220c32",
+  "titulo_norm": "sergio massa habló del balotaje en brasil y el peronismo el triunfo de lula es una bocanada de ánimo",
+  "resumen": "Massa habló con Fernando Borroni en Radio 10 tras la victoria de Lula da Silva en el balotaje brasileño frente a Flávio Bolsonaro. Celebró el triunfo y lo presentó como un impulso de ánimo para el peronismo.",
+  "relevante": 1,
+  "recolectado": "2026-10-26T22:44:53+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Bardeo.news",
+  "autor": "Bardeo.news",
+  "tipo": "nota",
+  "titulo": "Massa analizó el triunfo de Lula: «Es una inyección emocional»",
+  "texto": "El líder del Frente Renovador analizó el balotaje brasileño y le dejó un mensaje al peronismo: «Liderazgos comprensivos y no hegemónicos»",
+  "url": "https://bardeo.news/politica/massa-analizo-el-triunfo-de-lula---es-una-inyeccion-emocional-_a6adfbddb0e80a9d5e291b9df",
+  "publicado": "2026-10-26T22:15:00+00:00",
+  "id": "5bd122303b998ac3",
+  "titulo_norm": "massa analizó el triunfo de lula es una inyección emocional",
+  "resumen": "Massa analizó el balotaje brasileño y el triunfo de Lula, al que describió como una inyección emocional. Al peronismo le pidió liderazgos comprensivos y no hegemónicos.",
+  "relevante": 1,
+  "recolectado": "2026-10-26T22:44:53+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "Uno Entre Rios",
   "autor": "Uno Entre Rios",
@@ -28,6 +58,36 @@
   "resumen": "En la cumbre del PJ encabezada por Axel Kicillof, Sergio Massa y Máximo Kirchner, la CGT, a través de Gerardo Martínez, reclamó integrar a todos los sectores, y hubo cuestionamientos a los sindicalistas. Massa aparece como uno de los líderes del encuentro.",
   "relevante": 1,
   "recolectado": "2026-10-26T21:41:04+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "elconurbano.com.ar",
+  "autor": "elconurbano.com.ar",
+  "tipo": "nota",
+  "titulo": "Massa suma 62 organizaciones para volver al centro del peronismo",
+  "texto": "Tras mantener encuentros con Cristina Fernández de Kirchner y dialogar con Axel Kicillof y Máximo Kirchner, el exministro de Economía amplía su agenda hacia el sindicalismo. Su nombre vuelve a aparecer en pintadas callejeras, lo que alimenta especulaciones sobre una posible postulación.",
+  "url": "https://elconurbano.com.ar/massa-suma-a-las-62-organizaciones-a-sus-movimientos-para-volver-al-centro-del-peronismo/80194/",
+  "publicado": "2026-10-26T19:34:01+00:00",
+  "id": "ebfc7aa9442a67cc",
+  "titulo_norm": "massa suma 62 organizaciones para volver al centro del peronismo",
+  "resumen": "Massa, exministro de Economía, suma 62 organizaciones y amplía su agenda hacia el sindicalismo para volver al centro del peronismo. Tras reunirse con Cristina Fernández de Kirchner, Kicillof y Máximo Kirchner, su nombre reaparece en pintadas y crecen especulaciones sobre una candidatura.",
+  "relevante": 1,
+  "recolectado": "2026-10-26T22:44:53+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "elconurbano.com.ar",
+  "autor": "elconurbano.com.ar",
+  "tipo": "nota",
+  "titulo": "Massa suma 62 organizaciones a sus movimientos para volver al centro del peronismo",
+  "texto": "Tras reunirse con Cristina Fernández de Kirchner y mantener diálogos con Axel Kicillof y Máximo Kirchner, el exministro de Economía amplía su agenda hacia los sindicatos. Su nombre volvió a aparecer en pintadas callejeras, lo que alimenta especulaciones sobre una posible postulación.",
+  "url": "https://elconurbano.com.ar/massa-suma-a-las-62-organizaciones-a-sus-movimientos-para-volver-al-centro-del-peronismo-2/80196/",
+  "publicado": "2026-10-26T19:34:01+00:00",
+  "id": "d2725f6a589d6c22",
+  "titulo_norm": "massa suma 62 organizaciones a sus movimientos para volver al centro del peronismo",
+  "resumen": "Massa incorpora 62 organizaciones a sus movimientos para recuperar protagonismo en el peronismo, con foco en los sindicatos. Tras reunirse con Cristina Fernández de Kirchner y dialogar con Kicillof y Máximo Kirchner, su nombre aparece en pintadas y se especula con una postulación.",
+  "relevante": 1,
+  "recolectado": "2026-10-26T22:44:53+00:00"
  },
  {
   "plataforma": "nacional",
