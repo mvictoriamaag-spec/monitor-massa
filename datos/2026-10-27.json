@@ -1,6 +1,21 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "Denia Digital",
+  "autor": "Denia Digital",
+  "tipo": "nota",
+  "titulo": "‘El món té massa soroll’, de Pablo Gil Trilles, gana el IX Premi de Narrativa Infantil-Juvenil Ciutat de Dénia",
+  "texto": "",
+  "url": "https://deniadigital.es/art/23364/el-mon-te-massa-soroll-premi-narrativa-denia-2026",
+  "publicado": "2026-10-27T08:35:17+00:00",
+  "id": "ae2e5a11efadd0a1",
+  "titulo_norm": "el món té massa soroll de pablo gil trilles gana el ix premi de narrativa infantil juvenil ciutat de dénia",
+  "resumen": "Nota sobre el premio de narrativa infantil-juvenil Ciutat de Dénia, en su IX edición, ganado por la obra 'El món té massa soroll' de Pablo Gil Trilles. La palabra 'massa' es catalán para 'demasiado', sin relación con Sergio Massa.",
+  "relevante": 0,
+  "recolectado": "2026-10-27T08:49:36+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "PINAMAR 24",
   "autor": "PINAMAR 24",
   "tipo": "nota",
