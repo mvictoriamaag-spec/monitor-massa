@@ -1,6 +1,21 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "mendoza24.com.ar",
+  "autor": "mendoza24.com.ar",
+  "tipo": "nota",
+  "titulo": "Sergio Massa llamó a Lula “el Perón de este siglo” y pidió a Milei reconocer su reelección (mobile)",
+  "texto": "El líder del Frente Renovador celebró la reelección del presidente brasileño, reclamó que Milei reconozca el resultado y destacó la amplitud de la coalición que llevó al PT al gobierno. También pidió normalizar la relación bilateral.",
+  "url": "https://mendoza24.com.ar/noticias_argentina/37069-Sergio-Massa-llamo-a-Lula-%E2%80%9Cel-Peron-de-este-siglo%E2%80%9D-y-pidio-a-Milei-reconocer-su-reeleccion",
+  "publicado": "2026-10-27T02:57:41+00:00",
+  "id": "107a71ad073ba42c",
+  "titulo_norm": "sergio massa llamó a lula el perón de este siglo y pidió a milei reconocer su reelección mobile",
+  "resumen": "Sergio Massa, líder del Frente Renovador, celebró la reelección de Lula da Silva, a quien llamó “el Perón de este siglo”. Reclamó que Milei reconozca el resultado y pidió normalizar la relación bilateral.",
+  "relevante": 1,
+  "recolectado": "2026-10-27T03:23:08+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Cuestión Entrerriana",
   "autor": "Cuestión Entrerriana",
   "tipo": "nota",
