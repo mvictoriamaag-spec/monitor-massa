@@ -1,5 +1,35 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "laizquierdadiario.cl",
+  "autor": "laizquierdadiario.cl",
+  "tipo": "nota",
+  "titulo": "Opinión. ¿De Lula a Massa y Kicillof? sumido en una crisis histórica, el peronismo sueña su propia “virada”",
+  "texto": "Dividida entre cómplices de Milei y opositores de palabra, la dirigencia peronista solo ofrece grisura. Trayectorias declinantes, incapaces de concitar algún nivel de entusiasmo real o duradero.",
+  "url": "https://www.laizquierdadiario.cl/De-Lula-a-Massa-y-Kicillof-sumido-en-una-crisis-historica-el-peronismo-suena-su-propia-virada",
+  "publicado": "2026-10-27T21:21:11+00:00",
+  "id": "d8d75ac350fe22b2",
+  "titulo_norm": "opinión de lula a massa y kicillof sumido en una crisis histórica el peronismo sueña su propia virada",
+  "resumen": "Opinión crítica de La Izquierda Diario Chile sobre el peronismo, en crisis y sin liderazgo fuerte. Menciona a Massa junto a Kicillof y Lula como dirigentes de trayectoria declinante, sin entusiasmo real.",
+  "relevante": 1,
+  "recolectado": "2026-10-27T21:42:06+00:00"
+ },
+ {
+  "plataforma": "nacional",
+  "fuente": "Letra P",
+  "autor": "Letra P",
+  "tipo": "nota",
+  "titulo": "Los nombres que Sergio Massa saca a la cancha para pelear en las intendencias del conurbano",
+  "texto": "Ya tiene definido quién caminará cada uno de los distritos de la Primera y la Tercera sección. La carta de la negociación o el escenario de la PASO peronista.",
+  "url": "https://www.letrap.com.ar/politica/los-nombres-que-sergio-massa-saca-la-cancha-pelear-las-intendencias-del-conurbano-n5427732",
+  "publicado": "2026-10-27T20:28:00+00:00",
+  "id": "2e9ca3b0803d06c3",
+  "titulo_norm": "los nombres que sergio massa saca a la cancha para pelear en las intendencias del conurbano",
+  "resumen": "Nota de Letra P que informa que Sergio Massa ya definió quién recorrerá cada distrito de la Primera y Tercera sección para las intendencias del conurbano. Puede ser carta de negociación o escenario de las PASO peronistas.",
+  "relevante": 1,
+  "recolectado": "2026-10-27T21:42:06+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "La Nación",
   "autor": "La Nación",
