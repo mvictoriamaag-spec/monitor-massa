@@ -1,5 +1,35 @@
 [
  {
+  "plataforma": "interior",
+  "fuente": "InfoCielo (Buenos Aires)",
+  "autor": "InfoCielo (Buenos Aires)",
+  "tipo": "nota",
+  "titulo": "Massa celebró la victoria de Lula y pidió normalizar la relación con Brasil",
+  "texto": "El exministro destacó la trayectoria del presidente brasileño y advirtió sobre la necesidad de recomponer el vínculo bilateral tras los cruces de Milei. La nota Massa celebró la victoria de Lula y pidió normalizar la relación con Brasil se publicó primero en Infocielo . Escrita por Redacción Infocielo Infocielo - Toda la información sobre la provincia de Buenos Aires al instante. Actualizada las 24 horas del día. Política, economía, interés general, deportes, policiales, judiciales, música, cultura, Legislatura, municipios, secciones electorales, elecciones, redes sociales, tendencias, espectáculos, pueblos, viajes, el tiempo, servicios, tránsito, turismo.",
+  "url": "https://www.infocielo.com/politica-y-economia/massa-celebro-la-victoria-de-lula-y-pidio-normalizar-la-relacion-con-brasil",
+  "publicado": "2026-10-27T21:52:29+00:00",
+  "id": "9c8c35954462747d",
+  "titulo_norm": "massa celebró la victoria de lula y pidió normalizar la relación con brasil",
+  "resumen": "El exministro Sergio Massa celebró la victoria electoral de Lula da Silva, destacó su trayectoria y pidió normalizar la relación bilateral con Brasil tras los cruces con Milei.",
+  "relevante": 1,
+  "recolectado": "2026-10-27T22:17:28+00:00"
+ },
+ {
+  "plataforma": "nacional",
+  "fuente": "Crónica",
+  "autor": "Crónica",
+  "tipo": "nota",
+  "titulo": "Lula le agradeció a Sergio Massa y a Alberto Fernández por sus felicitaciones tras el triunfo electoral",
+  "texto": "El mandatario brasileño respondió a los mensajes de apoyo enviados por los dirigentes argentinos tras su consagración electoral en el vecino país.",
+  "url": "https://www.cronica.com.ar/mundo/lula-agradece-massa-fernandez/",
+  "publicado": "2026-10-27T21:43:03+00:00",
+  "id": "b0890b1e7a173444",
+  "titulo_norm": "lula le agradeció a sergio massa y a alberto fernández por sus felicitaciones tras el triunfo electoral",
+  "resumen": "Lula da Silva agradeció los mensajes de felicitación que le enviaron Sergio Massa y Alberto Fernández tras su triunfo electoral. Es una respuesta del mandatario brasileño a dirigentes argentinos.",
+  "relevante": 1,
+  "recolectado": "2026-10-27T22:17:28+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "laizquierdadiario.cl",
   "autor": "laizquierdadiario.cl",
