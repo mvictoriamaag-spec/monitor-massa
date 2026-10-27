@@ -556,6 +556,21 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "examedia.com.ar",
+  "autor": "examedia.com.ar",
+  "tipo": "nota",
+  "titulo": "Sergio Massa celebró el triunfo de Lula en el balotaje",
+  "texto": "ELECCIONES EN BRASIL | Sergio Massa felicitó a Luiz Inácio Lula da Silva tras ganar el balotaje presidencial. El dirigente destacó su camino como dirigente o…",
+  "url": "https://examedia.com.ar/portada/post/88122155",
+  "publicado": "2026-10-26T17:15:23+00:00",
+  "id": "9cae11fbd6efdc11",
+  "titulo_norm": "sergio massa celebró el triunfo de lula en el balotaje",
+  "resumen": "Sergio Massa felicitó a Luiz Inácio Lula da Silva tras su triunfo en el balotaje presidencial de Brasil, en una declaración pública de reconocimiento al líder brasileño. La nota destaca además el camino del propio Massa como dirigente.",
+  "relevante": 1,
+  "recolectado": "2026-10-27T08:08:59+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "La Tecl@ Eñe",
   "autor": "La Tecl@ Eñe",
   "tipo": "nota",
