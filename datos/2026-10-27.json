@@ -1,5 +1,20 @@
 [
  {
+  "plataforma": "nacional",
+  "fuente": "Infobae",
+  "autor": "Infobae",
+  "tipo": "nota",
+  "titulo": "Lula le respondió a Cristina Kirchner y a Sergio Massa tras su triunfo en las elecciones de Brasil",
+  "texto": "El presidente brasileño, que fue electo para un cuarto mandato, destacó el mensaje de ambos dirigentes luego de que se conocieron los resultados del balotaje ante Flávio Bolsonaro. \"Celebramos una gran victoria de la justicia social\", afirmó",
+  "url": "https://www.infobae.com/politica/2026/10/27/lula-le-respondio-a-cristina-kirchner-y-a-sergio-massa-tras-su-triunfo-en-las-elecciones-de-brasil/",
+  "publicado": "2026-10-27T22:55:35+00:00",
+  "id": "9c624f119470e8a9",
+  "titulo_norm": "lula le respondió a cristina kirchner y a sergio massa tras su triunfo en las elecciones de brasil",
+  "resumen": "Infobae informa que Lula respondió a los mensajes de Cristina Kirchner y Sergio Massa tras ganar el balotaje en Brasil ante Flávio Bolsonaro, y destacó el mensaje de ambos dirigentes. Massa aparece como figura que envió un saludo por el triunfo del presidente brasileño.",
+  "relevante": 1,
+  "recolectado": "2026-10-27T22:58:41+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "InfoCielo (Buenos Aires)",
   "autor": "InfoCielo (Buenos Aires)",
