@@ -1,6 +1,36 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "Noticias Urbanas",
+  "autor": "Noticias Urbanas",
+  "tipo": "nota",
+  "titulo": "Massa: \"Lula es el Perón de este siglo\"",
+  "texto": "",
+  "url": "https://www.noticiasurbanas.com.ar/massa-lula-es-el-peron-de-este-siglo",
+  "publicado": "2026-10-27T11:47:23+00:00",
+  "id": "b5ab2fd37e968aca",
+  "titulo_norm": "massa lula es el perón de este siglo",
+  "resumen": "Sergio Massa elogió a Lula da Silva al afirmar que es “el Perón de este siglo”, en una declaración publicada por Noticias Urbanas.",
+  "relevante": 1,
+  "recolectado": "2026-10-27T12:02:23+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "ANDigital",
+  "autor": "ANDigital",
+  "tipo": "nota",
+  "titulo": "Massa ensalzó a Lula como “el Perón de este siglo”",
+  "texto": "El líder del Frente Renovador convocó además a aprender de su alianza política. Hizo foco en “esa dinámica del respeto, de mantenerte unido en",
+  "url": "https://andigital.com.ar/nota/144535/massa-ensalzo-a-lula-como-el-peron-de-este-siglo/",
+  "publicado": "2026-10-27T11:38:35+00:00",
+  "id": "2d2a4ceee0f067d9",
+  "titulo_norm": "massa ensalzó a lula como el perón de este siglo",
+  "resumen": "Sergio Massa, líder del Frente Renovador, elogió a Lula da Silva al calificarlo como “el Perón de este siglo”. Además, convocó a aprender de su alianza política, destacando el respeto y la unidad entre los socios.",
+  "relevante": 1,
+  "recolectado": "2026-10-27T12:02:23+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Radio ADN 979 Rafaela",
   "autor": "Radio ADN 979 Rafaela",
   "tipo": "nota",
