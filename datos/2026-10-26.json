@@ -1,6 +1,21 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "Cuestión Entrerriana",
+  "autor": "Cuestión Entrerriana",
+  "tipo": "nota",
+  "titulo": "Sergio Massa le pidió a Javier Milei que reconozca el triunfo de Lula da Silva",
+  "texto": "Política | El exministro de Economía Sergio Massa reapareció públicamente para analizar el escenario regional y le pidió a Javier Milei...",
+  "url": "https://cuestionentrerriana.com.ar/sergio-massa-le-pidio-a-javier-milei-que-reconozca-el-triunfo-de-lula-da-silva/",
+  "publicado": "2026-10-27T02:24:02+00:00",
+  "id": "9fa17618be849e6d",
+  "titulo_norm": "sergio massa le pidió a javier milei que reconozca el triunfo de lula da silva",
+  "resumen": "El exministro de Economía Sergio Massa reapareció públicamente para analizar el escenario regional y le pidió a Javier Milei que reconozca el triunfo de Lula da Silva. Es una declaración propia del dirigente.",
+  "relevante": 1,
+  "recolectado": "2026-10-27T02:49:32+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "El Diario de la Pampa",
   "autor": "El Diario de la Pampa",
   "tipo": "nota",
