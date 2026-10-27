@@ -121,6 +121,21 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "esposta.com.ar",
+  "autor": "esposta.com.ar",
+  "tipo": "nota",
+  "titulo": "Massa le dijo a Milei que reconozca el resultado de Lula",
+  "texto": "",
+  "url": "https://esposta.com.ar/contenido/4001/massa-le-tira-la-onda-a-milei-dale-reconoce-que-gano-lula",
+  "publicado": "2026-10-27T09:40:00+00:00",
+  "id": "d2d32c0021aefeef",
+  "titulo_norm": "massa le dijo a milei que reconozca el resultado de lula",
+  "resumen": "Sergio Massa le pide al presidente Javier Milei que reconozca el resultado de la elección en Brasil que ganó Luiz Inácio Lula da Silva. La nota presenta la declaración como una crítica de Massa al Gobierno argentino.",
+  "relevante": 1,
+  "recolectado": "2026-10-27T17:37:39+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Denia Digital",
   "autor": "Denia Digital",
   "tipo": "nota",
