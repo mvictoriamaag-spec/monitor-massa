@@ -1,5 +1,20 @@
 [
  {
+  "plataforma": "nacional",
+  "fuente": "La Nación",
+  "autor": "La Nación",
+  "tipo": "nota",
+  "titulo": "La Justicia revocó una sanción contra una casa de cambio y el Banco Central habla de “fallo escandaloso”",
+  "texto": "El juez Ernesto Kreplak rechazó una multa contra los dueños de Karuna Group, ligada al Frente Renovador, el partido de Sergio Massa; duras críticas de los abogados del Banco Central",
+  "url": "https://www.lanacion.com.ar/politica/la-justicia-revoco-una-sancion-contra-una-casa-de-cambio-y-el-banco-central-habla-de-fallo-nid27102026/",
+  "publicado": "2026-10-27T13:27:40+00:00",
+  "id": "25d91880555c7597",
+  "titulo_norm": "la justicia revocó una sanción contra una casa de cambio y el banco central habla de fallo escandaloso",
+  "resumen": "El juez Ernesto Kreplak rechazó una multa contra los dueños de Karuna Group, vinculados al Frente Renovador de Sergio Massa, y el Banco Central cuestionó el fallo como escandaloso. Massa aparece sólo como referencia partidaria de los dueños, no como protagonista.",
+  "relevante": 1,
+  "recolectado": "2026-10-27T13:41:51+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "Noticias Urbanas",
   "autor": "Noticias Urbanas",
