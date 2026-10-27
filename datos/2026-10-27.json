@@ -1,5 +1,20 @@
 [
  {
+  "plataforma": "nacional",
+  "fuente": "C5N",
+  "autor": "C5N",
+  "tipo": "nota",
+  "titulo": "El tuit de Lula Da Silva que desmiente a Ravier: felicitó al Gobierno por el triunfo de Javier Milei en 2023",
+  "texto": "El vocero presidencial afirmó que la Casa Rosada no saludará al mandatario brasileño porque, cuando Javier Milei ganó en 2023, Lula no tuvo ningún gesto. Sin embargo, ese gesto existió. Sergio Massa habló del balotaje en Brasil y el peronismo: \"El triunfo de Lula es una bocanada de ánimo\" El Gobierno sigue sin reconocer el triunfo de Lula da Silva y aclaró que \"no se emitirá un comunicado oficial\"",
+  "url": "https://www.c5n.com/politica/el-tuit-lula-da-silva-que-desmiente-ravier-felicito-al-gobierno-el-triunfo-javier-milei-2023-n252671",
+  "publicado": "2026-10-27T15:09:00+00:00",
+  "id": "7f01e4e31d02093a",
+  "titulo_norm": "el tuit de lula da silva que desmiente a ravier felicitó al gobierno por el triunfo de javier milei en 2023",
+  "resumen": "Nota de C5N que desmiente al vocero Ravier: Lula felicitó a Milei en 2023, pese a la negativa oficial a reconocer su triunfo. Sergio Massa celebró el triunfo de Lula en Brasil: \"una bocanada de ánimo\" para el peronismo.",
+  "relevante": 1,
+  "recolectado": "2026-10-27T15:27:25+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "Minuto Neuquén",
   "autor": "Minuto Neuquén",
