@@ -1,6 +1,21 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "PINAMAR 24",
+  "autor": "PINAMAR 24",
+  "tipo": "nota",
+  "titulo": "Sergio Massa celebró la victoria de Lula en Brasil y lo definió como “el Perón de este siglo”",
+  "texto": "El líder del Frente Renovador destacó el triunfo electoral de Luiz Inácio Lula da Silva frente a Flávio Bolsonaro y sostuvo que el resultado representa un impulso anímico para el peronismo argentino. Además, señaló que el Partido Justicialista debe aprender de la estrategia de alianzas del mandatario brasileño de cara a las elecciones de 2027.",
+  "url": "https://www.pinamar24.com.ar/nota/2710202600413687/sergio-massa-celebr-la-victoria-de-lula-en-brasil-y-lo-defini-como-el-per-n-de-este-siglo-",
+  "publicado": "2026-10-27T06:14:51+00:00",
+  "id": "f08a227a5006fdcc",
+  "titulo_norm": "sergio massa celebró la victoria de lula en brasil y lo definió como el perón de este siglo",
+  "resumen": "Sergio Massa celebró el triunfo de Lula da Silva sobre Flávio Bolsonaro en Brasil y lo definió como “el Perón de este siglo”. Afirmó que el resultado impulsa al peronismo argentino y que el PJ debe aprender de sus alianzas de cara a 2027.",
+  "relevante": 1,
+  "recolectado": "2026-10-27T06:27:02+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "prensalibreonline.com.ar",
   "autor": "prensalibreonline.com.ar",
   "tipo": "nota",
