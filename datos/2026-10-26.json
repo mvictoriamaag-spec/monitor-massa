@@ -1,6 +1,36 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "DameNoticias",
+  "autor": "DameNoticias",
+  "tipo": "nota",
+  "titulo": "El mensaje de Massa al peronismo tras la victoria electoral de Lula en Brasil",
+  "texto": "",
+  "url": "https://damenoticias.com/nota/658036-el-mensaje-de-massa-al-peronismo-tras-la-victoria-electoral-de-lula-en-brasil",
+  "publicado": "2026-10-27T01:07:10+00:00",
+  "id": "586e2e1dff4f10d2",
+  "titulo_norm": "el mensaje de massa al peronismo tras la victoria electoral de lula en brasil",
+  "resumen": "Massa emitió un mensaje dirigido al peronismo a raíz de la victoria electoral de Lula en Brasil.",
+  "relevante": 1,
+  "recolectado": "2026-10-27T01:33:59+00:00"
+ },
+ {
+  "plataforma": "interior",
+  "fuente": "0223 (Mar del Plata)",
+  "autor": "0223 (Mar del Plata)",
+  "tipo": "nota",
+  "titulo": "Massa apuntó a Milei por Lula, pidió que reconozca el triunfo y planteó un desafío para el peronismo",
+  "texto": "El dirigente reclamó que el Presidente reconozca la victoria del mandatario brasileño y planteó la necesidad de reconstruir el vínculo con el principal socio regional. También destacó la estrategia de alianzas, la defensa de la industria y el protagonismo de los jóvenes y las mujeres.",
+  "url": "https://www.0223.com.ar/nota/2026-10-26-21-59-0-massa-apunto-a-milei-por-lula-pidio-que-reconozca-el-triunfo-y-planteo-un-desafio-para-el-peronismo",
+  "publicado": "2026-10-27T00:59:00+00:00",
+  "id": "357740fff7aab485",
+  "titulo_norm": "massa apuntó a milei por lula pidió que reconozca el triunfo y planteó un desafío para el peronismo",
+  "resumen": "Massa criticó a Milei por no reconocer el triunfo electoral de Lula en Brasil y reclamó reconstruir la relación con el principal socio regional. También planteó al peronismo una estrategia de alianzas, la defensa de la industria y mayor protagonismo de jóvenes y mujeres.",
+  "relevante": 1,
+  "recolectado": "2026-10-27T01:33:59+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Deuda Prometida",
   "autor": "Deuda Prometida",
   "tipo": "nota",
@@ -43,6 +73,21 @@
   "resumen": "Sergio Massa pidió a Milei que reconozca el triunfo de Lula y restablezca la relación bilateral con Brasil. Consideró que el peronismo tiene aprendizajes que tomar de la construcción política del mandatario brasileño, que reunió sectores de distintas ideologías.",
   "relevante": 1,
   "recolectado": "2026-10-27T00:53:23+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Diario Mendoza",
+  "autor": "Diario Mendoza",
+  "tipo": "nota",
+  "titulo": "Sergio Massa: \"Milei debe reconocer el triunfo de Lula, por el bien de la relación bilateral\"",
+  "texto": "“Lo primero y tal vez lo más importante es que el presidente Milei tiene que reconocer el triunfo de Lula, como hicieron ya De la Espriella, Fujimori, Noboa, Abinader, Kast”, señaló Massa.",
+  "url": "https://www.diariomendoza.com.ar/politica/sergio-massa-milei-debe-reconocer-triunfo-lula-bien-relacion-bilateral-n183223/amp",
+  "publicado": "2026-10-27T00:00:00+00:00",
+  "id": "8331678e2bd29022",
+  "titulo_norm": "sergio massa milei debe reconocer el triunfo de lula por el bien de la relación bilateral",
+  "resumen": "Massa declaró que Milei debe reconocer el triunfo de Lula en Brasil por el bien de la relación bilateral, y señaló que otros mandatarios de la región ya lo hicieron.",
+  "relevante": 1,
+  "recolectado": "2026-10-27T01:33:59+00:00"
  },
  {
   "plataforma": "portal",
