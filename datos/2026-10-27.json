@@ -1,5 +1,35 @@
 [
  {
+  "plataforma": "nacional",
+  "fuente": "La Política Online",
+  "autor": "La Política Online",
+  "tipo": "nota",
+  "titulo": "Lula le agradeció a Cristina y Massa por el apoyo en las elecciones",
+  "texto": "El brasileño respondió los mensajes de la ex presidenta y el líder del Frente Renovador. \"Brasil y Argentina son países hermanos, unidos por la historia y por un futuro compartido\", dijo.",
+  "url": "https://www.lapoliticaonline.com/politica/tras-el-batacazo-lula-le-agradecio-a-cristina-y-massa-por-el-apoyo-en-las-elecciones/",
+  "publicado": "2026-10-27T23:38:14+00:00",
+  "id": "43f8807efad865fe",
+  "titulo_norm": "lula le agradeció a cristina y massa por el apoyo en las elecciones",
+  "resumen": "Lula respondió los saludos por su triunfo electoral de la expresidenta Cristina Kirchner y del líder del Frente Renovador, Sergio Massa, a quienes agradeció el apoyo. Es una noticia sobre una declaración de Lula, con Massa como destinatario de sus palabras.",
+  "relevante": 1,
+  "recolectado": "2026-10-27T23:57:02+00:00"
+ },
+ {
+  "plataforma": "nacional",
+  "fuente": "Ámbito",
+  "autor": "Ámbito",
+  "tipo": "nota",
+  "titulo": "En medio del silencio del Gobierno, Lula le agradeció a Cristina Kirchner y a Sergio Massa los mensajes tras el triunfo",
+  "texto": "El presidente brasileño respondió a los saludos de referentes del peronismo tras su triunfo electoral. También le agradeció a Alberto Fernández y reivindicó la integración latinoamericana.",
+  "url": "https://www.ambito.com/politica/en-medio-del-silencio-del-gobierno-lula-le-agradecio-cristina-kirchner-y-sergio-massa-los-mensajes-el-triunfo-n6338607",
+  "publicado": "2026-10-27T23:34:00+00:00",
+  "id": "4bce06db874b3561",
+  "titulo_norm": "en medio del silencio del gobierno lula le agradeció a cristina kirchner y a sergio massa los mensajes tras el triunfo",
+  "resumen": "Lula da Silva agradeció los mensajes de felicitación de Cristina Kirchner y Sergio Massa tras su triunfo electoral, en medio del silencio del Gobierno argentino. Massa aparece como referente peronista que saludó al presidente brasileño.",
+  "relevante": 1,
+  "recolectado": "2026-10-27T23:57:02+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "Noticias Urbanas",
   "autor": "Noticias Urbanas",
@@ -58,6 +88,21 @@
   "resumen": "Lula da Silva respondió los mensajes de Cristina Kirchner y Sergio Massa tras su reelección. Mientras tanto, el Gobierno de Milei descartó enviar una felicitación oficial.",
   "relevante": 1,
   "recolectado": "2026-10-27T23:27:28+00:00"
+ },
+ {
+  "plataforma": "nacional",
+  "fuente": "A24.com",
+  "autor": "A24.com",
+  "tipo": "nota",
+  "titulo": "Lula da Silva les agradeció a Sergio Massa y otros dirigentes por sus felicitaciones tras el triunfo",
+  "texto": "El mandatario brasileño respondió a los saludos del líder del Frente Renovador, entre otros dirigentes.",
+  "url": "https://www.a24.com/politica/lula-da-silva-les-agradecio-sergio-massa-cristina-kirchner-y-alberto-fernandez-sus-felicitaciones-el-triunfo-n1610762",
+  "publicado": "2026-10-27T22:59:00+00:00",
+  "id": "c69767d5136e9f39",
+  "titulo_norm": "lula da silva les agradeció a sergio massa y otros dirigentes por sus felicitaciones tras el triunfo",
+  "resumen": "El presidente brasileño Lula da Silva respondió los saludos de Sergio Massa, líder del Frente Renovador, y de otros dirigentes tras su triunfo electoral. Massa aparece como uno de los dirigentes que felicitaron a Lula.",
+  "relevante": 1,
+  "recolectado": "2026-10-27T23:57:02+00:00"
  },
  {
   "plataforma": "nacional",
