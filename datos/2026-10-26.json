@@ -136,6 +136,21 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "0343 Noticias",
+  "autor": "0343 Noticias",
+  "tipo": "nota",
+  "titulo": "Massa resaltó la histórica victoria de Lula, le exigió a Javier Milei que reconozca el triunfo y dejó un mensaje para el peronismo",
+  "texto": "Sergio Massa reclamó a Javier Milei que reconozca la victoria de Lula da Silva en Brasil. “Reconocer al que ganó no es ser de izquierda: es ser presidente” señaló. También analizó las enseñanzas que dejó la histórica campaña que llevó al triunfo al PT y planteó que el peronismo debe tomar nota de la construcción política que le permitió al mandatario brasileño estructurar una mayoría amplia.",
+  "url": "https://0343.com.ar/nacionales/massa-resalto-la-historica-victoria-de-lula-le-exigio-a-javier-milei-que-reconozca-el-triunfo-y-dejo-un-mensaje-para-el-peronismo_1793064600",
+  "publicado": "2026-10-27T01:30:00+00:00",
+  "id": "0a16158d911568c3",
+  "titulo_norm": "massa resaltó la histórica victoria de lula le exigió a javier milei que reconozca el triunfo y dejó un mensaje para el ",
+  "resumen": "Massa celebra la victoria de Lula en Brasil y reclama a Javier Milei que reconozca el resultado, con la frase \"Reconocer al que ganó no es ser de izquierda\". Además, plantea que el peronismo debe tomar nota de la construcción política que dio al PT una mayoría amplia.",
+  "relevante": 1,
+  "recolectado": "2026-10-27T04:01:33+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "DameNoticias",
   "autor": "DameNoticias",
   "tipo": "nota",
