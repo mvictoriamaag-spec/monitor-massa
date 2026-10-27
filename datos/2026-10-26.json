@@ -1,6 +1,51 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "Deuda Prometida",
+  "autor": "Deuda Prometida",
+  "tipo": "nota",
+  "titulo": "Massa analizó el triunfo de Lula en Brasil: «Es el Perón de este siglo y una inyección emocional para el peronismo",
+  "texto": "El excandidato presidencial del Frente Renovador instó a Javier Milei a reconocer la legitimidad del mandatario brasileño, pidió detener los agravios en política exterior y planteó que el PJ debe aprender del esquema de alianzas transversales del PT.",
+  "url": "https://deudaprometida.com/massa-analizo-el-triunfo-de-lula-en-brasil-es-el-peron-de-este-siglo-y-una-inyeccion-emocional-para-el-peronismo/",
+  "publicado": "2026-10-27T00:50:24+00:00",
+  "id": "e544c4b9b9e7ec62",
+  "titulo_norm": "massa analizó el triunfo de lula en brasil es el perón de este siglo y una inyección emocional para el peronismo",
+  "resumen": "Sergio Massa calificó a Lula como \"el Perón de este siglo\" y dijo que su triunfo es una inyección emocional para el peronismo. Instó a Milei a reconocer la legitimidad del mandatario brasileño y a dejar los agravios en política exterior.",
+  "relevante": 1,
+  "recolectado": "2026-10-27T00:53:23+00:00"
+ },
+ {
+  "plataforma": "interior",
+  "fuente": "La Voz del Interior",
+  "autor": "La Voz del Interior",
+  "tipo": "nota",
+  "titulo": "Elecciones. Massa celebró el triunfo de Lula en Brasil: Es el Perón de este siglo",
+  "texto": "El líder del Frente Renovador comparó al presidente brasileño con Juan Domingo Perón y destacó su capacidad para construir alianzas. También cuestionó la falta de acuerdos dentro del peronismo argentino y pidió a Javier Milei que reconozca el resultado electoral.",
+  "url": "https://www.lavoz.com.ar/politica/massa-celebro-triunfo-lula-brasil-peron-siglo_0_glGWlcAvDa.html",
+  "publicado": "2026-10-27T00:43:49+00:00",
+  "id": "1e0fc9f4e107fa66",
+  "titulo_norm": "elecciones massa celebró el triunfo de lula en brasil es el perón de este siglo",
+  "resumen": "Sergio Massa celebró el triunfo de Lula en Brasil y lo comparó con Perón por su capacidad para construir alianzas. Aprovechó para criticar la falta de acuerdos dentro del peronismo y pedirle a Milei que reconozca el resultado.",
+  "relevante": 1,
+  "recolectado": "2026-10-27T00:53:23+00:00"
+ },
+ {
+  "plataforma": "interior",
+  "fuente": "Diario Panorama",
+  "autor": "Diario Panorama",
+  "tipo": "nota",
+  "titulo": "Sergio Massa pidió que Milei reconozca el triunfo de Lula y llamó a normalizar el vínculo con Brasil",
+  "texto": "El dirigente destacó la importancia de restablecer las relaciones bilaterales y consideró que el peronismo tiene aprendizajes por tomar de la construcción política del mandatario brasileño, quien logró reunir a sectores de distintas orientaciones ideológicas.",
+  "url": "https://www.diariopanorama.com/noticia/570905/sergio-massa-pidio-milei-reconozca-triunfo-lula-llamo-normalizar-vinculo-brasil",
+  "publicado": "2026-10-27T00:21:20+00:00",
+  "id": "f256dcacb2945ff3",
+  "titulo_norm": "sergio massa pidió que milei reconozca el triunfo de lula y llamó a normalizar el vínculo con brasil",
+  "resumen": "Sergio Massa pidió a Milei que reconozca el triunfo de Lula y restablezca la relación bilateral con Brasil. Consideró que el peronismo tiene aprendizajes que tomar de la construcción política del mandatario brasileño, que reunió sectores de distintas ideologías.",
+  "relevante": 1,
+  "recolectado": "2026-10-27T00:53:23+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "La Tecla Patagonia",
   "autor": "La Tecla Patagonia",
   "tipo": "nota",
@@ -13,6 +58,21 @@
   "resumen": "Massa, exministro, afirma que el peronismo debería aprender de Lula, porque el movimiento todavía no logró una alianza federal como la de Brasil. Señala que los liderazgos no deben ser hegemónicos.",
   "relevante": 1,
   "recolectado": "2026-10-27T00:08:06+00:00"
+ },
+ {
+  "plataforma": "interior",
+  "fuente": "El Liberal",
+  "autor": "El Liberal",
+  "tipo": "nota",
+  "titulo": "Sergio Massa celebró el triunfo de Lula en Brasil y lo comparó con Perón",
+  "texto": "Bolsonaro en el balotaje presidencial de Brasil. Además, comparó la construcción política del Partido de los Trabajadores con los desafíos del peronismo argentino de cara a las elecciones de 2027.",
+  "url": "https://www.elliberal.com.ar/nota/96093/2026/10/sergio-massa-celebro-el-triunfo-de-lula-en-brasil-y-lo-comparo-con-peron",
+  "publicado": "2026-10-26T23:57:00+00:00",
+  "id": "ba7ded81cf1b4225",
+  "titulo_norm": "sergio massa celebró el triunfo de lula en brasil y lo comparó con perón",
+  "resumen": "Sergio Massa celebró la victoria de Lula en el balotaje brasileño y lo comparó con Perón. Además, relacionó la construcción política del Partido de los Trabajadores con los desafíos del peronismo rumbo a 2027.",
+  "relevante": 1,
+  "recolectado": "2026-10-27T00:53:23+00:00"
  },
  {
   "plataforma": "interior",
@@ -193,6 +253,21 @@
   "resumen": "Massa analizó el balotaje brasileño y el triunfo de Lula, al que describió como una inyección emocional. Al peronismo le pidió liderazgos comprensivos y no hegemónicos.",
   "relevante": 1,
   "recolectado": "2026-10-26T22:44:53+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Info del Estero",
+  "autor": "Info del Estero",
+  "tipo": "nota",
+  "titulo": "Sergio Massa habló en exclusiva con Info del Estero tras la victoria de Lula en Brasil: “El presidente Milei debe reconocer el triunfo y normalizar la relación bilateral”",
+  "texto": "En diálogo exclusivo con Info del Estero, el referente del Frente Renovador y exministro de Economía de la Nación, Sergio Massa, analizó la histórica reelección de Luiz Inácio Lula da Silva en el balotaje presidencial de Brasil y su impacto político en la región.",
+  "url": "https://infodelestero.com/2026/10/26/sergio-massa-hablo-en-exclusiva-con-info-del-estero-tras-la-victoria-de-lula-en-brasil-el",
+  "publicado": "2026-10-26T21:46:10+00:00",
+  "id": "ad8b0feaf7f41a74",
+  "titulo_norm": "sergio massa habló en exclusiva con info del estero tras la victoria de lula en brasil el presidente milei debe reconoce",
+  "resumen": "Sergio Massa, referente del Frente Renovador, analizó en diálogo con Info del Estero la reelección de Lula en Brasil y su impacto regional. Pidió a Milei que reconozca el triunfo y normalice la relación bilateral.",
+  "relevante": 1,
+  "recolectado": "2026-10-27T00:53:23+00:00"
  },
  {
   "plataforma": "interior",
