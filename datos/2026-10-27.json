@@ -1,6 +1,36 @@
 [
  {
   "plataforma": "nacional",
+  "fuente": "La Nación",
+  "autor": "La Nación",
+  "tipo": "nota",
+  "titulo": "Lula les agradeció a Sergio Massa y a Alberto Fernández por sus felicitaciones tras la victoria",
+  "texto": "El presidente dio el batacazo en el balotaje y venció a Flavio Bolsonaro, quien huyó de Brasil; recibió mensajes de parte de sus referentes argentinos más cercanos",
+  "url": "https://www.lanacion.com.ar/politica/lula-le-agradecio-a-sergio-massa-y-a-alberto-fernandez-por-sus-felicitaciones-tras-la-victoria-nid27102026/",
+  "publicado": "2026-10-27T20:17:59+00:00",
+  "id": "007d0ae1282a2034",
+  "titulo_norm": "lula les agradeció a sergio massa y a alberto fernández por sus felicitaciones tras la victoria",
+  "resumen": "Lula da Silva agradeció las felicitaciones de Sergio Massa y Alberto Fernández tras ganar el balotaje a Flavio Bolsonaro. Massa aparece como referente argentino que saludó la victoria del presidente brasileño.",
+  "relevante": 1,
+  "recolectado": "2026-10-27T20:27:33+00:00"
+ },
+ {
+  "plataforma": "nacional",
+  "fuente": "Letra P",
+  "autor": "Letra P",
+  "tipo": "nota",
+  "titulo": "Buenos Aires: Massa reclama elecciones concurrentes y PASO para definir el candidato a la gobernación",
+  "texto": "Considera que el desdoblamiento le quitaría fuerza a la fórmula nacional. Con todo, no descarta un postulante por consenso para pelear por la silla de Kicillof.",
+  "url": "https://www.letrap.com.ar/politica/buenos-aires-massa-reclama-elecciones-concurrentes-y-paso-definir-el-candidato-la-gobernacion-n5427724",
+  "publicado": "2026-10-27T20:06:00+00:00",
+  "id": "7af7ff9e57b6f65a",
+  "titulo_norm": "buenos aires massa reclama elecciones concurrentes y paso para definir el candidato a la gobernación",
+  "resumen": "Sergio Massa reclama elecciones concurrentes y PASO para definir el candidato a gobernador bonaerense, porque considera que el desdoblamiento debilitaría la fórmula nacional. No descarta un postulante de consenso para disputar la gobernación a Kicillof.",
+  "relevante": 1,
+  "recolectado": "2026-10-27T20:27:33+00:00"
+ },
+ {
+  "plataforma": "nacional",
   "fuente": "C5N",
   "autor": "C5N",
   "tipo": "nota",
