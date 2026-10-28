@@ -1,6 +1,21 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "Data Diario",
+  "autor": "Data Diario",
+  "tipo": "nota",
+  "titulo": "Brasil: Lula da Silva agradeció a Sergio Massa por su apoyo en las elecciones",
+  "texto": "El presidente brasileño respondió con palabras de afecto al líder del Frente Renovador, reivindicó su victoria electoral como un triunfo de la democracia y la justicia social y resaltó el futuro compartido de ambos países.",
+  "url": "https://www.datadiario.com/politica/lula-da-silva-agradecio-a-sergio-massa-por-su-apoyo-en-el-balotaje-ante-flavio-bolsonaro-y-resalto-la-hermandad-regional-2026102812460",
+  "publicado": "2026-10-28T15:59:59+00:00",
+  "id": "11d74cfe250f3bf3",
+  "titulo_norm": "brasil lula da silva agradeció a sergio massa por su apoyo en las elecciones",
+  "resumen": "Lula da Silva agradeció a Sergio Massa su apoyo en las elecciones brasileñas, con palabras de afecto. Presentó su victoria como un triunfo de la democracia y la justicia social, y destacó el futuro compartido de ambos países.",
+  "relevante": 1,
+  "recolectado": "2026-10-28T16:30:28+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Agencia NOVA",
   "autor": "Agencia NOVA",
   "tipo": "nota",
