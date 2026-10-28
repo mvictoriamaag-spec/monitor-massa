@@ -1,5 +1,20 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "Identidad Correntina",
+  "autor": "Identidad Correntina",
+  "tipo": "nota",
+  "titulo": "Lula agradeció a Cristina y Massa por el respaldo en Brasil",
+  "texto": "El presidente electo de Brasil destacÃÂ³ los mensajes de apoyo de Cristina Kirchner y Sergio Massa tras su triunfo en el balotaje. La elecciÃÂ³n marcÃÂ³ un hito histÃÂ³rico para el PT y reordenÃÂ³ las referencias progresistas en AmÃÂ©rica del Sur.En AmÃÂ©ri...",
+  "url": "https://www.identidadcorrentina.com.ar/noticia/44468_lula-agradeci-a-cristina-y-massa-por-el-respaldo-en-brasil.htm",
+  "publicado": "2026-10-28T18:04:14+00:00",
+  "id": "31ed55318842b280",
+  "titulo_norm": "lula agradeció a cristina y massa por el respaldo en brasil",
+  "resumen": "El presidente electo de Brasil, Lula, destacó los mensajes de apoyo de Cristina Kirchner y Sergio Massa tras su triunfo en el balotaje. Massa aparece como una de las referencias de respaldo internacional, sin conflicto ni crítica.",
+  "relevante": 1,
+  "recolectado": "2026-10-28T18:08:43+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "El Intransigente",
   "autor": "El Intransigente",
@@ -73,6 +88,21 @@
   "resumen": "El Frente Renovador, que conduce Sergio Massa, fija posición sobre el calendario electoral bonaerense de cara a 2027. Propone elecciones provinciales el mismo día que las nacionales y mantener las PASO para definir candidaturas.",
   "relevante": 1,
   "recolectado": "2026-10-28T14:31:08+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Haceinstantes",
+  "autor": "Haceinstantes",
+  "tipo": "nota",
+  "titulo": "Lula agradeció el apoyo de Sergio Massa y el argentino le respondió con un divertido guiño",
+  "texto": "El líder del Partido de los Trabajadores (PT) y el excandidato presidencial argentino protagonizaron un descontracturado e intenso intercambio en la red social X.",
+  "url": "https://www.haceinstantes.com/noticias/2026/10/28/216657-lula-agradecio-el-apoyo-de-sergio-massa-y-el-argentino-le-respondio-con-un-divertido-guino",
+  "publicado": "2026-10-28T13:37:02+00:00",
+  "id": "32b50148978523d7",
+  "titulo_norm": "lula agradeció el apoyo de sergio massa y el argentino le respondió con un divertido guiño",
+  "resumen": "Lula agradeció el apoyo de Sergio Massa y este respondió con un guiño humorístico en la red social X, en un intercambio descontracturado entre ambos dirigentes.",
+  "relevante": 1,
+  "recolectado": "2026-10-28T18:08:43+00:00"
  },
  {
   "plataforma": "portal",
