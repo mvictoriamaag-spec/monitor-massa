@@ -1,5 +1,35 @@
 [
  {
+  "plataforma": "nacional",
+  "fuente": "El Intransigente",
+  "autor": "El Intransigente",
+  "tipo": "nota",
+  "titulo": "Sergio Massa y Lula da Silva intercambiaron mensajes en redes: “Así será”",
+  "texto": "El presidente brasileño agradeció las palabras de afecto del exministro de Economía y llamó a defender la democracia y los derechos de los trabajadores.",
+  "url": "https://elintransigente.com/2026/10/28/sergio-massa-y-lula-da-silva-intercambiaron-mensajes-en-redes-asi-sera/",
+  "publicado": "2026-10-28T16:51:41+00:00",
+  "id": "60af136904224824",
+  "titulo_norm": "sergio massa y lula da silva intercambiaron mensajes en redes así será",
+  "resumen": "Sergio Massa y Lula da Silva intercambiaron mensajes en redes sociales con la frase “Así será”. Lula agradeció las palabras de afecto del exministro de Economía y llamó a defender la democracia y los derechos de los trabajadores.",
+  "relevante": 1,
+  "recolectado": "2026-10-28T17:21:56+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "ECO MEDIOS",
+  "autor": "ECO MEDIOS",
+  "tipo": "nota",
+  "titulo": "Lula da Silva agradeció el respaldo de Sergio Massa tras su victoria: «Nuestra victoria es la de la democracia y la justicia social» – ECO MEDIOS",
+  "texto": "",
+  "url": "https://ecomedios.com/lula-da-silva-agradecio-el-respaldo-de-sergio-massa-tras-su-victoria-nuestra-victoria-es-la-de-la-democracia-y-la-justicia-social/",
+  "publicado": "2026-10-28T16:42:31+00:00",
+  "id": "6d0f3c2c00a49f7b",
+  "titulo_norm": "lula da silva agradeció el respaldo de sergio massa tras su victoria nuestra victoria es la de la democracia y la justic",
+  "resumen": "Lula da Silva agradeció el respaldo de Sergio Massa tras su victoria electoral y afirmó que su triunfo es el de la democracia y la justicia social. La nota es una noticia sobre el apoyo expresado por Massa al líder brasileño.",
+  "relevante": 1,
+  "recolectado": "2026-10-28T17:21:56+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "Data Diario",
   "autor": "Data Diario",
