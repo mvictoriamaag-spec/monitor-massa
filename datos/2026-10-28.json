@@ -1,6 +1,21 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "LA17",
+  "autor": "LA17",
+  "tipo": "nota",
+  "titulo": "Lula agradece a Sergio Massa y destaca lazos de hermandad con Argentina",
+  "texto": "",
+  "url": "https://lu17.com/contenido/155100/lula-agradece-a-sergio-massa-y-destaca-lazos-de-hermandad-con-argentina",
+  "publicado": "2026-10-28T10:40:00+00:00",
+  "id": "6bec491faee8818a",
+  "titulo_norm": "lula agradece a sergio massa y destaca lazos de hermandad con argentina",
+  "resumen": "Lula da Silva agradece a Sergio Massa y destaca los lazos de hermandad entre Brasil y Argentina, en un gesto de reconocimiento hacia el dirigente argentino.",
+  "relevante": 1,
+  "recolectado": "2026-10-28T11:09:31+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "https://diariolapluma.com.ar/",
   "autor": "https://diariolapluma.com.ar/",
   "tipo": "nota",
