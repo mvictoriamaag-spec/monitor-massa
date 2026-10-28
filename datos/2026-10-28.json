@@ -1,5 +1,35 @@
 [
  {
+  "plataforma": "nacional",
+  "fuente": "Infobae",
+  "autor": "Infobae",
+  "tipo": "nota",
+  "titulo": "Massa empuja el armado de un frente anti Milei: la condición fundamental y la enseñanza de Lula",
+  "texto": "El líder del Frente Renovador rompió su perfil bajo y aumenta sus apariciones públicas. El detrás de escena de esa determinación y la posible ampliación de la cumbre peronista",
+  "url": "https://www.infobae.com/politica/2026/10/28/massa-empuja-el-armado-de-un-frente-anti-milei-la-condicion-fundamental-y-la-ensenanza-de-lula/",
+  "publicado": "2026-10-28T04:37:38+00:00",
+  "id": "e003ce0e6bdcd3ec",
+  "titulo_norm": "massa empuja el armado de un frente anti milei la condición fundamental y la enseñanza de lula",
+  "resumen": "Sergio Massa impulsa la conformación de un frente opositor contra Javier Milei y aumenta sus apariciones públicas tras un perfil bajo. La nota analiza la condición que considera fundamental, la enseñanza de Lula y una posible ampliación de la cumbre peronista.",
+  "relevante": 1,
+  "recolectado": "2026-10-28T05:20:01+00:00"
+ },
+ {
+  "plataforma": "nacional",
+  "fuente": "Clarín",
+  "autor": "Clarín",
+  "tipo": "nota",
+  "titulo": "Máximo Kirchner recordó a Néstor y pidió por la liberación de Cristina: \"¿La vamos a hacer presidenta?\"",
+  "texto": "El diputado encabezó un acto a 16 años de la muerte de su padre. Cuestionó a Javier Milei y le agradeció al Frente Renovador de Sergio Massa, ausente en el evento.",
+  "url": "https://www.clarin.com/politica/maximo-kirchner-recordo-nestor-pidio-liberacion-cristina-vamos-hacer-presidenta_0_MnHzdsiwlx.html",
+  "publicado": "2026-10-28T04:06:36+00:00",
+  "id": "0337a95b59b82aed",
+  "titulo_norm": "máximo kirchner recordó a néstor y pidió por la liberación de cristina la vamos a hacer presidenta",
+  "resumen": "Máximo Kirchner encabezó un acto por los 16 años de la muerte de Néstor Kirchner, cuestionó a Javier Milei y pidió por la liberación de Cristina Kirchner. Agradeció al Frente Renovador de Sergio Massa, que no estuvo presente en el evento.",
+  "relevante": 1,
+  "recolectado": "2026-10-28T05:20:01+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "Diario El Norte - San Nicolás",
   "autor": "Diario El Norte - San Nicolás",
