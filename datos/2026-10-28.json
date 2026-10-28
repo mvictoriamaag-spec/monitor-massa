@@ -1,6 +1,21 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "Medios del Aire",
+  "autor": "Medios del Aire",
+  "tipo": "nota",
+  "titulo": "RAÚL TIMERMAN: \"HOY LE GANAN EL BALOTAJE A MILEI TANTO CRISTINA, KICILLOF COMO MASSA\"",
+  "texto": "",
+  "url": "https://www.mediosdelaire.com.ar/d/noticias/raul-timerman-hoy-le-ganan-el-balotaje-a-milei-tanto-cristina-kicillof-como-massa-22349/",
+  "publicado": "2026-10-28T11:49:50+00:00",
+  "id": "b5d7ee6ba5f55314",
+  "titulo_norm": "raúl timerman hoy le ganan el balotaje a milei tanto cristina kicillof como massa",
+  "resumen": "Raúl Timerman afirma que, en un eventual balotaje, Cristina Kirchner, Kicillof y Massa le ganarían a Milei. Es una declaración de opinión política que menciona a Massa como posible competidor contra el oficialismo.",
+  "relevante": 1,
+  "recolectado": "2026-10-28T13:38:02+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "https://www.lafolkargentina.com.ar/",
   "autor": "https://www.lafolkargentina.com.ar/",
   "tipo": "nota",
