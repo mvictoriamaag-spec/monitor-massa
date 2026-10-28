@@ -1,6 +1,21 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "Nuevo Diario de Salta",
+  "autor": "Nuevo Diario de Salta",
+  "tipo": "nota",
+  "titulo": "Massa empuja un frente anti Milei: ampliar la coalición, cuidar a los gobernadores y sostener las PASO",
+  "texto": "",
+  "url": "https://nuevodiariodesalta.com.ar/massa-empuja-un-frente-anti-milei-ampliar-la-coalicion-cuidar-a-los-gobernadores-y-sostener-las-paso/",
+  "publicado": "2026-10-28T23:02:20+00:00",
+  "id": "80515eb382049aed",
+  "titulo_norm": "massa empuja un frente anti milei ampliar la coalición cuidar a los gobernadores y sostener las paso",
+  "resumen": "Sergio Massa impulsa la ampliación de un frente opositor contra Milei, con foco en cuidar a los gobernadores y sostener las PASO. La nota presenta su estrategia política como una propuesta para reunir fuerzas de cara a la competencia electoral.",
+  "relevante": 1,
+  "recolectado": "2026-10-28T23:06:55+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Noticias Urbanas",
   "autor": "Noticias Urbanas",
   "tipo": "nota",
