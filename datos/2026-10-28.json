@@ -1,6 +1,21 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "Noticias Urbanas",
+  "autor": "Noticias Urbanas",
+  "tipo": "nota",
+  "titulo": "Michel: \"Massa es el dirigente más preparado de nuestra generación\"",
+  "texto": "",
+  "url": "https://www.noticiasurbanas.com.ar/michel-massa-es-el-dirigente-mas-preparado-de-nuestra-generacion",
+  "publicado": "2026-10-28T18:33:06+00:00",
+  "id": "20f5780b1ef715a1",
+  "titulo_norm": "michel massa es el dirigente más preparado de nuestra generación",
+  "resumen": "Michel elogia a Massa y lo califica como el dirigente más preparado de su generación, en una declaración de apoyo y reconocimiento público al político.",
+  "relevante": 1,
+  "recolectado": "2026-10-28T18:55:17+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Identidad Correntina",
   "autor": "Identidad Correntina",
   "tipo": "nota",
