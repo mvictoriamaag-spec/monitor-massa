@@ -1,6 +1,21 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "https://www.lafolkargentina.com.ar/",
+  "autor": "https://www.lafolkargentina.com.ar/",
+  "tipo": "nota",
+  "titulo": "Elba Marcovecchio cruzó a Ana Rosenfeld y la comparó con Sergio Massa",
+  "texto": "Elba Marcovecchio y Ana Rosenfeld protagonizaron un fuerte cruce en La Noche de Mirtha al debatir sobre el conflicto entre Mauro Icardi y Wanda Nara. La tensión creció cuando Rosenfeld exigió respuestas y Marcovecchio respondió con una comparación con Sergio Massa al aire.",
+  "url": "https://lafolkargentina.com.ar/nota/20792/elba-marcovecchio-cruzo-a-ana-rosenfeld-y-la-comparo-con-sergio-massa",
+  "publicado": "2026-10-28T10:46:01+00:00",
+  "id": "09290c7f86d7254d",
+  "titulo_norm": "elba marcovecchio cruzó a ana rosenfeld y la comparó con sergio massa",
+  "resumen": "En La Noche de Mirtha, Elba Marcovecchio y Ana Rosenfeld tuvieron un fuerte cruce por el conflicto entre Mauro Icardi y Wanda Nara. Tras una exigencia de Rosenfeld, Marcovecchio respondió comparándola al aire con Sergio Massa.",
+  "relevante": 1,
+  "recolectado": "2026-10-28T12:31:40+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "LA17",
   "autor": "LA17",
   "tipo": "nota",
