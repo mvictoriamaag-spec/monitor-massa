@@ -1,6 +1,36 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "Agencia NOVA",
+  "autor": "Agencia NOVA",
+  "tipo": "nota",
+  "titulo": "Tejes y manejes: la ingeniería nacional de Massa, elecciones concurrentes y PASO para la Gobernación bonaerense",
+  "texto": "El Frente Renovador, conducido por Sergio Massa unificó su estrategia de cara al armado electoral en la Provincia de Buenos Aires. Desde la mesa chica del tigrense ratificaron que el peronismo bonaerense debe competir mediante elecciones concurrentes, votando el mismo día que los comicios nacionales, y preservando las PASO para definir las candidaturas locales y provinciales, independientemente de que el Congreso de la Nación avance o no con la eliminación de las primarias a nivel federal.",
+  "url": "https://www.agencianova.com/nota.asp?n=2026_10_28&id=174510&id_tiponota=30",
+  "publicado": "2026-10-28T13:59:12+00:00",
+  "id": "45d1d6d68af9d6ad",
+  "titulo_norm": "tejes y manejes la ingeniería nacional de massa elecciones concurrentes y paso para la gobernación bonaerense",
+  "resumen": "Desde el entorno de Sergio Massa, el Frente Renovador ratificó que el peronismo bonaerense debe votar en elecciones concurrentes con las nacionales y conservar las PASO para definir candidaturas, aunque el Congreso elimine las primarias federales.",
+  "relevante": 1,
+  "recolectado": "2026-10-28T14:31:08+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "La Noticia Web",
+  "autor": "La Noticia Web",
+  "tipo": "nota",
+  "titulo": "Massa: sube su presencia, pide PASO y elecciones concurrentes en PBA",
+  "texto": "Con la mirada puesta en las elecciones de 2027, el Frente Renovador que conduce Sergio Massa ya fijó una posición sobre el calendario electoral bonaerense: propone que los comicios provinciales se realicen el mismo día que los nacionales y que se mantengan las Primarias Abiertas, Simultáneas y Obligatorias (PASO) para definir las candidaturas. En el … Continuar leyendo \"Massa: sube su presencia, pide PASO y elecciones concurrentes en PBA\"",
+  "url": "https://www.lanoticiaweb.com.ar/massa-sube-su-presencia-pide-paso-y-elecciones-concurrentes-en-pba/",
+  "publicado": "2026-10-28T13:52:30+00:00",
+  "id": "4f726a38425c2e01",
+  "titulo_norm": "massa sube su presencia pide paso y elecciones concurrentes en pba",
+  "resumen": "El Frente Renovador, que conduce Sergio Massa, fija posición sobre el calendario electoral bonaerense de cara a 2027. Propone elecciones provinciales el mismo día que las nacionales y mantener las PASO para definir candidaturas.",
+  "relevante": 1,
+  "recolectado": "2026-10-28T14:31:08+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Medios del Aire",
   "autor": "Medios del Aire",
   "tipo": "nota",
