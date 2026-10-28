@@ -16,6 +16,21 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "El Esquiu",
+  "autor": "El Esquiu",
+  "tipo": "nota",
+  "titulo": "Massa le pidió a Milei que reconozca el triunfo de Lula",
+  "texto": "",
+  "url": "https://www.elesquiu.com/politica/2026/10/26/massa-le-pidio-a-milei-que-reconozca-el-triunfo-de-lula-601158.html",
+  "publicado": "2026-10-27T02:40:00+00:00",
+  "id": "b223ccef16cc906a",
+  "titulo_norm": "massa le pidió a milei que reconozca el triunfo de lula",
+  "resumen": "Sergio Massa le pidió al presidente Javier Milei que reconozca el triunfo de Lula da Silva en las elecciones de Brasil. Massa se muestra así en una posición de respaldo al resultado brasileño frente al Gobierno argentino.",
+  "relevante": 1,
+  "recolectado": "2026-10-28T00:34:19+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Cuestión Entrerriana",
   "autor": "Cuestión Entrerriana",
   "tipo": "nota",

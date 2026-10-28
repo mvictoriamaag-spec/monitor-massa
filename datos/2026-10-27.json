@@ -1,5 +1,20 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "Corrientes Hoy",
+  "autor": "Corrientes Hoy",
+  "tipo": "nota",
+  "titulo": "Tomala vos, dámela a mi: Lula da Silva le devolvió el saludo a Sergio Massa",
+  "texto": "",
+  "url": "https://www.corrienteshoy.com/nacionales/tomala-vos-damela-a-mi-lula-da-silva-le-devolvio-el-saludo-a-sergio-massa.htm",
+  "publicado": "2026-10-28T00:01:26+00:00",
+  "id": "0770e6e5debde59f",
+  "titulo_norm": "tomala vos dámela a mi lula da silva le devolvió el saludo a sergio massa",
+  "resumen": "Lula da Silva le devolvió el saludo a Sergio Massa, en un intercambio de gestos entre ambos que la nota presenta con tono distendido. Massa aparece como protagonista de una muestra de cercanía con el presidente brasileño.",
+  "relevante": 1,
+  "recolectado": "2026-10-28T00:34:19+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "La Política Online",
   "autor": "La Política Online",
