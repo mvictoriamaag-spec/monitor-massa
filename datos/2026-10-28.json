@@ -1,6 +1,21 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "La Voz de San Justo",
+  "autor": "La Voz de San Justo",
+  "tipo": "nota",
+  "titulo": "Bella Massa sigue abriendo camino: jugará los Evita con Córdoba",
+  "texto": "Bella Massa sigue abriendo camino: jugará los Evita con Córdoba",
+  "url": "https://www.lavozdesanjusto.com.ar/bella-massa-sigue-abriendo-camino-jugara-los-evita-con-cordoba",
+  "publicado": "2026-10-28T23:15:11+00:00",
+  "id": "c3572df577537415",
+  "titulo_norm": "bella massa sigue abriendo camino jugará los evita con córdoba",
+  "resumen": "Bella Massa jugará los Juegos Evita representando a Córdoba, en la línea de su camino deportivo. Se trata de otra persona, no del dirigente Sergio Massa.",
+  "relevante": 0,
+  "recolectado": "2026-10-28T23:43:17+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Nuevo Diario de Salta",
   "autor": "Nuevo Diario de Salta",
   "tipo": "nota",
