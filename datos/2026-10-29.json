@@ -1,6 +1,21 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "Diario Full",
+  "autor": "Diario Full",
+  "tipo": "nota",
+  "titulo": "La voz de Massa en La Plata: Arteaga defendió las PASO y dijo que en el peronismo \"no sobra nadie y faltan muchos\"",
+  "texto": "El ex concejal, ex candidato a intendente platense y presidente de Autopistas de Buenos Aires S.A. (AUBASA), José Ramón Arteaga, se refirió al r",
+  "url": "https://diariofull.com.ar/nota/18709/la-voz-de-massa-en-la-plata-arteaga-defendio-las-paso-y-dijo-que-en-el-peronismo-no-sobra-nadie-y-faltan-muchos/",
+  "publicado": "2026-10-29T15:40:35+00:00",
+  "id": "577d64b5316e5f4c",
+  "titulo_norm": "la voz de massa en la plata arteaga defendió las paso y dijo que en el peronismo no sobra nadie y faltan muchos",
+  "resumen": "José Ramón Arteaga, presentado como la voz de Massa en La Plata, defendió las PASO y dijo que en el peronismo \"no sobra nadie y faltan muchos\". Massa aparece como referencia política del espacio que Arteaga expresa.",
+  "relevante": 1,
+  "recolectado": "2026-10-29T16:32:36+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "https://www.hortidaily.es/",
   "autor": "https://www.hortidaily.es/",
   "tipo": "nota",
