@@ -1,5 +1,20 @@
 [
  {
+  "plataforma": "nacional",
+  "fuente": "Revista Noticias",
+  "autor": "Revista Noticias",
+  "tipo": "nota",
+  "titulo": "Sergio Massa contra Guillermo Francos: \"Fuiste ñoqui de Alberto Fernández\"",
+  "texto": "En una entrevista radial, el ex jefe de Gabinete de Milei recordó los vínculos de Lula Da Silva con el tigrense y este le respondió en redes sociales.",
+  "url": "https://noticias.perfil.com/noticias/politica/sergio-massa-contra-guillermo-francos-fuiste-noqui-de-alberto-fernandez.phtml",
+  "publicado": "2026-10-29T16:27:54+00:00",
+  "id": "c7ae51d932ff6878",
+  "titulo_norm": "sergio massa contra guillermo francos fuiste ñoqui de alberto fernández",
+  "resumen": "Sergio Massa responde en redes sociales a Guillermo Francos, quien en una entrevista radial recordó los vínculos de Lula da Silva con Massa. Massa lo critica con el insulto \"ñoqui\" de Alberto Fernández.",
+  "relevante": 1,
+  "recolectado": "2026-10-29T18:13:43+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "Diario Full",
   "autor": "Diario Full",
