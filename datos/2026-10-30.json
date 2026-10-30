@@ -1,5 +1,20 @@
 [
  {
+  "plataforma": "nacional",
+  "fuente": "Agencia Noticias Argentinas",
+  "autor": "Agencia Noticias Argentinas",
+  "tipo": "nota",
+  "titulo": "Última encuesta: 6 de cada 10 creen que si Milei es reelecto no habrá clase media y pujan Axel - Massa en balotaje",
+  "texto": "El último estudio nacional de Hugo Haime & Asociados mostró un fuerte pesimismo social sobre una eventual reelección de Javier Milei, aunque la pelea presidencial de 2027 se mantiene en empate técnico.",
+  "url": "https://noticiasargentinas.com/politica/ultima-encuesta--6-de-cada-10-creen-que-si-milei-es-reelecto-no-habra-clase-media-y-pujan-axel---massa-en-balotaje-_a6ae4b3b345c3c55a7b5934e8",
+  "publicado": "2026-10-30T15:18:56+00:00",
+  "id": "8dfa64cfb92cb268",
+  "titulo_norm": "última encuesta 6 de cada 10 creen que si milei es reelecto no habrá clase media y pujan axel",
+  "resumen": "Encuesta de Hugo Haime & Asociados: 6 de cada 10 creen que una reelección de Javier Milei dejaría sin clase media, y la presidencial de 2027 está en empate técnico. Massa aparece como posible protagonista del balotaje junto a Axel.",
+  "relevante": 1,
+  "recolectado": "2026-10-30T15:29:05+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "Panorama Directo",
   "autor": "Panorama Directo",
