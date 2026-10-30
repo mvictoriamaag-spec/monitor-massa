@@ -34,8 +34,7 @@ def id_para(url):
 
 
 def normalizar_titulo(titulo):
-    t = re.sub(r"\s+-\s+[^-]+$", "", titulo or "")  # quita " - Medio" de Google Noticias
-    return re.sub(r"[^a-z0-9áéíóúñü]+", " ", t.lower()).strip()[:120]
+    return re.sub(r"[^a-z0-9áéíóúñü]+", " ", (titulo or "").lower()).strip()[:120]
 
 
 def filtrar_nuevas(menciones):
@@ -66,6 +65,21 @@ def guardar(menciones):
         por_dia.setdefault(_fecha_local(m), []).append({**m, "recolectado": ahora})
     for fecha, nuevas in por_dia.items():
         _escribir_dia(fecha, _leer_dia(fecha) + nuevas)
+
+
+def sin_resumen_ia(dias=2):
+    """Menciones de los últimos días cuyo resumen de Claude falló (tienen el resumen simple)."""
+    hoy = datetime.now(TZ).date()
+    return [m for d in range(dias) for m in _leer_dia(hoy - timedelta(days=d)) if m.get("resumen_ia") is False]
+
+
+def actualizar(menciones):
+    """Reemplaza menciones ya guardadas (mismo id) por su versión nueva."""
+    por_dia = {}
+    for m in menciones:
+        por_dia.setdefault(_fecha_local(m), {})[m["id"]] = m
+    for fecha, cambios in por_dia.items():
+        _escribir_dia(fecha, [cambios.get(m["id"], m) for m in _leer_dia(fecha)])
 
 
 def _preparar(m):

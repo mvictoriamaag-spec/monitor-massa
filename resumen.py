@@ -101,6 +101,8 @@ def _con_claude(lote):
             encoding="utf-8", timeout=300, env=entorno, cwd=BASE,
             creationflags=subprocess.CREATE_NO_WINDOW if sys.platform == "win32" else 0,
         )
+        if r.returncode != 0 and not r.stdout.strip():
+            raise OSError(f"claude terminó con código {r.returncode}: {r.stderr.strip()[:200]}")
         datos = json.loads(r.stdout)
     except (subprocess.TimeoutExpired, json.JSONDecodeError, OSError) as e:
         log.warning("No se pudo obtener el resumen de Claude (%s); uso resumen simple.", e)
@@ -108,7 +110,11 @@ def _con_claude(lote):
     if datos.get("is_error") or not datos.get("structured_output"):
         log.warning("Claude no devolvió resúmenes (%s); uso resumen simple.", str(datos.get("result"))[:200])
         return {}
-    return {i["id"]: i for i in datos["structured_output"].get("items", [])}
+    items = {i["id"]: i for i in datos["structured_output"].get("items", [])}
+    faltan = [m["id"] for m in lote if m["id"] not in items]
+    if faltan:
+        log.warning("Claude no resumió %d de %d notas; se reintentan en la próxima corrida.", len(faltan), len(lote))
+    return items
 
 
 def resumir(menciones):
@@ -122,4 +128,5 @@ def resumir(menciones):
         r = resultados.get(m["id"])
         m["resumen"] = r["resumen"] if r else _extractivo(m)
         m["relevante"] = 0 if (r and not r["relevante"]) else 1
+        m["resumen_ia"] = bool(r)  # False = resumen simple; se reintenta en la próxima corrida
     return menciones

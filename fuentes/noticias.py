@@ -10,7 +10,7 @@ from urllib.parse import quote_plus, urlparse
 import feedparser
 import requests
 
-from fuentes import limpiar_html, menciona_massa
+from fuentes import es_link_web, limpiar_html, menciona_massa
 
 log = logging.getLogger(__name__)
 
@@ -138,7 +138,7 @@ def recolectar(horas_atras=24):
             if not menciona_massa(f"{titulo} {bajada}"):
                 continue
             publicado = _fecha(e)
-            if not publicado or publicado < limite or not e.get("link"):
+            if not publicado or publicado < limite or not es_link_web(e.get("link")):
                 continue
             fuente = medio
             if medio == "Google Noticias":
@@ -196,7 +196,9 @@ def completar(menciones):
     def una(m):
         if "news.google.com" in m["url"]:
             try:
-                m["url"] = _resolver_google(m["url"])
+                directo = _resolver_google(m["url"])
+                if es_link_web(directo):
+                    m["url"] = directo
             except Exception as e:
                 log.info("No se pudo resolver el link de Google (%s): %s", m["fuente"], e)
         if m["plataforma"] is None:
