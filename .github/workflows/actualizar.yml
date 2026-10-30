@@ -47,7 +47,10 @@ jobs:
           git add datos
           if ! git diff --cached --quiet; then
             git commit -m "Menciones $(TZ=America/Argentina/Buenos_Aires date '+%d/%m %H:%M')"
-            git push
+            for intento in 1 2 3; do
+              git pull --rebase origin main && git push && break
+              sleep 5
+            done
           fi
 
       - uses: actions/configure-pages@v5

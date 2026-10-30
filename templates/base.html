@@ -4,11 +4,10 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="noindex, nofollow">
-  {% block refresco %}{% endblock %}
   <title>{% block titulo %}Menciones a Massa{% endblock %}</title>
   {% include "_estilos.html" %}
 </head>
-<body>
+<body data-generado="{{ (generado.timestamp() * 1000)|int }}"{% if pestana in ('ultima', 'hoy') %} data-recargar="1"{% endif %}>
 <header class="sitio">
   <div class="contenedor">
     <h1>Menciones a Sergio Massa</h1>
@@ -24,6 +23,7 @@
   <div class="estado">
     <span>Actualizado: {{ generado.strftime('%d/%m %H:%M') }} h</span>
     <span id="progreso" aria-live="polite"></span>
+    <span id="viejo" class="error" hidden>Hace más de una hora que no se actualiza: puede faltar lo último.</span>
     <button type="button" id="actualizar" class="primario" style="margin-left:auto">Actualizar ahora</button>
     <button type="button" id="compartir">Compartir esta página</button>
   </div>
@@ -90,6 +90,14 @@
   const progreso = document.getElementById("progreso");
   const panel = document.getElementById("panel-token");
 
+  // 401/404 o 403 que no sea por límite de pedidos = token vencido o sin permiso: se borra.
+  function tokenRechazado(r) {
+    const limite = r.status === 403 && r.headers.get("x-ratelimit-remaining") === "0";
+    if (!(r.status === 401 || r.status === 404 || (r.status === 403 && !limite))) return false;
+    guardado.escribir("localStorage", "github_token", null); tokenSesion = null;
+    return true;
+  }
+
   function pedirToken(error) {
     const p = document.getElementById("token-error");
     p.textContent = error || ""; p.hidden = !error;
@@ -111,8 +119,7 @@
       botonActualizar.disabled = false;
       return;
     }
-    if (r.status === 401 || r.status === 403 || r.status === 404) {
-      guardado.escribir("localStorage", "github_token", null); tokenSesion = null;
+    if (tokenRechazado(r)) {
       progreso.textContent = ""; botonActualizar.disabled = false;
       return pedirToken("GitHub no aceptó el token (puede estar vencido o sin permiso de Actions). Pegá uno nuevo.");
     }
@@ -139,6 +146,11 @@
     let corrida = null;
     try {
       const r = await github(`/actions/workflows/${WORKFLOW}/runs?event=workflow_dispatch&per_page=5`);
+      if (tokenRechazado(r)) {
+        guardado.escribir("sessionStorage", "actualizando_desde", null);
+        progreso.textContent = ""; botonActualizar.disabled = false;
+        return pedirToken("GitHub dejó de aceptar el token (puede estar vencido). Pegá uno nuevo.");
+      }
       if (r.ok) corrida = (await r.json()).workflow_runs.find((c) => Date.parse(c.created_at) >= desde);
     } catch (_) {}
     if (corrida && corrida.status === "completed") {
@@ -159,14 +171,8 @@
     setTimeout(seguir, 10 * 1000);
   }
 
-  // Abrir la página con #token=... guarda el token en este navegador y lo saca de la dirección.
-  const enLink = new URLSearchParams(location.hash.slice(1)).get("token");
-  if (enLink) {
-    tokenSesion = enLink;
-    guardado.escribir("localStorage", "github_token", enLink);
-    history.replaceState(null, "", location.pathname + location.search);
-    progreso.textContent = "Listo: este navegador ya puede actualizar con el botón.";
-  }
+  // Si alguien abre un link viejo con #token=..., no se usa y se borra de la dirección.
+  if (location.hash.includes("token=")) history.replaceState(null, "", location.pathname + location.search);
 
   botonActualizar.addEventListener("click", actualizar);
   panel.addEventListener("submit", (ev) => {
@@ -180,8 +186,9 @@
   seguir();
 
   // Filtros por tipo de medio y, en "Última hora", sólo lo de los últimos 60 minutos
-  let filtro = "";
+  let filtro = guardado.leer("sessionStorage", "filtro") || "";
   function aplicar() {
+    document.getElementById("viejo").hidden = Date.now() - Number(document.body.dataset.generado) < 60 * 60 * 1000;
     const limite = document.body.dataset.ultimaHora ? Date.now() - 60 * 60 * 1000 : 0;
     document.querySelectorAll(".tarjeta").forEach((t) => {
       t.hidden = (filtro && t.dataset.plataforma !== filtro) || Number(t.dataset.ts) < limite;
@@ -199,10 +206,17 @@
   }
   document.querySelectorAll("[data-filtro]").forEach((b) => b.addEventListener("click", () => {
     filtro = b.dataset.filtro;
+    guardado.escribir("sessionStorage", "filtro", filtro);
     document.querySelectorAll("[data-filtro]").forEach((x) => x.classList.toggle("sel", x === b));
     aplicar();
   }));
+  document.querySelectorAll("[data-filtro]").forEach((x) => x.classList.toggle("sel", x.dataset.filtro === filtro));
   aplicar();
+
+  // Última hora y Hoy se recargan cada 5 minutos, salvo que se esté pegando el token o siguiendo una actualización.
+  if (document.body.dataset.recargar) setInterval(() => {
+    if (panel.hidden && !guardado.leer("sessionStorage", "actualizando_desde")) location.reload();
+  }, 5 * 60 * 1000);
   setInterval(aplicar, 60 * 1000);
 </script>
 </body>

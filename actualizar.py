@@ -10,5 +10,5 @@ import sitio
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(name)s: %(message)s")
 
 if __name__ == "__main__":
-    recolector.ciclo()  # los avisos de medios que no respondieron quedan en el registro de Actions
-    sitio.generar()
+    _, avisos = recolector.ciclo()
+    sitio.generar(avisos)  # los medios que no respondieron se listan en la página

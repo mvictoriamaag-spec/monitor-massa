@@ -39,7 +39,7 @@ INTERIOR = {
     "El Tribuno (Jujuy)": "https://www.eltribuno.com/jujuy/feed/",
     "Todo Jujuy": "https://www.todojujuy.com/rss/pages/politica.xml",
     "Río Negro": "https://www.rionegro.com.ar/feed/",
-    "LM Neuquén": "https://www.lmneuquen.com/rss/pages/home.xml",
+    "LM Neuquén": "https://www.lmneuquen.com/rss/pages/ultimas-noticias.xml",
     "El Día (La Plata)": "https://www.eldia.com/rss/pages/politica.xml",
     "0221 (La Plata)": "https://www.0221.com.ar/rss/pages/home.xml",
     "0223 (Mar del Plata)": "https://www.0223.com.ar/rss",
@@ -70,6 +70,8 @@ DOMINIOS_NACIONALES = {
     "laizquierdadiario.com", "elintransigente.com", "diarioar.com", "infonews.com", "canal26.com",
     "eldiarioar.com", "radiomitre.cienradios.com",
     "parlamentario.com", "politicaymedios.com.ar", "realpolitik.com.ar",
+    "noticiasurbanas.com.ar", "bigbangnews.com", "politicargentina.com", "diagonales.com",
+    "elargentinodiario.com.ar", "nexofin.com",
 }
 DOMINIOS_INTERIOR = {urlparse(u).hostname.removeprefix("www.") for u in INTERIOR.values()} | {
     "lavoz.com.ar", "cadena3.com", "elsol.com.ar", "rosario3.com", "ellitoral.com", "lanueva.com", "lacapitalmdp.com",
@@ -78,6 +80,25 @@ DOMINIOS_INTERIOR = {urlparse(u).hostname.removeprefix("www.") for u in INTERIOR
     "laopiniondeformosa.com.ar", "canalc.com.ar", "elbonaerense.news", "informenorte.com",
     "eldiariodecarlospaz.com.ar", "eldoce.tv", "airedesantafe.com.ar", "lmcipolletti.com",
     "jujuyalmomento.com", "quepasasalta.com.ar", "infoban.com.ar", "primerapagina.info",
+    "lagaceta.com.ar", "informenorte.com.ar", "agencianova.com",
+    # Salta, Jujuy, Tucumán, Santiago del Estero, Catamarca, La Rioja
+    "holasalta.com", "gentedesalta.com", "nuevodiariodesalta.com.ar", "agendasalta.com.ar",
+    "infonoasalta.com.ar", "diariojujuy.com.ar", "pregon.com.ar", "lapostadelnoroeste.com.ar",
+    "infonoroeste.com.ar", "contextotucuman.com", "canal10.com.ar", "infodelestero.com",
+    "elesquiu.com", "launion.digital", "riojavirtual.com.ar",
+    # NEA y Litoral
+    "corrienteshoy.com", "identidadcorrentina.com.ar", "diariochaco.com", "lamanana.com.ar",
+    "guauformosa.com.ar", "cuestionentrerriana.com.ar", "0343.com.ar", "reconquistaradios.com.ar",
+    # Cuyo
+    "mendozatoday.com.ar", "mendoza24.com.ar", "diariomendoza.com.ar", "canal13sanjuan.com",
+    # Patagonia y La Pampa
+    "neuquenpost.com", "minutoneuquen.com", "lmdiario.com.ar", "noticiasdebariloche.com.ar",
+    "adnsur.com.ar", "lu17.com", "cholilaonline.ar", "lateclapatagonia.com.ar", "infofueguina.com",
+    "eldiariodelapampa.com.ar", "infotecrealico.com.ar",
+    # Provincia de Buenos Aires
+    "diarioelnorte.com.ar", "laplata1.com", "eleditorplatense.com", "junindigital.com",
+    "semanariodejunin.com.ar", "hoyrojas.com.ar", "larazondechivilcoy.com.ar", "noticiasmercedinas.com",
+    "opinandosannicolas.ar", "eleco.com.ar", "lu9mardelplata.com.ar", "pinamar24.com.ar",
 }
 
 GOOGLE_NEWS = "https://news.google.com/rss/search?q={q}&hl=es-419&gl=AR&ceid=AR:es-419"
@@ -132,6 +153,10 @@ def recolectar(horas_atras=24):
         if error:
             errores.append(error)
             continue
+        if not feed.entries:
+            log.warning("%s respondió sin notas (¿cambió la dirección del RSS?)", medio)
+            errores.append(f"{medio}: respondió sin notas")
+            continue
         for e in feed.entries:
             titulo = limpiar_html(e.get("title", ""))
             bajada = limpiar_html(e.get("summary", ""))[:1500]
@@ -162,7 +187,7 @@ def recolectar(horas_atras=24):
 def _resolver_google(url):
     """Convierte un link news.google.com/rss/articles/... en el link original de la nota."""
     gid = urlparse(url).path.rstrip("/").split("/")[-1]
-    pagina = requests.get(url, headers=HEADERS, timeout=20).text
+    pagina = requests.get(url, headers=HEADERS, timeout=10).text
     sg = re.search(r'data-n-a-sg="([^"]+)"', pagina).group(1)
     ts = re.search(r'data-n-a-ts="([^"]+)"', pagina).group(1)
     interno = (
@@ -173,7 +198,7 @@ def _resolver_google(url):
         "https://news.google.com/_/DotsSplashUi/data/batchexecute",
         headers={**HEADERS, "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8"},
         data={"f.req": json.dumps([[["Fbv4je", interno, None, "generic"]]])},
-        timeout=20,
+        timeout=10,
     )
     datos = json.loads(r.text.split("\n\n", 1)[1])
     return json.loads(datos[0][2])[1]
@@ -181,7 +206,10 @@ def _resolver_google(url):
 
 def _bajada_de_la_nota(url):
     """Lee la descripción (og:description) de la página de la nota."""
-    r = requests.get(url, headers=HEADERS, timeout=15)
+    r = requests.get(url, headers=HEADERS, timeout=8)
+    r.raise_for_status()  # una página de error no es la bajada de la nota
+    if "charset" not in r.headers.get("Content-Type", "").lower():
+        r.encoding = r.apparent_encoding  # evita acentos rotos
     for patron in (r'<meta[^>]+property="og:description"[^>]+content="([^"]*)"',
                    r'<meta[^>]+content="([^"]*)"[^>]+property="og:description"',
                    r'<meta[^>]+name="description"[^>]+content="([^"]*)"'):
