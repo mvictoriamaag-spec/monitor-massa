@@ -18,7 +18,7 @@ from fuentes import menciona_massa
 log = logging.getLogger(__name__)
 
 PERFIL = BASE / "perfil-x"
-BUSQUEDA = '(Massa OR @SergioMassa) -Felipe'
+BUSQUEDA = '(Massa OR @SergioMassa) -Felipe lang:es'
 DESPLAZAMIENTOS = 6  # cuántas veces se baja en la página de resultados
 
 # Lee los posts visibles en la página de resultados.
