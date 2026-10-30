@@ -4,6 +4,7 @@
   <div class="meta">
     <span class="badge {{ m.plataforma }}">{{ ETQ[m.plataforma] }}</span>
     <strong>{{ m.fuente }}</strong>
+    {% if m.seguidores %}<span class="seguidores">{{ '{:,}'.format(m.seguidores).replace(',', '.') }} seguidores</span>{% endif %}
     <time datetime="{{ m.publicado }}">{{ m.publicado_local.strftime('%H:%M') }} h</time>
   </div>
   {% if m.titulo %}<h3>{{ m.titulo }}</h3>{% endif %}

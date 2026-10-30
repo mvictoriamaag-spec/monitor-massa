@@ -31,12 +31,9 @@ NACIONALES = {
 INTERIOR = {
     "Los Andes (Mendoza)": "https://www.losandes.com.ar/rss/pages/politica.xml",
     "Diario Uno (Mendoza)": "https://www.diariouno.com.ar/rss/pages/politica.xml",
-    "MDZ (Mendoza)": "https://www.mdzol.com/rss/pages/politica.xml",
     "Sitio Andino (Mendoza)": "https://www.sitioandino.com.ar/rss/pages/politica.xml",
     "La Capital (Rosario)": "https://www.lacapital.com.ar/rss/pages/politica.xml",
     "La Gaceta (Tucumán)": "https://feeds.feedburner.com/LaGacetaUltimoMomento?format=xml",
-    "El Tribuno (Salta)": "https://www.eltribuno.com/feed/",
-    "El Tribuno (Jujuy)": "https://www.eltribuno.com/jujuy/feed/",
     "Todo Jujuy": "https://www.todojujuy.com/rss/pages/politica.xml",
     "Río Negro": "https://www.rionegro.com.ar/feed/",
     "LM Neuquén": "https://www.lmneuquen.com/rss/pages/ultimas-noticias.xml",
@@ -45,7 +42,6 @@ INTERIOR = {
     "0223 (Mar del Plata)": "https://www.0223.com.ar/rss",
     "InfoCielo (Buenos Aires)": "https://www.infocielo.com/feed",
     "El Litoral (Corrientes)": "https://www.ellitoral.com.ar/feed/",
-    "Época (Corrientes)": "https://www.diarioepoca.com/rss",
     "Misiones Online": "https://misionesonline.net/feed/",
     "Diario Norte (Chaco)": "https://www.diarionorte.com/rss",
     "Chaco Día por Día": "https://www.chacodiapordia.com/feed/",
@@ -81,6 +77,8 @@ DOMINIOS_INTERIOR = {urlparse(u).hostname.removeprefix("www.") for u in INTERIOR
     "eldiariodecarlospaz.com.ar", "eldoce.tv", "airedesantafe.com.ar", "lmcipolletti.com",
     "jujuyalmomento.com", "quepasasalta.com.ar", "infoban.com.ar", "primerapagina.info",
     "lagaceta.com.ar", "informenorte.com.ar", "agencianova.com",
+    # Bloquean a GitHub (error 403): sus notas llegan por Google Noticias
+    "mdzol.com", "eltribuno.com", "diarioepoca.com",
     # Salta, Jujuy, Tucumán, Santiago del Estero, Catamarca, La Rioja
     "holasalta.com", "gentedesalta.com", "nuevodiariodesalta.com.ar", "agendasalta.com.ar",
     "infonoasalta.com.ar", "diariojujuy.com.ar", "pregon.com.ar", "lapostadelnoroeste.com.ar",

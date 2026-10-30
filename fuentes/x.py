@@ -19,7 +19,8 @@ log = logging.getLogger(__name__)
 
 PERFIL = BASE / "perfil-x"
 BUSQUEDA = '(Massa OR @SergioMassa) -Felipe lang:es'
-DESPLAZAMIENTOS = 6  # cuántas veces se baja en la página de resultados
+DESPLAZAMIENTOS = 10  # cuántas veces se baja en la página de resultados
+MIN_SEGUIDORES = 5000  # se descartan los posts de cuentas más chicas
 
 # Lee los posts visibles en la página de resultados.
 _LEER_POSTS = """() => [...document.querySelectorAll('article[data-testid="tweet"]')].map((a) => {
@@ -36,6 +37,44 @@ _LEER_POSTS = """() => [...document.querySelectorAll('article[data-testid="tweet
 })"""
 
 
+def _seguidores_de(respuesta, destino):
+    """De una respuesta de la búsqueda de X, anota {id del post: seguidores del autor} en destino."""
+    if "SearchTimeline" not in respuesta.url:
+        return
+    try:
+        datos = respuesta.json()
+    except Exception:
+        return
+
+    def buscar_clave(obj, clave):
+        if isinstance(obj, dict):
+            if clave in obj:
+                return obj[clave]
+            obj = list(obj.values())
+        if isinstance(obj, list):
+            for v in obj:
+                r = buscar_clave(v, clave)
+                if r is not None:
+                    return r
+        return None
+
+    def recorrer(obj):
+        if isinstance(obj, dict):
+            usuario = obj.get("core", {}).get("user_results", {}).get("result") if isinstance(obj.get("core"), dict) else None
+            if obj.get("rest_id") and usuario:
+                conteos = usuario.get("relationship_counts") or {}  # formato actual de X
+                seguidores = conteos.get("followers", buscar_clave(usuario, "followers_count"))
+                if seguidores is not None:
+                    destino[str(obj["rest_id"])] = int(seguidores)
+            for v in obj.values():
+                recorrer(v)
+        elif isinstance(obj, list):
+            for v in obj:
+                recorrer(v)
+
+    recorrer(datos)
+
+
 def abrir(playwright, visible=False):
     """Abre Chrome con el perfil del monitor (donde quedó iniciada la sesión de X)."""
     return playwright.chromium.launch_persistent_context(
@@ -49,11 +88,12 @@ def recolectar(horas_atras=24):
     from playwright.sync_api import sync_playwright
 
     limite = datetime.now(timezone.utc) - timedelta(hours=horas_atras)
-    vistos = {}
+    vistos, seguidores = {}, {}
     with sync_playwright() as p:
         navegador = abrir(p)
         try:
             pagina = navegador.new_page()
+            pagina.on("response", lambda r: _seguidores_de(r, seguidores))
             pagina.goto(f"https://x.com/search?q={quote(BUSQUEDA)}&src=typed_query&f=live",
                         wait_until="domcontentloaded", timeout=60_000)
             try:
@@ -71,9 +111,16 @@ def recolectar(horas_atras=24):
         finally:
             navegador.close()
 
-    menciones = []
+    if vistos and not seguidores:
+        return [], ["X: no se pudo leer la cantidad de seguidores (¿cambió X?); no se guardó ningún post."]
+
+    menciones, chicas = [], 0
     for url, post in vistos.items():
         if not post["publicado"] or not menciona_massa(post["texto"]):
+            continue
+        cantidad = seguidores.get(url.rstrip("/").split("/status/")[-1].split("/")[0])
+        if cantidad is None or cantidad < MIN_SEGUIDORES:
+            chicas += 1
             continue
         publicado = datetime.fromisoformat(post["publicado"].replace("Z", "+00:00"))
         if publicado < limite:
@@ -87,7 +134,9 @@ def recolectar(horas_atras=24):
             "titulo": "",
             "texto": post["texto"][:1500],
             "url": url,
+            "seguidores": cantidad,
             "publicado": publicado.astimezone(timezone.utc).isoformat(timespec="seconds"),
         })
-    log.info("X: %d posts leídos, %d mencionan a Massa", len(vistos), len(menciones))
+    log.info("X: %d posts leídos, %d de cuentas con %d+ seguidores (%d descartados por cuentas chicas)",
+             len(vistos), len(menciones), MIN_SEGUIDORES, chicas)
     return menciones, []
