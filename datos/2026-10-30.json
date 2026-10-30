@@ -46,6 +46,21 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "NorteOnline",
+  "autor": "NorteOnline",
+  "tipo": "nota",
+  "titulo": "PBA: Osuna pidió que el interior integre la fórmula del peronismo y reivindicó a Massa",
+  "texto": "Javier Osuna reclamó un dirigente del interior en la fórmula bonaerense del peronismo, defendió las internas y reivindicó el liderazgo de Sergio Massa.",
+  "url": "https://norteonline.com.ar/pba-osuna-interior-formula-peronismo-massa/",
+  "publicado": "2026-10-30T12:22:49+00:00",
+  "id": "d9778694d0f269af",
+  "titulo_norm": "pba osuna pidió que el interior integre la fórmula del peronismo y reivindicó a massa",
+  "resumen": "Javier Osuna reclamó que un dirigente del interior integre la fórmula bonaerense del peronismo, defendió las internas y reivindicó el liderazgo de Sergio Massa, en tono de respaldo.",
+  "relevante": 1,
+  "recolectado": "2026-10-30T17:58:05+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Panorama Directo",
   "autor": "Panorama Directo",
   "tipo": "nota",
