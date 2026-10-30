@@ -1,5 +1,35 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "diariolapluma.com.ar",
+  "autor": "diariolapluma.com.ar",
+  "tipo": "nota",
+  "titulo": "Encuesta rumbo a 2027: crece el rechazo al modelo de Milei, pero la disputa electoral sigue abierta entre Kicillof y Massa",
+  "texto": "",
+  "url": "https://diariolapluma.com.ar/encuesta-rumbo-a-2027-crece-el-rechazo-al-modelo-de-milei-pero-la-disputa-electoral-sigue-abierta-entre-kicillof-y-massa/",
+  "publicado": "2026-10-30T16:04:20+00:00",
+  "id": "f3ec417d3eda8f73",
+  "titulo_norm": "encuesta rumbo a 2027 crece el rechazo al modelo de milei pero la disputa electoral sigue abierta entre kicillof y massa",
+  "resumen": "Una encuesta rumbo a 2027 indica que crece el rechazo al modelo económico de Milei, aunque la disputa electoral sigue abierta entre Kicillof y Sergio Massa. Massa aparece como uno de los principales nombres de la competencia por la sucesión.",
+  "relevante": 1,
+  "recolectado": "2026-10-30T16:18:21+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Diario El Norte - San Nicolás",
+  "autor": "Diario El Norte - San Nicolás",
+  "tipo": "nota",
+  "titulo": "Encuesta nacional: Milei empata con Kicillof y Massa hacia 2027",
+  "texto": "",
+  "url": "https://diarioelnorte.com.ar/encuesta-nacional-milei-empata-con-kicillof-y-massa-hacia-2027/",
+  "publicado": "2026-10-30T16:03:22+00:00",
+  "id": "c58838d5853276e9",
+  "titulo_norm": "encuesta nacional milei empata con kicillof y massa hacia 2027",
+  "resumen": "Una encuesta nacional de cara a 2027 muestra a Javier Milei empatado con Axel Kicillof y con Sergio Massa. La nota trata la competencia electoral y ubica a Massa como posible candidato, sin tono crítico ni de apoyo explícito.",
+  "relevante": 1,
+  "recolectado": "2026-10-30T16:18:21+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Agencia Noticias Argentinas",
   "autor": "Agencia Noticias Argentinas",
