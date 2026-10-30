@@ -6,7 +6,7 @@
 {% if dias %}
 <table class="dias">
   <thead><tr><th>Fecha</th><th>Total</th><th class="ocultar-movil">Nacionales</th>
-    <th class="ocultar-movil">Interior</th><th class="ocultar-movil">Otros</th></tr></thead>
+    <th class="ocultar-movil">Interior</th><th class="ocultar-movil">Otros</th><th class="ocultar-movil">X</th></tr></thead>
   <tbody>
   {% for d in dias %}
     <tr>
@@ -15,6 +15,7 @@
       <td class="num ocultar-movil">{{ d.nacional }}</td>
       <td class="num ocultar-movil">{{ d.interior }}</td>
       <td class="num ocultar-movil">{{ d.portal }}</td>
+      <td class="num ocultar-movil">{{ d.x }}</td>
     </tr>
   {% endfor %}
   </tbody>

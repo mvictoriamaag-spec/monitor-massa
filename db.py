@@ -10,19 +10,29 @@ from datetime import date, datetime, timedelta, timezone
 from config import DATOS_DIR, TZ
 
 
-def _ruta(fecha):
-    return DATOS_DIR / f"{fecha.isoformat()}.json"
+X_DIR = DATOS_DIR / "x"  # los posts de X van aparte: los sube la PC, no GitHub Actions, y así no chocan
 
 
-def _leer_dia(fecha):
-    ruta = _ruta(fecha)
+def _ruta(fecha, carpeta=None):
+    return (carpeta or DATOS_DIR) / f"{fecha.isoformat()}.json"
+
+
+def _leer(ruta):
     return json.loads(ruta.read_text(encoding="utf-8")) if ruta.exists() else []
 
 
+def _leer_dia(fecha):
+    return _leer(_ruta(fecha)) + _leer(_ruta(fecha, X_DIR))
+
+
 def _escribir_dia(fecha, menciones):
-    DATOS_DIR.mkdir(parents=True, exist_ok=True)
     menciones.sort(key=lambda m: m["publicado"], reverse=True)
-    _ruta(fecha).write_text(json.dumps(menciones, ensure_ascii=False, indent=1), encoding="utf-8")
+    for carpeta, grupo in ((DATOS_DIR, [m for m in menciones if m.get("plataforma") != "x"]),
+                           (X_DIR, [m for m in menciones if m.get("plataforma") == "x"])):
+        ruta = _ruta(fecha, carpeta)
+        if grupo or ruta.exists():
+            carpeta.mkdir(parents=True, exist_ok=True)
+            ruta.write_text(json.dumps(grupo, ensure_ascii=False, indent=1), encoding="utf-8")
 
 
 def _fecha_local(m):
@@ -99,14 +109,15 @@ def recientes(horas=24):
 
 
 def dias_guardados():
-    return sorted((date.fromisoformat(p.stem) for p in DATOS_DIR.glob("*.json")), reverse=True)
+    archivos = [*DATOS_DIR.glob("*.json"), *X_DIR.glob("*.json")]
+    return sorted({date.fromisoformat(p.stem) for p in archivos}, reverse=True)
 
 
 def resumen_por_dia():
     """[{fecha, total, nacional, interior, portal}] de los días con menciones, más reciente primero."""
     resultado = []
     for fecha in dias_guardados():
-        d = {"fecha": fecha, "total": 0, "nacional": 0, "interior": 0, "portal": 0}
+        d = {"fecha": fecha, "total": 0, "nacional": 0, "interior": 0, "portal": 0, "x": 0}
         for m in del_dia(fecha):
             d["total"] += 1
             d[m["plataforma"]] = d.get(m["plataforma"], 0) + 1

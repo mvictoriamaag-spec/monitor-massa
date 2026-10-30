@@ -1,4 +1,4 @@
-{% set ETQ = {"nacional": "Nacional", "interior": "Interior", "portal": "Otro portal"} %}
+{% set ETQ = {"nacional": "Nacional", "interior": "Interior", "portal": "Otro portal", "x": "X"} %}
 {% macro tarjeta(m) -%}
 <article class="tarjeta" data-plataforma="{{ m.plataforma }}" data-ts="{{ (m.publicado_local.timestamp() * 1000)|int }}">
   <div class="meta">
