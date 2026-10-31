@@ -1,5 +1,37 @@
 [
  {
+  "plataforma": "interior",
+  "fuente": "Análisis Digital",
+  "autor": "Análisis Digital",
+  "tipo": "nota",
+  "titulo": "Encuesta: 6 de cada 10 creen que si Milei es reelecto no habrá clase media y pujan Axel - Massa en el balotaje",
+  "texto": "El último estudio nacional de Hugo Haime & Asociados mostró un fuerte pesimismo social sobre una eventual reelección de Javier Milei, aunque la pelea presidencial de 2027 se mantiene en empate técnico.",
+  "url": "https://www.analisisdigital.com.ar/nacionales/2026/10/31/encuesta-6-de-cada-10-creen-que-si-milei-es-reelecto-no-habra-clase-media-y-pujan-axel-massa-en-el-balotaje",
+  "publicado": "2026-10-31T19:50:49+00:00",
+  "id": "5782bc1205425750",
+  "titulo_norm": "encuesta 6 de cada 10 creen que si milei es reelecto no habrá clase media y pujan axel massa en el balotaje",
+  "resumen": "Encuesta nacional de Hugo Haime & Asociados: seis de cada diez creen que, si Milei es reelecto, no habrá clase media. Massa aparece en un posible balotaje 2027 contra Axel, en empate técnico.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-10-31T20:21:59+00:00"
+ },
+ {
+  "plataforma": "nacional",
+  "fuente": "Clarín",
+  "autor": "Clarín",
+  "tipo": "nota",
+  "titulo": "El Gobierno no logra acordar con los gobernadores y se demoran los dos proyectos que más necesita: Presupuesto y PASO",
+  "texto": "Las conversaciones se acelerarán recién después de la visita del Papa. La tensión pasa de la mesa política a la gestión. Respuesta privada de Bullrich a Menem y renuncias sonoras en dos áreas clave sin reemplazos. A pesar de la desconfianza de Kicillof. Massa asegura que intentará bloquear la reforma electoral.",
+  "url": "https://www.clarin.com/politica/gobierno-logra-acordar-gobernadores-demoran-proyectos-necesita-presupuesto-paso_0_O0q0XzJdSb.html",
+  "publicado": "2026-10-31T19:35:31+00:00",
+  "id": "2e7898e1bb9016f8",
+  "titulo_norm": "el gobierno no logra acordar con los gobernadores y se demoran los dos proyectos que más necesita presupuesto y paso",
+  "resumen": "Nota de Clarín sobre las trabas del Gobierno con los gobernadores, que demoran el Presupuesto y la reforma de las PASO. Massa aparece en tono opositor: asegura que intentará bloquear la reforma electoral.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-10-31T20:21:59+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "La Nación",
   "autor": "La Nación",
