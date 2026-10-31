@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "La Tecla",
+  "autor": "La Tecla",
+  "tipo": "nota",
+  "titulo": "\"Todos a las PASO\": Kicillof blindó las primarias y dijo que podría competir con Massa y CFK",
+  "texto": "El gobernador reunió a los intendentes del MDF en Gobernación, ratificó que las primarias se juegan y dejó abierta la puerta a una interna con Sergio Massa y Cristina Kirchner. Al mismo tiempo, los jefes comunales le plantaron el reclamo más urgente: rehabilitar las reelecciones indefinidas para no perder casi 80 cargos en 2027.",
+  "url": "https://www.latecla.info/170833-todos-a-las-paso-kicillof-blindo-las-primarias-y-dijo-que-podria-competir-con-massa-y-cfk",
+  "publicado": "2026-10-31T12:09:27+00:00",
+  "id": "4fe4f87d6b98f5ea",
+  "titulo_norm": "todos a las paso kicillof blindó las primarias y dijo que podría competir con massa y cfk",
+  "resumen": "Kicillof ratificó ante intendentes del MDF que las candidaturas se definirán en primarias y dejó abierta la posibilidad de una interna con Sergio Massa y Cristina Kirchner. Los jefes comunales reclamaron rehabilitar las reelecciones indefinidas para no perder cerca de 80 cargos en 2027.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-10-31T12:53:26+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "La Voz del Interior",
   "autor": "La Voz del Interior",
@@ -14,6 +30,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-10-31T11:28:49+00:00"
+ },
+ {
+  "plataforma": "interior",
+  "fuente": "Diario 13 San Juan",
+  "autor": "Diario 13 San Juan",
+  "tipo": "nota",
+  "titulo": "Axel Kicillof desafía la interna peronista y abre la puerta a una PASO con Cristina Kirchner y Sergio Massa",
+  "texto": "Ante una cumbre de más de cuarenta intendentes bonaerenses que le reclamaron definiciones políticas, el gobernador ratificó su voluntad de dirimir candidaturas en las urnas y cuestionó las definiciones “a dedo” dentro del espacio.",
+  "url": "https://www.canal13sanjuan.com/politica/axel-kicillof-desafia-la-interna-peronista-y-abre-la-puerta-a-una-paso-con-cristina-kirchner-y-sergio-massa_a6ae53f6a09dee0a0b9a8ef00",
+  "publicado": "2026-10-31T10:30:00+00:00",
+  "id": "7b09aaf3154da495",
+  "titulo_norm": "axel kicillof desafía la interna peronista y abre la puerta a una paso con cristina kirchner y sergio massa",
+  "resumen": "Kicillof, ante más de cuarenta intendentes bonaerenses, reafirmó que quiere dirimir las candidaturas peronistas en las urnas y criticó las definiciones «a dedo». Abrió la puerta a una PASO con Cristina Kirchner y Sergio Massa como posibles rivales.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-10-31T12:53:26+00:00"
  },
  {
   "plataforma": "interior",
@@ -62,6 +94,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-10-31T09:09:36+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Tendencia de Noticias",
+  "autor": "Tendencia de Noticias",
+  "tipo": "nota",
+  "titulo": "Axel Kicillof le aseguró a los intendentes que podría competir en las PASO con Cristina Kirchner o Sergio Massa",
+  "texto": "El gobernador bonaerense se reunió con 43 jefes comunales en La Plata. Debatieron la reelección indefinida en las intendencias de Buenos Aires. Visitó Jujuy y se reunió con Carlos Sadir.",
+  "url": "https://tendenciadenoticias.com.ar/politica/axel-kicillof-le-aseguro-a-los-intendentes-que-podria-competir-en-las-paso-con-cristina-kirchner-o-sergio-massa",
+  "publicado": "2026-10-31T03:34:00+00:00",
+  "id": "83e0634f7b9d324c",
+  "titulo_norm": "axel kicillof le aseguró a los intendentes que podría competir en las paso con cristina kirchner o sergio massa",
+  "resumen": "Kicillof aseguró a 43 intendentes reunidos en La Plata que podría competir en las PASO con Cristina Kirchner o Sergio Massa. En el encuentro también se debatió la reelección indefinida de los intendentes bonaerenses.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-10-31T12:53:26+00:00"
  },
  {
   "plataforma": "portal",
