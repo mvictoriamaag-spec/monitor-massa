@@ -1,5 +1,37 @@
 [
  {
+  "plataforma": "interior",
+  "fuente": "Río Negro",
+  "autor": "Río Negro",
+  "tipo": "nota",
+  "titulo": "Axel Kicillof quiere una PASO en el peronismo y está dispuesto a competir contra Cristina Kirchner o Sergio Massa",
+  "texto": "El gobernador bonaerense planteó que no quiere candidaturas definidas «a dedo» y pidió prepararse para una interna en una reunión con intendentes de la provincia. También respaldó la reelección de los jefes comunales y posicionó a Katopodis y Alak.",
+  "url": "https://www.rionegro.com.ar/politica/axel-kicillof-quiere-una-paso-en-el-peronismo-y-esta-dispuesto-a-competir-contra-cristina-kirchner-o-sergio-massa-4779782/",
+  "publicado": "2026-10-31T15:35:22+00:00",
+  "id": "b43400816c72679a",
+  "titulo_norm": "axel kicillof quiere una paso en el peronismo y está dispuesto a competir contra cristina kirchner o sergio massa",
+  "resumen": "Kicillof planteó en una reunión con intendentes que no quiere candidaturas «a dedo» y que está dispuesto a competir en una PASO contra Cristina Kirchner o Sergio Massa. También respaldó la reelección de los jefes comunales y posicionó a Katopodis y Alak.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-10-31T16:04:40+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Impacto Castex",
+  "autor": "Impacto Castex",
+  "tipo": "nota",
+  "titulo": "Kicillof desafía a Cristina y Massa a competir en una PASO",
+  "texto": "Ante unos 43 intendentes bonaerenses, el gobernador dijo que está dispuesto a competir en una interna y rechazó que las candidaturas se definan a dedo. También respaldó la reelección de los jefes comunales y empoderó a Gabriel Katopodis y Julio Alak para la disputa provincial.",
+  "url": "https://impactocastex.com.ar/politica/17585/kicillof-desafia-a-cristina-y-massa-a-competir-en-una-paso",
+  "publicado": "2026-10-31T15:30:00+00:00",
+  "id": "f71dddd07bcc3fce",
+  "titulo_norm": "kicillof desafía a cristina y massa a competir en una paso",
+  "resumen": "Ante unos 43 intendentes bonaerenses, Kicillof desafió a Cristina Kirchner y Sergio Massa a competir en una interna y rechazó las candidaturas «a dedo». También respaldó la reelección de los jefes comunales y dio protagonismo a Katopodis y Alak.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-10-31T16:04:40+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "iProfesional",
   "autor": "iProfesional",
