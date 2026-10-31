@@ -177,6 +177,22 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "Fenix951",
+  "autor": "Fenix951",
+  "tipo": "nota",
+  "titulo": "Axel Kicillof aseguró que esta dispuesto a ir a una PASO con Cristina o Massa: “Compitamos, sin decisiones a dedo”",
+  "texto": "",
+  "url": "http://fenix951.com.ar/noticia.php?id=358732",
+  "publicado": "2026-10-31T12:58:29+00:00",
+  "id": "be4a7992a46a19d5",
+  "titulo_norm": "axel kicillof aseguró que esta dispuesto a ir a una paso con cristina o massa compitamos sin decisiones a dedo",
+  "resumen": "Axel Kicillof afirmó que está dispuesto a competir en una PASO contra Cristina Kirchner o Sergio Massa, pidiendo que la candidatura se defina por votación y no por decisiones a dedo.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-10-31T23:45:56+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "La Tecla",
   "autor": "La Tecla",
   "tipo": "nota",
