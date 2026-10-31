@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "nacional",
+  "fuente": "Canal26",
+  "autor": "Canal26",
+  "tipo": "nota",
+  "titulo": "Kicillof les dijo a los intendentes que está listo para una PASO con Cristina Kirchner o Massa: “Compitamos, sin candidatos definidos a dedo”",
+  "texto": "El gobernador bonaerense reunió a intendentes de su espacio y dejó una fuerte definición política: está dispuesto a competir en una PASO contra Cristina Kirchner o Sergio Massa y rechazó las candidaturas definidas “a dedo”.",
+  "url": "https://www.canal26.com/politica/2026/10/31/kicillof-les-dijo-a-los-intendentes-que-esta-listo-para-una-paso-con-cristina-kirchner-o-massa-compitamos-sin-candidatos-definidos-a-dedo/",
+  "publicado": "2026-10-31T13:40:36+00:00",
+  "id": "d6a1dcdc7edbac27",
+  "titulo_norm": "kicillof les dijo a los intendentes que está listo para una paso con cristina kirchner o massa compitamos sin candidatos",
+  "resumen": "Kicillof reunió a intendentes de su espacio y se mostró dispuesto a competir en una PASO contra Cristina Kirchner o Sergio Massa, rechazando las candidaturas definidas \"a dedo\".",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-10-31T14:17:50+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "La Tecla",
   "autor": "La Tecla",
@@ -14,6 +30,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-10-31T12:53:26+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Medios del Aire",
+  "autor": "Medios del Aire",
+  "tipo": "nota",
+  "titulo": "RAÚL TIMERMAN: \"HOY LE GANAN EL BALOTAJE A MILEI TANTO CRISTINA, KICILLOF COMO MASSA\"",
+  "texto": "",
+  "url": "https://www.mediosdelaire.com.ar/d/noticias/raul-timerman-hoy-le-ganan-el-balotaje-a-milei-tanto-cristina-kicillof-como-massa-22349/",
+  "publicado": "2026-10-31T11:27:43+00:00",
+  "id": "b5d7ee6ba5f55314",
+  "titulo_norm": "raúl timerman hoy le ganan el balotaje a milei tanto cristina kicillof como massa",
+  "resumen": "Raúl Timerman afirma que en un balotaje contra Milei ganarían Cristina Kirchner, Kicillof y Sergio Massa, presentando a Massa como una alternativa competitiva frente al oficialismo.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-10-31T14:17:50+00:00"
  },
  {
   "plataforma": "interior",
