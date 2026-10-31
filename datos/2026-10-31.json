@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "nacional",
+  "fuente": "La Nación",
+  "autor": "La Nación",
+  "tipo": "nota",
+  "titulo": "Axel Kicillof rechaza que Cristina Kirchner designe a un candidato y pide ir a unas PASO",
+  "texto": "El gobernador desafía a Massa y a la expresidenta; envió un mensaje a sus aliados: no aceptará un postulante puesto a dedo como ocurrió con Alberto Fernández",
+  "url": "https://www.lanacion.com.ar/politica/axel-kicillof-rechaza-que-cristina-kirchner-designe-a-dedo-a-un-candidato-como-ocurrio-con-alberto-nid31102026/",
+  "publicado": "2026-10-31T16:44:49+00:00",
+  "id": "9961d59f5d132fd9",
+  "titulo_norm": "axel kicillof rechaza que cristina kirchner designe a un candidato y pide ir a unas paso",
+  "resumen": "Axel Kicillof rechaza que Cristina Kirchner designe a un candidato y pide definirlo en PASO. El gobernador desafía a Massa y a la expresidenta, y advierte que no aceptará un postulante puesto a dedo, como ocurrió con Alberto Fernández.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-10-31T17:14:19+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "Bardeo.news",
   "autor": "Bardeo.news",
