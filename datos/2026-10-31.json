@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "Bardeo.news",
+  "autor": "Bardeo.news",
+  "tipo": "nota",
+  "titulo": "Kicillof quiere una PASO y está dispuesto a competir contra Cristina o Massa",
+  "texto": "El gobernador bonaerense planteó que no quiere candidaturas definidas “a dedo” y pidió prepararse para una interna en una reunión con intendentes de la provincia",
+  "url": "https://bardeo.news/politica/kicillof-quiere-una-paso-y-esta-dispuesto-a-competir-contra-cristina-o-massa_a6ae60eb709dee0a0b9af8bdb",
+  "publicado": "2026-10-31T15:57:18+00:00",
+  "id": "aaea53ddd7adad18",
+  "titulo_norm": "kicillof quiere una paso y está dispuesto a competir contra cristina o massa",
+  "resumen": "El gobernador bonaerense Kicillof planteó que no quiere candidaturas definidas a dedo y pidió prepararse para una interna con intendentes bonaerenses. Según el título, estaría dispuesto a competir contra Cristina Fernández o Sergio Massa.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-10-31T16:43:08+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "Río Negro",
   "autor": "Río Negro",

@@ -65,6 +65,22 @@
  },
  {
   "plataforma": "interior",
+  "fuente": "Diario La Capital de Mar del Plata",
+  "autor": "Diario La Capital de Mar del Plata",
+  "tipo": "nota",
+  "titulo": "Última encuesta: 6 de cada 10 creen que si Milei es reelecto no habrá clase media y pujan Axel-Massa en balotaje",
+  "texto": "El 59% de los argentinos cree que si Javier Milei es reelecto en 2027 el país “va a tener muchos pobres y casi no habrá clase media”, pero esa mirada crítica no se traduce todavía en una derrota electoral segura. El dato surge del último estudio nacional de Hugo Haime & Asociados, realizado entre el […]",
+  "url": "https://www.lacapitalmdp.com/ultima-encuesta-6-de-cada-10-creen-que-si-milei-es-reelecto-no-habra-clase-media-y-pujan-axel-massa-en-balotaje/",
+  "publicado": "2026-10-30T21:20:31+00:00",
+  "id": "3ea9915f4c354f41",
+  "titulo_norm": "última encuesta 6 de cada 10 creen que si milei es reelecto no habrá clase media y pujan axel massa en balotaje",
+  "resumen": "Una encuesta de Hugo Haime & Asociados indica que el 59% cree que, si Milei es reelecto en 2027, habrá muchos pobres y casi no habrá clase media. El título señala que crece la fórmula Axel-Massa para el balotaje.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-10-31T16:43:08+00:00"
+ },
+ {
+  "plataforma": "interior",
   "fuente": "MDZ Online",
   "autor": "MDZ Online",
   "tipo": "nota",
