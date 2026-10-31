@@ -1,5 +1,37 @@
 [
  {
+  "plataforma": "interior",
+  "fuente": "Contexto Tucumán",
+  "autor": "Contexto Tucumán",
+  "tipo": "nota",
+  "titulo": "Kicillof aseguró estar dispuesto a ir a una PASO con Cristina o Massa: “Compitamos, sin decisiones a dedo”",
+  "texto": "",
+  "url": "https://www.contextotucuman.com/nota/427104/kicillof-aseguro-estar-dispuesto-a-ir-a-una-paso-con-cristina-o-massa-compitamos-sin-decisiones-a-dedo.html",
+  "publicado": "2026-10-31T09:54:00+00:00",
+  "id": "be1f35804e765cfb",
+  "titulo_norm": "kicillof aseguró estar dispuesto a ir a una paso con cristina o massa compitamos sin decisiones a dedo",
+  "resumen": "Axel Kicillof afirmó estar dispuesto a competir en una PASO con Cristina Fernández o Massa, reclamando que la candidatura se defina sin decisiones a dedo.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-10-31T10:25:35+00:00"
+ },
+ {
+  "plataforma": "nacional",
+  "fuente": "Clarín",
+  "autor": "Clarín",
+  "tipo": "nota",
+  "titulo": "Una nueva encuesta midió balotajes para 2027 y dejó sorpresas: Milei y Bullrich vs. Kicillof y Massa",
+  "texto": "Es el último estudio nacional de la consultora Synopsis. Evaluó tres hipótesis de segunda vuelta, con indecisos y proyectando esta variable. También publicó cifras de intención de voto por espacio.",
+  "url": "https://www.clarin.com/politica/nueva-encuesta-midio-balotajes-2027-dejo-sorpresas-milei-bullrich-vs-kicillof-massa_0_rD6rtCvD6x.html",
+  "publicado": "2026-10-31T09:01:22+00:00",
+  "id": "c52dfa10c506c894",
+  "titulo_norm": "una nueva encuesta midió balotajes para 2027 y dejó sorpresas milei y bullrich vs kicillof y massa",
+  "resumen": "Una encuesta de la consultora Synopsis midió escenarios de segunda vuelta para 2027, enfrentando a Milei y Bullrich contra Kicillof y Massa. También incluye intención de voto por espacio político.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-10-31T10:25:35+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Perfil",
   "autor": "Perfil",
