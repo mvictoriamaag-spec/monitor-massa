@@ -1,6 +1,22 @@
 [
  {
   "plataforma": "nacional",
+  "fuente": "iProfesional",
+  "autor": "iProfesional",
+  "tipo": "nota",
+  "titulo": "Kicillof quiere competir en una PASO con Cristina Kirchner y Sergio Massa",
+  "texto": "Axel Kicillof agitó el peronismo al exigir internas abiertas y rechazar la imposición de nombres, instalando tensión hacia 2027",
+  "url": "https://www.iprofesional.com/politica/467990-kicillof-quiere-competir-en-una-paso-con-cristina-kirchner-y-sergio-massa",
+  "publicado": "2026-10-31T14:02:00+00:00",
+  "id": "c35f06807aa4c516",
+  "titulo_norm": "kicillof quiere competir en una paso con cristina kirchner y sergio massa",
+  "resumen": "Kicillof exige internas abiertas en el peronismo y rechaza la imposición de nombres, lo que instala tensión de cara a 2027. Massa aparece mencionado como posible competidor en una PASO junto a Cristina Kirchner.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-10-31T14:59:46+00:00"
+ },
+ {
+  "plataforma": "nacional",
   "fuente": "Canal26",
   "autor": "Canal26",
   "tipo": "nota",
