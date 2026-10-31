@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "nacional",
+  "fuente": "Perfil",
+  "autor": "Perfil",
+  "tipo": "nota",
+  "titulo": "Axel Kicillof reunió a intendentes y se mostró dispuesto a competir en las PASO contra Cristina Kirchner y Sergio Massa",
+  "texto": "El gobernador bonaerense rechazó los acuerdos electorales \"a dedo\" para definir postulaciones en el peronismo. Durante el encuentro en La Plata, los jefes comunales respaldaron su armado y debatieron sobre la reelección indefinida en la provincia.",
+  "url": "https://www.perfil.com/politica/axel-kicillof-reunio-a-intendentes-y-se-mostro-dispuesto-a-competir-en-las-paso-contra-cristina-kirchner-y-sergio-massa-aTguu4J5mZLF",
+  "publicado": "2026-10-31T08:31:10+00:00",
+  "id": "37d845777dc730cc",
+  "titulo_norm": "axel kicillof reunió a intendentes y se mostró dispuesto a competir en las paso contra cristina kirchner y sergio massa",
+  "resumen": "Axel Kicillof reunió a intendentes en La Plata y se mostró dispuesto a competir en las PASO contra Cristina Kirchner y Sergio Massa. Rechazó los acuerdos \"a dedo\" para definir candidaturas en el peronismo, y los jefes comunales respaldaron su armado.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-10-31T09:09:36+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "qpasó",
   "autor": "qpasó",
