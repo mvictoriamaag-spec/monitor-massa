@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "Desalambrar",
+  "autor": "Desalambrar",
+  "tipo": "nota",
+  "titulo": "Kicillof acelera el Clío 2027: desafía a Cristina, también a Massa",
+  "texto": "Kicillof acelera el Clío 2027. El gobernador bonaerense recorre el país, suma volumen político y empieza a delinear las condiciones de una disputa que excede la discusión sobre su candidatura: quié…",
+  "url": "https://desalambrar.com.ar/54041-2/",
+  "publicado": "2026-10-31T23:00:57+00:00",
+  "id": "4add46d8c92ffc09",
+  "titulo_norm": "kicillof acelera el clío 2027 desafía a cristina también a massa",
+  "resumen": "Kicillof avanza hacia 2027 recorriendo el país y sumando volumen político, y la nota sostiene que desafía a Cristina Kirchner y también a Sergio Massa. Massa aparece como rival en una disputa que excede la candidatura del gobernador bonaerense.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-10-31T23:14:47+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Página/12",
   "autor": "Página/12",
