@@ -64,6 +64,22 @@
   "recolectado": "2026-10-31T00:45:41+00:00"
  },
  {
+  "plataforma": "interior",
+  "fuente": "MDZ Online",
+  "autor": "MDZ Online",
+  "tipo": "nota",
+  "titulo": "Según una encuesta, Milei gana en primera vuelta a Kicillof y Massa pero pierde en el balotaje",
+  "texto": "",
+  "url": "https://www.mdzol.com/politica/2026/10/30/segun-una-encuesta-milei-gana-en-primera-vuelta-a-kicillof-y-massa-pero-pierde-en-el-balotaje-1991974.html",
+  "publicado": "2026-10-30T16:19:07+00:00",
+  "id": "d3cd1fe4462b79f7",
+  "titulo_norm": "según una encuesta milei gana en primera vuelta a kicillof y massa pero pierde en el balotaje",
+  "resumen": "Encuesta electoral que proyecta a Milei ganando la primera vuelta frente a Kicillof y Massa, pero perdiendo en el balotaje. Massa aparece como posible rival en el sondeo, sin declaraciones ni acciones propias.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-10-31T15:30:20+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "diariolapluma.com.ar",
   "autor": "diariolapluma.com.ar",
