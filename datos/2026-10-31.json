@@ -1,6 +1,22 @@
 [
  {
   "plataforma": "interior",
+  "fuente": "La Voz del Interior",
+  "autor": "La Voz del Interior",
+  "tipo": "nota",
+  "titulo": "Kicillof abrió la puerta a competir en una Paso contra Cristina o Massa: “Que decida la gente”",
+  "texto": "El gobernador bonaerense reunió a intendentes de su espacio y ratificó que está dispuesto a dirimir el liderazgo del peronismo en una interna abierta. También rechazó la idea de definir candidaturas mediante acuerdos cerrados.",
+  "url": "https://www.lavoz.com.ar/politica/kicillof-abrio-puerta-competir-paso-cristina-massa-decida-gente_0_VLYh8NjV6h.html",
+  "publicado": "2026-10-31T10:55:45+00:00",
+  "id": "0e413fcb1f3b90ba",
+  "titulo_norm": "kicillof abrió la puerta a competir en una paso contra cristina o massa que decida la gente",
+  "resumen": "El gobernador bonaerense Kicillof reunió a intendentes de su espacio y se mostró dispuesto a competir en una PASO contra Cristina o Massa para dirimir el liderazgo del peronismo. Rechazó definir candidaturas mediante acuerdos cerrados.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-10-31T11:28:49+00:00"
+ },
+ {
+  "plataforma": "interior",
   "fuente": "Contexto Tucumán",
   "autor": "Contexto Tucumán",
   "tipo": "nota",
