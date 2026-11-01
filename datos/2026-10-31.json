@@ -80,6 +80,22 @@
   "recolectado": "2026-10-31T20:21:59+00:00"
  },
  {
+  "plataforma": "portal",
+  "fuente": "MendoVoz",
+  "autor": "MendoVoz",
+  "tipo": "nota",
+  "titulo": "Rumbo al 2027: según una encuesta, Kicillof y Massa superan a Milei en un balotaje",
+  "texto": "",
+  "url": "https://www.mendovoz.com/actualidad/nacionales/2026/10/31/rumbo-al-2027-segun-una-encuesta-kicillof-y-massa-superan-a-milei-en-un-balotaje-170158.html",
+  "publicado": "2026-10-31T19:30:00+00:00",
+  "id": "91b6fc595a6b4a4e",
+  "titulo_norm": "rumbo al 2027 según una encuesta kicillof y massa superan a milei en un balotaje",
+  "resumen": "Una encuesta mide intención de voto para 2027 y sugiere que Axel Kicillof y Sergio Massa vencerían a Javier Milei en un eventual balotaje. Aparece como dato de sondeo electoral, sin declaraciones de Massa.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-01T00:33:14+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "La Nación",
   "autor": "La Nación",
