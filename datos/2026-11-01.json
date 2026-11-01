@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "Il Mattino",
+  "autor": "Il Mattino",
+  "tipo": "nota",
+  "titulo": "Tragedia vial en Massa di Somma: un fallecido y fuga de los responsables",
+  "texto": "Los carabineros de la estación de San Sebastiano al Vesuvio y de la sección radiomóvil de Torre del Greco intervinieron en via Veseri en Massa di Somma por un accidente de tráfico. Un Range Rover...",
+  "url": "https://www.ilmattino.it/es/tragedia_vial_en_massa_di_somma_un_fallecido_y_fuga_de_los_responsables-9862678.html",
+  "publicado": "2026-11-01T19:48:27+00:00",
+  "id": "0f5eb97e9c9b0428",
+  "titulo_norm": "tragedia vial en massa di somma un fallecido y fuga de los responsables",
+  "resumen": "Nota de Il Mattino sobre un accidente vial en Massa di Somma, Italia, con un fallecido y la fuga de los responsables, atendido por carabineros. 'Massa' corresponde al nombre de la localidad, no a Sergio Massa.",
+  "relevante": 0,
+  "resumen_ia": true,
+  "recolectado": "2026-11-01T21:16:45+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "La Política Online",
   "autor": "La Política Online",
