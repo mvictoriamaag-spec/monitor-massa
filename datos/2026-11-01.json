@@ -1,0 +1,34 @@
+[
+ {
+  "plataforma": "nacional",
+  "fuente": "Infobae",
+  "autor": "Infobae",
+  "tipo": "nota",
+  "titulo": "Massa, Letexier y Zwayer, árbitros para Barça, Atlético y Villarreal",
+  "texto": "Massa, Letexier y Zwayer, árbitros para Barça, Atlético y Villarreal",
+  "url": "https://www.infobae.com/espana/agencias/2026/11/01/massa-letexier-y-zwayer-arbitros-para-barca-atletico-y-villarreal/",
+  "publicado": "2026-11-01T10:15:00+00:00",
+  "id": "292424ec3bc93689",
+  "titulo_norm": "massa letexier y zwayer árbitros para bar a atlético y villarreal",
+  "resumen": "Infobae informa la designación de los árbitros Massa, Letexier y Zwayer para los partidos de Barcelona, Atlético de Madrid y Villarreal. Se trata de un homónimo del fútbol, no de Sergio Massa.",
+  "relevante": 0,
+  "resumen_ia": true,
+  "recolectado": "2026-11-01T10:27:25+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Mundo Deportivo",
+  "autor": "Mundo Deportivo",
+  "tipo": "nota",
+  "titulo": "Davide Massa pitará el Barça-Aston Villa",
+  "texto": "Este martes regresa la Champions League al Spotify Camp Nou con la visita del Aston Villa inglés. Cita para la cual ha sido designado el árbitro italiano Davide Massa,",
+  "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261101/1004245728/davide-massa-pitara-barca-aston-villa.html?facet=amp",
+  "publicado": "2026-11-01T09:41:13+00:00",
+  "id": "02d1aba36f60f7b8",
+  "titulo_norm": "davide massa pitará el bar a aston villa",
+  "resumen": "Mundo Deportivo anuncia que el árbitro italiano Davide Massa dirigirá el partido Barcelona-Aston Villa de la Champions League en el Spotify Camp Nou. No se refiere al dirigente argentino.",
+  "relevante": 0,
+  "resumen_ia": true,
+  "recolectado": "2026-11-01T10:27:25+00:00"
+ }
+]
