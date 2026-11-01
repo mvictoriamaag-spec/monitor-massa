@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "nacional",
+  "fuente": "Infobae",
+  "autor": "Infobae",
+  "tipo": "nota",
+  "titulo": "El italiano Davide Massa arbitrará el Barça-Aston Villa y el francés Letexier, el Atlético-Bayern",
+  "texto": "El italiano Davide Massa arbitrará el Barça-Aston Villa y el francés Letexier, el Atlético-Bayern",
+  "url": "https://www.infobae.com/america/agencias/2026/11/01/el-italiano-davide-massa-arbitrara-el-barca-aston-villa-y-el-frances-letexier-el-atletico-bayern/",
+  "publicado": "2026-11-01T13:15:00+00:00",
+  "id": "aff811ef42d876a8",
+  "titulo_norm": "el italiano davide massa arbitrará el bar a aston villa y el francés letexier el atlético bayern",
+  "resumen": "Nota que informa la designación del árbitro italiano Davide Massa para dirigir el Barcelona-Aston Villa de la Champions League, y del francés Letexier para el Atlético-Bayern. Massa aparece como árbitro, no como el dirigente político.",
+  "relevante": 0,
+  "resumen_ia": true,
+  "recolectado": "2026-11-01T13:31:45+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "Notimérica",
   "autor": "Notimérica",
@@ -46,6 +62,22 @@
   "relevante": 0,
   "resumen_ia": true,
   "recolectado": "2026-11-01T11:41:50+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Tribuna.com",
+  "autor": "Tribuna.com",
+  "tipo": "nota",
+  "titulo": "Massa, Letexier y Zwayer arbitrarán al Barcelona, Atlético de Madrid y Villarreal en la Champions League",
+  "texto": "",
+  "url": "https://tribuna.com/es/blogs/massa-letexier-y-zwayer-arbitraran-al-barcelona-atletico-de/",
+  "publicado": "2026-11-01T10:36:52+00:00",
+  "id": "f0f7e6a4727b69b2",
+  "titulo_norm": "massa letexier y zwayer arbitrarán al barcelona atlético de madrid y villarreal en la champions league",
+  "resumen": "Nota que anuncia las designaciones arbitrales de Massa, Letexier y Zwayer para los partidos de Barcelona, Atlético de Madrid y Villarreal en la Champions League. El apellido Massa corresponde al árbitro, no al dirigente político.",
+  "relevante": 0,
+  "resumen_ia": true,
+  "recolectado": "2026-11-01T13:31:45+00:00"
  },
  {
   "plataforma": "portal",
