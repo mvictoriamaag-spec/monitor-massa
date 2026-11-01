@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "LoQuePasa.net",
+  "autor": "LoQuePasa.net",
+  "tipo": "nota",
+  "titulo": "Una encuesta midió posibles balotajes para 2027 y dejó un escenario abierto: Milei, Bullrich, Kicillof y Massa, frente a frente",
+  "texto": "",
+  "url": "https://loquepasa.net/una-encuesta-midio-posibles-balotajes-para-2027-y-dejo-un-escenario-abierto-milei-bullrich-kicillof-y-massa-frente-a-frente/",
+  "publicado": "2026-11-01T14:05:05+00:00",
+  "id": "07cba045e5d5dcb1",
+  "titulo_norm": "una encuesta midió posibles balotajes para 2027 y dejó un escenario abierto milei bullrich kicillof y massa frente a fre",
+  "resumen": "Una encuesta sobre posibles balotajes para 2027 muestra un escenario abierto con Milei, Bullrich, Kicillof y Massa enfrentados. Massa aparece como uno de los candidatos evaluados en la medición electoral.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-01T14:06:21+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Infobae",
   "autor": "Infobae",
