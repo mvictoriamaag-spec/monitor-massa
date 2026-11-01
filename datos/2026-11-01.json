@@ -16,6 +16,22 @@
   "recolectado": "2026-11-01T14:06:21+00:00"
  },
  {
+  "plataforma": "portal",
+  "fuente": "Chacabuco en Red",
+  "autor": "Chacabuco en Red",
+  "tipo": "nota",
+  "titulo": "Golía buscará la reelección, respaldó a Massa y abrió la puerta a un frente con otros sectores políticos",
+  "texto": "En una entrevista exclusiva con Chacabuco en Red, el intendente habló sobre el escenario electoral de 2027, consideró que Sergio Massa está preparado para conducir el país y planteó la necesidad de…",
+  "url": "https://chacabucoenred.com/golia-buscara-la-reeleccion-respaldo-a-massa-y-abrio-la-puerta-a-un-frente-con-otros-sectores-politicos/",
+  "publicado": "2026-11-01T13:38:15+00:00",
+  "id": "1638cbcf333c4a2c",
+  "titulo_norm": "golía buscará la reelección respaldó a massa y abrió la puerta a un frente con otros sectores políticos",
+  "resumen": "El intendente Golía, que buscará la reelección, respaldó a Sergio Massa en una entrevista con Chacabuco en Red. Consideró que Massa está preparado para conducir el país y planteó abrir la puerta a un frente con otros sectores políticos de cara a 2027.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-01T15:17:45+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Infobae",
   "autor": "Infobae",
