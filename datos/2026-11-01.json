@@ -1,6 +1,38 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "Notimérica",
+  "autor": "Notimérica",
+  "tipo": "nota",
+  "titulo": "El italiano Davide Massa arbitrará el Barça-Aston Villa y el francés François Letexier, el Atlético-Bayern",
+  "texto": "&nbsp;&nbsp;&nbsp;El italiano Davide Massa será el encargado de arbitrar este martes el partido de la cuarta...",
+  "url": "https://www.notimerica.com/deportes/noticia-italiano-davide-massa-arbitrara-barca-aston-villa-frances-francois-letexier-atletico-bayern-20261101135540.html",
+  "publicado": "2026-11-01T12:55:40+00:00",
+  "id": "1a6d16bc47846a54",
+  "titulo_norm": "el italiano davide massa arbitrará el bar a aston villa y el francés fran ois letexier el atlético bayern",
+  "resumen": "El árbitro italiano Davide Massa dirigirá el partido Barça-Aston Villa de este martes, y el francés François Letexier, el Atlético-Bayern. No se refiere a Sergio Massa.",
+  "relevante": 0,
+  "resumen_ia": true,
+  "recolectado": "2026-11-01T13:01:13+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "INFOPAER",
+  "autor": "INFOPAER",
+  "tipo": "nota",
+  "titulo": "ENCUESTA NACIONAL: 6 de cada 10 creen que si Milei es reelecto no habrá clase media y pujan Kicillof y Massa para el balotaje – INFOPAER",
+  "texto": "",
+  "url": "https://infopaer.com.ar/primera-plana/encuesta-nacional-6-de-cada-10-creen-que-si-milei-es-reelecto-no-habra-clase-media-y-pujan-kicillof-y-massa-para-el-balotaje/",
+  "publicado": "2026-11-01T12:27:21+00:00",
+  "id": "5dee635127a187b9",
+  "titulo_norm": "encuesta nacional 6 de cada 10 creen que si milei es reelecto no habrá clase media y pujan kicillof y massa para el balo",
+  "resumen": "Una encuesta nacional indica que 6 de cada 10 argentinos creen que, si Milei es reelecto, no habrá clase media. Massa aparece como uno de los dirigentes que pugnan por llegar al balotaje, junto a Kicillof.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-01T13:01:13+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Diario Ahora",
   "autor": "Diario Ahora",
   "tipo": "nota",
