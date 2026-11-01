@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "Diario El Libertador de Corrientes",
+  "autor": "Diario El Libertador de Corrientes",
+  "tipo": "nota",
+  "titulo": "Kicillof obliga a Cristina y a Massa a que den batalla",
+  "texto": "Axel se mostró decidido a ir a unas Paso contra Fernández de Kirchner o el ex Intendente de Tigre. Lo hizo delante de su grupo de intendentes bonaerenses, unos 43 \"caciques\" comunales. \"Compitamos\", dijo y todos sabían que hablaba respecto de las eventuales postulaciones hasta de Uñac, sabiendo además que la expresidenta no puede hacerlo por",
+  "url": "https://www.diarioellibertador.com.ar/kicillof-obliga-a-cristina-y-a-massa-a-que-den-batalla/",
+  "publicado": "2026-11-01T01:48:33+00:00",
+  "id": "5aedb4d6e21d3404",
+  "titulo_norm": "kicillof obliga a cristina y a massa a que den batalla",
+  "resumen": "Kicillof, ante unos 43 intendentes bonaerenses, pide competir en las PASO contra Cristina Fernández de Kirchner o Sergio Massa, ex intendente de Tigre. La nota plantea que el gobernador obliga a ambos a dar batalla electoral.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-01T02:30:11+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Tiempo Argentino",
   "autor": "Tiempo Argentino",
