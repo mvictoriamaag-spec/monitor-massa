@@ -1,6 +1,22 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "Diario Ahora",
+  "autor": "Diario Ahora",
+  "tipo": "nota",
+  "titulo": "Davide Massa pitará el Barça-Aston Villa en el Spotify Camp Nou",
+  "texto": "Davide Massa arbitrará el Barça-Aston Villa en el Spotify Camp Nou, su tercer partido de la fase liga de la Champions; Bastian Dankert estará en el VAR.",
+  "url": "https://ahora.com.pe/deportes/davide-massa-arbitro-barca-aston-villa",
+  "publicado": "2026-11-01T11:25:13+00:00",
+  "id": "556ebe3c6b872d3e",
+  "titulo_norm": "davide massa pitará el bar a aston villa en el spotify camp nou",
+  "resumen": "Nota deportiva sobre el árbitro italiano Davide Massa, que dirigirá el Barça-Aston Villa en el Spotify Camp Nou por la fase liga de la Champions. No se refiere a Sergio Massa.",
+  "relevante": 0,
+  "resumen_ia": true,
+  "recolectado": "2026-11-01T11:41:50+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "SPORT",
   "autor": "SPORT",
   "tipo": "nota",
