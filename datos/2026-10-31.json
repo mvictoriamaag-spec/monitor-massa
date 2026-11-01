@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "nacional",
+  "fuente": "Tiempo Argentino",
+  "autor": "Tiempo Argentino",
+  "tipo": "nota",
+  "titulo": "Kicillof, Massa y Máximo: los nuevos movimientos en el tablero peronista",
+  "texto": "El gobernador bonaerense hizo pie en Jujuy y volvió a defender las PASO. Lo que dicen en La Cámpora sobre la ONU y el caso CFK. Massa se mueve como candidato pero dice que es armador.",
+  "url": "https://www.tiempoar.com.ar/ta_article/kicillof-massa-y-maximo-los-nuevos-movimientos-en-el-tablero-peronista/",
+  "publicado": "2026-11-01T00:41:14+00:00",
+  "id": "b341cfc66d899e10",
+  "titulo_norm": "kicillof massa y máximo los nuevos movimientos en el tablero peronista",
+  "resumen": "Análisis de los movimientos en el tablero peronista: Kicillof estuvo en Jujuy y defendió las PASO, mientras Massa se mueve como candidato aunque se presenta como armador. También menciona a La Cámpora, la ONU y el caso CFK.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-01T01:45:19+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "Desalambrar",
   "autor": "Desalambrar",
