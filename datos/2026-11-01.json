@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "SPORT",
+  "autor": "SPORT",
+  "tipo": "nota",
+  "titulo": "Davide Massa arbitrará el FC Barcelona - Aston Villa",
+  "texto": "El colegiado italiano se encontrará por segunda vez con el conjunto blaugrana en la Champions",
+  "url": "https://www.sport.es/es/noticias/barca/davide-massa-arbitrara-fc-barcelona-135970778",
+  "publicado": "2026-11-01T10:27:55+00:00",
+  "id": "e25de3f852cc73db",
+  "titulo_norm": "davide massa arbitrará el fc barcelona aston villa",
+  "resumen": "Nota deportiva que informa que el árbitro italiano Davide Massa dirigirá el partido FC Barcelona - Aston Villa por la Champions League, por segunda vez con el conjunto blaugrana. No se refiere al dirigente político.",
+  "relevante": 0,
+  "resumen_ia": true,
+  "recolectado": "2026-11-01T11:06:03+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Infobae",
   "autor": "Infobae",
