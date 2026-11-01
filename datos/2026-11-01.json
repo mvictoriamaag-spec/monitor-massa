@@ -1,6 +1,22 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "Radio Profesional 89.9",
+  "autor": "Radio Profesional 89.9",
+  "tipo": "nota",
+  "titulo": "Kicillof les dijo a sus intendentes que está dispuesto a ir a una PASO con Cristina o Massa",
+  "texto": "El gobernador bonaerense reunió a unos 43 intendentes de su espacio y planteó que las candidaturas presidenciales deben definirse mediante elecciones internas y no por acuerdos dirigenciales. Duran…",
+  "url": "https://fm899.com.ar/kicillof-les-dijo-a-sus-intendentes-que-esta-dispuesto-a-ir-a-una-paso-con-cristina-o-massa/",
+  "publicado": "2026-11-01T23:01:36+00:00",
+  "id": "7f6164fa69179a2a",
+  "titulo_norm": "kicillof les dijo a sus intendentes que está dispuesto a ir a una paso con cristina o massa",
+  "resumen": "Kicillof dijo a unos 43 intendentes de su espacio que está dispuesto a ir a una PASO con Cristina o Massa. Sostuvo que las candidaturas presidenciales deben definirse por elecciones internas y no por acuerdos dirigenciales.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-01T23:05:36+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Bardeo.news",
   "autor": "Bardeo.news",
   "tipo": "nota",
