@@ -1,6 +1,22 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "Bardeo.news",
+  "autor": "Bardeo.news",
+  "tipo": "nota",
+  "titulo": "Lula quiere unir al peronismo contra Milei: busca juntar a Massa y Kicillof",
+  "texto": "",
+  "url": "https://bardeo.news/politica/lula-quiere-unir-al-peronismo-contra-milei--busca-juntar-a-massa-y-kicillof_a6ae7ab5c09dee0a0b9bb0f0d?output=amp",
+  "publicado": "2026-11-01T21:26:39+00:00",
+  "id": "70fd5c23da8a877e",
+  "titulo_norm": "lula quiere unir al peronismo contra milei busca juntar a massa y kicillof",
+  "resumen": "Bardeo.news informa que Lula da Silva busca reunir al peronismo para enfrentar a Milei, con la idea de sumar a Sergio Massa y Axel Kicillof. La nota presenta a Massa como parte de esa estrategia de unidad.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-01T22:30:20+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Il Mattino",
   "autor": "Il Mattino",
   "tipo": "nota",
