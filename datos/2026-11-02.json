@@ -1,6 +1,22 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "qpasó",
+  "autor": "qpasó",
+  "tipo": "nota",
+  "titulo": "Janones ya está en Argentina y se reúne con Massa para empezar a preparar la campaña presidencial de 2027",
+  "texto": "El estratega brasileño mantendrá encuentros con el exministro de Economía y asesores políticos argentinos para trasladar al país las estrategias digitales que fueron clave en la campaña que llevó a Lula nuevamente al poder en 2022.",
+  "url": "https://qpaso.ar/noticias/derechadiario/politica/janones-en-argentina-reune-massa-empezar-preparar-campana-presidencial-2027",
+  "publicado": "2026-11-02T17:03:14+00:00",
+  "id": "ef522af417c6bdfe",
+  "titulo_norm": "janones ya está en argentina y se reúne con massa para empezar a preparar la campaña presidencial de 2027",
+  "resumen": "Según la nota, el estratega brasileño Janones llegó a Argentina y se reunirá con Sergio Massa y asesores para preparar la campaña presidencial de 2027, trasladando estrategias digitales usadas en la campaña de Lula en 2022.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-02T17:33:55+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "QZ | Noticias",
   "autor": "QZ | Noticias",
   "tipo": "nota",
