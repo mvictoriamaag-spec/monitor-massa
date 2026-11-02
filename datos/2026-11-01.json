@@ -81,6 +81,22 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "Radio Pacú",
+  "autor": "Radio Pacú",
+  "tipo": "nota",
+  "titulo": "Última encuesta: 6 de cada 10 creen que si Milei es reelecto no habrá clase media y pujan Axel - Massa en balotaje",
+  "texto": "El último estudio nacional de Hugo Haime & Asociados mostró un fuerte pesimismo social sobre una eventual reelección de Javier Milei, aunque la pelea presidencial de 2027 se mantiene en empate técnico.",
+  "url": "https://radiopacu.com.ar/2026/11/01/ultima-encuesta-6-de-cada-10-creen-que-si-milei-es-reelecto-no-habra-clase-media-y-pujan-axel-massa-en-balotaje/",
+  "publicado": "2026-11-01T17:00:05+00:00",
+  "id": "1d5b5a5c6c424674",
+  "titulo_norm": "última encuesta 6 de cada 10 creen que si milei es reelecto no habrá clase media y pujan axel massa en balotaje",
+  "resumen": "Un estudio de Hugo Haime & Asociados indica que 6 de cada 10 creen que, si Milei es reelecto, no habrá clase media. Massa aparece en la pelea presidencial de 2027 con Axel, en un balotaje con empate técnico.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-02T03:03:54+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Fútbol Centroamérica",
   "autor": "Fútbol Centroamérica",
   "tipo": "nota",
