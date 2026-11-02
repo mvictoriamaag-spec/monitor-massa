@@ -33,6 +33,22 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "https://diariolapluma.com.ar/",
+  "autor": "https://diariolapluma.com.ar/",
+  "tipo": "nota",
+  "titulo": "Sergio Massa busca apoyo del estratega digital de Lula para su proyecto presidencial de 2027",
+  "texto": "",
+  "url": "https://diariolapluma.com.ar/sergio-massa-busca-apoyo-del-estratega-digital-de-lula-para-su-proyecto-presidencial-de-2027/",
+  "publicado": "2026-11-02T15:00:00+00:00",
+  "id": "0a14adc7e231319a",
+  "titulo_norm": "sergio massa busca apoyo del estratega digital de lula para su proyecto presidencial de 2027",
+  "resumen": "Según el título, Sergio Massa busca el respaldo del estratega digital de Lula da Silva para su proyecto presidencial de 2027. La nota muestra su intención de construir alianzas internacionales de cara a esa candidatura.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-02T16:40:32+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "bet365 - Apuestas deportivas en la red",
   "autor": "bet365 - Apuestas deportivas en la red",
   "tipo": "nota",
