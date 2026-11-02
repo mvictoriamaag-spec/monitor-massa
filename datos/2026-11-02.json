@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "Bardeo.news",
+  "autor": "Bardeo.news",
+  "tipo": "nota",
+  "titulo": "Qué pasa si la fórmula Milei-Bullrich se enfrenta a Kicillof-Massa",
+  "texto": "RDT Consultores planteó este escenario posible de cara a las elecciones de 2027",
+  "url": "https://bardeo.news/sociedad/que-pasa-si-la-formula-milei-bullrich-se-enfrenta-a-kicillof-massa_a6ae8711409dee0a0b9c1269d",
+  "publicado": "2026-11-02T11:38:03+00:00",
+  "id": "ef7bf047657d4ad4",
+  "titulo_norm": "qué pasa si la fórmula milei bullrich se enfrenta a kicillof massa",
+  "resumen": "RDT Consultores plantea un escenario hipotético para las elecciones de 2027: un enfrentamiento entre la fórmula Milei-Bullrich y una fórmula Kicillof-Massa. Massa aparece como posible integrante de esa fórmula, en un análisis de proyección electoral.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-02T12:25:11+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Clarin.com",
   "autor": "Clarin.com",
