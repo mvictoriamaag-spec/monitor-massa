@@ -270,5 +270,21 @@
   "relevante": 0,
   "resumen_ia": true,
   "recolectado": "2026-11-01T10:27:25+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Cuarto Poder",
+  "autor": "Cuarto Poder",
+  "tipo": "nota",
+  "titulo": "Massa apoya a Urtubey: El Frente Renovador jugará en 2027",
+  "texto": "",
+  "url": "https://cuartopodersalta.com.ar/massa-apoya-a-urtubey-el-frente-renovador-jugara-en-2027/",
+  "publicado": "2026-11-01T09:00:23+00:00",
+  "id": "09c805cea4357315",
+  "titulo_norm": "massa apoya a urtubey el frente renovador jugará en 2027",
+  "resumen": "Sergio Massa aparece apoyando a Urtubey y anunciando que el Frente Renovador jugará en las elecciones de 2027. Es un anuncio de respaldo político de Massa a un dirigente.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-02T04:00:00+00:00"
  }
 ]
