@@ -17,6 +17,22 @@
  },
  {
   "plataforma": "nacional",
+  "fuente": "Revista Noticias",
+  "autor": "Revista Noticias",
+  "tipo": "nota",
+  "titulo": "Encuesta: tanto Kicillof como Massa le ganarían en ballotage a Milei",
+  "texto": "El rechazo al modelo económico no se traduce en apoyo directo al peronismo. Los desencantados del oficialismo, claves en una elección todavía abierta.",
+  "url": "https://noticias.perfil.com/noticias/politica/encuesta-tanto-kicillof-como-massa-le-ganarian-en-ballotage-a-milei.phtml",
+  "publicado": "2026-11-02T06:08:00+00:00",
+  "id": "2efb0c850b685753",
+  "titulo_norm": "encuesta tanto kicillof como massa le ganarían en ballotage a milei",
+  "resumen": "Encuesta de Revista Noticias que sostiene que Massa y Kicillof le ganarían en un ballotage a Milei. Señala que el rechazo al modelo económico no se traduce en apoyo directo al peronismo, y que los desencantados del oficialismo serán claves en una elección aún abierta.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-02T11:30:25+00:00"
+ },
+ {
+  "plataforma": "nacional",
   "fuente": "Ámbito",
   "autor": "Ámbito",
   "tipo": "nota",
