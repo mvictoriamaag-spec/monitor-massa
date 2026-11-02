@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "La Noticia Web",
+  "autor": "La Noticia Web",
+  "tipo": "nota",
+  "titulo": "Massa le marca la cancha al peronismo bonaerense: PASO y elecciones concurrentes",
+  "texto": "El Frente Renovador (FR), el espacio que conduce Sergio Massa, comenzó a delinear su estrategia electoral para 2027 y ya fijó dos condiciones para la próxima disputa bonaerense: elecciones concurrentes con los comicios nacionales y continuidad de las PASO. La postura marca una diferencia con sectores del kicillofismo que todavía contemplan la posibilidad de volver … Continuar leyendo \"Massa le marca la cancha al peronismo bonaerense: PASO y elecciones concurrentes\"",
+  "url": "https://www.lanoticiaweb.com.ar/massa-le-marca-la-cancha-al-peronismo-bonaerense-paso-y-elecciones-concurrentes/",
+  "publicado": "2026-11-02T14:23:38+00:00",
+  "id": "9f30b5cc25dcb2c9",
+  "titulo_norm": "massa le marca la cancha al peronismo bonaerense paso y elecciones concurrentes",
+  "resumen": "El Frente Renovador, que conduce Sergio Massa, define su estrategia para 2027 en la provincia de Buenos Aires con dos condiciones: elecciones concurrentes con las nacionales y continuidad de las PASO. La postura se diferencia de sectores del kicillofismo.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-02T14:38:56+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Política y Medios",
   "autor": "Política y Medios",
@@ -52,6 +68,22 @@
   "fuente": "Bardeo.news",
   "autor": "Bardeo.news",
   "tipo": "nota",
+  "titulo": "Ofelia Fernández, arrepentida de la campaña de Massa de “Votá al tipo normal”",
+  "texto": "También puso en duda la consigna de “frenar a Milei” y reclamó que la oposición construya una propuesta de futuro",
+  "url": "https://bardeo.news/politica/ofelia-fernandez--arrepentida-de-la-campana-de-massa-de--vota-al-tipo-normal-_a6ae877c009dee0a0b9c1c7ae",
+  "publicado": "2026-11-02T12:03:33+00:00",
+  "id": "e685561ed2704db1",
+  "titulo_norm": "ofelia fernández arrepentida de la campaña de massa de votá al tipo normal",
+  "resumen": "La dirigente Ofelia Fernández se muestra arrepentida de la campaña de Massa \"Votá al tipo normal\". También pone en duda la consigna de \"frenar a Milei\" y reclama que la oposición construya una propuesta de futuro.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-02T14:38:56+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Bardeo.news",
+  "autor": "Bardeo.news",
+  "tipo": "nota",
   "titulo": "Qué pasa si la fórmula Milei-Bullrich se enfrenta a Kicillof-Massa",
   "texto": "RDT Consultores planteó este escenario posible de cara a las elecciones de 2027",
   "url": "https://bardeo.news/sociedad/que-pasa-si-la-formula-milei-bullrich-se-enfrenta-a-kicillof-massa_a6ae8711409dee0a0b9c1269d",
@@ -62,6 +94,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-02T12:25:11+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "FOCO: AGENCIA CHAQUEÑA DE NOTICIAS",
+  "autor": "FOCO: AGENCIA CHAQUEÑA DE NOTICIAS",
+  "tipo": "nota",
+  "titulo": "Peronismo bonaerense: Kicillof, Massa y Máximo y sus",
+  "texto": "Resumen de las jugadas de Kicillof, Massa y Máximo y cómo reordenan el poder peronista rumbo a 2027.",
+  "url": "https://agenciafoco.com.ar/kicillof-massa-y-maximo-las-jugadas-que-redefinen-el-poder-peronista",
+  "publicado": "2026-11-02T09:09:13+00:00",
+  "id": "1dd3407b77892694",
+  "titulo_norm": "peronismo bonaerense kicillof massa y máximo y sus",
+  "resumen": "Análisis de las jugadas de Axel Kicillof, Sergio Massa y Máximo Kirchner y de cómo reordenan el poder dentro del peronismo rumbo a 2027. Massa aparece como uno de los protagonistas de esa reconfiguración.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-02T14:38:56+00:00"
  },
  {
   "plataforma": "nacional",
