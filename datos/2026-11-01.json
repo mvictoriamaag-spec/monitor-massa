@@ -17,6 +17,22 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "https://diariolapluma.com.ar/",
+  "autor": "https://diariolapluma.com.ar/",
+  "tipo": "nota",
+  "titulo": "Kicillof y Massa reactivan el diálogo del peronismo y empiezan a delinear la estrategia para 2027",
+  "texto": "",
+  "url": "https://diariolapluma.com.ar/kicillof-y-massa-reactivan-el-dialogo-del-peronismo-y-empiezan-a-delinear-la-estrategia-para-2027/",
+  "publicado": "2026-11-02T00:47:47+00:00",
+  "id": "5e787b8d962a1a9e",
+  "titulo_norm": "kicillof y massa reactivan el diálogo del peronismo y empiezan a delinear la estrategia para 2027",
+  "resumen": "Kicillof y Sergio Massa reactivan el diálogo dentro del peronismo y comienzan a delinear la estrategia de cara a 2027. La nota presenta a Massa como actor clave en la reorganización interna del espacio.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-02T08:21:06+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Radio Profesional 89.9",
   "autor": "Radio Profesional 89.9",
   "tipo": "nota",
