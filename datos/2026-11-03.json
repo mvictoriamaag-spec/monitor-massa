@@ -176,6 +176,22 @@
   "recolectado": "2026-11-03T17:22:51+00:00"
  },
  {
+  "plataforma": "portal",
+  "fuente": "El Congresista",
+  "autor": "El Congresista",
+  "tipo": "nota",
+  "titulo": "Secco criticó a Massa por oposición a reelección de intendentes",
+  "texto": "Mario Secco criticó fuertemente a Sergio Massa por oponerse a la reelección indefinida de intendentes en Buenos Aires.",
+  "url": "https://elcongresista.mx/politica/nacional/secco-critica-massa-reeleccion-intendentes",
+  "publicado": "2026-11-03T16:35:37+00:00",
+  "id": "12f1164f2ab73aac",
+  "titulo_norm": "secco criticó a massa por oposición a reelección de intendentes",
+  "resumen": "Mario Secco criticó fuertemente a Sergio Massa por oponerse a la reelección indefinida de intendentes en Buenos Aires. La crítica apunta a la postura de Massa frente a esa cuestión.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-03T22:12:12+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "InfoCielo (Buenos Aires)",
   "autor": "InfoCielo (Buenos Aires)",
