@@ -1,6 +1,22 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "DameNoticias",
+  "autor": "DameNoticias",
+  "tipo": "nota",
+  "titulo": "Cristina Kirchner y Massa avanzan en contactos con el equipo político de Lula",
+  "texto": "",
+  "url": "https://damenoticias.com/nota/658679-cristina-kirchner-y-massa-avanzan-en-contactos-con-el-equipo-politico-de-lula",
+  "publicado": "2026-11-03T01:21:51+00:00",
+  "id": "2cf7217e27c48230",
+  "titulo_norm": "cristina kirchner y massa avanzan en contactos con el equipo político de lula",
+  "resumen": "Cristina Kirchner y Sergio Massa avanzan en contactos con el equipo político del presidente brasileño Lula da Silva. La noticia informa una articulación política entre dirigentes argentinos y el entorno de Lula.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-03T01:31:59+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Desalambrar",
   "autor": "Desalambrar",
   "tipo": "nota",
@@ -176,6 +192,22 @@
   "recolectado": "2026-11-02T23:47:36+00:00"
  },
  {
+  "plataforma": "portal",
+  "fuente": "El Submarino Jujuy",
+  "autor": "El Submarino Jujuy",
+  "tipo": "nota",
+  "titulo": "El cerebro digital de Lula se reunió con Massa y CFK pensando en 2027",
+  "texto": "André Janones, el diputado brasileño y artífice de la estrategia digital de Luiz Inácio Lula da Silv",
+  "url": "https://elsubmarinojujuy.com.ar/el-cerebro-digital-de-lula-se-reunio-con-massa-y-cfk-pensando-en-2027/",
+  "publicado": "2026-11-02T22:58:09+00:00",
+  "id": "d2f8727a169fe297",
+  "titulo_norm": "el cerebro digital de lula se reunió con massa y cfk pensando en 2027",
+  "resumen": "André Janones, estratega digital de Lula, se reunió con Sergio Massa y Cristina Kirchner de cara a 2027. La nota informa un encuentro político en el que Massa aparece como interlocutor.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-03T01:31:59+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "Agenda Salta",
   "autor": "Agenda Salta",
@@ -222,6 +254,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-02T23:14:00+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Radio Gol",
+  "autor": "Radio Gol",
+  "tipo": "nota",
+  "titulo": "El creador del «Ejército de Lula» llegó a la Argentina y se reunió con Cristina Kirchner y Sergio Massa",
+  "texto": "El creador del «Ejército de Lula» llegó a la Argentina y se reunió con Cristina Kirchner y Sergio Massa",
+  "url": "https://www.radiogol.com.ar/destacadas/d1/el-creador-del-ejercito-de-lula-llego-a-la-argentina-y-se-reunio-con-cristina-kirchner-y-sergio-massa-234073/",
+  "publicado": "2026-11-02T22:35:48+00:00",
+  "id": "8fbedf3e74aaa362",
+  "titulo_norm": "el creador del ejército de lula llegó a la argentina y se reunió con cristina kirchner y sergio massa",
+  "resumen": "El creador del Ejército de Lula llegó a la Argentina y se reunió con Cristina Kirchner y Sergio Massa. La noticia registra el encuentro político del estratega brasileño con ambos dirigentes argentinos.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-03T01:31:59+00:00"
  },
  {
   "plataforma": "nacional",
@@ -366,6 +414,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-02T22:30:11+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "DataClave",
+  "autor": "DataClave",
+  "tipo": "nota",
+  "titulo": "El creador del “Ejército de Lula” viajó a Argentina para reunirse con Cristina y Massa",
+  "texto": "",
+  "url": "https://www.dataclave.com.ar/poder/el-creador-del--ejercito-de-lula--viajo-a-argentina-para-reunirse-con-cristina-y-massa_a6ae8fac0a4e82290d0168c80?output=amp",
+  "publicado": "2026-11-02T21:59:00+00:00",
+  "id": "3a92b3bcae831f33",
+  "titulo_norm": "el creador del ejército de lula viajó a argentina para reunirse con cristina y massa",
+  "resumen": "El creador del Ejército de Lula viajó a Argentina para reunirse con Cristina Kirchner y Sergio Massa. La nota informa el viaje y los encuentros políticos con ambos dirigentes.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-03T01:31:59+00:00"
  },
  {
   "plataforma": "portal",
@@ -718,6 +782,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-02T21:48:53+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Radio 10",
+  "autor": "Radio 10",
+  "tipo": "nota",
+  "titulo": "El estratega digital de Lula se reunió en Buenos Aires con Cristina Kirchner y Sergio Massa",
+  "texto": "André Janones, diputado federal del PT en Brasil y creador del grupo de WhatsApp Ejército de Lula, que fue clave para el triunfo del actual presidente en las últimas elecciones, mantuvo encuentros con ambos dirigentes.",
+  "url": "https://www.radio10.com.ar/el-estratega-digital-lula-se-reunio-buenos-aires-cristina-kirchner-y-sergio-massa-n6340704/amp",
+  "publicado": "2026-11-02T21:17:49+00:00",
+  "id": "3cbe08950090015d",
+  "titulo_norm": "el estratega digital de lula se reunió en buenos aires con cristina kirchner y sergio massa",
+  "resumen": "André Janones, diputado federal del PT y creador del grupo de WhatsApp Ejército de Lula, se reunió en Buenos Aires con Cristina Kirchner y Sergio Massa. Massa aparece como interlocutor de un encuentro político con el estratega brasileño.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-03T01:31:59+00:00"
  },
  {
   "plataforma": "portal",
