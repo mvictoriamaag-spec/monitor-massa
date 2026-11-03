@@ -1,5 +1,37 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "Info Blanco Sobre Negro",
+  "autor": "Info Blanco Sobre Negro",
+  "tipo": "nota",
+  "titulo": "La interna peronista no afloja, y Secco cruzó fuerte a Massa: \"¿Sos Dios?\"",
+  "texto": "“Primero te beneficiaste con todos los intendentes y ahora venís a decir que no podemos ser reelectos”, disparó el intendente de Ensenada contra",
+  "url": "https://www.infoblancosobrenegro.com/nota/115395/la-interna-peronista-no-afloja-y-secco-cruzo-fuerte-a-massa-sos-dios/",
+  "publicado": "2026-11-03T20:16:21+00:00",
+  "id": "41f1c10b4de52f60",
+  "titulo_norm": "la interna peronista no afloja y secco cruzó fuerte a massa sos dios",
+  "resumen": "En medio de la interna peronista, el intendente de Ensenada, Mario Secco, criticó duramente a Sergio Massa por afirmar que los intendentes no pueden ser reelectos, y le preguntó “¿Sos Dios?”.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-03T20:36:30+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "InfoPlatense",
+  "autor": "InfoPlatense",
+  "tipo": "nota",
+  "titulo": "Mario Secco cruzó a Massa por las reelecciones y defendió a Kicillof frente a La Cámpora",
+  "texto": "Mario Secco cruzó a Massa por oponerse a la reelección de los intendentes, lo llamó “hermoso mamarracho” y defendió a Kicillof frente a La Cámpora.",
+  "url": "https://www.infoplatense.com.ar/mario-secco-cruzo-a-massa-por-las-reelecciones-y-defendio-a-kicillof-frente-a-la-campora/",
+  "publicado": "2026-11-03T19:59:55+00:00",
+  "id": "dd26a8c72cde0039",
+  "titulo_norm": "mario secco cruzó a massa por las reelecciones y defendió a kicillof frente a la cámpora",
+  "resumen": "Mario Secco criticó a Sergio Massa por oponerse a la reelección de intendentes, lo llamó “hermoso mamarracho” y defendió a Axel Kicillof frente a La Cámpora.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-03T20:36:30+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "La Plata 1",
   "autor": "La Plata 1",
