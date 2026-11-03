@@ -272,6 +272,22 @@
   "recolectado": "2026-11-02T23:47:36+00:00"
  },
  {
+  "plataforma": "portal",
+  "fuente": "0264Noticias",
+  "autor": "0264Noticias",
+  "tipo": "nota",
+  "titulo": "Janones, “el general de Lula”, se reunió con Cristina Kirchner y Sergio Massa: la experiencia de Brasil, la unidad y el frente anti-Milei, en la agenda",
+  "texto": "El excandidato presidencial recibió al diputado brasileño André Janones y a dos estrategas de la campaña de Lula. Hablaron sobre la unidad para vencer a la derecha en la región, la experiencia digital y el rumbo hacia 2027",
+  "url": "https://www.0264noticias.com.ar/noticias/2026/11/02/115734-janones-el-general-de-lula-se-reunio-con-cristina-kirchner-y-sergio-massa-la-experiencia-de-brasil-la-unidad-y-el-frente-anti-milei-en-la-agenda",
+  "publicado": "2026-11-02T23:30:30+00:00",
+  "id": "ddea96a86e2eb224",
+  "titulo_norm": "janones el general de lula se reunió con cristina kirchner y sergio massa la experiencia de brasil la unidad y el frente",
+  "resumen": "Sergio Massa, excandidato presidencial, recibió al diputado brasileño André Janones y a dos estrategas de la campaña de Lula. Hablaron de la unidad frente a la derecha regional, la experiencia digital y el rumbo hacia 2027.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-03T22:54:05+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "TN",
   "autor": "TN",

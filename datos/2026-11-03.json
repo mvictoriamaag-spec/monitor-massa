@@ -273,6 +273,22 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "Radio Gabal",
+  "autor": "Radio Gabal",
+  "tipo": "nota",
+  "titulo": "Santiago Caputo lanzó una dura crítica a los estrategas digitales que se reunieron con Cristina Kirchner y Sergio Massa",
+  "texto": "Santiago caputo cruzó a los estrategas digitales de lula tras sus reuniones con cristina kirchner y sergio massa: “lo único determinante es el mensaje”",
+  "url": "https://radiogabal.com.ar/index.php/el-pais/santiago-caputo-lanzo-una-dura-critica-a-los-estrategas-digitales-que-se-reunieron-con-cristina-kirchner-y-sergio-massa",
+  "publicado": "2026-11-03T15:46:50+00:00",
+  "id": "1e456c88be0b648b",
+  "titulo_norm": "santiago caputo lanzó una dura crítica a los estrategas digitales que se reunieron con cristina kirchner y sergio massa",
+  "resumen": "El asesor de Javier Milei Santiago Caputo criticó a los estrategas digitales de Lula tras sus reuniones con Cristina Kirchner y Sergio Massa, y afirmó que “lo único determinante es el mensaje”.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-03T22:54:05+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "La Noticia 1",
   "autor": "La Noticia 1",
   "tipo": "nota",
@@ -846,5 +862,21 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-03T04:24:57+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "qpasó",
+  "autor": "qpasó",
+  "tipo": "nota",
+  "titulo": "Santiago Caputo estallÃ³ contra Cristina Kirchner y Massa: la durÃ­sima frase que lanzÃ³ por sus reuniones con el equipo de Lula",
+  "texto": "El asesor de Javier Milei cuestionÃ³ los encuentros de los referentes peronistas con AndrÃ© Janones, uno de los estrategas digitales del presidente brasileÃ±o. LanzÃ³ duras acusaciones contra la oposiciÃ³n y puso en duda que las nuevas herramientas de campaÃ±a puedan ayudarla a recuperar el poder en 2027.",
+  "url": "https://qpaso.ar/noticias/el-economista/politica/santiago-caputo-estallo-cristina-kirchner-massa-durisima-frase-lanzo-sus-reuniones-equipo-lula-n99420",
+  "publicado": "2026-11-03T03:00:00+00:00",
+  "id": "4321b4b64dac1fd5",
+  "titulo_norm": "santiago caputo estall contra cristina kirchner y massa la dur sima frase que lanz por sus reuniones con el equipo de lu",
+  "resumen": "El asesor de Milei Santiago Caputo cuestionó los encuentros de Cristina Kirchner y Sergio Massa con André Janones, estratega digital de Lula, y dudó de que las nuevas herramientas de campaña les permitan recuperar el poder en 2027.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-03T22:54:05+00:00"
  }
 ]
