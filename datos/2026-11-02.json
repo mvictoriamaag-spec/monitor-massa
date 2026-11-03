@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "Cañuelas Noticias NotiCañuelas",
+  "autor": "Cañuelas Noticias NotiCañuelas",
+  "tipo": "nota",
+  "titulo": "Massa Construyó a Milei: El Arquitecto que Quiere Gobernar con su Obra",
+  "texto": "Con Malena Galmarini trabando reformas clave de Kicillof en el Senado bonaerense, Cristina presa y Máximo en juicio oral, Massa",
+  "url": "https://canuelasnoticias.com/cnoticias-de-argentina/massa-construyo-a-milei-el-arquitecto-que-quiere-gobernar-con-su-obra/02/11/2026/",
+  "publicado": "2026-11-03T01:28:08+00:00",
+  "id": "b64c53620359503e",
+  "titulo_norm": "massa construyó a milei el arquitecto que quiere gobernar con su obra",
+  "resumen": "Nota de tono crítico que sostiene que Massa habría construido a Milei y aspira a gobernar con esa obra. Menciona que Malena Galmarini traba reformas de Kicillof en el Senado bonaerense, junto a Cristina presa y Máximo en juicio oral.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-03T02:31:17+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Ámbito",
   "autor": "Ámbito",
@@ -590,6 +606,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-02T22:30:11+00:00"
+ },
+ {
+  "plataforma": "nacional",
+  "fuente": "BAE Negocios",
+  "autor": "BAE Negocios",
+  "tipo": "nota",
+  "titulo": "El \"general de Lula\" se reunió con Cristina Kirchner y Massa para armar un frente contra Milei",
+  "texto": "André Janones, responsable del \"Ejército de Lula\", compartió la estrategia digital de la campaña brasileña con el peronismo, que busca ampliar sus alianzas para las elecciones de 2027.",
+  "url": "https://www.baenegocios.com/amp/el-general-de-lula-se-reunio-con-cristina-kirchner-y-massa-para-armar-un-frente-contra-milei/",
+  "publicado": "2026-11-02T21:48:41+00:00",
+  "id": "829dd57b1761bd8f",
+  "titulo_norm": "el general de lula se reunió con cristina kirchner y massa para armar un frente contra milei",
+  "resumen": "André Janones, responsable del \"Ejército de Lula\", compartió la estrategia digital de la campaña brasileña con el peronismo en una reunión con Cristina Kirchner y Massa. Buscan ampliar alianzas para 2027 y armar un frente contra Milei.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-03T02:31:17+00:00"
  },
  {
   "plataforma": "interior",
