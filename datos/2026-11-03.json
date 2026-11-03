@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "Impacto Castex",
+  "autor": "Impacto Castex",
+  "tipo": "nota",
+  "titulo": "Sergio Massa se reunió con André Janones, estratega de Lula",
+  "texto": "El exministro de Economía conversó con el diputado brasileño sobre la campaña digital que impulsó la reelección de Luiz Inácio Lula da Silva. Janones también convocó a argentinos a sumarse a un canal de WhatsApp inspirado en la estrategia del lulismo.",
+  "url": "https://impactocastex.com.ar/politica/17752/sergio-massa-se-reunio-con-andre-janones-estratega-de-lula",
+  "publicado": "2026-11-03T12:30:01+00:00",
+  "id": "475c3aab8ae27e89",
+  "titulo_norm": "sergio massa se reunió con andré janones estratega de lula",
+  "resumen": "Sergio Massa se reunió con André Janones, estratega de Lula, para conversar sobre la campaña digital que impulsó la reelección de Lula da Silva. Janones también convocó a argentinos a sumarse a un canal de WhatsApp inspirado en el lulismo.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-03T12:32:28+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "LA17",
   "autor": "LA17",
