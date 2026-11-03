@@ -1,5 +1,37 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "Séptima Sección",
+  "autor": "Séptima Sección",
+  "tipo": "nota",
+  "titulo": "El estratega de Lula se juntó con Cristina y Massa con la mirada en un frente para derrotar a Milei",
+  "texto": "El diputado federal brasileño André Janones, conocido como “el general de Lula”, mantuvo el lunes dos reuniones en Buenos Aires: una con Sergio Massa y otra con Cristina Fernández de Kirchner. Lo acompañaron Chico Kertész y Rafael Marroquim, estrategas de comunicación que integraron el equipo de campaña con el que Luiz Inácio Lula da Silva […]",
+  "url": "https://septimaseccion.com.ar/el-estratega-de-lula-se-junto-con-cristina-y-massa-con-la-mirada-en-un-frente-para-derrotar-a-milei/",
+  "publicado": "2026-11-03T10:24:32+00:00",
+  "id": "33c0a8579a5e443b",
+  "titulo_norm": "el estratega de lula se juntó con cristina y massa con la mirada en un frente para derrotar a milei",
+  "resumen": "Janones, estratega de Lula, se reunió en Buenos Aires con Massa y con Cristina Fernández de Kirchner. La mirada está puesta en armar un frente para derrotar a Milei.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-03T10:35:06+00:00"
+ },
+ {
+  "plataforma": "interior",
+  "fuente": "Diario Mendoza Today",
+  "autor": "Diario Mendoza Today",
+  "tipo": "nota",
+  "titulo": "La disputa Kicillof-Massa arribó a la provincia de Mendoza",
+  "texto": "Hay una fuerte interna en el peronismo donde los distintos sectores están en pugna por ver quién finalmente liderará el proyecto con el que la oposición logre llegar a Balcarce 50 el próximo año.",
+  "url": "https://mendozatoday.com.ar/politica/la-disputa-kicillof-massa-arribo-a-la-provincia-de-mendoza/",
+  "publicado": "2026-11-03T09:00:00+00:00",
+  "id": "c6c9ccafdb7fd752",
+  "titulo_norm": "la disputa kicillof massa arribó a la provincia de mendoza",
+  "resumen": "Describe la disputa interna del peronismo entre Kicillof y Massa, que llega a Mendoza: distintos sectores pugnan por encabezar el proyecto opositor para ganar la Casa Rosada el año próximo.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-03T10:35:06+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "PINAMAR 24",
   "autor": "PINAMAR 24",
@@ -30,6 +62,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-03T06:19:57+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Tendencia de Noticias",
+  "autor": "Tendencia de Noticias",
+  "tipo": "nota",
+  "titulo": "Cristina Kirchner y Sergio Massa se reunieron con los estrategas de la campaña de \"Lula\" da Silva",
+  "texto": "El diputado André Janones y los especialistas en comunicación Chico Kertész y Rafael Marroquim, visitaron a la condenada ex-presidente y al ex-ministro de Economía.",
+  "url": "https://tendenciadenoticias.com.ar/politica/cristina-kirchner-y-sergio-massa-se-reunieron-con-los-estrategas-de-la-campana-de-lula-da-silva",
+  "publicado": "2026-11-03T04:58:00+00:00",
+  "id": "eaed33c175b0f094",
+  "titulo_norm": "cristina kirchner y sergio massa se reunieron con los estrategas de la campaña de lula da silva",
+  "resumen": "Los estrategas de la campaña de Lula da Silva, entre ellos el diputado André Janones, se reunieron con Cristina Fernández de Kirchner y con Massa, a quien la nota presenta como ex ministro de Economía.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-03T10:35:06+00:00"
  },
  {
   "plataforma": "portal",
