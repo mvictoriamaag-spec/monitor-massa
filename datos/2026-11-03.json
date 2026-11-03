@@ -1,6 +1,38 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "Berisso Ciudad",
+  "autor": "Berisso Ciudad",
+  "tipo": "nota",
+  "titulo": "Mario Secco apuntó contra Sergio Massa por las reelecciones: “Qué hermoso mamarracho”",
+  "texto": "",
+  "url": "https://www.berissociudad.com.ar/Mario-Secco-apunto-contra-Sergio-Massa-por-las-reelecciones-Que-hermoso-mamarracho-404789",
+  "publicado": "2026-11-03T16:02:14+00:00",
+  "id": "853683f3da59fe99",
+  "titulo_norm": "mario secco apuntó contra sergio massa por las reelecciones qué hermoso mamarracho",
+  "resumen": "El intendente de Berisso, Mario Secco, criticó a Sergio Massa por su postura sobre las reelecciones de intendentes y lo calificó de \"qué hermoso mamarracho\". Es una crítica política directa.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-03T16:21:21+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Vive La Plata",
+  "autor": "Vive La Plata",
+  "tipo": "nota",
+  "titulo": "“Qué hermoso mamarracho”: Secco cargó contra Massa y defendió la reelección de los intendentes",
+  "texto": "El jefe comunal de Ensenada cuestionó al líder del Frente Renovador por su postura sobre los mandatos municipales. También aseguró que casi 50 intendentes respaldan una candidatura presidencial de Kicillof.",
+  "url": "https://vivelaplata.com.ar/que-hermoso-mamarracho-secco-cargo-contra-massa-y-defendio-la-reeleccion-de-los-intendentes/",
+  "publicado": "2026-11-03T16:00:07+00:00",
+  "id": "a2bfb0c71b974a47",
+  "titulo_norm": "qué hermoso mamarracho secco cargó contra massa y defendió la reelección de los intendentes",
+  "resumen": "El intendente de Ensenada, Mario Secco, cuestionó al líder del Frente Renovador, Sergio Massa, por su postura sobre los mandatos municipales y defendió la reelección de los intendentes. También afirmó que casi 50 intendentes respaldan una candidatura presidencial de Kicillof.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-03T16:21:21+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "La Noticia 1",
   "autor": "La Noticia 1",
   "tipo": "nota",
@@ -208,6 +240,22 @@
   "recolectado": "2026-11-03T13:50:41+00:00"
  },
  {
+  "plataforma": "nacional",
+  "fuente": "Big Bang! News",
+  "autor": "Big Bang! News",
+  "tipo": "nota",
+  "titulo": "Massa y CFK reunidos con el hombre que ayudó a ganar a Lula: tiemblan las fuerzas del cielo",
+  "texto": "El diputado brasileño André Janones, cerebro del \"Ejército de Lula\" en WhatsApp, pasó por Buenos Aires. Después de Massa, la próxima parada fue San José 1111.",
+  "url": "https://www.bigbangnews.com/politica/massa-cfk-reunidos-hombre-ayudo-ganar-lula-tiemblan-fuerzas-cielo-n103808",
+  "publicado": "2026-11-03T12:37:00+00:00",
+  "id": "5645730af32a2eb9",
+  "titulo_norm": "massa y cfk reunidos con el hombre que ayudó a ganar a lula tiemblan las fuerzas del cielo",
+  "resumen": "El diputado brasileño André Janones, estratega del \"Ejército de Lula\" en WhatsApp, visitó Buenos Aires y se reunió con Sergio Massa y después con Cristina Fernández de Kirchner. La nota presenta el encuentro como una noticia política sin tono crítico ni de apoyo explícito.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-03T16:21:21+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "Impacto Castex",
   "autor": "Impacto Castex",
@@ -302,6 +350,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-03T11:31:26+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Diario Actualidad",
+  "autor": "Diario Actualidad",
+  "tipo": "nota",
+  "titulo": "Alegre respaldó a Kicillof y dijo que ya no ve a Massa con posibilidades electorales",
+  "texto": "El intendente de General Villegas, Gilberto Alegre, respaldó a Axel Kicillof como una alternativa para enfrentar a Javier Milei y afirmó que ya no ve a Sergio Massa con posibilidades electorales reales, aunque le reconoció capacidad de negociación. También marcó diferencias con La Cámpora y cuestionó la conveniencia de reconstruir una alianza con el exministro […]",
+  "url": "https://diarioactualidad.com/blog/2026/11/03/alegre-respaldo-a-kicillof-y-dijo-que-ya-no-ve-a-massa-con-posibilidades-electorales/",
+  "publicado": "2026-11-03T11:00:12+00:00",
+  "id": "e8bc43aa2a518b57",
+  "titulo_norm": "alegre respaldó a kicillof y dijo que ya no ve a massa con posibilidades electorales",
+  "resumen": "El intendente de General Villegas, Gilberto Alegre, respalda a Axel Kicillof frente a Javier Milei y afirma que ya no ve a Massa con posibilidades electorales reales, aunque reconoce su capacidad de negociación. Además, marca diferencias con La Cámpora y cuestiona reconstruir una alianza con Massa.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-03T16:21:21+00:00"
  },
  {
   "plataforma": "portal",
