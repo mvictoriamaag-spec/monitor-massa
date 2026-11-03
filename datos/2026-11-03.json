@@ -1,5 +1,37 @@
 [
  {
+  "plataforma": "interior",
+  "fuente": "La Plata 1",
+  "autor": "La Plata 1",
+  "tipo": "nota",
+  "titulo": "Secco trató de “mamarracho” a Massa por oponerse a la reelección de intendentes: “Somos 50 trabajando por Axel presidente”",
+  "texto": "El intendente de Ensenada cuestionó duramente al líder del Frente Renovador por oponerse a modificar la ley de reelecciones. Además, ratificó su respaldo al...",
+  "url": "https://www.laplata1.com/2026-11-03/secco-trato-de-mamarracho-a-massa-por-oponerse-a-la-reeleccion-de-intendentes-somos-50-trabajando-por-axel-presidente-126979/",
+  "publicado": "2026-11-03T19:23:00+00:00",
+  "id": "e554c583e65ef3fd",
+  "titulo_norm": "secco trató de mamarracho a massa por oponerse a la reelección de intendentes somos 50 trabajando por axel presidente",
+  "resumen": "Secco volvió a cuestionar duramente a Massa, líder del Frente Renovador, por oponerse a modificar la ley de reelecciones. Además ratificó su respaldo con la frase \"Somos 50 trabajando por Axel presidente\".",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-03T19:49:25+00:00"
+ },
+ {
+  "plataforma": "interior",
+  "fuente": "0221 (La Plata)",
+  "autor": "0221 (La Plata)",
+  "tipo": "nota",
+  "titulo": "Mario Secco calificó a Sergio Massa de \"mamarracho\" por oponerse a la reelección de intendentes",
+  "texto": "El jefe comunal de Ensenada salió al cruce del exministro de Economía y candidato a Presidente por oponerse a la reelección indefinida de intendentes.",
+  "url": "https://www.0221.com.ar/nacional/mario-secco-califico-sergio-massa-mamarracho-oponerse-la-reeleccion-intendentes-n136850",
+  "publicado": "2026-11-03T19:20:00+00:00",
+  "id": "3b25b85995503f63",
+  "titulo_norm": "mario secco calificó a sergio massa de mamarracho por oponerse a la reelección de intendentes",
+  "resumen": "El intendente de Ensenada, Mario Secco, criticó a Sergio Massa calificándolo de \"mamarracho\" por oponerse a la reelección indefinida de intendentes. La crítica es el eje de la nota.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-03T19:49:25+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "Diputados Bonaerenses",
   "autor": "Diputados Bonaerenses",
