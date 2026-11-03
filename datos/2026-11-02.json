@@ -817,6 +817,22 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "La Voz de Jujuy",
+  "autor": "La Voz de Jujuy",
+  "tipo": "nota",
+  "titulo": "Sergio Massa se reunió con estrategas de Lula y analiza estrategias de cara a las elecciones de 2027",
+  "texto": "Comunicación y periodismo en el norte argentino",
+  "url": "https://www.lavozdejujuy.com/grilla-1/sergio-massa-se-reunio-con-estrategas-de-lula-y-analiza-estrategias-de-cara-a-las-elecciones-de-2027",
+  "publicado": "2026-11-02T21:29:43+00:00",
+  "id": "78d8154f8cc0757e",
+  "titulo_norm": "sergio massa se reunió con estrategas de lula y analiza estrategias de cara a las elecciones de 2027",
+  "resumen": "Noticia sobre una reunión de Sergio Massa con estrategas de Lula da Silva, en la que analiza estrategias de cara a las elecciones de 2027. Aparece como protagonista de una nota de contenido político.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-03T03:01:02+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Radio LV11",
   "autor": "Radio LV11",
   "tipo": "nota",
