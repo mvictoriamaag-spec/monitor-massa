@@ -96,6 +96,22 @@
   "recolectado": "2026-11-03T00:35:10+00:00"
  },
  {
+  "plataforma": "portal",
+  "fuente": "Infomiba",
+  "autor": "Infomiba",
+  "tipo": "nota",
+  "titulo": "Massa busca importar la estrategia digital de Lula para enfrentar a Milei en 2027",
+  "texto": "El líder del Frente Renovador mantuvo una reunión de más de dos horas con André Janones, uno de los principales estrategas de la campaña presiden",
+  "url": "https://infomiba.com.ar/nota/59390/massa-busca-importar-la-estrategia-digital-de-lula-para-enfrentar-a-milei-en-2027/",
+  "publicado": "2026-11-03T00:22:30+00:00",
+  "id": "f3d4f5d42b12dfae",
+  "titulo_norm": "massa busca importar la estrategia digital de lula para enfrentar a milei en 2027",
+  "resumen": "Sergio Massa, líder del Frente Renovador, mantuvo una reunión de más de dos horas con André Janones, estratega de la campaña de Lula, para importar su estrategia digital y enfrentar a Milei en 2027.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-03T02:30:38+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Minuto Uno",
   "autor": "Minuto Uno",
@@ -590,6 +606,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-02T22:30:11+00:00"
+ },
+ {
+  "plataforma": "nacional",
+  "fuente": "BAE Negocios",
+  "autor": "BAE Negocios",
+  "tipo": "nota",
+  "titulo": "El \"general de Lula\" se reunió con Cristina Kirchner y Massa para armar un frente contra Milei",
+  "texto": "André Janones, responsable del \"Ejército de Lula\", compartió la estrategia digital de la campaña brasileña con el peronismo, que busca ampliar sus alianzas para las elecciones de 2027.",
+  "url": "https://www.baenegocios.com/politica/el-general-de-lula-se-reunio-con-cristina-kirchner-y-massa-para-armar-un-frente-contra-milei/",
+  "publicado": "2026-11-02T21:48:00+00:00",
+  "id": "b4bf7c58ead7df2d",
+  "titulo_norm": "el general de lula se reunió con cristina kirchner y massa para armar un frente contra milei",
+  "resumen": "André Janones, responsable del \"Ejército de Lula\", se reunió con Cristina Kirchner y Sergio Massa para compartir la estrategia digital de la campaña brasileña y armar un frente opositor contra Milei de cara a 2027.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-03T02:30:38+00:00"
  },
  {
   "plataforma": "nacional",
