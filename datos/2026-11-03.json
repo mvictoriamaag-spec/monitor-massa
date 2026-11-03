@@ -1,5 +1,37 @@
 [
  {
+  "plataforma": "interior",
+  "fuente": "LA17",
+  "autor": "LA17",
+  "tipo": "nota",
+  "titulo": "Cristina y Massa se reunieron con asesores brasileños para replicar la estrategia de Lula en 2027",
+  "texto": "",
+  "url": "https://lu17.com/contenido/156023/cristina-y-massa-se-reunieron-con-asesores-brasilenos-para-replicar-la-estrategia-de-lula-en-2027",
+  "publicado": "2026-11-03T12:20:00+00:00",
+  "id": "3d7ab3421f2da476",
+  "titulo_norm": "cristina y massa se reunieron con asesores brasileños para replicar la estrategia de lula en 2027",
+  "resumen": "Cristina y Sergio Massa se reunieron con asesores brasileños para replicar en 2027 la estrategia de Lula, con miras a la disputa electoral contra el oficialismo.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-03T12:31:37+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Primera Fuente",
+  "autor": "Primera Fuente",
+  "tipo": "nota",
+  "titulo": "Sergio Massa se reunió con estrategas de Lula y diagrama una gran coalición opositora para enfrentar a Milei en 2027",
+  "texto": "El líder del Frente Renovador mantuvo un encuentro de dos horas con André Janones —conocido como el general de Lula— y los publicistas Chico Kertész y Rafael Marroquim. El objetivo es absorber la experiencia del marketing digital y territorial brasileño para articular un frente opositor amplio de cara a los comicios presidenciales.",
+  "url": "https://www.primerafuente.com.ar/noticias/133371/sergio-massa-se-reunio-estrategas-lula-diagrama-gran-coalicion-opositora-para-enfrentar-milei-2027",
+  "publicado": "2026-11-03T12:17:38+00:00",
+  "id": "a64fb597ba48d44b",
+  "titulo_norm": "sergio massa se reunió con estrategas de lula y diagrama una gran coalición opositora para enfrentar a milei en 2027",
+  "resumen": "Sergio Massa, del Frente Renovador, se reunió dos horas con André Janones y los publicistas Chico Kertész y Rafael Marroquim para absorber experiencia de marketing digital y territorial brasileño y diagramar una coalición opositora para enfrentar a Milei en 2027.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-03T12:31:37+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "Cuarto Político",
   "autor": "Cuarto Político",
