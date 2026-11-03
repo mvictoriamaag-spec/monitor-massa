@@ -81,6 +81,22 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "esposta.com.ar",
+  "autor": "esposta.com.ar",
+  "tipo": "nota",
+  "titulo": "Massa se junta con los cerebros de la campaña de Lula para armar un frente contra Milei en 2027",
+  "texto": "",
+  "url": "https://esposta.com.ar/contenido/4159/massa-se-junta-con-los-cerebros-de-la-campana-de-lula-para-armar-un-frente-contra-milei-en-2027",
+  "publicado": "2026-11-03T01:01:06+00:00",
+  "id": "e4d317291098f848",
+  "titulo_norm": "massa se junta con los cerebros de la campaña de lula para armar un frente contra milei en 2027",
+  "resumen": "Noticia que indica que Sergio Massa se reúne con los estrategas de la campaña de Lula da Silva para armar un frente opositor contra Javier Milei de cara a 2027.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-03T12:05:07+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Desalambrar",
   "autor": "Desalambrar",
   "tipo": "nota",
