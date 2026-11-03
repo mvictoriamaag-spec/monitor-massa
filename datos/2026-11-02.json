@@ -1,6 +1,22 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "El Canciller",
+  "autor": "El Canciller",
+  "tipo": "nota",
+  "titulo": "Con la mira en 2027, Cristina Kirchner y Massa recibieron a Janones, el estratega digital de Lula",
+  "texto": "",
+  "url": "https://elcanciller.com/politica/con-la-mira-en-2027--cristina-kirchner-y-massa-recibieron-a-janones--el-estratega-digital-de-lula_a6ae90da1633ff23c42e0055c?output=amp",
+  "publicado": "2026-11-03T02:17:46+00:00",
+  "id": "49f429109ea2c466",
+  "titulo_norm": "con la mira en 2027 cristina kirchner y massa recibieron a janones el estratega digital de lula",
+  "resumen": "Cristina Kirchner y Massa recibieron a Janones, estratega digital de Lula, con la mira puesta en las elecciones de 2027. Es una noticia sobre un encuentro político de la oposición peronista.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-03T06:19:57+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "La Letra Chica",
   "autor": "La Letra Chica",
   "tipo": "nota",

@@ -1,5 +1,37 @@
 [
  {
+  "plataforma": "interior",
+  "fuente": "PINAMAR 24",
+  "autor": "PINAMAR 24",
+  "tipo": "nota",
+  "titulo": "Massa y Cristina Kirchner se reunieron con el creador del “Ejército de Lula” para analizar el escenario electoral de 2027",
+  "texto": "El diputado brasileño André Janones, impulsor de una red digital que reunió a más de diez millones de simpatizantes de Luiz Inácio Lula da Silva, mantuvo encuentros con Sergio Massa y Cristina Fernández de Kirchner. La estrategia de comunicación utilizada en Brasil, la unidad del peronismo y la construcción de un frente opositor a Javier Milei estuvieron entre los principales temas.",
+  "url": "https://www.pinamar24.com.ar/nota/0311202601341734/massa-y-cristina-kirchner-se-reunieron-con-el-creador-del-ej-rcito-de-lula-para-analizar-el-escenario-electoral-de-2027",
+  "publicado": "2026-11-03T06:16:35+00:00",
+  "id": "814b1995f580e641",
+  "titulo_norm": "massa y cristina kirchner se reunieron con el creador del ejército de lula para analizar el escenario electoral de 2027",
+  "resumen": "Massa y Cristina Kirchner se reunieron con André Janones, impulsor de la red digital de Lula, para analizar el escenario electoral de 2027. Trataron la comunicación de Brasil, la unidad peronista y un frente opositor a Milei.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-03T06:19:57+00:00"
+ },
+ {
+  "plataforma": "nacional",
+  "fuente": "Infobae",
+  "autor": "Infobae",
+  "tipo": "nota",
+  "titulo": "El peronismo oficializó su disputa electoral: del anuncio de Cristina Kirchner a la postura inquebrantable de Kicillof",
+  "texto": "La coalición opositora empieza a desandar un recorrido cada vez más vertiginoso hacia las elecciones del 2027. El encuentro de Massa y la ex presidenta con los asesores de Lula Da Silva",
+  "url": "https://www.infobae.com/politica/2026/11/03/el-peronismo-oficializo-su-disputa-electoral-del-anuncio-de-cristina-kirchner-a-la-postura-inquebrantable-de-kicillof/",
+  "publicado": "2026-11-03T06:04:00+00:00",
+  "id": "4626daf554b56c21",
+  "titulo_norm": "el peronismo oficializó su disputa electoral del anuncio de cristina kirchner a la postura inquebrantable de kicillof",
+  "resumen": "Infobae analiza la disputa electoral del peronismo rumbo a 2027, desde el anuncio de Cristina Kirchner hasta la postura de Kicillof. Menciona un encuentro de Massa y la expresidenta con asesores de Lula da Silva.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-03T06:19:57+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "Diario El Cordillerano",
   "autor": "Diario El Cordillerano",
