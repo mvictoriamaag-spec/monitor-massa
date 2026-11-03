@@ -240,6 +240,22 @@
   "recolectado": "2026-11-03T00:35:10+00:00"
  },
  {
+  "plataforma": "portal",
+  "fuente": "Medios Provincia",
+  "autor": "Medios Provincia",
+  "tipo": "nota",
+  "titulo": "El \"Ejército de Lula\" desembarcó en la Argentina y mantuvo reuniones con Cristina Kirchner y Sergio Massa",
+  "texto": "El creador del grupo de WhatsApp, que movilizó a millones de seguidores del presidente brasileño reelecto, llegó al país para analizar cómo trasladar esa experiencia a la campaña presidencial de 2027. El diputado brasileño André Janones, dirigente del Partido de los Trabajadores (PT) y uno de los principales impulsores de la movilización digital de WhatsApp […] More",
+  "url": "https://www.tiempopopular.com.ar/2026/11/02/el-ejercito-de-lula-desembarco-en-la-argentina-y-mantuvo-reuniones-con-cristina-kirchner-y-sergio-massa/",
+  "publicado": "2026-11-02T23:39:10+00:00",
+  "id": "69a7d4f0505f24a6",
+  "titulo_norm": "el ejército de lula desembarcó en la argentina y mantuvo reuniones con cristina kirchner y sergio massa",
+  "resumen": "Informa que André Janones, diputado brasileño del PT y creador del \"Ejército de Lula\", llegó al país para analizar cómo llevar esa movilización digital a la campaña presidencial de 2027 y se reunió con Cristina Kirchner y Sergio Massa.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-03T22:01:27+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "Diario Huarpe (San Juan)",
   "autor": "Diario Huarpe (San Juan)",

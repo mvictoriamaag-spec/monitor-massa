@@ -608,6 +608,22 @@
   "recolectado": "2026-11-03T11:31:26+00:00"
  },
  {
+  "plataforma": "portal",
+  "fuente": "La 97.1 Radio Tucumán",
+  "autor": "La 97.1 Radio Tucumán",
+  "tipo": "nota",
+  "titulo": "El \"Ejército de Lula\" en la Argentina: cumbre política con Cristina Kirchner y Sergio Massa",
+  "texto": "El creador del grupo de WhatsApp, que movilizó a millones de seguidores del presidente brasileño reelecto, llegó al país para analizar cómo trasladar esa experiencia a la campaña presidencial de 2027.",
+  "url": "https://radiotucuman.com.ar/nota/46872/el-ejercito-de-lula-en-la-argentina-cumbre-politica-con-cristina-kirchner-y-sergio-massa",
+  "publicado": "2026-11-03T11:27:00+00:00",
+  "id": "a999cf2ddcc09820",
+  "titulo_norm": "el ejército de lula en la argentina cumbre política con cristina kirchner y sergio massa",
+  "resumen": "Nota sobre la llegada al país del creador del \"Ejército de Lula\" para analizar cómo trasladar esa movilización digital a la campaña presidencial de 2027. Reseña una cumbre política en la que participa Sergio Massa junto a Cristina Kirchner.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-03T22:01:27+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "Infonoroeste",
   "autor": "Infonoroeste",
