@@ -1,6 +1,38 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "Cuarto Político",
+  "autor": "Cuarto Político",
+  "tipo": "nota",
+  "titulo": "Massa y Cristina Kirchner recibieron a los estrategas digitales de Lula y analizaron cómo enfrentar a Milei",
+  "texto": "El l&iacute;der del Frente Renovador se reuni&oacute; con el diputado Andr&eacute; Janones y los publicistas Rafael Marroquim y Chico Kert&eacute;sz, integrantes del equipo de comunicaci&oacute;n del mandatario brasile&ntilde;o. Por la tarde, los referentes tambi&eacute;n visitaron a la expresidenta, en medio de los movimientos del peronismo hacia 2027.",
+  "url": "https://www.cuartopolitico.com/nota/2026-11-3-7-53-0-massa-y-cristina-kirchner-recibieron-a-los-estrategas-digitales-de-lula-y-analizaron-como-enfrentar-a-milei",
+  "publicado": "2026-11-03T11:28:08+00:00",
+  "id": "f1358a1dafb5450a",
+  "titulo_norm": "massa y cristina kirchner recibieron a los estrategas digitales de lula y analizaron cómo enfrentar a milei",
+  "resumen": "Massa recibió al diputado André Janones y a los publicistas Rafael Marroquim y Chico Kertész, integrantes del equipo de comunicación de Lula, para analizar cómo enfrentar a Milei. Luego los visitantes se reunieron con Cristina Kirchner, en medio de los movimientos del peronismo hacia 2027.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-03T11:31:26+00:00"
+ },
+ {
+  "plataforma": "interior",
+  "fuente": "Infonoroeste",
+  "autor": "Infonoroeste",
+  "tipo": "nota",
+  "titulo": "Massa, Kicillof y Cristina: cómo se posiciona el peronismo de la Cuarta ante las PASO",
+  "texto": "El Frente Renovador y el MDF expresaron su respaldo a las primarias como mecanismo para definir la candidatura presidencial de 2027, aunque promueven",
+  "url": "https://infonoroeste.com.ar/nota/55528/massa-kicillof-y-cristina-como-se-posiciona-el-peronismo-de-la-cuarta-ante-las-paso/",
+  "publicado": "2026-11-03T11:11:29+00:00",
+  "id": "02b7b448321a269d",
+  "titulo_norm": "massa kicillof y cristina cómo se posiciona el peronismo de la cuarta ante las paso",
+  "resumen": "Análisis sobre la posición del peronismo de la Cuarta ante las PASO, con Massa, Kicillof y Cristina Kirchner como protagonistas. El Frente Renovador y el MDF respaldan las primarias para definir la candidatura presidencial de 2027.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-03T11:31:26+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Séptima Sección",
   "autor": "Séptima Sección",
   "tipo": "nota",
@@ -14,6 +46,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-03T10:35:06+00:00"
+ },
+ {
+  "plataforma": "interior",
+  "fuente": "Diario Mendoza Today",
+  "autor": "Diario Mendoza Today",
+  "tipo": "nota",
+  "titulo": "Sergio Massa se reunió con los estrategas de la campaña de Lula da Silva",
+  "texto": "La delegación brasileña ya había mantenido contacto con el jefe del Frente Renovador durante la campaña de 2023.",
+  "url": "https://mendozatoday.com.ar/amp/sergio-massa-se-reunio-con-los-estrategas-de-la-campana-de-lula-da-silva/",
+  "publicado": "2026-11-03T09:42:14+00:00",
+  "id": "aae701713b472141",
+  "titulo_norm": "sergio massa se reunió con los estrategas de la campaña de lula da silva",
+  "resumen": "Sergio Massa se reunió con los estrategas de la campaña de Lula da Silva. La delegación brasileña ya había mantenido contacto con el jefe del Frente Renovador durante la campaña de 2023.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-03T11:31:26+00:00"
  },
  {
   "plataforma": "interior",
