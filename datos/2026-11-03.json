@@ -1,5 +1,37 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "Diputados Bonaerenses",
+  "autor": "Diputados Bonaerenses",
+  "tipo": "nota",
+  "titulo": "Reelecciones indefinidas: Secco apuntó contra Massa",
+  "texto": "El intendente Mario Secco apuntó contra el líder del Frente Renovador, Sergio Massa, por no acompañar las reelecciones indefinidas.",
+  "url": "https://diputadosbsas.com.ar/secco-apunto-massa-reelecciones-indefinidas/",
+  "publicado": "2026-11-03T18:42:00+00:00",
+  "id": "01f0a2286d607da2",
+  "titulo_norm": "reelecciones indefinidas secco apuntó contra massa",
+  "resumen": "El intendente Mario Secco criticó a Sergio Massa, líder del Frente Renovador, por no acompañar el proyecto de reelecciones indefinidas de intendentes.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-03T19:00:41+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Cronos noticias",
+  "autor": "Cronos noticias",
+  "tipo": "nota",
+  "titulo": "“Mamarracho” y “¿Quién sos?”: intendente kicillofista explotó contra Massa por las reelecciones ilimitadas",
+  "texto": "El jefe comunal de Ensenada apuntó contra el líder del Frente Renovador por la ley que limita los mandatos de los intendentes y le recordó el apoyo",
+  "url": "https://infocronos.com.ar/nota/58679/mamarracho-y-quien-sos-intendente-kicillofista-exploto-contra-massa-por-las-reelecciones-ilimitadas/",
+  "publicado": "2026-11-03T18:30:12+00:00",
+  "id": "fd3d058079e9b643",
+  "titulo_norm": "mamarracho y quién sos intendente kicillofista explotó contra massa por las reelecciones ilimitadas",
+  "resumen": "El intendente de Ensenada, alineado con el kirchnerismo, criticó duramente a Sergio Massa, líder del Frente Renovador, por su postura sobre las reelecciones ilimitadas de intendentes. Le recordó el apoyo que recibió de su sector.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-03T19:00:41+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "Río Negro",
   "autor": "Río Negro",
@@ -110,6 +142,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-03T16:21:21+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Agencia DIB",
+  "autor": "Agencia DIB",
+  "tipo": "nota",
+  "titulo": "Secco calificó de \"mamarracho\" a Massa por oponerse a la reelección de intendentes",
+  "texto": "“Le llenamos la cancha de Cambaceres con 50 mil compañeros y ahora viene a decir esto”, expresó el jefe comunal de Ensenada.",
+  "url": "https://dib.com.ar/politica/secco-califico-mamarracho-massa-oponerse-la-reeleccion-intendentes-n57029",
+  "publicado": "2026-11-03T15:49:00+00:00",
+  "id": "6a15d7f861987710",
+  "titulo_norm": "secco calificó de mamarracho a massa por oponerse a la reelección de intendentes",
+  "resumen": "El intendente de Ensenada, Mario Secco, calificó de \"mamarracho\" a Sergio Massa por oponerse a la reelección de intendentes. Secco también mencionó un acto con 50 mil militantes en Cambaceres.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-03T19:00:41+00:00"
  },
  {
   "plataforma": "portal",
