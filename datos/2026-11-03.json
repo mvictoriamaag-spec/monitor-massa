@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "Diario El Cordillerano",
+  "autor": "Diario El Cordillerano",
+  "tipo": "nota",
+  "titulo": "El \"Ejército de Lula\" llegó a la Argentina y se reunió con Sergio Massa",
+  "texto": "El encuentro apunta a intercambiar estrategias de comunicación política de cara a las elecciones presidenciales de octubre de 2027.",
+  "url": "https://www.elcordillerano.com.ar/noticias/2026/11/03/270945-el-ejercito-de-lula-llego-a-la-argentina-y-se-reunio-con-sergio-massa",
+  "publicado": "2026-11-03T04:33:29+00:00",
+  "id": "24f3f3c1f66cf333",
+  "titulo_norm": "el ejército de lula llegó a la argentina y se reunió con sergio massa",
+  "resumen": "Nota que informa que el \"Ejército de Lula\" llegó a la Argentina y se reunió con Sergio Massa. El encuentro busca intercambiar estrategias de comunicación política de cara a las elecciones presidenciales de octubre de 2027.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-03T05:21:55+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "La Nación",
   "autor": "La Nación",
