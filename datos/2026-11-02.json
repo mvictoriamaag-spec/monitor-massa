@@ -1,6 +1,22 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "La Letra Chica",
+  "autor": "La Letra Chica",
+  "tipo": "nota",
+  "titulo": "Massa recibió a los estrategas de Lula y se prepara para dar batalla digital contra Milei",
+  "texto": "El líder del Frente Renovador mantuvo un encuentro estratégico con los artífices de la campaña del presidente electo brasileño para delinear la c",
+  "url": "https://laletrachica.com.ar/nota/26832/massa-recibio-a-los-estrategas-de-lula-y-se-prepara-para-dar-batalla-digital-contra-milei/",
+  "publicado": "2026-11-03T02:15:00+00:00",
+  "id": "39ba63337f7b9beb",
+  "titulo_norm": "massa recibió a los estrategas de lula y se prepara para dar batalla digital contra milei",
+  "resumen": "El líder del Frente Renovador se reunió con los estrategas de la campaña de Lula para delinear una estrategia de cara a una batalla digital contra Milei. Massa aparece como protagonista de una noticia sobre su preparación política.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-03T04:24:57+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Cañuelas Noticias NotiCañuelas",
   "autor": "Cañuelas Noticias NotiCañuelas",
   "tipo": "nota",
@@ -382,6 +398,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-02T23:14:00+00:00"
+ },
+ {
+  "plataforma": "interior",
+  "fuente": "» Cholila Online",
+  "autor": "» Cholila Online",
+  "tipo": "nota",
+  "titulo": "El «Ejército de Lula» desembarcó en la Argentina y se reunió con CFK y Massa",
+  "texto": "André Janones, creador del Ejército de Lula, se reunió en Argentina con Cristina Kirchner y Sergio Massa para asesorarlos de cara a 2027.",
+  "url": "https://cholilaonline.ar/2026/11/ejercito-de-lula.html",
+  "publicado": "2026-11-02T22:11:31+00:00",
+  "id": "2f2eea5019d47361",
+  "titulo_norm": "el ejército de lula desembarcó en la argentina y se reunió con cfk y massa",
+  "resumen": "André Janones, creador del «Ejército de Lula», visitó la Argentina y se reunió con Cristina Kirchner y Sergio Massa para asesorarlos de cara a 2027. Massa aparece como interlocutor en una noticia sobre estrategia electoral.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-03T04:24:57+00:00"
  },
  {
   "plataforma": "nacional",

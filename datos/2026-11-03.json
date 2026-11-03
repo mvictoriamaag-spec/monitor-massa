@@ -14,5 +14,21 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-03T03:30:04+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Diario Hoy En la noticia",
+  "autor": "Diario Hoy En la noticia",
+  "tipo": "nota",
+  "titulo": "Massa recibió al equipo de campaña de Lula",
+  "texto": "El intercambio estuvo enfocado en estrategias de movilización y comunicación política.",
+  "url": "https://diariohoy.net/politica/massa-recibio-al-equipo-de-campana-de-lula-289803",
+  "publicado": "2026-11-03T03:00:00+00:00",
+  "id": "e1efd4960bb10da0",
+  "titulo_norm": "massa recibió al equipo de campaña de lula",
+  "resumen": "Massa recibió al equipo de campaña de Lula en un encuentro centrado en estrategias de movilización y comunicación política. La nota informa sobre la reunión sin valoraciones explícitas.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-03T04:24:57+00:00"
  }
 ]
