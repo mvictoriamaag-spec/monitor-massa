@@ -1,6 +1,22 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "La Noticia Web",
+  "autor": "La Noticia Web",
+  "tipo": "nota",
+  "titulo": "El massismo salió con los tapones de punta contra Secco tras su ataque a Massa por la reelección de intendentes",
+  "texto": "La discusión por la reelección de los intendentes bonaerenses volvió a exponer las diferencias dentro del peronismo. Esta vez, el enfrentamiento tuvo como protagonistas al jefe comunal de Ensenada, Mario Secco, y al líder del Frente Renovador, Sergio Massa. El duro cuestionamiento del dirigente alineado con Axel Kicillof provocó una rápida reacción de legisladores massistas, … Continuar leyendo \"El massismo salió con los tapones de punta contra Secco tras su ataque a Massa por la reelección de intendentes\"",
+  "url": "https://www.lanoticiaweb.com.ar/el-massismo-salio-con-los-tapones-de-punta-contra-secco-tras-su-ataque-a-massa-por-la-reeleccion-de-intendentes/",
+  "publicado": "2026-11-03T21:10:31+00:00",
+  "id": "1e153666e74b4926",
+  "titulo_norm": "el massismo salió con los tapones de punta contra secco tras su ataque a massa por la reelección de intendentes",
+  "resumen": "El massismo reaccionó con dureza contra Mario Secco, intendente de Ensenada alineado con Kicillof, tras su cuestionamiento a Sergio Massa por su postura sobre la reelección indefinida de intendentes.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-03T21:24:43+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Info Blanco Sobre Negro",
   "autor": "Info Blanco Sobre Negro",
   "tipo": "nota",
@@ -94,6 +110,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-03T19:00:41+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "DataClave",
+  "autor": "DataClave",
+  "tipo": "nota",
+  "titulo": "Intendente del núcleo duro de Kicillof arremetió con todo contra Massa y lo tildó de “mamarracho”",
+  "texto": "Mario Secco apuntó contra el líder del Frente Renovador por no querer modificar la ley que prohíbe la reelecciones indefinidas de los jefes comunales. “¿Quién sos, Dios? ¿Ahora sos el dueño?”, manifestó.",
+  "url": "https://www.dataclave.com.ar/poder/intendente-del-nucleo-duro-de-kicillof-arremetio-con-todo-contra-massa-y-lo-tildo-de--mamarracho-_a6ae9f9b045851d8fd17b9cf1",
+  "publicado": "2026-11-03T17:24:37+00:00",
+  "id": "772aa6d8fc81e57f",
+  "titulo_norm": "intendente del núcleo duro de kicillof arremetió con todo contra massa y lo tildó de mamarracho",
+  "resumen": "Mario Secco, intendente del núcleo duro de Kicillof, criticó duramente a Sergio Massa por no querer modificar la ley que prohíbe las reelecciones indefinidas de intendentes, y lo tildó de \"mamarracho\".",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-03T21:24:43+00:00"
  },
  {
   "plataforma": "interior",
@@ -382,6 +414,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-03T14:43:17+00:00"
+ },
+ {
+  "plataforma": "nacional",
+  "fuente": "Diagonales",
+  "autor": "Diagonales",
+  "tipo": "nota",
+  "titulo": "“¿Quién sos?”: un intendente del MDF cruzó a Massa por su rechazo a las reelecciones indefinidas",
+  "texto": "En medio de las discusiones internas del peronismo, el jefe comunal calificó la posición del líder del Frente Renovador como un “mamarracho”",
+  "url": "https://www.diagonales.com/provincia/--quien-sos----un-intendente-del-mdf-cruzo-a-massa-por-su-rechazo-a-las-reelecciones-indefinidas_a6ae9dacdbcf08930c410ebe3",
+  "publicado": "2026-11-03T13:44:02+00:00",
+  "id": "68301ca7960933d4",
+  "titulo_norm": "quién sos un intendente del mdf cruzó a massa por su rechazo a las reelecciones indefinidas",
+  "resumen": "Un intendente del MDF cuestionó a Sergio Massa por su rechazo a las reelecciones indefinidas de intendentes y calificó su posición como un \"mamarracho\".",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-03T21:24:43+00:00"
  },
  {
   "plataforma": "nacional",
