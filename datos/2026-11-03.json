@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "Flipr.news",
+  "autor": "Flipr.news",
+  "tipo": "nota",
+  "titulo": "Secco trató de “mamarracho” a Massa y se abrió un nuevo frente de batalla en el peronismo",
+  "texto": "Furia en el peronismo bonaerense: el massismo cruzó duro a Mario Secco tras sus descalificaciones contra Sergio Massa por la reelección de intendentes …",
+  "url": "https://flipr.com.ar/buenos-aires/elteclado/secco-trato-de-%C2%93mamarracho%C2%94-a-massa-y-se-abrio-un-nuevo-frente-de-batalla-en-el-peronismo/",
+  "publicado": "2026-11-04T01:46:17+00:00",
+  "id": "74169223bb6d756b",
+  "titulo_norm": "secco trató de mamarracho a massa y se abrió un nuevo frente de batalla en el peronismo",
+  "resumen": "Mario Secco llamó “mamarracho” a Sergio Massa por su rol en la reelección de intendentes, y el massismo respondió con dureza, abriendo una nueva disputa interna en el peronismo. Massa aparece como objeto de críticas y de defensa de su sector.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-04T03:40:43+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "El Intransigente",
   "autor": "El Intransigente",
