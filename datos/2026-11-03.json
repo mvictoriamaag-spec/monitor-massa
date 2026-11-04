@@ -192,6 +192,22 @@
   "recolectado": "2026-11-03T19:00:41+00:00"
  },
  {
+  "plataforma": "interior",
+  "fuente": "Uno Entre Rios",
+  "autor": "Uno Entre Rios",
+  "tipo": "nota",
+  "titulo": "PASO e internas del PJ: Kicillof, Máximo Kirchner, Massa y gobernadores",
+  "texto": "Se reunieron a puertas cerradas en la capital porteña. Cierran filas en defensa de las PASO. Es la continuidad del cónclave del pasado 12 de septiembre",
+  "url": "https://www.unoentrerios.com.ar/el-pais/paso-e-internas-del-pj-kicillof-maximo-kirchner-massa-y-gobernadores-n10288250.html",
+  "publicado": "2026-11-03T17:37:14+00:00",
+  "id": "d0120ecc102a7888",
+  "titulo_norm": "paso e internas del pj kicillof máximo kirchner massa y gobernadores",
+  "resumen": "Dirigentes del PJ, entre ellos Kicillof, Máximo Kirchner, Massa y gobernadores, se reunieron a puertas cerradas en CABA para cerrar filas en defensa de las PASO. El encuentro es continuidad del cónclave del 12 de septiembre.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-04T08:47:03+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "DataClave",
   "autor": "DataClave",
