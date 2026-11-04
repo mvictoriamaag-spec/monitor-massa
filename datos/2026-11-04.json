@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "interior",
+  "fuente": "Diario El Norte - San Nicolás",
+  "autor": "Diario El Norte - San Nicolás",
+  "tipo": "nota",
+  "titulo": "Marull proyecta mayor riesgo país con Kicillof que con Massa",
+  "texto": "",
+  "url": "https://diarioelnorte.com.ar/marull-proyecta-mayor-riesgo-pais-con-kicillof-que-con-massa/",
+  "publicado": "2026-11-04T20:14:23+00:00",
+  "id": "c29c00a203882e10",
+  "titulo_norm": "marull proyecta mayor riesgo país con kicillof que con massa",
+  "resumen": "Marull sostiene que el riesgo país sería mayor con Kicillof que con Massa, en una comparación de escenarios económicos. Massa aparece como referencia positiva frente a Kicillof, en un tono de opinión y análisis.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-04T20:29:29+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Agencia Noticias Argentinas",
   "autor": "Agencia Noticias Argentinas",
