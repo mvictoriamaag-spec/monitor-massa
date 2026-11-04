@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "nacional",
+  "fuente": "Noticias Urbanas",
+  "autor": "Noticias Urbanas",
+  "tipo": "nota",
+  "titulo": "Marull puso números al escenario electoral: los mercados preferirían a Massa",
+  "texto": "",
+  "url": "https://www.noticiasurbanas.com.ar/marull-puso-numeros-al-escenario-electoral-los-mercados-preferirian-a-massa",
+  "publicado": "2026-11-04T21:15:06+00:00",
+  "id": "d33b9d607a14b9c4",
+  "titulo_norm": "marull puso números al escenario electoral los mercados preferirían a massa",
+  "resumen": "Un análisis de Marull sobre el escenario electoral sostiene que los mercados preferirían a Sergio Massa como candidato. La nota presenta esa preferencia como una lectura de los mercados, sin más datos disponibles.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-04T21:20:06+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "Diario El Norte - San Nicolás",
   "autor": "Diario El Norte - San Nicolás",
