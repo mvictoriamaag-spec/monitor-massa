@@ -1,6 +1,38 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "Tribuna de Canarias",
+  "autor": "Tribuna de Canarias",
+  "tipo": "nota",
+  "titulo": "Leonardo Massa: “Consolidamos nuestra apuesta por Canarias con más cruceros y un turismo de mayor valor”",
+  "texto": "Leonardo Massa. Vicepresidente para el sur de Europa de MSC Cruceros",
+  "url": "https://tribunadecanarias.es/directivos/41093/leonardo-massa-consolidamos-nuestra-apuesta-por-canarias-con-mas-cruceros-y-un-turismo-de-mayor-valor/",
+  "publicado": "2026-11-04T13:27:11+00:00",
+  "id": "fa2106bd33ebae71",
+  "titulo_norm": "leonardo massa consolidamos nuestra apuesta por canarias con más cruceros y un turismo de mayor valor",
+  "resumen": "Nota sobre Leonardo Massa, vicepresidente de MSC Cruceros para el sur de Europa, que habla de la apuesta por Canarias con más cruceros y turismo de mayor valor. No se refiere a Sergio Massa.",
+  "relevante": 0,
+  "resumen_ia": true,
+  "recolectado": "2026-11-04T13:52:37+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Cuarto Político",
+  "autor": "Cuarto Político",
+  "tipo": "nota",
+  "titulo": "Guerrera cruzó al entorno de Kicillof por las apuestas online: “No se escondan detrás del saco de Massa”",
+  "texto": "El diputado bonaerense del Frente Renovador acus&oacute; a funcionarios de Gobernaci&oacute;n de intentar instalar que Sergio Massa rechazar&iacute;a el proyecto de La C&aacute;mpora para regular el juego virtual.",
+  "url": "https://www.cuartopolitico.com/nota/2026-11-4-9-29-0-guerrera-cruzo-al-entorno-de-kicillof-por-las-apuestas-online-no-se-escondan-detras-del-saco-de-massa",
+  "publicado": "2026-11-04T12:53:17+00:00",
+  "id": "63d9770653464baa",
+  "titulo_norm": "guerrera cruzó al entorno de kicillof por las apuestas online no se escondan detrás del saco de massa",
+  "resumen": "El diputado bonaerense del Frente Renovador Guerrera acusa a funcionarios de Gobernación de intentar instalar que Sergio Massa rechazaría el proyecto de La Cámpora para regular el juego online. Es una crítica cruzada por las apuestas online.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-04T13:52:37+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Foro3D",
   "autor": "Foro3D",
   "tipo": "nota",

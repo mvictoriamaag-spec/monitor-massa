@@ -177,6 +177,22 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "Cityenlinea",
+  "autor": "Cityenlinea",
+  "tipo": "nota",
+  "titulo": "Filoso mensaje de Santiago Caputo tras las reuniones del estratega digital de Lula con Massa y Cristina: \"Si tu mensaje es una mierda\"",
+  "texto": "El asesor presidencial cuestionó la centralidad de las herramientas digitales después de la reunión de referentes del kirchnerismo con estrategas que trabajaron en la campaña del presidente reelecto de Brasil",
+  "url": "https://cityenlinea.com.ar/a-nota/230984/filoso-mensaje-de-santiago-caputo-tras-las-reuniones-del-estratega-digital-de-lula-con-massa-y-cristina-si-tu-mensaje-es-una-mierda",
+  "publicado": "2026-11-03T18:41:53+00:00",
+  "id": "6e5f3890ed1de141",
+  "titulo_norm": "filoso mensaje de santiago caputo tras las reuniones del estratega digital de lula con massa y cristina si tu mensaje es",
+  "resumen": "Santiago Caputo cuestiona la centralidad de las herramientas digitales tras la reunión de Massa y Cristina Kirchner con el estratega digital de Lula. La nota marca una tensión política con el entorno de Massa y el kirchnerismo.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-04T13:52:37+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Cronos noticias",
   "autor": "Cronos noticias",
   "tipo": "nota",
