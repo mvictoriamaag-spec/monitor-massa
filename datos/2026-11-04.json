@@ -1,0 +1,50 @@
+[
+ {
+  "plataforma": "portal",
+  "fuente": "Foro3D",
+  "autor": "Foro3D",
+  "tipo": "nota",
+  "titulo": "Interlagos 2008: Massa gana en casa y Hamilton se lleva el título",
+  "texto": "Massa ganó en Interlagos 2008, pero Hamilton se llevó el título al superar a Glock en la penúltima curva y quedar quinto, convirtiéndose en el campeón más joven de la F1.",
+  "url": "https://foro3d.com/2026/noviembre/interlagos-2008-massa-gana-en-casa-y-hamilton-se-lleva-el-titulo.html",
+  "publicado": "2026-11-04T10:00:00+00:00",
+  "id": "054905fc1ab4c478",
+  "titulo_norm": "interlagos 2008 massa gana en casa y hamilton se lleva el título",
+  "resumen": "Nota deportiva sobre el Gran Premio de Interlagos 2008 de Fórmula 1: Felipe Massa, piloto brasileño, ganó la carrera, pero Lewis Hamilton se consagró campeón del mundial. No se refiere a Sergio Massa.",
+  "relevante": 0,
+  "resumen_ia": true,
+  "recolectado": "2026-11-04T10:31:50+00:00"
+ },
+ {
+  "plataforma": "nacional",
+  "fuente": "Clarín",
+  "autor": "Clarín",
+  "tipo": "nota",
+  "titulo": "La intimidad del encuentro de los estrategas de la campaña de Lula con Cristina y Massa y por qué no se reunieron con Kicillof",
+  "texto": "Los brasileños estuvieron más de cuatro horas reunidos con los dos dirigentes peronistas. Los detalles de las conversaciones, la estrategia que entusiasma al massismo para 2027 y la explicación del entorno del gobernador bonaerense sobre su ausencia.",
+  "url": "https://www.clarin.com/politica/intimidad-encuentro-estrategas-campana-lula-cristina-massa-reunieron-kicillof_0_5i59zzWH5d.html",
+  "publicado": "2026-11-04T09:00:23+00:00",
+  "id": "9a5b5b5f004e1257",
+  "titulo_norm": "la intimidad del encuentro de los estrategas de la campaña de lula con cristina y massa y por qué no se reunieron con ki",
+  "resumen": "Los estrategas de la campaña de Lula se reunieron más de cuatro horas con Cristina Kirchner y Sergio Massa, sin ver a Kicillof. La nota detalla la estrategia que entusiasma al massismo de cara a 2027 y la explicación del entorno del gobernador sobre su ausencia.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-04T10:31:50+00:00"
+ },
+ {
+  "plataforma": "nacional",
+  "fuente": "TN",
+  "autor": "TN",
+  "tipo": "nota",
+  "titulo": "Kicillof se diferencia de Milei: invitó a los exgobernadores bonaerenses y a Massa a la misa del Papa en Luján",
+  "texto": "Los expresidentes quedaron afuera de la agenda de León XIV, pero sí podrán ir Duhalde y Macri. No así Cristina Kirchner. En representación de la Casa Rosada en territorio bonaerense asistirá Diego Santilli.",
+  "url": "https://tn.com.ar/opinion/2026/11/04/kicillof-se-diferencia-de-milei-invito-a-los-exgobernadores-bonaerenses-y-a-massa-a-la-misa-del-papa-en-lujan/",
+  "publicado": "2026-11-04T08:45:00+00:00",
+  "id": "a97cb7fb9a6c38b4",
+  "titulo_norm": "kicillof se diferencia de milei invitó a los exgobernadores bonaerenses y a massa a la misa del papa en luján",
+  "resumen": "Kicillof invitó a Sergio Massa y a exgobernadores bonaerenses a la misa del Papa León XIV en Luján, en una diferencia con Milei. Cristina Kirchner no está incluida en la invitación y Diego Santilli representará a la Casa Rosada.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-04T10:31:50+00:00"
+ }
+]
