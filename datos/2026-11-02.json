@@ -49,6 +49,22 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "Flipr.news",
+  "autor": "Flipr.news",
+  "tipo": "nota",
+  "titulo": "Massa se le adelanta al peronismo: recibió a los estrategas de Lula para diseñar una campaña anti Milei",
+  "texto": "El líder del Frente Renovador mantuvo un cónclave en Tigre con el diputado brasileño André Janones y los publicistas Rafael Marroquim y Chico Kertész. En la reunión analizaron el modelo del \"",
+  "url": "https://flipr.com.ar/buenos-aires/bsasnoticia/massa-se-le-adelanta-al-peronismo-recibio-a-los-estrategas-de-lula-para-disenar-una-campana-anti-milei/",
+  "publicado": "2026-11-03T01:45:33+00:00",
+  "id": "ab4c7083bc32094c",
+  "titulo_norm": "massa se le adelanta al peronismo recibió a los estrategas de lula para diseñar una campaña anti milei",
+  "resumen": "Sergio Massa, líder del Frente Renovador, se reunió en Tigre con el diputado brasileño André Janones y los publicistas Rafael Marroquim y Chico Kertész para diseñar una campaña anti Milei.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-04T01:09:22+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Cañuelas Noticias NotiCañuelas",
   "autor": "Cañuelas Noticias NotiCañuelas",
   "tipo": "nota",
