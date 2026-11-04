@@ -1,5 +1,37 @@
 [
  {
+  "plataforma": "nacional",
+  "fuente": "Agencia Noticias Argentinas",
+  "autor": "Agencia Noticias Argentinas",
+  "tipo": "nota",
+  "titulo": "Marull comparó el riesgo país con Kicillof y Massa",
+  "texto": "El economista estimó que una eventual candidatura presidencial de Axel Kicillof generaría un riesgo país al menos 50% más alto que una postulación de Sergio Massa.",
+  "url": "https://noticiasargentinas.com/economia/marull-comparo-el-riesgo-pais-con-kicillof-y-massa_a6aeb8286ff837982c454f657",
+  "publicado": "2026-11-04T19:09:10+00:00",
+  "id": "3dc0aaf96629a308",
+  "titulo_norm": "marull comparó el riesgo país con kicillof y massa",
+  "resumen": "El economista Marull estimó que una candidatura presidencial de Kicillof elevaría el riesgo país al menos 50% más que una de Massa. Massa aparece como referencia comparativa en un análisis económico.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-04T19:40:19+00:00"
+ },
+ {
+  "plataforma": "interior",
+  "fuente": "La Gaceta (Tucumán)",
+  "autor": "La Gaceta (Tucumán)",
+  "tipo": "nota",
+  "titulo": "Yedlin con Massa, un tucumano cerca de Kicillof y un partido con Manzur",
+  "texto": "Dimes y diretes de la política de Tucumán.",
+  "url": "https://www.lagaceta.com.ar/nota/1161040/politica/yedlin-massa-tucumano-cerca-kicillof-partido-manzur.html",
+  "publicado": "2026-11-04T15:32:00+00:00",
+  "id": "e1bb48d18673cb69",
+  "titulo_norm": "yedlin con massa un tucumano cerca de kicillof y un partido con manzur",
+  "resumen": "Nota de política tucumana que menciona a Yedlin junto a Massa, a un dirigente tucumano cercano a Kicillof y a un partido vinculado a Manzur. Se presenta como un cruce de dimes y diretes locales.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-04T19:40:19+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "La Noticia Web",
   "autor": "La Noticia Web",
