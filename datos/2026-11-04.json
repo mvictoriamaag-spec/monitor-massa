@@ -1,6 +1,22 @@
 [
  {
   "plataforma": "nacional",
+  "fuente": "Clarin.com",
+  "autor": "Clarin.com",
+  "tipo": "nota",
+  "titulo": "Secco llamó \"mamarracho\" a Massa por no apoyar las reelecciones de los intendentes y se tensa más la negociación",
+  "texto": "Se agota el tiempo para discutir cambios en la ley que impide a 82 intendentes ir por la reelección en 2027.Mario Secco, intendente de Ensenada y aliado a Kicillof había cruzado a Massa: \"¿Quién sos? ¿Dios?\".La respuesta del massismo.",
+  "url": "https://www.clarin.com/politica/secco-llamo-mamarracho-massa-apoyar-reelecciones-intendentes-tensa-negociacion_0_vBu5FeK8J2.html",
+  "publicado": "2026-11-04T21:27:14+00:00",
+  "id": "d6b1c469a23d5166",
+  "titulo_norm": "secco llamó mamarracho a massa por no apoyar las reelecciones de los intendentes y se tensa más la negociación",
+  "resumen": "El intendente de Ensenada Mario Secco, aliado de Kicillof, llamó \"mamarracho\" a Sergio Massa por no apoyar cambios que permitan la reelección de 82 intendentes en 2027, tensando la negociación. El massismo respondió a la crítica.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-04T22:13:11+00:00"
+ },
+ {
+  "plataforma": "nacional",
   "fuente": "Noticias Urbanas",
   "autor": "Noticias Urbanas",
   "tipo": "nota",
