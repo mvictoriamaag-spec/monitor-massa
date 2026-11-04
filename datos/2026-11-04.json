@@ -1,6 +1,38 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "La Noticia Web",
+  "autor": "La Noticia Web",
+  "tipo": "nota",
+  "titulo": "FR vs MDF: Guerrera acusó a funcionarios de Kicillof de querer “operar” contra Massa",
+  "texto": "La interna de Fuerza Patria sumó un nuevo capítulo en la Legislatura bonaerense. Esta vez, el diputado del Frente Renovador Alexis Guerrera apuntó contra funcionarios de Axel Kicillof, a quienes acusó de intentar instalar versiones sobre una supuesta oposición de Sergio Massa al proyecto de La Cámpora para regular las apuestas online. El legislador cuestionó … Continuar leyendo \"FR vs MDF: Guerrera acusó a funcionarios de Kicillof de querer “operar” contra Massa\"",
+  "url": "https://www.lanoticiaweb.com.ar/fr-vs-mdf-guerrera-acuso-a-funcionarios-de-kicillof-de-querer-operar-contra-massa/",
+  "publicado": "2026-11-04T14:44:25+00:00",
+  "id": "ccb859255f14c92b",
+  "titulo_norm": "fr vs mdf guerrera acusó a funcionarios de kicillof de querer operar contra massa",
+  "resumen": "El diputado del Frente Renovador Alexis Guerrera acusó a funcionarios de Axel Kicillof de intentar instalar versiones sobre una supuesta oposición de Sergio Massa al proyecto de La Cámpora para regular las apuestas online, en el marco de la interna de Fuerza Patria.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-04T14:48:18+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Enterate Noticias",
+  "autor": "Enterate Noticias",
+  "tipo": "nota",
+  "titulo": "Pablo Yedlin y Sergio Massa analizaron la situación política y los desafíos del presupuesto 2027",
+  "texto": "El diputado nacional Pablo Yedlin mantuvo un encuentro de trabajo con Sergio Massa para examinar la situación política de Argentina dentro del actual contexto internacional. Durante la jornada, ambos referentes repasaron los puntos principales de la agenda parlamentaria y delinearon las urgencias que atraviesa el país. Preocupación por las provincias y los servicios públicos Uno […]",
+  "url": "https://www.enteratenoticias.com.ar/politica/pablo-yedlin-y-sergio-massa-analizaron-la-situacion-politica-y-los-desafios-del-presupuesto-2027/",
+  "publicado": "2026-11-04T14:32:43+00:00",
+  "id": "5c90e599d550869c",
+  "titulo_norm": "pablo yedlin y sergio massa analizaron la situación política y los desafíos del presupuesto 2027",
+  "resumen": "El diputado nacional Pablo Yedlin se reunió con Sergio Massa para analizar la situación política y los desafíos del presupuesto 2027, con foco en las urgencias del país, las provincias y los servicios públicos.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-04T14:48:18+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Tribuna de Canarias",
   "autor": "Tribuna de Canarias",
   "tipo": "nota",
