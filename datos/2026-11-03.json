@@ -784,6 +784,22 @@
   "recolectado": "2026-11-03T10:35:06+00:00"
  },
  {
+  "plataforma": "portal",
+  "fuente": "123news",
+  "autor": "123news",
+  "tipo": "nota",
+  "titulo": "El \"general\" de Lula aterrizó en Buenos Aires y pasó por Cristina y Massa: el movimiento que sacude la interna",
+  "texto": "André Janones, artífice del ejército digital que impulsó la remontada brasileña, fue recibido por el líder del Frente Renovador y por la expresidenta, mientras Kicillof insiste con las PASO y el espacio redefine su armado.",
+  "url": "https://123.news/amp/el-general-de-lula-aterrizo-en-buenos-aires-y-paso-por-cristina-y-massa-el-movimiento-que-sacude-la-interna-peronista-rumbo-a-2027/",
+  "publicado": "2026-11-03T10:21:35+00:00",
+  "id": "d3450431b80a0f1a",
+  "titulo_norm": "el general de lula aterrizó en buenos aires y pasó por cristina y massa el movimiento que sacude la interna",
+  "resumen": "Nota sobre la visita a Buenos Aires de André Janones, artífice del ejército digital de Lula, quien se reunió con Cristina Kirchner y con Sergio Massa, líder del Frente Renovador, en medio de la interna sobre las PASO impulsadas por Kicillof.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-04T01:01:05+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "Diario Mendoza Today",
   "autor": "Diario Mendoza Today",
