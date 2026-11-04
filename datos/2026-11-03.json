@@ -32,6 +32,22 @@
   "recolectado": "2026-11-04T19:40:19+00:00"
  },
  {
+  "plataforma": "portal",
+  "fuente": "En Linea Noticias",
+  "autor": "En Linea Noticias",
+  "tipo": "nota",
+  "titulo": "Reina la calma en el peronismo: El intendente de Ensenada calificó de \"mamarracho\" a Massa",
+  "texto": "El ex ministro de Economía se opuso a la reelección de intendentes. “Le llenamos la cancha de Cambaceres con 50 mil compañeros y ahora viene a decir esto”, expresó el jefe comunal de Ensenada. El intendente de Ensenada, Mario Secco, calificó de “mamarracho” al líder del Frente Renovador, Sergio Massa, por su posición contraria a […]",
+  "url": "https://enlineanoticias.com.ar/politica/reina-la-calma-en-el-peronismo-el-intendente-de-ensenada-califico-de-mamarracho-a-massa/",
+  "publicado": "2026-11-03T23:01:11+00:00",
+  "id": "64348d9851f3cf60",
+  "titulo_norm": "reina la calma en el peronismo el intendente de ensenada calificó de mamarracho a massa",
+  "resumen": "El intendente de Ensenada, Mario Secco, calificó de “mamarracho” a Sergio Massa por su oposición a la reelección de intendentes. La nota presenta una crítica interna del peronismo dirigida al líder del Frente Renovador.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-04T22:52:08+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "El Intransigente",
   "autor": "El Intransigente",
