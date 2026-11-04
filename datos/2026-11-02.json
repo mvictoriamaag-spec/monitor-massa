@@ -33,6 +33,22 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "revistaenterate.com.ar",
+  "autor": "revistaenterate.com.ar",
+  "tipo": "nota",
+  "titulo": "Cristina Kirchner y Sergio Massa se reunieron con los armadores de la campaña de Lula",
+  "texto": "CFK y Massa recibieron en Buenos Aires a André Janones y el equipo de comunicación de Lula da Silva para analizar la estrategia opositora hacia 2027.",
+  "url": "https://revistaenterate.com.ar/cristina-massa-estrategas-lula/",
+  "publicado": "2026-11-03T02:11:12+00:00",
+  "id": "fd748d1d81b8c9c7",
+  "titulo_norm": "cristina kirchner y sergio massa se reunieron con los armadores de la campaña de lula",
+  "resumen": "Cristina Kirchner y Sergio Massa recibieron en Buenos Aires a André Janones y al equipo de comunicación de Lula da Silva para analizar la estrategia opositora hacia 2027.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-04T00:07:15+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Cañuelas Noticias NotiCañuelas",
   "autor": "Cañuelas Noticias NotiCañuelas",
   "tipo": "nota",

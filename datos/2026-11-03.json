@@ -353,6 +353,22 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "Flipr.news",
+  "autor": "Flipr.news",
+  "tipo": "nota",
+  "titulo": "Mario Secco defendió a Kicillof, cuestionó a Massa y criticó a La Cámpora",
+  "texto": "https://www.youtube.com/watch?v=mcBB7Zl89No 🎙️ El intendente de Ensenada, Mario Secco, habló con Radio Con Vos sobre el presente del peronismo y la situación interna del espacio. Dio su mirada sobre…",
+  "url": "https://flipr.com.ar/nacionales/streaming/con-vos/mario-secco-defendio-a-kicillof-cuestiono-a-massa-y-critico-a-la-campora/",
+  "publicado": "2026-11-03T15:07:19+00:00",
+  "id": "eaa546f5324374b3",
+  "titulo_norm": "mario secco defendió a kicillof cuestionó a massa y criticó a la cámpora",
+  "resumen": "El intendente de Ensenada, Mario Secco, defendió a Kicillof, cuestionó a Sergio Massa y criticó a La Cámpora en una entrevista en Radio Con Vos sobre la situación interna del peronismo.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-04T00:07:15+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "La Noticia 1",
   "autor": "La Noticia 1",
   "tipo": "nota",
