@@ -33,6 +33,22 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "Codigo Baires",
+  "autor": "Codigo Baires",
+  "tipo": "nota",
+  "titulo": "Susana González aseguró que \"Massa tensa la cuerda para tener la bendición de Axel\"",
+  "texto": "La dirigente ensenadense defendió Mario Secco ante las críticas de la tropa propia, dio su impresión acerca de las intenciones del líder del Frente Renovador y cruzó a La Cámpora por sus...",
+  "url": "https://www.codigobaires.com.ar/2026-11-04/susana-gonzalez-aseguro-que-massa-tensa-la-cuerda-para-tener-la-bendicion-de-axel-251709/",
+  "publicado": "2026-11-04T13:57:00+00:00",
+  "id": "14b55a878c3a874c",
+  "titulo_norm": "susana gonzález aseguró que massa tensa la cuerda para tener la bendición de axel",
+  "resumen": "La dirigente Susana González afirma que Sergio Massa \"tensa la cuerda\" para obtener la bendición de Axel Kicillof. Lo menciona al defender a Mario Secco ante críticas internas y al cruzar a La Cámpora. Tono crítico hacia Massa.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-04T18:32:09+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Tribuna de Canarias",
   "autor": "Tribuna de Canarias",
   "tipo": "nota",
