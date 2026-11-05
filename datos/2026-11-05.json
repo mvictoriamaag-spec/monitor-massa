@@ -14,5 +14,21 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-05T12:42:16+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "NewsDigitales",
+  "autor": "NewsDigitales",
+  "tipo": "nota",
+  "titulo": "Uñac se anotó en la carrera presidencial y lanzó un mensaje para Kicillof y Massa",
+  "texto": "El senador nacional y exgobernador de San Juan visitó La Rioja, donde se reunió con Ricardo Quintela, recorrió una fábrica textil y se reunió con jóvenes.",
+  "url": "https://www.newsdigitales.com/nota/349304/unac-se-anoto-en-la-carrera-presidencial-y-lanzo-un-mensaje-para-kicillof-y-massa/",
+  "publicado": "2026-11-05T10:30:27+00:00",
+  "id": "36b454063f83dcaa",
+  "titulo_norm": "uñac se anotó en la carrera presidencial y lanzó un mensaje para kicillof y massa",
+  "resumen": "El senador Uñac, exgobernador de San Juan, se anotó en la carrera presidencial y lanzó un mensaje para Kicillof y Sergio Massa durante una visita a La Rioja, donde se reunió con Ricardo Quintela.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-05T15:27:17+00:00"
  }
 ]
