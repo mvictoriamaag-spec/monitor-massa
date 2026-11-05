@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "interior",
+  "fuente": "Corrientes Hoy",
+  "autor": "Corrientes Hoy",
+  "tipo": "nota",
+  "titulo": "Marull dijo que Kicillof generaría un riesgo país entre 50% y 80% más alto que Massa",
+  "texto": "",
+  "url": "https://www.corrienteshoy.com/nacionales/marull-dijo-que-kicillof-generaria-un-riesgo-pais-entre-50-y-80-mas-alto-que-massa.htm",
+  "publicado": "2026-11-05T01:33:21+00:00",
+  "id": "0b15664ef768a816",
+  "titulo_norm": "marull dijo que kicillof generaría un riesgo país entre 50 y 80 más alto que massa",
+  "resumen": "Marull afirmó que una eventual gestión de Kicillof generaría un riesgo país entre 50% y 80% más alto que el de Massa. La declaración compara el desempeño económico proyectado de ambos dirigentes.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-05T01:39:37+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Clarin.com",
   "autor": "Clarin.com",
@@ -62,6 +78,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-04T19:40:19+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Tendencia de Noticias",
+  "autor": "Tendencia de Noticias",
+  "tipo": "nota",
+  "titulo": "Yedlin se reunió con Sergio Massa y compartieron su preocupación por la economía, el empleo y las provincias",
+  "texto": "El diputado tucumano de Unión por la Patria mantuvo un encuentro con el excandidato presidencial en Buenos Aires. Analizaron el escenario político nacional, la agenda parlamentaria y el debate por el Presupuesto 2027.",
+  "url": "https://tendenciadenoticias.com.ar/politica/yedlin-se-reunio-con-sergio-massa-y-compartieron-su-preocupacion-por-la-economia-el-empleo-y-las-provincias",
+  "publicado": "2026-11-04T18:08:00+00:00",
+  "id": "1e84a17bee92ff5e",
+  "titulo_norm": "yedlin se reunió con sergio massa y compartieron su preocupación por la economía el empleo y las provincias",
+  "resumen": "El diputado tucumano de Unión por la Patria Yedlin se reunió con Sergio Massa en Buenos Aires. Ambos compartieron preocupación por la economía, el empleo y las provincias, y analizaron la agenda parlamentaria y el Presupuesto 2027.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-05T01:39:37+00:00"
  },
  {
   "plataforma": "interior",
