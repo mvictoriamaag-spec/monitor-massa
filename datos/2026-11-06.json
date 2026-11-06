@@ -1,6 +1,22 @@
 [
  {
   "plataforma": "nacional",
+  "fuente": "El Intransigente",
+  "autor": "El Intransigente",
+  "tipo": "nota",
+  "titulo": "Germán Martínez habló de economía y PASO tras el encuentro con Kicillof y Massa",
+  "texto": "Germán Martínez afirmó que la reunión priorizó la situación económica y los ingresos familiares, aunque también se debatió la continuidad de las primarias y la estrategia opositora.",
+  "url": "https://elintransigente.com/2026/11/06/paso-peronismo-reunion-economia-ingresos-familiares-estrategia-opositora/",
+  "publicado": "2026-11-06T10:23:32+00:00",
+  "id": "7c77828e26baec0d",
+  "titulo_norm": "germán martínez habló de economía y paso tras el encuentro con kicillof y massa",
+  "resumen": "Germán Martínez comentó tras una reunión con Kicillof y Massa que se priorizó la situación económica y los ingresos familiares, y que también se debatió la continuidad de las PASO y la estrategia opositora. Massa aparece como participante del encuentro.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-06T10:43:17+00:00"
+ },
+ {
+  "plataforma": "nacional",
   "fuente": "TN",
   "autor": "TN",
   "tipo": "nota",
