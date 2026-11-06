@@ -1,6 +1,22 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "Cronos noticias",
+  "autor": "Cronos noticias",
+  "tipo": "nota",
+  "titulo": "Activo en la escena pública, Massa confirmó que participará de la misa del papa León XIV en Luján",
+  "texto": "El líder del Frente Renovador aceptó la invitación del gobierno bonaerense y también anunció que sus legisladores asistirán a las actividades in",
+  "url": "https://infocronos.com.ar/nota/58746/activo-en-la-escena-publica-massa-confirmo-que-participara-de-la-misa-del-papa-leon-xiv-en-lujan/",
+  "publicado": "2026-11-06T16:39:16+00:00",
+  "id": "526da59baba03fc8",
+  "titulo_norm": "activo en la escena pública massa confirmó que participará de la misa del papa león xiv en luján",
+  "resumen": "Sergio Massa confirmó que asistirá a la misa del papa León XIV en Luján, tras aceptar la invitación del gobierno bonaerense. También anunció que sus legisladores participarán de las actividades previstas.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-06T17:16:47+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "25 se Informa",
   "autor": "25 se Informa",
   "tipo": "nota",
