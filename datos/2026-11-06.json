@@ -1,6 +1,22 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "Jetss Latam",
+  "autor": "Jetss Latam",
+  "tipo": "nota",
+  "titulo": "F1: Brasil sigue sin vencer en Interlagos desde el amargo triunfo de Massa en 2008",
+  "texto": "Este fin de semana, el Autódromo de Interlagos acoge el Gran Premio de São Paulo de Fórmula 1. Gabriel Bortoleto y Rafael Câmara afrontan un reto pendiente para los pilotos brasileños: ninguno ha ganado una carrera de la categoría en la capital paulista desde 2008, en una prueba que dejó un sabor melancólico a los […]",
+  "url": "https://es.jetss.com/2026/11/06/f1-brasil-sigue-sin-vencer-en-interlagos-desde-el-amargo-triunfo-de-massa-en-2008/",
+  "publicado": "2026-11-06T06:26:09+00:00",
+  "id": "52ecc0c43389cac4",
+  "titulo_norm": "f1 brasil sigue sin vencer en interlagos desde el amargo triunfo de massa en 2008",
+  "resumen": "Nota deportiva previa al Gran Premio de São Paulo de Fórmula 1 en Interlagos, que recuerda que ningún piloto brasileño gana allí desde el triunfo de Felipe Massa en 2008. No se refiere al dirigente político Sergio Massa.",
+  "relevante": 0,
+  "resumen_ia": true,
+  "recolectado": "2026-11-06T06:41:09+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "EL FUERTE DIARIO",
   "autor": "EL FUERTE DIARIO",
   "tipo": "nota",
