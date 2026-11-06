@@ -1,6 +1,22 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "Panorama Directo",
+  "autor": "Panorama Directo",
+  "tipo": "nota",
+  "titulo": "Encuesta Afiches: Milei pierde el ballotage con Cristina, Massa y Kicillof y no supera el 36%",
+  "texto": "Afiches midió ballotage y Milei cae 39-36 con Cristina, 38-34 con Massa y 37-35 con Kicillof. Tiene piso de 31% y 20% de indecisos que pueden volcar el resultado.",
+  "url": "https://panoramadirecto.com/milei-pierde-en-tres-escenarios-de-ballotage-con-cristina-kicillof-y-massa-segun-una-encuesta-de-afiches/",
+  "publicado": "2026-11-06T01:13:30+00:00",
+  "id": "57d8412d8ec84fcc",
+  "titulo_norm": "encuesta afiches milei pierde el ballotage con cristina massa y kicillof y no supera el 36",
+  "resumen": "Encuesta de Afiches que simula balotaje: Milei pierde contra Cristina Fernández (39-36), Massa (38-34) y Kicillof (37-35), con 20% de indecisos que podrían definir el resultado.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-06T04:37:36+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Flipr.news",
   "autor": "Flipr.news",
   "tipo": "nota",
@@ -14,6 +30,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-06T03:30:37+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "El Observador Argentina",
+  "autor": "El Observador Argentina",
+  "tipo": "nota",
+  "titulo": "Bono para trabajadores: la dura respuesta de la CAME tras las nuevas medidas económicas de Massa",
+  "texto": "CAME se manifestó en contra del anuncio del Ministro de Economía. Conocé los detalles.",
+  "url": "https://www.elobservador.com/argentina/economia/bono-trabajadores-la-dura-respuesta-la-came-las-nuevas-medidas-economicas-massa-n5866155",
+  "publicado": "2026-11-05T23:40:43+00:00",
+  "id": "1a0f47828ba81847",
+  "titulo_norm": "bono para trabajadores la dura respuesta de la came tras las nuevas medidas económicas de massa",
+  "resumen": "La CAME rechazó con dureza el bono para trabajadores y las nuevas medidas económicas anunciadas por Massa como ministro de Economía.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-06T04:37:36+00:00"
  },
  {
   "plataforma": "nacional",
