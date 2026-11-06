@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "interior",
+  "fuente": "InfoCielo (Buenos Aires)",
+  "autor": "InfoCielo (Buenos Aires)",
+  "tipo": "nota",
+  "titulo": "Sergio Massa confirmó su asistencia a la misa del papa León XIV en Luján",
+  "texto": "El líder del Frente Renovador había sido invitado por el gobierno de la Provincia. Pidió evitar las especulaciones políticas. La nota Sergio Massa confirmó su asistencia a la misa del papa León XIV en Luján se publicó primero en Infocielo . Escrita por Redacción Infocielo Infocielo - Toda la información sobre la provincia de Buenos Aires al instante. Actualizada las 24 horas del día. Política, economía, interés general, deportes, policiales, judiciales, música, cultura, Legislatura, municipios, secciones electorales, elecciones, redes sociales, tendencias, espectáculos, pueblos, viajes, el tiempo, servicios, tránsito, turismo.",
+  "url": "https://www.infocielo.com/politica-y-economia/sergio-massa-confirmo-su-asistencia-a-la-misa-del-papa-leon-xiv-en-lujan",
+  "publicado": "2026-11-06T11:00:54+00:00",
+  "id": "094682593d40d939",
+  "titulo_norm": "sergio massa confirmó su asistencia a la misa del papa león xiv en luján",
+  "resumen": "Noticia sobre Sergio Massa, líder del Frente Renovador, que confirmó su asistencia a la misa del papa León XIV en Luján tras ser invitado por el gobierno provincial. Pidió evitar especulaciones políticas sobre su presencia.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-06T11:33:18+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "El Intransigente",
   "autor": "El Intransigente",
