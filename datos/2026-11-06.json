@@ -1,6 +1,22 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "La Voz de San Justo",
+  "autor": "La Voz de San Justo",
+  "tipo": "nota",
+  "titulo": "Bella Massa, campeona invicta en los Juegos Evita",
+  "texto": "Bella Massa, campeona invicta en los Juegos Evita",
+  "url": "https://www.lavozdesanjusto.com.ar/bella-massa-campeona-invicta-en-los-juegos-evita",
+  "publicado": "2026-11-06T17:24:14+00:00",
+  "id": "1bbee926291ebf0d",
+  "titulo_norm": "bella massa campeona invicta en los juegos evita",
+  "resumen": "Nota de La Voz de San Justo sobre Bella Massa, quien se consagró campeona invicta en los Juegos Evita. Es una homónima sin relación con el dirigente político, por lo que el apellido no refiere a Sergio Massa.",
+  "relevante": 0,
+  "resumen_ia": true,
+  "recolectado": "2026-11-06T18:10:12+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Cronos noticias",
   "autor": "Cronos noticias",
   "tipo": "nota",
@@ -14,6 +30,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-06T17:16:47+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Flipr.news",
+  "autor": "Flipr.news",
+  "tipo": "nota",
+  "titulo": "«Yo quería ser opositor a Sergio Massa» | ESTEBAN PAULÓN",
+  "texto": "https://www.youtube.com/shorts/3eFXzB-uaaE RADIO CON VOS 🎙️ PROGRAMACIÓN 2026 🔊 De lunes a viernes te acompañamos con: 🔹 6:00 a 8:00 VAMO A CALMARNO con DIEGO IGLESIAS 🔹 8:00 a 12:00 ¿Y AHORA QUIÉN…",
+  "url": "https://flipr.com.ar/nacionales/streaming/con-vos/yo-queria-ser-opositor-a-sergio-massa-esteban-paulon/",
+  "publicado": "2026-11-06T15:09:05+00:00",
+  "id": "65d8b05a779b1e0d",
+  "titulo_norm": "yo quería ser opositor a sergio massa esteban paulón",
+  "resumen": "Declaración de Esteban Paulón, difundida por Flipr.news en un fragmento de radio, en la que afirma que quería ser opositor a Sergio Massa. Es una postura crítica del entrevistado hacia el dirigente.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-06T18:10:12+00:00"
  },
  {
   "plataforma": "portal",
