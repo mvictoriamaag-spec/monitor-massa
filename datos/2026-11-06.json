@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "nacional",
+  "fuente": "El Cronista",
+  "autor": "El Cronista",
+  "tipo": "nota",
+  "titulo": "El acuerdo que no fue, la advertencia de Massa y la interna libertaria que crece en Buenos Aires",
+  "texto": "Las reelecciones indefinidas vuelven a agitar al peronismo bonaerense, con el líder del Frente Renovador resistiendo la presión de los intendentes y Kicillof buscando una salida. En paralelo, Bullrich acumula poder propio mientras crecen las tensiones con Karina Milei, los Menem y la estructura libertaria de Sebastián Pareja",
+  "url": "https://www.cronista.com/columnistas/el-acuerdo-que-no-fue-la-advertencia-de-massa-y-la-interna-libertaria-que-crece-en-buenos-aires/",
+  "publicado": "2026-11-06T18:57:54+00:00",
+  "id": "832c9420afe8f58d",
+  "titulo_norm": "el acuerdo que no fue la advertencia de massa y la interna libertaria que crece en buenos aires",
+  "resumen": "Nota sobre las reelecciones indefinidas que reavivan tensiones en el peronismo bonaerense. Sergio Massa, líder del Frente Renovador, resiste la presión de intendentes y emite una advertencia, mientras Kicillof busca una salida.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-06T19:45:24+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "La Voz de San Justo",
   "autor": "La Voz de San Justo",
