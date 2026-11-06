@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "nacional",
+  "fuente": "TN",
+  "autor": "TN",
+  "tipo": "nota",
+  "titulo": "Los cálculos de Bullrich, las especulaciones de Massa y los tironeos entre Karina Milei y Santiago Caputo por Malvinas",
+  "texto": "La senadora busca imponer condiciones a los Milei y reclama espacios de decisión para la disputa electoral de 2027. El exministro apuesta a organizar a la oposición y se reencontrará con Lula en Brasil. Crecen las tensiones entre Santiago Caputo y Karina Milei por el proyecto de Defensa de la Soberanía Nacional.",
+  "url": "https://tn.com.ar/politica/2026/11/06/los-calculos-de-patricia-bullrich-las-especulaciones-de-massa-y-los-tironeos-entre-karina-milei-y-santiago-caputo-por-malvinas/",
+  "publicado": "2026-11-06T08:55:00+00:00",
+  "id": "4d1dce88065c8444",
+  "titulo_norm": "los cálculos de bullrich las especulaciones de massa y los tironeos entre karina milei y santiago caputo por malvinas",
+  "resumen": "Nota de TN sobre las tensiones en el oficialismo por el proyecto de Defensa de la Soberanía Nacional y la disputa electoral de 2027. Massa, exministro, aparece especulando sobre su rol: apuesta a organizar a la oposición y se reencontrará con Lula.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-06T09:44:18+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "Jetss Latam",
   "autor": "Jetss Latam",
