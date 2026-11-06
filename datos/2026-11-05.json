@@ -17,6 +17,22 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "BeSoccer ES",
+  "autor": "BeSoccer ES",
+  "tipo": "nota",
+  "titulo": "Información y trayectoria del árbitro Mathias Massa",
+  "texto": "",
+  "url": "https://www.besoccer.es/arbitro/mathias-massa-51805",
+  "publicado": "2026-11-05T15:44:21+00:00",
+  "id": "42739711b3e0946c",
+  "titulo_norm": "información y trayectoria del árbitro mathias massa",
+  "resumen": "Perfil del árbitro de fútbol Mathias Massa, con información sobre su trayectoria profesional. No se refiere al dirigente político Sergio Massa.",
+  "relevante": 0,
+  "resumen_ia": true,
+  "recolectado": "2026-11-06T01:41:19+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "La Tecla",
   "autor": "La Tecla",
   "tipo": "nota",
