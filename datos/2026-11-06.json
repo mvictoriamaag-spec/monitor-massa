@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "25 se Informa",
+  "autor": "25 se Informa",
+  "tipo": "nota",
+  "titulo": "Sergio Massa confirmó su asistencia a la misa del papa León XIV en Luján y solicitó evitar cualquier “uso político”",
+  "texto": "El líder del Frente Renovador ratificó su participación en las actividades oficiales organizadas durante la visita del Sumo Pontífice al país. Tras recibir",
+  "url": "https://25seinforma.com.ar/sergio-massa-confirmo-su-asistencia-a-la-misa-del-papa-leon-xiv-en-lujan-y-solicito-evitar-cualquier-uso-politico/",
+  "publicado": "2026-11-06T13:00:17+00:00",
+  "id": "779414e092cff424",
+  "titulo_norm": "sergio massa confirmó su asistencia a la misa del papa león xiv en luján y solicitó evitar cualquier uso político",
+  "resumen": "Sergio Massa, líder del Frente Renovador, confirmó que asistirá a las actividades oficiales de la visita del papa León XIV a Luján y pidió evitar cualquier uso político del evento.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-06T13:50:46+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "InfoCielo (Buenos Aires)",
   "autor": "InfoCielo (Buenos Aires)",
