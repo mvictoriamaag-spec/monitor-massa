@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "Flipr.news",
+  "autor": "Flipr.news",
+  "tipo": "nota",
+  "titulo": "Massa expone la falta de estrategia de Kicillof por reelecciones de intendentes",
+  "texto": "El massismo presiona a Kicillof para abrir las reelecciones indefinidas en el Senado y se desmarca de los reclamos de Secco.",
+  "url": "https://flipr.com.ar/nacionales/politica/laletrachica/massa-expone-la-falta-de-estrategia-de-kicillof-por-reelecciones-de-intendentes/",
+  "publicado": "2026-11-06T00:32:10+00:00",
+  "id": "a90183be38371edb",
+  "titulo_norm": "massa expone la falta de estrategia de kicillof por reelecciones de intendentes",
+  "resumen": "Massa cuestiona la falta de estrategia de Kicillof por las reelecciones de intendentes. Según la nota, el massismo presiona para abrir las reelecciones indefinidas en el Senado y se desmarca de los reclamos de Secco.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-06T03:30:37+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Página/12",
   "autor": "Página/12",
