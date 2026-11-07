@@ -33,6 +33,22 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "Prensa Mercosur",
+  "autor": "Prensa Mercosur",
+  "tipo": "nota",
+  "titulo": "Brasil — Los cálculos de Patricia Bullrich, las especulaciones de Massa y los tironeos entre Karina Milei y Santiago Caputo por Malvinas",
+  "texto": "La senadora busca imponer condiciones a los Milei y reclama espacios de decisión para la disputa electoral de 2027. El exministro apuesta a organizar a la oposición y se reencontrará con Lula en Brasil. Crecen… | Noticias del MERCOSUR: política, economía y actualidad regional del Prensa Mercosur.",
+  "url": "https://prensamercosur.org/2026/11/06/brasil-los-calculos-de-patricia-bullrich-las-especulaciones-de-massa-y-los-tironeos-entre-karina-milei-y-santiago-caputo-por-malvinas/",
+  "publicado": "2026-11-06T18:46:51+00:00",
+  "id": "d00ada3ead77a5e0",
+  "titulo_norm": "brasil los cálculos de patricia bullrich las especulaciones de massa y los tironeos entre karina milei y santiago caputo",
+  "resumen": "Análisis político sobre la disputa electoral de 2027: Massa apuesta a organizar a la oposición y se reencontrará con Lula en Brasil, en un contexto de especulaciones sobre su rol frente a Patricia Bullrich.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-07T12:02:43+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "La Voz de San Justo",
   "autor": "La Voz de San Justo",
   "tipo": "nota",
