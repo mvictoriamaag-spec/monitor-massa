@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "interior",
+  "fuente": "Primera Página",
+  "autor": "Primera Página",
+  "tipo": "nota",
+  "titulo": "Nueva encuesta nacional: Axel Kicillof y Sergio Massa le ganan a Javier Milei en balotaje, pero el 64% exige un cambio urgente en el modelo económico",
+  "texto": "Un relevamiento de Hugo Haime & Asociados ubica al gobernador bonaerense y al exministro por encima del presidente en una segunda vuelta. En paralelo, seis de cada diez encuestados temen una Argentina empobrecida y sin clase media.",
+  "url": "https://primerapagina.info/politica/nueva-encuesta-nacional--axel-kicillof-y-sergio-massa-le-ganan-a-javier-milei-en-balotaje--pero-el-64--exige-un-cambio-urgente-en-el-modelo-economico_a6aee2775696ebfa450aa26ba",
+  "publicado": "2026-11-06T22:25:39+00:00",
+  "id": "c831c050d60164f8",
+  "titulo_norm": "nueva encuesta nacional axel kicillof y sergio massa le ganan a javier milei en balotaje pero el 64 exige un cambio urge",
+  "resumen": "Una encuesta de Hugo Haime & Asociados sitúa a Axel Kicillof y Sergio Massa por encima de Javier Milei en un balotaje. Además, el 64% pide un cambio urgente en el modelo económico y seis de cada diez temen una Argentina empobrecida.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-07T10:12:49+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "El Cronista",
   "autor": "El Cronista",
