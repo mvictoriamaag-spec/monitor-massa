@@ -1,6 +1,22 @@
 [
  {
   "plataforma": "nacional",
+  "fuente": "El Intransigente",
+  "autor": "El Intransigente",
+  "tipo": "nota",
+  "titulo": "Andrés Malamud: «A Massa no le sirven las PASO, le sirve el dedazo»",
+  "texto": "El analista examinó las posibles disputas en el oficialismo y el peronismo, y explicó cómo las PASO podrían incidir en las estrategias para 2027.",
+  "url": "https://elintransigente.com/2026/11/07/malamud-disputas-candidaturas-2027-paso-oficialismo-peronismo/",
+  "publicado": "2026-11-07T15:40:03+00:00",
+  "id": "4b06f903bdfc70ea",
+  "titulo_norm": "andrés malamud a massa no le sirven las paso le sirve el dedazo",
+  "resumen": "El analista Andrés Malamud sostiene que a Sergio Massa no le convienen las PASO sino el «dedazo». Examina las disputas en el oficialismo y el peronismo y cómo las PASO podrían incidir en las estrategias para 2027.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-07T15:44:26+00:00"
+ },
+ {
+  "plataforma": "nacional",
   "fuente": "El Cronista",
   "autor": "El Cronista",
   "tipo": "nota",
