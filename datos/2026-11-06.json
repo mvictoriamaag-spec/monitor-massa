@@ -80,6 +80,22 @@
   "recolectado": "2026-11-06T13:50:46+00:00"
  },
  {
+  "plataforma": "portal",
+  "fuente": "Fenix951",
+  "autor": "Fenix951",
+  "tipo": "nota",
+  "titulo": "Los cálculos de Patricia Bullrich, las especulaciones de Massa y los tironeos entre Karina Milei y Santiago Caputo por Malvinas",
+  "texto": "",
+  "url": "https://www.fenix951.com.ar/noticia.php?id=359469",
+  "publicado": "2026-11-06T11:55:54+00:00",
+  "id": "8d0e583ff7eeccdc",
+  "titulo_norm": "los cálculos de patricia bullrich las especulaciones de massa y los tironeos entre karina milei y santiago caputo por ma",
+  "resumen": "La nota analiza las jugadas políticas de Patricia Bullrich, las especulaciones sobre Sergio Massa y las disputas entre Karina Milei y Santiago Caputo en torno a Malvinas. Massa aparece como objeto de especulación, no como protagonista de una declaración propia.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-07T09:26:39+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "InfoCielo (Buenos Aires)",
   "autor": "InfoCielo (Buenos Aires)",
