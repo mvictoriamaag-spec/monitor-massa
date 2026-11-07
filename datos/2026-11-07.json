@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "nacional",
+  "fuente": "Infobae",
+  "autor": "Infobae",
+  "tipo": "nota",
+  "titulo": "El peronismo empieza a ver posibilidades de ganarle a Milei y le da forma a una propuesta electoral",
+  "texto": "Aunque persisten diferencias, la reunión entre Axel Kicillof y Máximo Kirchner generó una señal de paz. El foco de conflicto pasó a ser por las reelecciones de los intendentes. El rol activo de Sergio Massa",
+  "url": "https://www.infobae.com/politica/2026/11/07/el-peronismo-empieza-a-ver-posibilidades-de-ganarle-a-milei-y-le-da-forma-a-una-propuesta-electoral/",
+  "publicado": "2026-11-07T05:31:12+00:00",
+  "id": "bd63120ab680141b",
+  "titulo_norm": "el peronismo empieza a ver posibilidades de ganarle a milei y le da forma a una propuesta electoral",
+  "resumen": "Nota de Infobae sobre el peronismo, que empieza a ver chances de ganarle a Milei y arma una propuesta electoral. Menciona la reunión entre Kicillof y Máximo Kirchner, el conflicto por las reelecciones de intendentes y el rol activo de Sergio Massa.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-07T05:58:50+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "Mundo Gremial",
   "autor": "Mundo Gremial",
