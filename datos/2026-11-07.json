@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "Mundo Gremial",
+  "autor": "Mundo Gremial",
+  "tipo": "nota",
+  "titulo": "Sergio Massa apela a la receta Lula para la reconstrucción del peronismo y se ubica como armador central",
+  "texto": "Por Juan Manuel 'Pipo' Aravena. Sergio Massa. Lula Da Silva. Elecciones 2027. Peronismo.",
+  "url": "https://mundogremial.com/sergio-massa-apela-a-la-receta-lula-para-la-reconstruccion-del-peronismo-y-se-ubica-como-armador-central/",
+  "publicado": "2026-11-07T04:39:41+00:00",
+  "id": "c3ad3ec670a5777d",
+  "titulo_norm": "sergio massa apela a la receta lula para la reconstrucción del peronismo y se ubica como armador central",
+  "resumen": "Sergio Massa apela a la receta de Lula da Silva para reconstruir el peronismo y se posiciona como armador central de cara a 2027.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-07T05:15:04+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "La Nación",
   "autor": "La Nación",
