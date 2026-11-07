@@ -1,6 +1,38 @@
 [
  {
   "plataforma": "nacional",
+  "fuente": "El Cronista",
+  "autor": "El Cronista",
+  "tipo": "nota",
+  "titulo": "Kicillof y Máximo bajan la tensión y Massa busca ser el “arquitecto” de la unidad peronista",
+  "texto": "El gobernador bonaerense y el líder de La Cámpora acordaron la fecha del Congreso del PJ y avanzaron en un nuevo clima dentro del peronismo. Mientras persisten las diferencias por las candidaturas de 2027, el Frente Renovador busca ser el artífice de la unidad.",
+  "url": "https://www.cronista.com/economia-politica/kicillof-y-maximo-bajan-la-tension-y-massa-busca-ser-el-arquitecto-de-la-unidad-peronista/",
+  "publicado": "2026-11-07T13:35:02+00:00",
+  "id": "b66b4787aa990c1c",
+  "titulo_norm": "kicillof y máximo bajan la tensión y massa busca ser el arquitecto de la unidad peronista",
+  "resumen": "Kicillof y Máximo Kirchner acordaron la fecha del Congreso del PJ y bajaron la tensión interna. Massa, del Frente Renovador, busca ser el artífice de la unidad peronista pese a las diferencias por las candidaturas de 2027.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-07T13:41:42+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "El Termometro",
+  "autor": "El Termometro",
+  "tipo": "nota",
+  "titulo": "Otermín entregó pases multimodales y destacó a Massa: “Es un gran amigo de Lomas”",
+  "texto": "El Municipio de Lomas de Zamora entregó mil credenciales del Pase Multimodal a vecinos con discapacidad, personas trasplantadas y en",
+  "url": "https://eltermometroweb.com/2026/11/otermin-entrego-pases-multimodales-y-destaco-a-massa-es-un-gran-amigo-de-lomas/",
+  "publicado": "2026-11-07T12:56:49+00:00",
+  "id": "f1341a4a244f6530",
+  "titulo_norm": "otermín entregó pases multimodales y destacó a massa es un gran amigo de lomas",
+  "resumen": "El intendente de Lomas de Zamora, Otermín, entregó pases multimodales a vecinos con discapacidad y trasplantados. Durante el acto destacó a Sergio Massa como un gran amigo de la localidad.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-07T13:41:42+00:00"
+ },
+ {
+  "plataforma": "nacional",
   "fuente": "Infobae",
   "autor": "Infobae",
   "tipo": "nota",
