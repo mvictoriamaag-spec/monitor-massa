@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "Provincia Noticias",
+  "autor": "Provincia Noticias",
+  "tipo": "nota",
+  "titulo": "Peronismo: las expectativas de CFK, las premoniciones de Massa y la ¿larretización de Kicillof?",
+  "texto": "",
+  "url": "https://provincianoticias.com.ar/nota/22853/peronismo-las-expectativas-de-cfk-las-premoniciones-de-massa-y-la-larretizacion-de-kicillof/",
+  "publicado": "2026-11-07T16:30:00+00:00",
+  "id": "48bc141bc303ed2e",
+  "titulo_norm": "peronismo las expectativas de cfk las premoniciones de massa y la larretización de kicillof",
+  "resumen": "Nota sobre el peronismo que menciona las expectativas de Cristina Fernández de Kirchner, las premoniciones de Sergio Massa y la posibilidad de una 'larretización' de Axel Kicillof. Massa aparece como actor de la discusión interna del espacio.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-07T18:14:48+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "El Intransigente",
   "autor": "El Intransigente",
