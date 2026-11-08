@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "nacional",
+  "fuente": "Ámbito",
+  "autor": "Ámbito",
+  "tipo": "nota",
+  "titulo": "Todo el arco político celebró la llegada del papa León XIV y destacó su mensaje de fraternidad",
+  "texto": "Milei, Kicillof, Llaryora, Pullaro y Massa celebraron la llegada del Pontífice. Las publicaciones hicieron eje en la esperanza, el encuentro y la vigencia del legado de Francisco.",
+  "url": "https://www.ambito.com/politica/la-recibio-al-papa-leon-xiv-y-destaco-su-mensaje-fraternidad-n6343002",
+  "publicado": "2026-11-08T22:48:00+00:00",
+  "id": "1ec1fd33487a1d0f",
+  "titulo_norm": "todo el arco político celebró la llegada del papa león xiv y destacó su mensaje de fraternidad",
+  "resumen": "Nota que reúne las celebraciones del arco político por la llegada del papa León XIV y su mensaje de fraternidad. Sergio Massa aparece entre los dirigentes que expresaron su celebración, junto a Milei, Kicillof, Llaryora y Pullaro.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-08T22:59:47+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "Fenix951",
   "autor": "Fenix951",
@@ -110,5 +126,21 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-08T16:18:41+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Volcano Discovery",
+  "autor": "Volcano Discovery",
+  "tipo": "nota",
+  "titulo": "Últimos sismos y temblores cerca de Ait Melloul, Sous-Massa, Marruecos, desde 2023",
+  "texto": "",
+  "url": "https://www.volcanodiscovery.com/es/lugar/541858/sismos/ait-melloul.html?_vdwait=1788559316.1788559431.4t46Yqc16EOF3DqZr27QS_YXEWgREJQFT-hGZWzLfj4",
+  "publicado": "2026-11-08T09:50:38+00:00",
+  "id": "835fce0ba7ec691e",
+  "titulo_norm": "últimos sismos y temblores cerca de ait melloul sous massa marruecos desde 2023",
+  "resumen": "Registro de sismos y temblores recientes cerca de Ait Melloul, en la región de Sous-Massa, Marruecos, desde 2023. El término 'Massa' es parte de un topónimo y no se refiere a Sergio Massa.",
+  "relevante": 0,
+  "resumen_ia": true,
+  "recolectado": "2026-11-08T22:59:47+00:00"
  }
 ]
