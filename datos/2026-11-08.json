@@ -1,6 +1,38 @@
 [
  {
   "plataforma": "nacional",
+  "fuente": "Minutouno",
+  "autor": "Minutouno",
+  "tipo": "nota",
+  "titulo": "El sentido mensaje de Sergio Massa por la llegada del papa León XIV",
+  "texto": "El líder del Frente Renovador le dio la bienvenida al sumo pontífice con un sentido mensaje en sus redes sociales.",
+  "url": "https://www.minutouno.com/el-sentido-mensaje-sergio-massa-la-llegada-del-papa-leon-xiv-n6342977",
+  "publicado": "2026-11-08T20:19:31+00:00",
+  "id": "94a538eadf6d0722",
+  "titulo_norm": "el sentido mensaje de sergio massa por la llegada del papa león xiv",
+  "resumen": "El líder del Frente Renovador, Sergio Massa, dio la bienvenida al papa León XIV con un mensaje en sus redes sociales. Es una declaración propia del dirigente con motivo de la visita del pontífice.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-08T20:24:55+00:00"
+ },
+ {
+  "plataforma": "nacional",
+  "fuente": "C5N",
+  "autor": "C5N",
+  "tipo": "nota",
+  "titulo": "Sergio Massa le dio la bienvenida a León XIV con una cita del Sumo Pontífice sobre la riqueza y el desarrollo",
+  "texto": "El exministro de Economía celebró la llegada del Papa a la Argentina y destacó sus palabras sobre la necesidad de que los frutos de la inversión e iniciativa económica \"alcancen efectivamente a todos\". Video: así fue el saludo de Javier Milei a su santidad el papa León XIV El conmovedor mensaje de bienvenida de la torre de control de Aeroparque al papa León XIV",
+  "url": "https://www.c5n.com/politica/sergio-massa-le-dio-la-bienvenida-leon-xiv-una-cita-del-sumo-pontifice-la-riqueza-y-el-desarrollo-n253794",
+  "publicado": "2026-11-08T20:17:00+00:00",
+  "id": "f5c9c782cdf886c5",
+  "titulo_norm": "sergio massa le dio la bienvenida a león xiv con una cita del sumo pontífice sobre la riqueza y el desarrollo",
+  "resumen": "Sergio Massa celebró la llegada del papa León XIV a la Argentina y destacó su cita sobre la riqueza y el desarrollo, en particular que los frutos de la inversión e iniciativa económica \"alcancen efectivamente a todos\". Es una declaración propia del exministro de Economía.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-08T20:24:55+00:00"
+ },
+ {
+  "plataforma": "nacional",
   "fuente": "El Intransigente",
   "autor": "El Intransigente",
   "tipo": "nota",
