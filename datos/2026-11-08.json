@@ -1,6 +1,22 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "Fenix951",
+  "autor": "Fenix951",
+  "tipo": "nota",
+  "titulo": "Sergio Massa celebró la llegada del papa León XIV a la Argentina",
+  "texto": "",
+  "url": "https://www.fenix951.com.ar/noticia.php?id=359736",
+  "publicado": "2026-11-08T21:19:55+00:00",
+  "id": "69cae37db6c03bd0",
+  "titulo_norm": "sergio massa celebró la llegada del papa león xiv a la argentina",
+  "resumen": "Fenix951 informa que Sergio Massa celebró la llegada del papa León XIV a la Argentina. Es una declaración de apoyo y bienvenida del dirigente al Sumo Pontífice.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-08T21:42:50+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "DameNoticias",
   "autor": "DameNoticias",
   "tipo": "nota",
@@ -62,6 +78,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-08T20:24:55+00:00"
+ },
+ {
+  "plataforma": "interior",
+  "fuente": "La Voz del Interior",
+  "autor": "La Voz del Interior",
+  "tipo": "nota",
+  "titulo": "\"Alegría\". Desde Llaryora hasta Massa, los dirigentes que celebraron la llegada del papa León XIV a la Argentina",
+  "texto": "Mientras el gobernador de Córdoba expresó su emoción por el recibimiento en la provincia, otros dirigentes argentinos le dieron la bienvenida al Sumo Pontífice a través de las redes sociales.",
+  "url": "https://www.lavoz.com.ar/politica/llaryora-celebro-llegada-papa-leon-xiv-argentina-cordoba-espera-brazos-abiertos_0_3KHghHzAqZ.html",
+  "publicado": "2026-11-08T19:59:24+00:00",
+  "id": "36052b8f4b9bc042",
+  "titulo_norm": "alegría desde llaryora hasta massa los dirigentes que celebraron la llegada del papa león xiv a la argentina",
+  "resumen": "La Voz del Interior recopila reacciones de dirigentes argentinos, desde el gobernador Llaryora hasta Sergio Massa, ante la llegada del papa León XIV. Massa aparece expresando bienvenida a través de redes sociales.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-08T21:42:50+00:00"
  },
  {
   "plataforma": "nacional",
