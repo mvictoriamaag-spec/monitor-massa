@@ -1,5 +1,37 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "DameNoticias",
+  "autor": "DameNoticias",
+  "tipo": "nota",
+  "titulo": "Sergio Massa saludó a León XIV con un mensaje sobre el desarrollo y la distribución de la riqueza",
+  "texto": "",
+  "url": "https://www.damenoticias.com/nota/659167-sergio-massa-saludo-a-leon-xiv-con-un-mensaje-sobre-el-desarrollo-y-la-distribucion-de-la-riqueza",
+  "publicado": "2026-11-08T20:40:52+00:00",
+  "id": "a3698767ef93daa8",
+  "titulo_norm": "sergio massa saludó a león xiv con un mensaje sobre el desarrollo y la distribución de la riqueza",
+  "resumen": "Sergio Massa saludó al papa León XIV y difundió un mensaje sobre el desarrollo y la distribución de la riqueza.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-08T21:02:04+00:00"
+ },
+ {
+  "plataforma": "interior",
+  "fuente": "Diario Panorama",
+  "autor": "Diario Panorama",
+  "tipo": "nota",
+  "titulo": "Sergio Massa le dio la bienvenida al papa León XIV y compartió una reflexión sobre el desarrollo económico",
+  "texto": "El dirigente del Frente Renovador saludó al Pontífice a través de sus redes sociales y destacó una de sus definiciones sobre la riqueza, la inversión y la distribución de oportunidades.",
+  "url": "https://www.diariopanorama.com/noticia/572342/sergio-massa-le-dio-bienvenida-al-papa-leon-xiv-compartio-reflexion-sobre-desarrollo-economico",
+  "publicado": "2026-11-08T20:31:30+00:00",
+  "id": "9d226bef5a04b660",
+  "titulo_norm": "sergio massa le dio la bienvenida al papa león xiv y compartió una reflexión sobre el desarrollo económico",
+  "resumen": "Massa, dirigente del Frente Renovador, dio la bienvenida al papa León XIV por redes sociales y compartió una reflexión sobre desarrollo económico, inversión y distribución de oportunidades.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-08T21:02:04+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Minutouno",
   "autor": "Minutouno",
