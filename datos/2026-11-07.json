@@ -64,6 +64,22 @@
   "recolectado": "2026-11-07T17:41:55+00:00"
  },
  {
+  "plataforma": "portal",
+  "fuente": "DataClave",
+  "autor": "DataClave",
+  "tipo": "nota",
+  "titulo": "Cruce entre kicillofismo y Frente Renovador, reafirma acuerdo político Massa-Máximo",
+  "texto": "El kirchnerismo duro y el massismo muestran coincidencias a la hora de ponerle un freno a las aspiraciones presidenciales del gobernador bonaerense. La reelección indefinida como pacto legislativo para llevar a la mesa de negociación.",
+  "url": "https://www.dataclave.com.ar/poder/cruce-entre-kicillofismo-y-frente-renovador--reafirma-acuerdo-politico-massa-maximo_a6aedee5220dd1ac23cfb4c29",
+  "publicado": "2026-11-07T15:06:09+00:00",
+  "id": "6ad3ce0a33c19716",
+  "titulo_norm": "cruce entre kicillofismo y frente renovador reafirma acuerdo político massa máximo",
+  "resumen": "Nota que describe coincidencias entre el kirchnerismo duro y el massismo (Frente Renovador) para frenar las aspiraciones presidenciales de Axel Kicillof, con la reelección indefinida planteada como pacto legislativo a llevar a la mesa de negociación. Massa aparece como protagonista del acuerdo político con Máximo Kirchner.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-08T00:43:27+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "El Cronista",
   "autor": "El Cronista",
