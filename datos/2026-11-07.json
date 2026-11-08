@@ -49,6 +49,22 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "Flipr.news",
+  "autor": "Flipr.news",
+  "tipo": "nota",
+  "titulo": "Massa prefiere abrazarse a Vidal antes que permitir la reelección de los intendentes peronistas",
+  "texto": "Mientras Axel Kicillof y Máximo Kirchner avanzan en la reorganización del PJ bonaerense, el Frente Renovador volvió a cruzarse con más de 80 intendentes peronistas que buscan modificar la ley que…",
+  "url": "https://flipr.com.ar/nacionales/info135/massa-prefiere-abrazarse-a-vidal-antes-que-permitir-la-reeleccion-de-los-intendentes-peronistas/",
+  "publicado": "2026-11-07T15:08:34+00:00",
+  "id": "ea42263110f8a138",
+  "titulo_norm": "massa prefiere abrazarse a vidal antes que permitir la reelección de los intendentes peronistas",
+  "resumen": "Nota crítica con Massa: sostiene que prefiere acercarse a Vidal antes que permitir la reelección de intendentes peronistas. Se enmarca en la reorganización del PJ bonaerense, donde el Frente Renovador se enfrenta a más de 80 intendentes que buscan cambiar la ley de reelección.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-08T03:31:21+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "DataClave",
   "autor": "DataClave",
   "tipo": "nota",
