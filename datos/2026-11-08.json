@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "interior",
+  "fuente": "Identidad Correntina",
+  "autor": "Identidad Correntina",
+  "tipo": "nota",
+  "titulo": "Kicillof y Massa reabren la pelea por el control del PJ bonaerense",
+  "texto": "La discusión por la continuidad de las primarias volvió a tensar al peronismo bonaerense. Axel Kicillof busca sostener ese esquema para ordenar la competencia interna, mientras Sergio Massa se inclina por una definición centraliz...",
+  "url": "https://www.identidadcorrentina.com.ar/noticia/45568_kicillof-y-massa-reabren-la-pelea-por-el-control-del-pj-bonaerense.htm",
+  "publicado": "2026-11-09T02:30:40+00:00",
+  "id": "a1306a20ffaf717a",
+  "titulo_norm": "kicillof y massa reabren la pelea por el control del pj bonaerense",
+  "resumen": "Kicillof y Massa discrepan sobre la continuidad de las primarias para ordenar el control del PJ bonaerense. Kicillof busca sostener ese esquema, mientras Massa se inclina por una definición centralizada.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-09T03:16:48+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Ámbito",
   "autor": "Ámbito",
@@ -62,6 +78,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-08T21:02:04+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "El Canciller",
+  "autor": "El Canciller",
+  "tipo": "nota",
+  "titulo": "\"Sus frutos han de traducirse también en bienes y oportunidades\": Massa le dio la bienvenida al papa León XIV con un mensaje sobre la \"creación de riqueza\", la \"inversión\" y la importancia de que los beneficios del desarrollo lleguen \"a todos\".",
+  "texto": "Somos una plataforma digital de actualidad y noticias, compuesta por jóvenes profesionales expertos en la distribución de contenidos en Internet.",
+  "url": "https://elcanciller.com/placas/-sus-frutos-han-de-traducirse-tambien-en-bienes-y-oportunidades---massa-le-dio-la-bienvenida-al-papa-leon-xiv-con-un-mensaje-sobre-la--creacion-de-riqueza---la--inversion--y-la-importancia-de-que-los-beneficios-del-desarrollo-lleguen--a-todos--_a6af0de490f44bbea0ca36b74",
+  "publicado": "2026-11-08T20:40:41+00:00",
+  "id": "5c167e21bf8a4a30",
+  "titulo_norm": "sus frutos han de traducirse también en bienes y oportunidades massa le dio la bienvenida al papa león xiv con un mensaj",
+  "resumen": "Sergio Massa dio la bienvenida al papa León XIV con un mensaje sobre la creación de riqueza, la inversión y que los beneficios del desarrollo lleguen a todos.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-09T03:16:48+00:00"
  },
  {
   "plataforma": "interior",
