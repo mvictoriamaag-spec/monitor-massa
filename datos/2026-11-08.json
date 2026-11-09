@@ -17,6 +17,22 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "DameNoticias",
+  "autor": "DameNoticias",
+  "tipo": "nota",
+  "titulo": "Sergio Massa saludó a León XIV",
+  "texto": "",
+  "url": "https://www.damenoticias.com/tema/sergio%20massa%20salud%C3%B3%20a%20le%C3%B3n%20xiv",
+  "publicado": "2026-11-08T22:11:13+00:00",
+  "id": "a0781471d183712e",
+  "titulo_norm": "sergio massa saludó a león xiv",
+  "resumen": "Nota de DameNoticias que informa que Sergio Massa saludó al papa León XIV. Es una noticia sobre un gesto público del dirigente, sin más detalles en el texto disponible.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-09T00:15:21+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Fenix951",
   "autor": "Fenix951",
   "tipo": "nota",
