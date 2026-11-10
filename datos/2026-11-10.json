@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "nacional",
+  "fuente": "Perfil",
+  "autor": "Perfil",
+  "tipo": "nota",
+  "titulo": "Martín Farrel: “Fue un error de la UCR no aceptar a Massa en Cambiemos en aquel acuerdo de Gualeguaychú”",
+  "texto": "Martín Farreñ cuestionó la estrategia radical de 2015, defendió una coalición de centro para 2027 y sostuvo que la ética y los principios son indispensables para el ejercicio de la política.",
+  "url": "https://www.perfil.com/modo-fontevecchia/martin-farrel-fue-un-error-de-la-ucr-no-aceptar-a-massa-en-cambiemos-en-aquel-acuerdo-de-gualeguaychu-aSvq17k2cFIV",
+  "publicado": "2026-11-10T18:54:46+00:00",
+  "id": "7a8902eced6304cc",
+  "titulo_norm": "martín farrel fue un error de la ucr no aceptar a massa en cambiemos en aquel acuerdo de gualeguaychú",
+  "resumen": "Martín Farrel afirma que fue un error de la UCR no incluir a Massa en Cambiemos en el acuerdo de Gualeguaychú. Defiende una coalición de centro para 2027 y sostiene que la ética y los principios son indispensables en la política.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-10T19:46:39+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "Expresión del Sur",
   "autor": "Expresión del Sur",
