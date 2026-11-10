@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "NewsDigitales",
+  "autor": "NewsDigitales",
+  "tipo": "nota",
+  "titulo": "Marina Salzmann impulsó a Massa para 2027, cuestionó a Milei y habló del futuro de Kicillof",
+  "texto": "La diputada nacional analizó la reorganización del peronismo, las disputas electorales y los desafíos que enfrenta la provincia de Buenos Aires.",
+  "url": "https://www.newsdigitales.com/nota/349735/marina-salzmann-impulso-a-massa-para-2027-cuestiono-a-milei-y-hablo-del-futuro-de-kicillof/",
+  "publicado": "2026-11-10T22:10:17+00:00",
+  "id": "af5ae8b3e1ebf1c6",
+  "titulo_norm": "marina salzmann impulsó a massa para 2027 cuestionó a milei y habló del futuro de kicillof",
+  "resumen": "La diputada nacional Marina Salzmann analizó la reorganización del peronismo y sus disputas electorales. Impulsó a Sergio Massa para 2027, cuestionó a Javier Milei y habló del futuro de Kicillof en la provincia de Buenos Aires.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-10T23:58:10+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Perfil",
   "autor": "Perfil",
