@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "Expresión del Sur",
+  "autor": "Expresión del Sur",
+  "tipo": "nota",
+  "titulo": "El “general de WhatsApp” de Lula llegó a la Argentina y se reunió con Massa y Cristina",
+  "texto": "",
+  "url": "https://expresiondelsur.com.ar/contenido/49591/el-general-de-whatsapp-de-lula-llego-a-la-argentina-y-se-reunio-con-massa-y-cris",
+  "publicado": "2026-11-10T18:20:00+00:00",
+  "id": "c204ee85d8d5b48e",
+  "titulo_norm": "el general de whatsapp de lula llegó a la argentina y se reunió con massa y cristina",
+  "resumen": "Informa que el llamado \"general de WhatsApp\" de Lula llegó a la Argentina y se reunió con Sergio Massa y Cristina Fernández de Kirchner. Massa aparece como interlocutor en un encuentro político de alto perfil.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-10T18:59:01+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "Uno Entre Rios",
   "autor": "Uno Entre Rios",
