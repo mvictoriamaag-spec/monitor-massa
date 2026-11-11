@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "NewsDigitales",
+  "autor": "NewsDigitales",
+  "tipo": "nota",
+  "titulo": "\"En el corazón\": qué publicaron Karina Milei y Massa tras la partida de León XIV",
+  "texto": "Dos dirigentes de escasas apariciones públicas en el último tiempo, utilizaron sus redes sociales para expresar su agradecimiento al Pontífice,",
+  "url": "https://www.newsdigitales.com/nota/349804/en-el-corazon-que-publicaron-karina-milei-y-massa-tras-la-partida-de-leon-xiv/",
+  "publicado": "2026-11-11T18:57:34+00:00",
+  "id": "299ba4fdcaa90ac3",
+  "titulo_norm": "en el corazón qué publicaron karina milei y massa tras la partida de león xiv",
+  "resumen": "Sergio Massa, junto a Karina Milei, publicó en sus redes sociales un mensaje de agradecimiento al Papa León XIV tras su partida. La nota destaca que ambos dirigentes tienen pocas apariciones públicas recientes.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-11T19:27:47+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "C5N",
   "autor": "C5N",
