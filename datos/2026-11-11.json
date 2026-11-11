@@ -1,6 +1,22 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "La Tecla Mar del Plata",
+  "autor": "La Tecla Mar del Plata",
+  "tipo": "nota",
+  "titulo": "El Papa lo hizo: Kicillof, Máximo y Massa, juntos en Luján en medio de la interna",
+  "texto": "La visita del Sumo Pontífice a la Argentina le puso pausa a la interna del peronismo bonaerense por unos días. Los tres dirigentes estuvieron en Luján mientras restan fuertes definiciones políticas rumbo al 2027.",
+  "url": "https://www.lateclamardelplata.com.ar/67417-el-papa-lo-hizo-kicillof-maximo-y-massa-juntos-en-lujan-en-medio-de-la-interna",
+  "publicado": "2026-11-11T19:30:39+00:00",
+  "id": "4c553213084733f6",
+  "titulo_norm": "el papa lo hizo kicillof máximo y massa juntos en luján en medio de la interna",
+  "resumen": "Nota de La Tecla Mar del Plata que informa que Kicillof, Máximo Kirchner y Sergio Massa compartieron una visita en Luján durante la visita del Papa, en medio de la interna del peronismo bonaerense rumbo al 2027. La aparición de Massa es de tipo informativa, sin una declaración suya.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-11T19:57:41+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "NewsDigitales",
   "autor": "NewsDigitales",
   "tipo": "nota",
