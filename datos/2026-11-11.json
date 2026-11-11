@@ -1,6 +1,22 @@
 [
  {
   "plataforma": "nacional",
+  "fuente": "La Nación",
+  "autor": "La Nación",
+  "tipo": "nota",
+  "titulo": "El Papa hizo confluir a todas las vertientes del PJ y pausó por un momento la interna",
+  "texto": "Kicillof, Máximo Kirchner y Massa estuvieron en la misa de despedida de León XIV; el Gobierno envió una comitiva reducida",
+  "url": "https://www.lanacion.com.ar/politica/el-papa-hizo-confluir-a-todas-las-vertientes-del-pj-y-pauso-por-un-momento-la-interna-nid11112026/",
+  "publicado": "2026-11-11T17:18:24+00:00",
+  "id": "c67871128ee3cf00",
+  "titulo_norm": "el papa hizo confluir a todas las vertientes del pj y pausó por un momento la interna",
+  "resumen": "La nota describe que Kicillof, Máximo Kirchner y Sergio Massa coincidieron en la misa de despedida del Papa León XIV, donde el PJ dejó en pausa su interna. El Gobierno envió una comitiva reducida.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-11T17:26:09+00:00"
+ },
+ {
+  "plataforma": "nacional",
   "fuente": "Perfil",
   "autor": "Perfil",
   "tipo": "nota",
@@ -14,6 +30,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-11T16:32:08+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Mundo Azulgrana",
+  "autor": "Mundo Azulgrana",
+  "tipo": "nota",
+  "titulo": "A 114 años de Lorenzo Massa, el fundador de San Lorenzo",
+  "texto": "Este 11 de noviembre se cumplen 144 años del nacimiento de Lorenzo Massa, una figura fundamental para San Lorenzo.",
+  "url": "https://mundoazulgrana.com.ar/lorenzo-massa-el-hombre-que-cambio-para-siempre-la-historia-de-san-lorenzo/",
+  "publicado": "2026-11-11T15:30:00+00:00",
+  "id": "38fbfbc4ac226e91",
+  "titulo_norm": "a 114 años de lorenzo massa el fundador de san lorenzo",
+  "resumen": "Nota por los 144 años del nacimiento de Lorenzo Massa, fundador de San Lorenzo. Se trata de otra persona homónima, no del dirigente Sergio Massa.",
+  "relevante": 0,
+  "resumen_ia": true,
+  "recolectado": "2026-11-11T17:26:09+00:00"
  },
  {
   "plataforma": "interior",
