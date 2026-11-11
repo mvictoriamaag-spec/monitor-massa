@@ -1,5 +1,37 @@
 [
  {
+  "plataforma": "interior",
+  "fuente": "La Plata 1",
+  "autor": "La Plata 1",
+  "tipo": "nota",
+  "titulo": "Kicillof encabezó la presencia política en la misa del Papa en Luján: Massa, Alak y numerosos intendentes dijeron presente",
+  "texto": "El gobernador bonaerense fue una de las principales figuras políticas que participaron de la multitudinaria celebración de León XIV. También asistieron...",
+  "url": "https://www.laplata1.com/2026-11-11/kicillof-encabezo-la-presencia-politica-en-la-misa-del-papa-en-lujan-massa-alak-y-numerosos-intendentes-dijeron-presente-127102/",
+  "publicado": "2026-11-11T15:29:00+00:00",
+  "id": "3fb4216da53ead88",
+  "titulo_norm": "kicillof encabezó la presencia política en la misa del papa en luján massa alak y numerosos intendentes dijeron presente",
+  "resumen": "Destaca la presencia política de Kicillof en la misa del Papa León XIV en Luján, con Sergio Massa, Alak y numerosos intendentes presentes en la multitudinaria celebración.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-11T16:25:47+00:00"
+ },
+ {
+  "plataforma": "interior",
+  "fuente": "Nueva Rioja",
+  "autor": "Nueva Rioja",
+  "tipo": "nota",
+  "titulo": "Kicillof, Massa y Máximo Kirchner coincidieron en Luján para la misa del Papa",
+  "texto": "Bajada: La celebración reunió a la dirigencia bonaerense y a referentes de las distintas líneas del peronismo, además de funcionarios del Gobierno nacional. El gobernador riojano Ricardo Quintela, que había sido invitado por Kicillof, no asistió al encuentro.",
+  "url": "https://nuevarioja.com.ar/politica/kicillof-massa-y-maximo-kirchner-coincidieron-en-lujan-para-la-misa-del-papa.htm",
+  "publicado": "2026-11-11T15:20:00+00:00",
+  "id": "3d51d3590a994ba1",
+  "titulo_norm": "kicillof massa y máximo kirchner coincidieron en luján para la misa del papa",
+  "resumen": "Informa que Kicillof, Sergio Massa y Máximo Kirchner coincidieron en la misa del Papa en Luján, con dirigentes bonaerenses y de distintas líneas del peronismo. El riojano Quintela, invitado por Kicillof, no asistió.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-11T16:25:47+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "Enterate Noticias",
   "autor": "Enterate Noticias",
@@ -46,6 +78,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-11T14:43:20+00:00"
+ },
+ {
+  "plataforma": "nacional",
+  "fuente": "Diagonales",
+  "autor": "Diagonales",
+  "tipo": "nota",
+  "titulo": "Kicillof, Massa y Máximo Kirchner coincidieron en la misa del Papa en Luján",
+  "texto": "",
+  "url": "https://www.diagonales.com/nacion/kicillof--massa-y-maximo-kirchner-coincidieron-en-la-misa-del-papa-en-lujan_a6af46323696ebfa450e8de8c?output=amp",
+  "publicado": "2026-11-11T14:32:47+00:00",
+  "id": "32f390f87d5ecdfe",
+  "titulo_norm": "kicillof massa y máximo kirchner coincidieron en la misa del papa en luján",
+  "resumen": "Informa que Kicillof, Sergio Massa y Máximo Kirchner coincidieron en la misa del Papa en Luján, un encuentro de la dirigencia peronista.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-11T16:25:47+00:00"
  },
  {
   "plataforma": "portal",
