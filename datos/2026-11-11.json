@@ -1,6 +1,38 @@
 [
  {
   "plataforma": "nacional",
+  "fuente": "C5N",
+  "autor": "C5N",
+  "tipo": "nota",
+  "titulo": "Sergio Massa destacó el fervor de los argentinos por León XIV: \"Todo un pueblo se abrazó a su pastor\"",
+  "texto": "El referente del Frente Renovador afirmó que el Sumo Pontífice \"dejó mensajes fuertes y profundos sobre todos y cada uno de los temas que nos atraviesan\". Sergio Massa, presente en la misa del papa León XIV en Luján El conmovedor mensaje de despedida de la torre de control del Aeropuerto de Ezeiza al papa León XIV",
+  "url": "https://www.c5n.com/politica/sergio-massa-destaco-el-fervor-los-argentinos-leon-xiv-todo-un-pueblo-se-abrazo-su-pastor-n254030",
+  "publicado": "2026-11-11T18:01:00+00:00",
+  "id": "c98f46ad20548b4b",
+  "titulo_norm": "sergio massa destacó el fervor de los argentinos por león xiv todo un pueblo se abrazó a su pastor",
+  "resumen": "Sergio Massa, líder del Frente Renovador, destacó el fervor de los argentinos por el papa León XIV tras la misa en Luján. Afirmó que el Pontífice dejó mensajes fuertes sobre los temas que atraviesan al país.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-11T18:16:54+00:00"
+ },
+ {
+  "plataforma": "nacional",
+  "fuente": "Minuto Uno",
+  "autor": "Minuto Uno",
+  "tipo": "nota",
+  "titulo": "Sergio Massa tras la misa en Luján: \"El papa León XIV dejó mensajes fuertes de los temas que nos atraviesan\"",
+  "texto": "Sergio Massa participó de la masiva despedida del papa León XIV en Luján. Resaltó sus mensajes profundos y le agradeció por todo su amor.",
+  "url": "https://www.minutouno.com/politica/sergio-massa-la-misa-lujan-el-papa-leon-xiv-dejo-mensajes-fuertes-los-temas-que-nos-atraviesan-n6344076",
+  "publicado": "2026-11-11T17:58:00+00:00",
+  "id": "f0858cb546b15ccd",
+  "titulo_norm": "sergio massa tras la misa en luján el papa león xiv dejó mensajes fuertes de los temas que nos atraviesan",
+  "resumen": "Sergio Massa participó de la masiva despedida del papa León XIV en Luján. Destacó los profundos mensajes del Pontífice y le agradeció por todo su amor, en una declaración propia del dirigente.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-11T18:16:54+00:00"
+ },
+ {
+  "plataforma": "nacional",
   "fuente": "La Nación",
   "autor": "La Nación",
   "tipo": "nota",
