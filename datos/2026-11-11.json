@@ -1,6 +1,22 @@
 [
  {
   "plataforma": "nacional",
+  "fuente": "El Intransigente",
+  "autor": "El Intransigente",
+  "tipo": "nota",
+  "titulo": "Sergio Massa resaltó los mensajes del Papa León XIV en el país: «Fuertes y profundos»",
+  "texto": "El exministro de Economía se expresó tras la misa en Luján y coincidió allí con referentes del peronismo como Máximo o Kicillof.",
+  "url": "https://elintransigente.com/2026/11/11/sergio-massa-resalto-mensajes-papa-leon-xiv-pais-fuertes-profundos/",
+  "publicado": "2026-11-11T21:56:43+00:00",
+  "id": "1c151636df605a38",
+  "titulo_norm": "sergio massa resaltó los mensajes del papa león xiv en el país fuertes y profundos",
+  "resumen": "Sergio Massa destacó los mensajes del Papa León XIV en el país, calificándolos de «fuertes y profundos». Su declaración se produjo tras la misa en Luján, donde coincidió con referentes del peronismo como Máximo y Kicillof.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-11T22:42:01+00:00"
+ },
+ {
+  "plataforma": "nacional",
   "fuente": "Perfil",
   "autor": "Perfil",
   "tipo": "nota",
