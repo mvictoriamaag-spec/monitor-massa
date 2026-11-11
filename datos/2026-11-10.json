@@ -80,6 +80,22 @@
   "recolectado": "2026-11-10T23:58:10+00:00"
  },
  {
+  "plataforma": "portal",
+  "fuente": "ACB",
+  "autor": "ACB",
+  "tipo": "nota",
+  "titulo": "Zonas de tiro Bodian Massa",
+  "texto": "Zonas de tiro de Bodian Massa en la Liga Endesa: desde dónde tira, con qué acierto y cómo se compara con el resto de la liga.",
+  "url": "https://acb.com/es/liga/jugadores/bodian-massa-30003419/zonas-de-tiro?categoria=points&filtro=temporada&editionId=89",
+  "publicado": "2026-11-10T21:58:37+00:00",
+  "id": "20fabbed07a9c26a",
+  "titulo_norm": "zonas de tiro bodian massa",
+  "resumen": "Nota deportiva de la Liga Endesa de básquet que analiza las zonas de tiro del jugador Bodian Massa: desde dónde lanza, con qué acierto y cómo se compara con el resto de la liga. No se refiere al dirigente político Sergio Massa.",
+  "relevante": 0,
+  "resumen_ia": true,
+  "recolectado": "2026-11-11T09:47:29+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Perfil",
   "autor": "Perfil",
