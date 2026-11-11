@@ -1,6 +1,22 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "En Agenda",
+  "autor": "En Agenda",
+  "tipo": "nota",
+  "titulo": "Milei le gana a Kicillof y a Massa en la primera vuelta, pero perdería ante los dos en un eventual balotaje",
+  "texto": "Según la encuesta de Hugo Haime, el Presidente lidera con Kicillof o con Massa como candidato del PJ. En el balotaje, ambos peronistas lo superan por",
+  "url": "https://enagenda.com.ar/nota/34791/milei-le-gana-a-kicillof-y-a-massa-en-la-primera-vuelta-pero-perderia-ante-los-dos-en-un-eventual-balotaje/",
+  "publicado": "2026-11-11T00:17:45+00:00",
+  "id": "ea3214abe2eb1fff",
+  "titulo_norm": "milei le gana a kicillof y a massa en la primera vuelta pero perdería ante los dos en un eventual balotaje",
+  "resumen": "Encuesta de Hugo Haime que muestra a Milei ganando en la primera vuelta a Kicillof y a Massa, pero perdiendo en un eventual balotaje frente a ambos peronistas. Massa aparece como posible candidato del PJ en el sondeo.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-11T00:46:20+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "NewsDigitales",
   "autor": "NewsDigitales",
   "tipo": "nota",
