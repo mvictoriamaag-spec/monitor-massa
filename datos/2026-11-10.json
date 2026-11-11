@@ -17,6 +17,22 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "CatamarcaYa",
+  "autor": "CatamarcaYa",
+  "tipo": "nota",
+  "titulo": "Encuesta 2027: Milei encabeza la primera vuelta, pero Kicillof y Massa pasan al frente en el balotaje",
+  "texto": "El último relevamiento nacional de Hugo Haime & Asociados revela que Javier Milei mantiene el liderazgo en primera vuelta, pero muestra fragilidad ante Axel…",
+  "url": "https://www.catamarcaya.com.ar/encuesta-2027-milei-encabeza-la-primera-vuelta-pero-kicillof-y-massa-pasan-al/",
+  "publicado": "2026-11-11T01:49:52+00:00",
+  "id": "20e74a8bde7811af",
+  "titulo_norm": "encuesta 2027 milei encabeza la primera vuelta pero kicillof y massa pasan al frente en el balotaje",
+  "resumen": "Encuesta nacional de Hugo Haime & Asociados rumbo a 2027: Milei lidera la primera vuelta, pero Sergio Massa y Kicillof pasan al frente en un eventual balotaje, con fragilidad de Milei frente a Axel Kicillof.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-11T07:55:55+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "En Agenda",
   "autor": "En Agenda",
   "tipo": "nota",
