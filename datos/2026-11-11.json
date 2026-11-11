@@ -1,6 +1,38 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "Enterate Noticias",
+  "autor": "Enterate Noticias",
+  "tipo": "nota",
+  "titulo": "La interna del PJ se trasladó a Luján: Kicillof, Massa y Máximo Kirchner en la misa del papa León XIV",
+  "texto": "Los principales referentes del peronismo coincidieron en la Basílica de Luján para el cierre de la gira papal.",
+  "url": "https://www.enteratenoticias.com.ar/politica/la-interna-del-pj-se-traslado-a-lujan-kicillof-massa-y-maximo-kirchner-en-la-misa-del-papa-leon-xiv/",
+  "publicado": "2026-11-11T14:52:09+00:00",
+  "id": "6ef69deb278f8bbe",
+  "titulo_norm": "la interna del pj se trasladó a luján kicillof massa y máximo kirchner en la misa del papa león xiv",
+  "resumen": "La nota describe la presencia de los principales referentes del peronismo, entre ellos Sergio Massa, junto a Kicillof y Máximo Kirchner, en la misa del papa León XIV en Luján. Se destaca que la interna del PJ se trasladó a ese acto religioso.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-11T15:29:26+00:00"
+ },
+ {
+  "plataforma": "nacional",
+  "fuente": "El Intransigente",
+  "autor": "El Intransigente",
+  "tipo": "nota",
+  "titulo": "Massa, Máximo Kirchner y Estela de Carlotto: los invitados a la misa de León XIV en Luján",
+  "texto": "La celebración reunió a referentes peronistas, funcionarios nacionales y dirigentes de distintos espacios, en medio de las diferencias internas del PJ.",
+  "url": "https://elintransigente.com/2026/11/11/massa-maximo-kirchner-estela-carlotto-invitados-misa-leon-xiv-lujan/",
+  "publicado": "2026-11-11T14:49:45+00:00",
+  "id": "53214e60de0f2298",
+  "titulo_norm": "massa máximo kirchner y estela de carlotto los invitados a la misa de león xiv en luján",
+  "resumen": "La nota enumera a los invitados a la misa de León XIV en Luján, entre ellos Sergio Massa, Máximo Kirchner y Estela de Carlotto. Se señala que el acto reunió a referentes peronistas y funcionarios en medio de diferencias internas del PJ.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-11T15:29:26+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Cronos noticias",
   "autor": "Cronos noticias",
   "tipo": "nota",
