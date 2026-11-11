@@ -1,6 +1,38 @@
 [
  {
   "plataforma": "nacional",
+  "fuente": "Infobae",
+  "autor": "Infobae",
+  "tipo": "nota",
+  "titulo": "La plana mayor del peronismo converge hoy en Luján para la misa que oficiará el papa León XIV",
+  "texto": "La dirigencia justicialista bonaerense, liderada por el gobernador Axel Kicillof y la vice, Verónica Magario, asistirá desde las 10 al acto religioso frente a la Basílica. Máximo Kirchner y Sergio Massa también están presentes",
+  "url": "https://www.infobae.com/politica/2026/11/11/la-plana-mayor-del-peronismo-converge-hoy-en-lujan-para-la-misa-que-oficiara-el-papa-leon-xiv/",
+  "publicado": "2026-11-11T11:28:26+00:00",
+  "id": "84435f808aee0e2e",
+  "titulo_norm": "la plana mayor del peronismo converge hoy en luján para la misa que oficiará el papa león xiv",
+  "resumen": "La dirigencia peronista bonaerense, encabezada por Axel Kicillof y Verónica Magario, asiste a la misa del papa León XIV en Luján. Sergio Massa aparece como uno de los dirigentes presentes, junto a Máximo Kirchner.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-11T11:34:58+00:00"
+ },
+ {
+  "plataforma": "nacional",
+  "fuente": "C5N",
+  "autor": "C5N",
+  "tipo": "nota",
+  "titulo": "Sergio Massa, presente en la misa del papa León XIV en Luján",
+  "texto": "El líder del Frente Renovador llegó por la mañana del miércoles a la Basílica para acompañar la última Santa Misa que realizará el Sumo Pontífice a partir de las 10 de la mañana. Estuvo con voluntarios de Cáritas y junto a los fieles.",
+  "url": "https://www.c5n.com/politica/sergio-massa-presente-la-misa-del-papa-leon-xiv-lujan-n253985",
+  "publicado": "2026-11-11T11:17:32+00:00",
+  "id": "03da21f648134781",
+  "titulo_norm": "sergio massa presente en la misa del papa león xiv en luján",
+  "resumen": "Sergio Massa, líder del Frente Renovador, asistió por la mañana a la Basílica de Luján para acompañar la misa del papa León XIV. Estuvo con voluntarios de Cáritas y con fieles.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-11T11:34:58+00:00"
+ },
+ {
+  "plataforma": "nacional",
   "fuente": "La Nación",
   "autor": "La Nación",
   "tipo": "nota",
