@@ -1,6 +1,38 @@
 [
  {
   "plataforma": "nacional",
+  "fuente": "Ámbito",
+  "autor": "Ámbito",
+  "tipo": "nota",
+  "titulo": "Luján reúne a la dirigencia política para el último mensaje del papa León XIV en el país",
+  "texto": "La comitiva bonaerense llegó desde temprano, encabezada por Axel Kicillof, junto a intendentes, legisladores y referentes del PJ. Diego Santilli, Mario Lugones y Sebastián Pareja participan en representación de la administración de Javier Milei. Sergio Massa y Máximo Kirchner también están presentes.",
+  "url": "https://www.ambito.com/politica/lujan-reune-la-dirigencia-el-ultimo-mensaje-del-papa-leon-xiv-el-pais-n6343841",
+  "publicado": "2026-11-11T12:24:00+00:00",
+  "id": "e4098bea8e221f03",
+  "titulo_norm": "luján reúne a la dirigencia política para el último mensaje del papa león xiv en el país",
+  "resumen": "Dirigentes políticos se reúnen en Luján para el último mensaje del papa León XIV en el país, con Axel Kicillof, Diego Santilli, Mario Lugones y Sebastián Pareja. Sergio Massa figura entre los presentes, junto a Máximo Kirchner.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-11T12:42:12+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Impacto Castex",
+  "autor": "Impacto Castex",
+  "tipo": "nota",
+  "titulo": "Sergio Massa participa de la última misa del papa León XIV en Luján",
+  "texto": "La ceremonia en la Basílica de Luján marcará el cierre de la visita del Pontífice al país. También asistirán representantes de distintos espacios políticos y comunidades acompañadas por Cáritas.",
+  "url": "https://impactocastex.com.ar/sociedad/18307/sergio-massa-participa-de-la-ultima-misa-del-papa-leon-xiv-en-lujan",
+  "publicado": "2026-11-11T12:22:34+00:00",
+  "id": "fd8fbf82585afb59",
+  "titulo_norm": "sergio massa participa de la última misa del papa león xiv en luján",
+  "resumen": "Sergio Massa participa de la última misa del papa León XIV en la Basílica de Luján, que cierra la visita del Pontífice al país. También asisten representantes de distintos espacios políticos y comunidades acompañadas por Cáritas.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-11T12:42:12+00:00"
+ },
+ {
+  "plataforma": "nacional",
   "fuente": "Infobae",
   "autor": "Infobae",
   "tipo": "nota",
