@@ -1,5 +1,37 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "Cronos noticias",
+  "autor": "Cronos noticias",
+  "tipo": "nota",
+  "titulo": "La última misa de León XIV pausa la interna: Massa, Kicillof, Máximo Kirchner y más figuras coincidieron en Luján",
+  "texto": "Los lideres de las distintas patas que componen al peronismo se congregaron hoy por la mañana frente a la Basílica de Lujan para ser parte de la úl",
+  "url": "https://infocronos.com.ar/nota/58807/la-ultima-misa-de-leon-xiv-pausa-la-interna-massa-kicillof-maximo-kirchner-y-mas-figuras-coincidieron-en-lujan/",
+  "publicado": "2026-11-11T14:37:28+00:00",
+  "id": "cf38f2cd7d2cb40d",
+  "titulo_norm": "la última misa de león xiv pausa la interna massa kicillof máximo kirchner y más figuras coincidieron en luján",
+  "resumen": "Dirigentes del peronismo, entre ellos Massa, Kicillof y Máximo Kirchner, se reunieron frente a la Basílica de Luján para la última misa de León XIV en Argentina, lo que pausó momentáneamente la interna del espacio. Massa aparece como uno más de los líderes presentes, sin crítica ni apoyo explícito.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-11T14:43:20+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "NewsDigitales",
+  "autor": "NewsDigitales",
+  "tipo": "nota",
+  "titulo": "Kicillof, Máximo y Massa coincidieron en Luján por la misa de León XIV",
+  "texto": "Los dirigentes del peronismo participaron de la última misa del Papa en la Argentina, en medio de la interna del PJ.",
+  "url": "https://www.newsdigitales.com/nota/349767/kicillof-maximo-y-massa-coincidieron-en-lujan-por-la-misa-de-leon-xiv/",
+  "publicado": "2026-11-11T14:30:27+00:00",
+  "id": "26c0b782f8885ce2",
+  "titulo_norm": "kicillof máximo y massa coincidieron en luján por la misa de león xiv",
+  "resumen": "Kicillof, Máximo y Massa, dirigentes del peronismo, participaron en Luján de la última misa del Papa León XIV en Argentina, en medio de la interna del PJ. Massa figura como asistente a un acto religioso, sin declaraciones ni posicionamiento político reportado.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-11T14:43:20+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "La Voz del Interior",
   "autor": "La Voz del Interior",
