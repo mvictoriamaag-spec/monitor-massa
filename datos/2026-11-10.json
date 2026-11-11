@@ -1,6 +1,22 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "ReconquistaHOY",
+  "autor": "ReconquistaHOY",
+  "tipo": "nota",
+  "titulo": "\"Cachi\" Martínez analizó el futuro del peronismo. Habló de una posible candidatura de Massa y planteó una interna con Kicillof",
+  "texto": "",
+  "url": "https://www.reconquistahoy.com/93317-cachi-martinez-analizo-el-futuro-del-peronismo-hablo-de-una-posible-candidatura-de-massa-y-planteo-una-interna-con-kicillof",
+  "publicado": "2026-11-11T02:32:01+00:00",
+  "id": "3a85cc1ca9a4f724",
+  "titulo_norm": "cachi martínez analizó el futuro del peronismo habló de una posible candidatura de massa y planteó una interna con kicil",
+  "resumen": "El dirigente Cachi Martínez analiza el futuro del peronismo y menciona una posible candidatura de Massa, además de una eventual interna con Kicillof. Massa aparece como posible candidato, no como protagonista de una acción concreta.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-11T02:38:46+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "En Agenda",
   "autor": "En Agenda",
   "tipo": "nota",
