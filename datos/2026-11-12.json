@@ -16,6 +16,22 @@
   "recolectado": "2026-11-12T16:08:05+00:00"
  },
  {
+  "plataforma": "portal",
+  "fuente": "Visión Política",
+  "autor": "Visión Política",
+  "tipo": "nota",
+  "titulo": "Kicillof, arrinconado: Massa y Máximo le frenan la ley de reelecciones",
+  "texto": "El Frente Renovador y La Cámpora bloquean la reforma que habilita reelecciones de intendentes",
+  "url": "https://visionpolitica.com.ar/nacionales/kicillof--arrinconado--massa-y-maximo-le-frenan-la-ley-de-reelecciones_a6af4b3bf696ebfa450f0a55f",
+  "publicado": "2026-11-12T12:30:00+00:00",
+  "id": "782b890905b7901c",
+  "titulo_norm": "kicillof arrinconado massa y máximo le frenan la ley de reelecciones",
+  "resumen": "Nota de Visión Política que describe cómo el Frente Renovador de Sergio Massa y La Cámpora, liderada por Máximo Kirchner, bloquean la reforma que habilitaría reelecciones de intendentes, dejando a Kicillof en una posición complicada.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-12T17:58:19+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "Tiempo de San Juan",
   "autor": "Tiempo de San Juan",
