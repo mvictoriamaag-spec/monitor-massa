@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "interior",
+  "fuente": "El Liberal",
+  "autor": "El Liberal",
+  "tipo": "nota",
+  "titulo": "Massa destacó la visita del papa León XIV a la Argentina: \"Un día histórico\"",
+  "texto": "El dirigente pol&iacute;tico se expres&oacute; en sus redes sociales luego de la multitudinaria misa encabezada por el Sumo Pont&iacute;fice en Luj&aacute;n. Destac&oacute; los mensajes que dej&oacute; durante su visita y agradeci&oacute; el afecto que transmiti&oacute; al pueblo argentino.",
+  "url": "https://www.elliberal.com.ar/amp/2026/11/11/97728-massa-destaco-la-visita-del-papa-leon-xiv-a-la-argentina--un-dia-historico.html",
+  "publicado": "2026-11-12T01:47:21+00:00",
+  "id": "d3338bf6d22894e4",
+  "titulo_norm": "massa destacó la visita del papa león xiv a la argentina un día histórico",
+  "resumen": "Sergio Massa celebró en sus redes sociales la visita del papa León XIV a la Argentina y, tras la misa multitudinaria en Luján, la calificó como un \"día histórico\". Agradeció el afecto transmitido al pueblo argentino.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-12T02:42:20+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "TN",
   "autor": "TN",
