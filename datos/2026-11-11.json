@@ -16,6 +16,22 @@
   "recolectado": "2026-11-12T02:42:20+00:00"
  },
  {
+  "plataforma": "portal",
+  "fuente": "Flipr.news",
+  "autor": "Flipr.news",
+  "tipo": "nota",
+  "titulo": "La última misa de León XIV: Massa, Kicillof, Máximo e intendentes coincidieron en la Basílica de Luján",
+  "texto": "Ante las escalinatas de la Basílica, el Sumo Pontífice encabezó su despedida del país en una multitudinaria ceremonia religiosa.",
+  "url": "https://flipr.com.ar/buenos-aires/bsasnoticia/la-ultima-misa-de-leon-xiv-massa-kicillof-maximo-e-intendentes-coincidieron-en-la-basilica-de-lujan/",
+  "publicado": "2026-11-12T01:37:52+00:00",
+  "id": "d3a8bf306a70ea2e",
+  "titulo_norm": "la última misa de león xiv massa kicillof máximo e intendentes coincidieron en la basílica de luján",
+  "resumen": "Sergio Massa, Axel Kicillof y Máximo asistieron a la última misa que celebró el Papa León XIV en la Basílica de Luján, durante su despedida del país. La nota registra la presencia de dirigentes políticos en la ceremonia multitudinaria.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-12T16:08:05+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "TN",
   "autor": "TN",

@@ -1,6 +1,22 @@
 [
  {
   "plataforma": "interior",
+  "fuente": "Los Andes",
+  "autor": "Los Andes",
+  "tipo": "nota",
+  "titulo": "Kast, en modo Massa: congelará los precios de combustibles en Chile hasta febrero tras las protestas",
+  "texto": "El presidente chileno busca oxígeno tras los bloqueos de los camioneros en las rutas y el descontento de la clase media. Además, revertirá la última suba anunciada.",
+  "url": "https://www.losandes.com.ar/mundo/kast-modo-massa-congelara-los-precios-combustibles-chile-febrero-las-protestas-n6013994",
+  "publicado": "2026-11-12T15:24:00+00:00",
+  "id": "f89b125017d2ed5f",
+  "titulo_norm": "kast en modo massa congelará los precios de combustibles en chile hasta febrero tras las protestas",
+  "resumen": "Nota sobre el presidente chileno Kast, cuya medida de congelar precios de combustibles tras las protestas de camioneros se titula \"en modo Massa\", en alusión a las medidas de control de precios asociadas al dirigente argentino. Revertirá la última suba anunciada.",
+  "relevante": 0,
+  "resumen_ia": true,
+  "recolectado": "2026-11-12T16:08:05+00:00"
+ },
+ {
+  "plataforma": "interior",
   "fuente": "Tiempo de San Juan",
   "autor": "Tiempo de San Juan",
   "tipo": "nota",
@@ -30,6 +46,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-12T12:52:04+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "diariolavanguardia.com",
+  "autor": "diariolavanguardia.com",
+  "tipo": "nota",
+  "titulo": "CFK, Axel Kicillof, Sergio Massa y otros referentes del PJ celebraron el triunfo electoral de Lula da Silva",
+  "texto": "",
+  "url": "https://www.diariolavanguardia.com/nacionales/20520-cfk-axel-kicillof-sergio-massa-y-otros-referentes-del-pj-celebraron-el-triunfo-electoral-de-lula-da-silva/",
+  "publicado": "2026-11-12T03:47:22+00:00",
+  "id": "c1560ed9e5b822e0",
+  "titulo_norm": "cfk axel kicillof sergio massa y otros referentes del pj celebraron el triunfo electoral de lula da silva",
+  "resumen": "Referentes del PJ, entre ellos Cristina Fernández de Kirchner, Axel Kicillof y Sergio Massa, celebraron el triunfo electoral de Lula da Silva en Brasil. Massa aparece como uno de los dirigentes que expresaron su celebración.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-12T16:08:05+00:00"
  },
  {
   "plataforma": "portal",
