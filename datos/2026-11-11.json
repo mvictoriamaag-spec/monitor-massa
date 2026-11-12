@@ -128,6 +128,22 @@
   "recolectado": "2026-11-11T21:55:28+00:00"
  },
  {
+  "plataforma": "portal",
+  "fuente": "El retrato de Hoy",
+  "autor": "El retrato de Hoy",
+  "tipo": "nota",
+  "titulo": "Axel Kicillof, Máximo Kirchner y Sergio Massa dejaron de lado las diferencia y fueron juntos a Luján",
+  "texto": "<p>Este miércoles en Luján se concentraron las principales figuras del peronismo, en medio de las diferencias internas que atraviesan al espacio justicialista. Con el gobernador Axel Kicillof, el diputad</p>",
+  "url": "https://elretratodehoy.com.ar/2026/11/11/axel-kicillof-maximo-kirchner-y-sergio-massa-dejaron-de-lado-las-diferencia-y-fueron-juntos-a-lujan/",
+  "publicado": "2026-11-11T20:14:44+00:00",
+  "id": "9ee37dbc2ec520d2",
+  "titulo_norm": "axel kicillof máximo kirchner y sergio massa dejaron de lado las diferencia y fueron juntos a luján",
+  "resumen": "Nota que informa que Axel Kicillof, Máximo Kirchner y Sergio Massa dejaron de lado sus diferencias internas y asistieron juntos a Luján, donde se concentraron figuras principales del peronismo.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-12T06:41:11+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "Info del Estero",
   "autor": "Info del Estero",
