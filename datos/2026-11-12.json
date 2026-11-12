@@ -1,5 +1,37 @@
 [
  {
+  "plataforma": "interior",
+  "fuente": "Tiempo de San Juan",
+  "autor": "Tiempo de San Juan",
+  "tipo": "nota",
+  "titulo": "El Frente Renovador se prepara para 2027: qué busca el espacio de Sergio Massa en San Juan",
+  "texto": "Gabriel Castro contó cómo trabajan para fortalecer el partido en toda la provincia, qué lugar podría ocupar Franco Aranda y cuáles son las expectativas del espacio para las próximas elecciones.",
+  "url": "https://www.tiempodesanjuan.com/politica/el-frente-renovador-se-prepara-para-2027-que-busca-el-espacio-de-sergio-massa-en-san-juan_1794484323",
+  "publicado": "2026-11-12T11:52:03+00:00",
+  "id": "939bd1a261224478",
+  "titulo_norm": "el frente renovador se prepara para 2027 qué busca el espacio de sergio massa en san juan",
+  "resumen": "Gabriel Castro explica cómo el Frente Renovador busca fortalecerse en San Juan de cara a 2027. Aborda el posible rol de Franco Aranda y las expectativas del espacio de Sergio Massa.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-12T12:52:04+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Bardeo.news",
+  "autor": "Bardeo.news",
+  "tipo": "nota",
+  "titulo": "Tras la foto de unidad por el Papa, vuelven las internas entre Kicillof y Massa por las reelecciones de los intendentes",
+  "texto": "El gobernador busca tirar abajo la ley impulsada por el massismo y el PRO en 2016 antes de fin de año",
+  "url": "https://bardeo.news/politica/tras-la-foto-de-unidad-por-el-papa--vuelven-las-internas-entre-kicillof-y-massa-por-las-reelecciones-de-los-intendentes_a6af5a0e4d5fb7942a08f48ee",
+  "publicado": "2026-11-12T11:25:34+00:00",
+  "id": "1b52e2aaff85fc84",
+  "titulo_norm": "tras la foto de unidad por el papa vuelven las internas entre kicillof y massa por las reelecciones de los intendentes",
+  "resumen": "Nueva tensión interna entre Kicillof y Massa por la reelección de intendentes. El gobernador busca derogar antes de fin de año una ley de 2016 impulsada por el massismo y el PRO.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-12T12:52:04+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "Diario Hoy En la noticia",
   "autor": "Diario Hoy En la noticia",
@@ -14,5 +46,21 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-12T11:46:45+00:00"
+ },
+ {
+  "plataforma": "nacional",
+  "fuente": "Ámbito",
+  "autor": "Ámbito",
+  "tipo": "nota",
+  "titulo": "Charlas de quincho (Parte II, laicos): Caputo sin milagros, gobernadores rumbo a 2027, sorpresas en universidades y un cumpleaños transversal",
+  "texto": "Los anuncios de Caputo ante una industria que reclama más. Cruces con gobernadores por los impuestos y la coparticipación. Cornejo mueve fichas para su sucesión. Consultores, cafés y especulaciones sobre Bullrich, Massa y Macri. Cócteles financieros con la mira en 2027. Una V inesperada en la UTN y derrotas radicales en La Plata. El PRO reordena sus filas. Moreau reunió a radicales y peronistas en un homenaje con aroma a reencuentro.",
+  "url": "https://www.ambito.com/politica/charlas-quincho-parte-ii-laicos-caputo-milagros-gobernadores-rumbo-2027-sorpresas-universidades-y-un-cumpleanos-transversal-n6343381",
+  "publicado": "2026-11-12T03:00:00+00:00",
+  "id": "e1a0fac61b3a95fa",
+  "titulo_norm": "charlas de quincho parte ii laicos caputo sin milagros gobernadores rumbo a 2027 sorpresas en universidades y un cumplea",
+  "resumen": "Columna política sobre el gobierno de Caputo, los cruces con gobernadores y las jugadas rumbo a 2027. Menciona a Massa en especulaciones junto a Bullrich y Macri sobre candidaturas futuras.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-12T12:52:04+00:00"
  }
 ]
