@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "nacional",
+  "fuente": "Infobae",
+  "autor": "Infobae",
+  "tipo": "nota",
+  "titulo": "Julio Bárbaro: “Nunca pude lograr que Francisco y Néstor Kirchner se dieran la mano”",
+  "texto": "En diálogo con Infobae a la Tarde, el exdiputado justicialista repasó su vínculo con el pontífice, analizó las divisiones de la política argentina y reveló detalles de una gestión para concretar una audiencia con Sergio Massa",
+  "url": "https://www.infobae.com/politica/2026/11/12/julio-barbaro-nunca-pude-lograr-que-francisco-y-nestor-kirchner-se-dieran-la-mano/",
+  "publicado": "2026-11-12T19:50:59+00:00",
+  "id": "d82a716650629bf4",
+  "titulo_norm": "julio bárbaro nunca pude lograr que francisco y néstor kirchner se dieran la mano",
+  "resumen": "En una entrevista con Infobae a la Tarde, el exdiputado justicialista Julio Bárbaro repasa su vínculo con el papa Francisco, las divisiones de la política argentina y gestiones para concretar una audiencia con Sergio Massa.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-12T20:31:29+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "Los Andes",
   "autor": "Los Andes",
