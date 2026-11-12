@@ -368,6 +368,22 @@
   "recolectado": "2026-11-11T15:29:26+00:00"
  },
  {
+  "plataforma": "interior",
+  "fuente": "Diario Jornada",
+  "autor": "Diario Jornada",
+  "tipo": "nota",
+  "titulo": "Kicillof, Máximo y Massa coincidieron en la misa de León XIV",
+  "texto": "La interna del Partido Justicialista se trasladó este miércoles a la ciudad de Luján, donde referentes de los distintos sectores coincidieron para participar de la misa del papa León XIV en el marco del cierre de su gira por la Argentina.",
+  "url": "https://www.diariojornada.com.ar/426883/politica/kicillof_maximo_y_massa_coincidieron_en_la_misa_de_leon_xiv",
+  "publicado": "2026-11-11T14:47:00+00:00",
+  "id": "38a9701238e1764e",
+  "titulo_norm": "kicillof máximo y massa coincidieron en la misa de león xiv",
+  "resumen": "Crónica sobre la presencia de Sergio Massa, junto a Kicillof y Máximo, en la misa del papa León XIV en Luján, durante su gira por Argentina. Muestra la coincidencia de referentes de distintos sectores de la interna del PJ en ese acto.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-12T14:06:56+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "Tendencia de Noticias",
   "autor": "Tendencia de Noticias",
