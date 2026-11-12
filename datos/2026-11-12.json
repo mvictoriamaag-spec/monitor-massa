@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "interior",
+  "fuente": "Agencia NOVA",
+  "autor": "Agencia NOVA",
+  "tipo": "nota",
+  "titulo": "La tregua de cristal y el pacto de los 992 años: Kicillof, Massa y una guerra para atornillar a los caciques al poder",
+  "texto": "La postal de unidad y concordia que el gobernador Axel Kicillof y Sergio Massa sobreactuaron en Luján ante la atenta mirada del mismísimo papa León XIV duró lo que un suspiro. La bendición papal quedó rápidamente en el olvido, aplastada por una brutal disputa de poder territorial que amenaza con hacer volar por los aires los últimos puentes del peronismo bonaerense. ¿El botín en juego? La polémica restitución de las reelecciones indefinidas para los barones del Conurbano y los intendentes del interior de la Provincia.",
+  "url": "https://www.agencianova.com/nota.asp?n=2026_11_12&id=175186&id_tiponota=4",
+  "publicado": "2026-11-12T21:56:45+00:00",
+  "id": "432190c005b55af1",
+  "titulo_norm": "la tregua de cristal y el pacto de los 992 años kicillof massa y una guerra para atornillar a los caciques al poder",
+  "resumen": "Nota que describe la unidad aparente de Kicillof y Massa en Luján, ante el papa León XIV, y la disputa posterior por restituir las reelecciones indefinidas de intendentes y barones del Conurbano. Massa figura como actor de la interna peronista bonaerense.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-12T22:15:16+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Infobae",
   "autor": "Infobae",
