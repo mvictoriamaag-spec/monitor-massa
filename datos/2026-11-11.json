@@ -32,6 +32,22 @@
   "recolectado": "2026-11-12T01:57:07+00:00"
  },
  {
+  "plataforma": "portal",
+  "fuente": "Data Conurbano / NET",
+  "autor": "Data Conurbano / NET",
+  "tipo": "nota",
+  "titulo": "\"Avellaneda Renovadora\": el nuevo monobloque con el que \"Pepo\" Díaz sella su acercamiento a filas de Sergio Massa",
+  "texto": "\"Avellaneda Renovadora\": el nuevo monobloque con el que \"Pepo\" Díaz sella su acercamiento a las filas de Sergio Massa - Sin Retorno",
+  "url": "https://dataconurbano.net/sinretorno/pepo-diaz/",
+  "publicado": "2026-11-12T01:08:16+00:00",
+  "id": "4fd10205566bdf3d",
+  "titulo_norm": "avellaneda renovadora el nuevo monobloque con el que pepo díaz sella su acercamiento a filas de sergio massa",
+  "resumen": "\"Pepo\" Díaz crea el monobloque \"Avellaneda Renovadora\" para sellar su acercamiento a las filas de Sergio Massa. Es una noticia política que muestra un nuevo alineamiento con el dirigente.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-12T05:40:01+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "Cuestión Entrerriana",
   "autor": "Cuestión Entrerriana",
