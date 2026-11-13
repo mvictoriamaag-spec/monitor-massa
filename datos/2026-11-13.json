@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "La Letra Chica",
+  "autor": "La Letra Chica",
+  "tipo": "nota",
+  "titulo": "Massa y Ferraresi coincidieron en medio de las tensiones por las re-re y el armado del PJ",
+  "texto": "El líder del Frente Renovador y el intendente de Avellaneda compartieron una actividad en la UBA. La postal se produjo mientras persisten las diferen",
+  "url": "https://laletrachica.com.ar/nota/26918/massa-y-ferraresi-coincidieron-en-medio-de-las-tensiones-por-las-re-re-y-el-armado-del-pj/",
+  "publicado": "2026-11-13T14:29:53+00:00",
+  "id": "ad9330af60307e82",
+  "titulo_norm": "massa y ferraresi coincidieron en medio de las tensiones por las re re y el armado del pj",
+  "resumen": "Massa, líder del Frente Renovador, y Ferraresi, intendente de Avellaneda, compartieron una actividad en la UBA mientras persisten tensiones por la re-reelección y el armado del PJ.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-13T19:06:51+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "La Nación",
   "autor": "La Nación",
