@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "interior",
+  "fuente": "Info del Estero",
+  "autor": "Info del Estero",
+  "tipo": "nota",
+  "titulo": "Sergio Massa recibió a Pablo Mirolo y hablaron sobre la actualidad de Argentina",
+  "texto": "El exintendente de La Banda compartió en sus redes sociales los detalles del encuentro.",
+  "url": "https://infodelestero.com/2026/11/12/sergio-massa-recibio-a-pablo-mirolo-y-hablaron-sobre-la-actualidad-de-argentina",
+  "publicado": "2026-11-13T02:48:45+00:00",
+  "id": "1eef9a4ad620ac1b",
+  "titulo_norm": "sergio massa recibió a pablo mirolo y hablaron sobre la actualidad de argentina",
+  "resumen": "Sergio Massa recibió a Pablo Mirolo y conversaron sobre la actualidad del país. El exintendente de La Banda difundió los detalles del encuentro en sus redes sociales. Es una noticia de encuentro político sin crítica ni apoyo explícito.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-13T03:17:42+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Página/12",
   "autor": "Página/12",
