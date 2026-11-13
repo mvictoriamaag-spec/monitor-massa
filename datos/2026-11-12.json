@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "nacional",
+  "fuente": "Página/12",
+  "autor": "Página/12",
+  "tipo": "nota",
+  "titulo": "El trabajo por la unidad del peronismo",
+  "texto": "El senador por Tucumán, Juan Manzur, mantiene reuniones con Cristina Kirchner, Sergio Massa y Axel Kicillof.",
+  "url": "https://www.pagina12.com.ar/2026/11/13/el-trabajo-por-la-unidad-del-peronismo/",
+  "publicado": "2026-11-13T02:03:16+00:00",
+  "id": "2e254dba1242f13b",
+  "titulo_norm": "el trabajo por la unidad del peronismo",
+  "resumen": "Nota sobre las reuniones del senador Juan Manzur con Cristina Kirchner, Sergio Massa y Axel Kicillof, en el marco del trabajo por la unidad del peronismo. Massa aparece como uno de los dirigentes con los que Manzur se reúne, sin declaraciones propias.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-13T02:28:15+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "Agencia NOVA",
   "autor": "Agencia NOVA",
@@ -46,6 +62,22 @@
   "relevante": 0,
   "resumen_ia": true,
   "recolectado": "2026-11-12T16:08:05+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Prensa Mercosur",
+  "autor": "Prensa Mercosur",
+  "tipo": "nota",
+  "titulo": "Postales de unidad en Luján: Massa, Kicillof y Kirchner compartieron la despedida del papa",
+  "texto": "La reciente visita de León XIV a nuestro país convocó a millones de personas y motivó la reacción de Sergio Massa, quien se sumó a la ola de dirigentes que analizaron el acontecimiento tras calificar… | Noticias del MERCOSUR: política, economía y actualidad regional del Prensa Mercosur.",
+  "url": "https://prensamercosur.org/2026/11/12/postales-de-unidad-en-lujan-massa-kicillof-y-kirchner-compartieron-la-despedida-del-papa/",
+  "publicado": "2026-11-12T13:10:52+00:00",
+  "id": "2a6e97a68363bfb1",
+  "titulo_norm": "postales de unidad en luján massa kicillof y kirchner compartieron la despedida del papa",
+  "resumen": "Crónica sobre la unidad visible de Massa, Kicillof y Kirchner tras la visita del papa León XIV a Argentina. Massa reaccionó al acontecimiento, que convocó a millones de personas, y analizó la visita junto a otros dirigentes.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-13T02:28:15+00:00"
  },
  {
   "plataforma": "portal",
