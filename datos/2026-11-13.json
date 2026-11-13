@@ -1,6 +1,38 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "NOVA Bonaerense",
+  "autor": "NOVA Bonaerense",
+  "tipo": "nota",
+  "titulo": "Massa, \"el arquitecto\", ya diseña su tablero político para el 2027",
+  "texto": "La articulación entre los principales referentes de la oposición y la comitiva brasileña vinculada a la campaña de Luiz Inácio Lula da Silva, integrada por el diputado André Janones y los estrategas de comunicación Chico Kertész y Rafael Marroquim, marca un punto de inflexión en la estrategia del peronismo de cara a 2027.",
+  "url": "https://www.novabonaerense.com/nota.asp?n=2026_11_13&id=91695&id_tiponota=51",
+  "publicado": "2026-11-13T20:27:18+00:00",
+  "id": "8fdb2b4f07a25e4a",
+  "titulo_norm": "massa el arquitecto ya diseña su tablero político para el 2027",
+  "resumen": "Nota que presenta a Massa, al que llama \"el arquitecto\", armando su tablero político rumbo a 2027. Destaca su articulación con referentes opositores y una comitiva brasileña ligada a la campaña de Lula, que marcaría un punto de inflexión para el peronismo.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-13T20:48:44+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Cronos noticias",
+  "autor": "Cronos noticias",
+  "tipo": "nota",
+  "titulo": "Un evento juntó a Massa y a Ferraresi, en medio de las diferencias por las reelecciones ilimitadas de intendentes",
+  "texto": "El exjefe comunal de Avellaneda manifestó estar a favor de modificar la ley que limita los mandatos en los Ejecutivos municipales, mientras que desde",
+  "url": "https://infocronos.com.ar/nota/58853/un-evento-junto-a-massa-y-a-ferraresi-en-medio-de-las-diferencias-por-las-reelecciones-ilimitadas-de-intendentes/",
+  "publicado": "2026-11-13T19:22:56+00:00",
+  "id": "41bb8d73ceaa1181",
+  "titulo_norm": "un evento juntó a massa y a ferraresi en medio de las diferencias por las reelecciones ilimitadas de intendentes",
+  "resumen": "Massa y Ferraresi compartieron un evento en medio de tensiones por la reelección indefinida de intendentes. Ferraresi, exintendente de Avellaneda, se pronunció a favor de modificar la ley que limita los mandatos municipales.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-13T20:48:44+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "La Letra Chica",
   "autor": "La Letra Chica",
   "tipo": "nota",
