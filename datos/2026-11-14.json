@@ -1,6 +1,22 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "Radio LV11",
+  "autor": "Radio LV11",
+  "tipo": "nota",
+  "titulo": "Tablero electoral en movimiento: la gira federal de Axel Kicillof, la apuesta digital de Sergio Massa y el planteo de Patricia Bullrich a Javier Milei",
+  "texto": "Tras la visita del papa León XIV, el gobernador bonaerense proyecta recorrer nueve provincias. En paralelo, el Frente Renovador refuerza su presencia en redes y crecen las incógnitas sobre el futuro de las",
+  "url": "https://www.radiolv11.com.ar/noticia/tablero-electoral-en-movimiento-la-gira-federal-de-axel-kicillof-la-apuesta-digital-de-sergio-massa-y-el-planteo-de-patricia-bullrich-a-javier-milei",
+  "publicado": "2026-11-14T23:22:00+00:00",
+  "id": "e411a2ee9403e1f9",
+  "titulo_norm": "tablero electoral en movimiento la gira federal de axel kicillof la apuesta digital de sergio massa y el planteo de patr",
+  "resumen": "Nota sobre el tablero electoral que menciona la gira federal de Axel Kicillof por nueve provincias tras la visita del papa León XIV. Destaca la apuesta digital de Sergio Massa, cuyo Frente Renovador refuerza su presencia en redes.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-14T23:31:14+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "NOVA Bonaerense",
   "autor": "NOVA Bonaerense",
   "tipo": "nota",
