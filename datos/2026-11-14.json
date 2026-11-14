@@ -1,6 +1,22 @@
 [
  {
   "plataforma": "interior",
+  "fuente": "La Plata 1",
+  "autor": "La Plata 1",
+  "tipo": "nota",
+  "titulo": "Kicillof se queda sin margen: la estrategia de Milei que podría obligarlo a negociar con Cristina y Massa",
+  "texto": "El gobernador bonaerense enfrenta una definición clave para sus aspiraciones nacionales. Si Milei logra eliminar las primarias, perdería la posibilidad de...",
+  "url": "https://www.laplata1.com/2026-11-14/kicillof-se-queda-sin-margen-la-estrategia-de-milei-que-podria-obligarlo-a-negociar-con-cristina-y-massa-127142/",
+  "publicado": "2026-11-14T12:41:00+00:00",
+  "id": "73749ac1bb62a08d",
+  "titulo_norm": "kicillof se queda sin margen la estrategia de milei que podría obligarlo a negociar con cristina y massa",
+  "resumen": "Analiza cómo la estrategia de Milei para eliminar las primarias podría obligar a Kicillof a negociar con Cristina Fernández y Sergio Massa de cara a sus aspiraciones nacionales. Massa aparece como un actor con el que el gobernador bonaerense tendría que pactar.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-14T12:57:07+00:00"
+ },
+ {
+  "plataforma": "interior",
   "fuente": "Río Negro",
   "autor": "Río Negro",
   "tipo": "nota",
