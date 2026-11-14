@@ -1,5 +1,37 @@
 [
  {
+  "plataforma": "nacional",
+  "fuente": "TN",
+  "autor": "TN",
+  "tipo": "nota",
+  "titulo": "El plan electoral de Kicillof tras la visita del Papa, la apuesta presidencial de Massa y la propuesta de Bullrich a Milei",
+  "texto": "El gobernador bonaerense busca capitalizar su foto con León XIV y prepara una recorrida por nueve provincias. El líder del Frente Renovador reforzará su presencia en redes, mientras crecen las dudas sobre cómo se definirán las candidaturas.",
+  "url": "https://tn.com.ar/politica/2026/11/14/el-plan-electoral-de-kicillof-tras-la-visita-del-papa-la-apuesta-presidencial-de-massa-y-la-propuesta-de-bullrich-a-milei/",
+  "publicado": "2026-11-14T17:37:32+00:00",
+  "id": "d33f402187f5a503",
+  "titulo_norm": "el plan electoral de kicillof tras la visita del papa la apuesta presidencial de massa y la propuesta de bullrich a mile",
+  "resumen": "El gobernador Kicillof busca capitalizar su encuentro con el Papa León XIV y prepara una gira por nueve provincias. Se menciona la apuesta presidencial de Massa, quien reforzará su presencia en redes, en medio de dudas sobre las candidaturas.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-14T17:43:51+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Diario Popular",
+  "autor": "Diario Popular",
+  "tipo": "nota",
+  "titulo": "Tierra del Fuego: Alejandro Deanes asume la conducciòn del Frente Renovador de Massa",
+  "texto": "Como parte de su reorganizaciòn federal, el parlamentario del Mercosur fue elegido como presidente del partido en la provincia. Destacó a Sergio Massa como referente nacional.",
+  "url": "https://www.diariopopular.com.ar/politica/tierra-del-fuego-alejandro-deanes-asume-la-conduccion-del-frente-renovador-massa-n929259",
+  "publicado": "2026-11-14T17:23:00+00:00",
+  "id": "2865f16a70442a28",
+  "titulo_norm": "tierra del fuego alejandro deanes asume la conducci n del frente renovador de massa",
+  "resumen": "Alejandro Deanes asumió la presidencia del Frente Renovador en Tierra del Fuego como parte de la reorganización federal del partido. Deanes destacó a Sergio Massa como referente nacional.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-14T17:43:51+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "La Plata 1",
   "autor": "La Plata 1",
