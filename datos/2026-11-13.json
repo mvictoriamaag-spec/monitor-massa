@@ -17,6 +17,22 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "TradingView",
+  "autor": "TradingView",
+  "tipo": "nota",
+  "titulo": "Gli investitori accorrono in massa all'IPO di Anthropic, ma mettono in dubbio la sostenibilità del vantaggio competitivo nell'IA",
+  "texto": "di Milana Vinn, Echo Wang e Krystal HuL’interesse degli investitori istituzionali per l’offerta pubblica iniziale (IPO) di Anthropic sta superando quello registrato nei primi giorni del roadshow di SpaceX NASDAQ:SPCX, secondo quanto riferito da due persone a conoscenza delle offerte delle due socie…",
+  "url": "https://es.tradingview.com/news/reuters.com,2026:newsml_L5N46U2QU:0/",
+  "publicado": "2026-11-13T22:00:39+00:00",
+  "id": "0e7e8c221ef3d6da",
+  "titulo_norm": "gli investitori accorrono in massa all ipo di anthropic ma mettono in dubbio la sostenibilit del vantaggio competitivo n",
+  "resumen": "Nota en italiano sobre el interés de inversores institucionales en la OPI de Anthropic, que supera al registrado en el roadshow de SpaceX. La palabra 'massa' aparece como 'en masa', no como referencia a Sergio Massa.",
+  "relevante": 0,
+  "resumen_ia": true,
+  "recolectado": "2026-11-14T15:46:15+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "NOVA Bonaerense",
   "autor": "NOVA Bonaerense",
   "tipo": "nota",
