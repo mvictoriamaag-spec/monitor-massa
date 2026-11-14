@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "NOVA Bonaerense",
+  "autor": "NOVA Bonaerense",
+  "tipo": "nota",
+  "titulo": "El FUP acompañó a Massa en la inauguración del paso bajo nivel \"Campeones del Mundo\" en San Fernando",
+  "texto": "Este viernes 19 de mayo militantes del Frente Unidad Peronista (FUP), cuyo conductor nacional es Walter Ojeda, participaron de la inauguración del Octavo túnel de San Fernando Campeones del Mundo.",
+  "url": "https://www.novabonaerense.com/nota.asp?n=2026_11_14&id=33094&id_tiponota=4",
+  "publicado": "2026-11-14T18:15:17+00:00",
+  "id": "21cdeb68b3176457",
+  "titulo_norm": "el fup acompañó a massa en la inauguración del paso bajo nivel campeones del mundo en san fernando",
+  "resumen": "Militantes del Frente Unidad Peronista, liderados a nivel nacional por Walter Ojeda, acompañaron a Massa en la inauguración del octavo túnel \"Campeones del Mundo\" en San Fernando. Noticia de obra pública y actividad política.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-14T22:18:08+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "Diario Panorama",
   "autor": "Diario Panorama",
