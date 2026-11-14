@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "interior",
+  "fuente": "Diario Panorama",
+  "autor": "Diario Panorama",
+  "tipo": "nota",
+  "titulo": "Tras su encuentro con el papa León XIV, Kicillof prepara su estrategia nacional junto a Massa y Bullrich",
+  "texto": "El gobernador bonaerense busca capitalizar su visita al Vaticano y prepara una recorrida por nueve provincias. Mientras tanto, Massa refuerza su presencia en redes y Bullrich presentó una propuesta a Milei.",
+  "url": "https://www.diariopanorama.com/noticia/573001/tras-encuentro-papa-leon-xiv-kicillof-prepara-estrategia-nacional-junto-massa-bullrich",
+  "publicado": "2026-11-14T17:54:24+00:00",
+  "id": "c8ca49dc7e5802a1",
+  "titulo_norm": "tras su encuentro con el papa león xiv kicillof prepara su estrategia nacional junto a massa y bullrich",
+  "resumen": "El gobernador bonaerense Kicillof busca capitalizar su visita al Vaticano con una recorrida por nueve provincias para armar su estrategia nacional, junto a Massa y Bullrich. Massa refuerza su presencia en redes sociales, mientras Bullrich presentó una propuesta a Milei.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-14T18:17:43+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "TN",
   "autor": "TN",
