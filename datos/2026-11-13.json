@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "nacional",
+  "fuente": "La Izquierda Diario",
+  "autor": "La Izquierda Diario",
+  "tipo": "nota",
+  "titulo": "José Luis Manzano, cercano a Milei, Massa y Kicillof, es uno de los dueños de Metrogas",
+  "texto": "El exfuncionario menemista hoy está cercano al gobernador bonaerense. Eterno amigo del poder, viene haciendo fortunas con Milei. Lo agradece aportando financieramente a la derechista Fundación Faro. Junto a Daniel Vila y Filiberti monopoliza la luz, el gas y el agua en el AMBA. Además, se quedó con Shell. Fue el empresario que más aportó para la venida del Papa a la Argentina.",
+  "url": "https://www.laizquierdadiario.com/Jose-Luis-Manzano-cercano-a-Milei-Massa-y-Kicillof-es-uno-de-los-duenos-de-Metrogas?amp=1",
+  "publicado": "2026-11-14T00:09:42+00:00",
+  "id": "618b96e622d57a57",
+  "titulo_norm": "josé luis manzano cercano a milei massa y kicillof es uno de los dueños de metrogas",
+  "resumen": "Nota crítica de La Izquierda Diario sobre el empresario José Luis Manzano, dueño de Metrogas y presentado como cercano a Milei, Massa y Kicillof. Massa aparece sólo como vínculo político del empresario, dentro de una denuncia al poder económico.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-14T02:39:11+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "NOVA Bonaerense",
   "autor": "NOVA Bonaerense",
