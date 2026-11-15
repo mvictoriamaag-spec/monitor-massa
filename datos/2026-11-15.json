@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "Radio Profesional 89.9",
+  "autor": "Radio Profesional 89.9",
+  "tipo": "nota",
+  "titulo": "Declararon inconstitucional la fórmula jubilatoria de Fernández, Cristina y Massa, provocó una pérdida del 46,83% en el poder adquisitivo de los pasivos",
+  "texto": "La Cámara Federal de la Seguridad Social ordenó recalcular los haberes de una jubilada al considerar que el sistema aplicado entre 2021 y 2024 no protegió sus ingresos frente a la inflación. El fal…",
+  "url": "https://fm899.com.ar/declararon-inconstitucional-la-formula-jubilatoria-de-fernandez-cristina-y-massa-provoco-una-perdida-del-4683-en-el-poder-adquisitivo-de-los-pasivos/",
+  "publicado": "2026-11-15T23:01:11+00:00",
+  "id": "c88fe7c31cd573bd",
+  "titulo_norm": "declararon inconstitucional la fórmula jubilatoria de fernández cristina y massa provocó una pérdida del 46 83 en el pod",
+  "resumen": "La Cámara Federal de la Seguridad Social declaró inconstitucional la fórmula jubilatoria aplicada entre 2021 y 2024, atribuida a Fernández, Cristina y Massa, y ordenó recalcular los haberes de una jubilada. Habría provocado una caída del 46,83% en el poder adquisitivo de los pasivos.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-15T23:35:16+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "Agenda Salta",
   "autor": "Agenda Salta",
