@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "interior",
+  "fuente": "Agenda Salta",
+  "autor": "Agenda Salta",
+  "tipo": "nota",
+  "titulo": "La decisión de Milei con las PASO, la jugada de Massa para enfrentar a Kicillof y el temor del Gobierno al efecto León XIV",
+  "texto": "Oficialismo y oposición se preguntan si el paso del Papa despertó demandas dormidas en medio de la recesión.",
+  "url": "https://www.agendasalta.com.ar/noticias/politica-1/la-decision-de-milei-con-las-paso-la-jugada-de-massa-para-enfrentar-a-kicillof-y-el-temor-del-gobierno-al-efecto-leon-xiv-72907",
+  "publicado": "2026-11-15T16:20:03+00:00",
+  "id": "0fe9eeae910c73c5",
+  "titulo_norm": "la decisión de milei con las paso la jugada de massa para enfrentar a kicillof y el temor del gobierno al efecto león xi",
+  "resumen": "Nota sobre la decisión de Milei respecto de las PASO y el temor oficialista al efecto del Papa León XIV en medio de la recesión. Massa aparece como protagonista de una estrategia para enfrentar a Kicillof.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-15T16:49:12+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Clarín",
   "autor": "Clarín",
