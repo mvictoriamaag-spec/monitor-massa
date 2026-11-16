@@ -161,6 +161,22 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "Diario Lo Nuestro",
+  "autor": "Diario Lo Nuestro",
+  "tipo": "nota",
+  "titulo": "El \"arquitecto\" Massa lanza la campaña en San Fernando",
+  "texto": "En el Día de la Militancia, 17 de noviembre, el conductor del Frente Renovador reunirá a la tropa en el teatro municipal Otamendi. Se espera la presencia de dirigentes como Sergio Uñac y Miguel Ángel Pichetto.Massa y su constante compromiso con el desarrollo productivo nacionalLa partida del Papa, el deterioro social y económico traducido en índices recesivos, y la esperanza de saberse portadores de una historia que podría despertar esperanza en almas desorientadas, convierten al peronismo en un",
+  "url": "https://www.diariolonuestro.com.ar/single-post/massa-lanza-la-campa%C3%B1a-en-san-fernando",
+  "publicado": "2026-11-16T12:28:11+00:00",
+  "id": "79a22874eca1716a",
+  "titulo_norm": "el arquitecto massa lanza la campaña en san fernando",
+  "resumen": "Diario Lo Nuestro informa que Sergio Massa, líder del Frente Renovador, lanzará su campaña en San Fernando el 17 de noviembre, en el teatro Otamendi, con Uñac y Pichetto como presencias esperadas. Destaca su compromiso productivo en un contexto de deterioro social y económico.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-16T19:27:29+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Ajuntament de Barcelona",
   "autor": "Ajuntament de Barcelona",
   "tipo": "nota",
