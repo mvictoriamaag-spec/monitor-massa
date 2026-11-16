@@ -1,6 +1,22 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "Prensa Libre Online",
+  "autor": "Prensa Libre Online",
+  "tipo": "nota",
+  "titulo": "Massa se mete en la negociación por las PASO con senadores del Norte Grande",
+  "texto": "El exministro Sergio Massa interviene en las conversaciones que mantienen legisladores que responden a gobernadores, en paralelo a las gestiones…",
+  "url": "https://prensalibreonline.com.ar/politica/massa-se-mete-en-la-negociacion-por-las-paso-con-senadores-del-norte-grande",
+  "publicado": "2026-11-16T15:50:34+00:00",
+  "id": "ef733f794b1d9494",
+  "titulo_norm": "massa se mete en la negociación por las paso con senadores del norte grande",
+  "resumen": "Nota que informa que el exministro Sergio Massa interviene en las conversaciones entre senadores del Norte Grande, vinculados a gobernadores, por las PASO. La mención es neutral y de carácter informativo sobre su rol en la negociación.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-16T16:01:27+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "La Tecla",
   "autor": "La Tecla",
   "tipo": "nota",
