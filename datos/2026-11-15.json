@@ -64,6 +64,22 @@
   "recolectado": "2026-11-15T16:49:12+00:00"
  },
  {
+  "plataforma": "portal",
+  "fuente": "NOVA Bonaerense",
+  "autor": "NOVA Bonaerense",
+  "tipo": "nota",
+  "titulo": "Massa, \"el arquitecto\", ya diseña su tablero político para el 2027",
+  "texto": "La articulación entre los principales referentes de la oposición y la comitiva brasileña vinculada a la campaña de Luiz Inácio Lula da Silva, integrada por el diputado André Janones y los estrategas de comunicación Chico Kertész y Rafael Marroquim, marca un punto de inflexión en la estrategia del peronismo de cara a 2027.",
+  "url": "https://www.novabonaerense.com/nota.asp?n=2026_11_15&id=91695&id_tiponota=51",
+  "publicado": "2026-11-15T15:35:00+00:00",
+  "id": "f16e683c33113745",
+  "titulo_norm": "massa el arquitecto ya diseña su tablero político para el 2027",
+  "resumen": "Nota de NOVA Bonaerense que describe a Massa como \"el arquitecto\" y analiza cómo diseña su tablero político de cara a 2027. Se detalla la articulación de la oposición con la comitiva brasileña vinculada a la campaña de Lula da Silva, marcando un punto de inflexión en la estrategia del peronismo.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-16T03:01:49+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Clarín",
   "autor": "Clarín",
