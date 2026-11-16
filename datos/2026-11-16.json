@@ -1,5 +1,37 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "Alternativa en Papel",
+  "autor": "Alternativa en Papel",
+  "tipo": "nota",
+  "titulo": "El Día de la Militancia reunirá a Sergio Massa y referentes del peronismo en el Teatro Otamendi de San Fernando",
+  "texto": "El encuentro se realizará este martes 17 de noviembre, en el marco del Día de",
+  "url": "https://alternativaenpapel.com.ar/2026/11/16/el-dia-de-la-militancia-reunira-a-sergio-massa-y-referentes-del-peronismo-en-el-teatro-otamendi-de-san-fernando/",
+  "publicado": "2026-11-16T14:22:04+00:00",
+  "id": "346fda02f887de49",
+  "titulo_norm": "el día de la militancia reunirá a sergio massa y referentes del peronismo en el teatro otamendi de san fernando",
+  "resumen": "Sergio Massa y referentes del peronismo se reunirán el martes 17 de noviembre en el Teatro Otamendi de San Fernando, en el marco del Día de la Militancia.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-16T14:31:19+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "El Ágora Digital",
+  "autor": "El Ágora Digital",
+  "tipo": "nota",
+  "titulo": "Massa no espera a CFK y preparara una candidatura presidencial alternativa a Kicillof",
+  "texto": "El Frente Renovador de Sergio Massa y el peronismo federal confluirán en un acto por el Día de la Militancia, que servirá para impulsar la figura del",
+  "url": "https://elagora.digital/argentina/sergio-massa-acuerdo-peronismo-federal-acto-candidatura/",
+  "publicado": "2026-11-16T14:19:22+00:00",
+  "id": "9d109c98a679f480",
+  "titulo_norm": "massa no espera a cfk y preparara una candidatura presidencial alternativa a kicillof",
+  "resumen": "El Frente Renovador de Sergio Massa y el peronismo federal se reunirán en un acto por el Día de la Militancia para impulsar una candidatura presidencial alternativa, sin esperar a Cristina Fernández de Kirchner.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-16T14:31:19+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "El Cronista",
   "autor": "El Cronista",
