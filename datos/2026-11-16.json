@@ -1,6 +1,22 @@
 [
  {
   "plataforma": "nacional",
+  "fuente": "La Nación",
+  "autor": "La Nación",
+  "tipo": "nota",
+  "titulo": "Massa confluye con el peronismo federal y toma forma una corriente interna para enfrentar a Kicillof",
+  "texto": "La convocatoria será el martes por el Día de la Militancia; de allí surgirá una foto con Pichetto, Natalia de la Sota y Zamora; también habrá intendentes que no siguen al gobernador y enviados del kirchnerismo",
+  "url": "https://www.lanacion.com.ar/politica/peronismo-massa-confluye-con-el-peronismo-federal-y-toma-forma-una-corriente-interna-para-enfrentar-nid16112026/",
+  "publicado": "2026-11-16T09:00:00+00:00",
+  "id": "21253198864f8e78",
+  "titulo_norm": "massa confluye con el peronismo federal y toma forma una corriente interna para enfrentar a kicillof",
+  "resumen": "Massa confluye con el peronismo federal y forma una corriente interna para enfrentar a Kicillof. Habrá una convocatoria el martes, Día de la Militancia, con Pichetto, Natalia de la Sota y Zamora, e intendentes que no siguen al gobernador.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-16T10:16:36+00:00"
+ },
+ {
+  "plataforma": "nacional",
   "fuente": "Ambito",
   "autor": "Ambito",
   "tipo": "nota",
