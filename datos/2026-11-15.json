@@ -1,6 +1,22 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "Que Pasa Web",
+  "autor": "Que Pasa Web",
+  "tipo": "nota",
+  "titulo": "El peronismo federal tendrá un gesto de apoyo a Sergio Massa en un acto en San Fernando",
+  "texto": "El encuentro será el martes 17 de noviembre, en el Teatro Otamendi, por el Día de la Militancia. Participarán dirigentes del espacio que integran Juan Manuel Olmos, Victoria Tolosa Paz y Guillermo Michel, intendentes de La Liga y referentes del kirchnerismo. La convocatoria busca consolidar un armado político de cara a las elecciones presidenciales de 2027, en el marco de la disputa con Axel Kicillof.",
+  "url": "https://www.quepasaweb.com.ar/el-peronismo-federal-tendra-un-gesto-de-apoyo-a-sergio-massa-en-un-acto-en-san-fernando/",
+  "publicado": "2026-11-15T23:50:26+00:00",
+  "id": "e52f3ebbaaaa6692",
+  "titulo_norm": "el peronismo federal tendrá un gesto de apoyo a sergio massa en un acto en san fernando",
+  "resumen": "Acto de apoyo del peronismo federal a Sergio Massa el martes 17 de noviembre en San Fernando, con dirigentes como Olmos, Tolosa Paz y Michel. Busca consolidar un armado político rumbo a 2027, en disputa con Axel Kicillof.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-16T00:31:59+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Radio Profesional 89.9",
   "autor": "Radio Profesional 89.9",
   "tipo": "nota",
