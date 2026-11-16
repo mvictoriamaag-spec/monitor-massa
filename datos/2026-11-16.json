@@ -1,6 +1,38 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "La Noticia Web",
+  "autor": "La Noticia Web",
+  "tipo": "nota",
+  "titulo": "Massa encabezará un acto por el Día de la Militancia en San Fernando con la presencia del Peronismo Federa y la Liga de Intendentesl",
+  "texto": "",
+  "url": "https://www.lanoticiaweb.com.ar/massa-encabezara-un-acto-por-el-dia-de-la-militancia-en-san-fernando-con-la-presencia-del-peronismo-federa-y-la-liga-de-intendentesl/",
+  "publicado": "2026-11-16T16:37:44+00:00",
+  "id": "a961aeaa98ef92a9",
+  "titulo_norm": "massa encabezará un acto por el día de la militancia en san fernando con la presencia del peronismo federa y la liga de ",
+  "resumen": "Massa encabezará un acto por el Día de la Militancia en San Fernando, con la participación del Peronismo Federal y la Liga de Intendentes.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-16T17:21:33+00:00"
+ },
+ {
+  "plataforma": "interior",
+  "fuente": "Diario Uno (Mendoza)",
+  "autor": "Diario Uno (Mendoza)",
+  "tipo": "nota",
+  "titulo": "Sergio Massa define su armado político para disputar la interna peronista",
+  "texto": "Sergio Massa encabezará un acto en San Fernando para unificar al peronismo y consolidar su estrategia política de cara a las elecciones presidenciales de 2027",
+  "url": "https://www.diariouno.com.ar/politica/sergio-massa-define-su-armado-politico-disputar-la-interna-peronista-n1616788",
+  "publicado": "2026-11-16T16:05:00+00:00",
+  "id": "24f7f39ca0133236",
+  "titulo_norm": "sergio massa define su armado político para disputar la interna peronista",
+  "resumen": "Massa define su armado político para disputar la interna peronista. Encabezará un acto en San Fernando para unificar al peronismo y consolidar su estrategia de cara a las presidenciales de 2027.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-16T17:21:33+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Prensa Libre Online",
   "autor": "Prensa Libre Online",
   "tipo": "nota",
@@ -110,6 +142,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-16T14:09:17+00:00"
+ },
+ {
+  "plataforma": "nacional",
+  "fuente": "Ámbito",
+  "autor": "Ámbito",
+  "tipo": "nota",
+  "titulo": "El peronismo federal y el Frente Renovador de Sergio Massa se juntan mientras se define el futuro de las PASO",
+  "texto": "Acto por el día de la Militancia pero sin la presencia de Sergio Massa, Axel Kicillof ni Máximo Kirchner. Sergio Uñac encabeza una actividad en Lobos.",
+  "url": "https://www.ambito.com/politica/el-peronismo-federal-y-el-frente-renovador-sergio-massa-se-juntan-mientras-se-define-el-futura-las-paso-n6345594",
+  "publicado": "2026-11-16T12:32:00+00:00",
+  "id": "3651ec1546307ed8",
+  "titulo_norm": "el peronismo federal y el frente renovador de sergio massa se juntan mientras se define el futuro de las paso",
+  "resumen": "Nota sobre la posible confluencia del peronismo federal con el Frente Renovador de Massa mientras se define el futuro de las PASO. Massa no participa del acto por el Día de la Militancia en Lobos, que encabeza Sergio Uñac.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-16T17:21:33+00:00"
  },
  {
   "plataforma": "portal",
