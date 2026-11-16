@@ -32,6 +32,22 @@
   "recolectado": "2026-11-15T23:35:16+00:00"
  },
  {
+  "plataforma": "nacional",
+  "fuente": "Clarín",
+  "autor": "Clarín",
+  "tipo": "nota",
+  "titulo": "Escándalo con Beligoy: de las SIRA para importar zapatos a la compra de una mansión en Villa Devoto",
+  "texto": "El deje de los árbitros adquirió un departamente de 380 m2 a un valor muy inferior al de mercado. Ya había quedado en el medio de la polémica por las SIRA que implementó Sergio Massa cuando fue ministro de Economía: consiguió la autorización oficial para acceder a los dólares al tipo de cambio oficial y no al del blue para comprar zapatos desde Brasil.",
+  "url": "https://www.clarin.com/politica/escandalo-jefe-arbitros-conocio-compra-departamento-380-m2-beligoy-valor-inferior-mercado_0_PMb6mi235d.html",
+  "publicado": "2026-11-15T22:53:34+00:00",
+  "id": "856bd46d49550032",
+  "titulo_norm": "escándalo con beligoy de las sira para importar zapatos a la compra de una mansión en villa devoto",
+  "resumen": "Mención crítica de contexto: la nota sobre el árbitro Beligoy, que compró un departamento de 380 m2 en Villa Devoto muy por debajo del mercado, recuerda la polémica por las SIRA de Massa como ministro de Economía, que permitieron importar zapatos al dólar oficial.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-16T02:06:37+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "Agenda Salta",
   "autor": "Agenda Salta",
