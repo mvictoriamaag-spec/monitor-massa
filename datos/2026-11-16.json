@@ -1,5 +1,37 @@
 [
  {
+  "plataforma": "nacional",
+  "fuente": "Infobae",
+  "autor": "Infobae",
+  "tipo": "nota",
+  "titulo": "Acuerdo entre Cristina Kirchner y Massa para impulsar al representante del bloque de Diputados del PJ en el Consejo de la Magistratura",
+  "texto": "El diputado Guillermo Michel será propuesto para el organismo en representación de la silla que le corresponde al peronismo. Fue funcionario de AFIP durante la presidencia de Alberto Fernández",
+  "url": "https://www.infobae.com/politica/2026/11/16/acuerdo-entre-cristina-kirchner-y-massa-para-impulsar-al-representante-del-bloque-de-diputados-del-pj-en-el-consejo-de-la-magistratura/",
+  "publicado": "2026-11-16T22:38:42+00:00",
+  "id": "772e928f062b21e9",
+  "titulo_norm": "acuerdo entre cristina kirchner y massa para impulsar al representante del bloque de diputados del pj en el consejo de l",
+  "resumen": "Cristina Kirchner y Sergio Massa acordaron impulsar al diputado Guillermo Michel como representante del bloque peronista de Diputados en el Consejo de la Magistratura. Michel fue funcionario de AFIP durante la presidencia de Alberto Fernández.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-16T22:44:18+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Hoy Día Córdoba",
+  "autor": "Hoy Día Córdoba",
+  "tipo": "nota",
+  "titulo": "La interna peronista explota el Día de la Lealtad y Massa desafía a Kicillof | 16 de noviembre de 2026",
+  "texto": "El Peronismo Federal y el Frente Renovador celebrarán juntos la histórica fecha para mostrarse muestran como alternativa para loscomicios.",
+  "url": "https://hoydia.com.ar/politica/nacional/la-interna-peronista-explota-el-dia-de-la-lealtad-y-massa-desafia-a-kicillof/",
+  "publicado": "2026-11-16T21:55:19+00:00",
+  "id": "18423a74675d9de6",
+  "titulo_norm": "la interna peronista explota el día de la lealtad y massa desafía a kicillof 16 de noviembre de 2026",
+  "resumen": "El Peronismo Federal y el Frente Renovador celebrarán juntos el Día de la Lealtad para mostrarse como alternativa electoral. La nota describe una interna peronista en la que Sergio Massa desafía a Kicillof.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-16T22:44:18+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "Cronos noticias",
   "autor": "Cronos noticias",
@@ -222,6 +254,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-16T16:01:27+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "La Nación",
+  "autor": "La Nación",
+  "tipo": "nota",
+  "titulo": "Massa confluirá mañana con el PJ federal y toma forma una nueva corriente interna en el peronismo",
+  "texto": "",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOWNSVVM0VzAzVXZxWEt2LTFqNHFkenNFQUhoOHJtRDhVdmV1OXQwVm5EWkZMMUNteVRQdkR0SFhiYVhZUGxjOEFxWjNlRW92cXZLOHdiM0dtODZidE5NYVc5QTJqWkphUlhlWE1nc0hEWENUdGRxZ3U1YUpfUVlkejdRY3JpVDBwMDRWTW92dVVJaFJuUEhFR0poOHh3UXlaQ0tQVjUwWl9HVzBoOFNoU1JrWWgybVBOS0MwYkZoTXhvdHZpUk9wT1ROa3gxdVV3XzNSTzhTcXJvUFJRaldIdmpmTQ?oc=5",
+  "publicado": "2026-11-16T15:25:00+00:00",
+  "id": "43cf59e56754cac0",
+  "titulo_norm": "massa confluirá mañana con el pj federal y toma forma una nueva corriente interna en el peronismo",
+  "resumen": "Sergio Massa confluirá con el PJ federal y toma forma una nueva corriente interna dentro del peronismo, en una noticia sobre el reordenamiento de la interna partidaria.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-16T22:44:18+00:00"
  },
  {
   "plataforma": "portal",
