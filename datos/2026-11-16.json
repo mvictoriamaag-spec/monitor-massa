@@ -1,6 +1,22 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "La Tecla",
+  "autor": "La Tecla",
+  "tipo": "nota",
+  "titulo": "Massa reúne al peronismo federal y desafía al MDF con un armado propio",
+  "texto": "En el Día de la Militancia, el Frente Renovador confluirá con dirigentes del peronismo federal, intendentes bonaerenses y sectores del kirchnerismo en un acto en San Fernando. La convocatoria busca mostrar volumen político y empieza a delinear una alternativa interna al proyecto presidencial del Gobernador.",
+  "url": "https://www.latecla.info/171190-massa-reune-al-peronismo-federal-y-desafia-al-mdf-con-un-armado-propio",
+  "publicado": "2026-11-16T15:15:10+00:00",
+  "id": "761962ed1e1fc1a4",
+  "titulo_norm": "massa reúne al peronismo federal y desafía al mdf con un armado propio",
+  "resumen": "El Frente Renovador confluirá con peronistas federales, intendentes bonaerenses y sectores del kirchnerismo en un acto en San Fernando por el Día de la Militancia. Massa aparece como impulsor de un armado propio que busca mostrar fuerza y delinear una alternativa interna al proyecto presidencial del Gobernador.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-16T15:32:09+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Alternativa en Papel",
   "autor": "Alternativa en Papel",
   "tipo": "nota",
