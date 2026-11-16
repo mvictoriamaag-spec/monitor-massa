@@ -32,6 +32,22 @@
   "recolectado": "2026-11-16T14:31:19+00:00"
  },
  {
+  "plataforma": "portal",
+  "fuente": "Flipr.news",
+  "autor": "Flipr.news",
+  "tipo": "nota",
+  "titulo": "PASO: Massa se mete en la negociación con los senadores que responden a los gobernadores",
+  "texto": "La reactivación de la discusión por las PASO tomó por sorpresa a varios legisladores que tienen como referencia política a los mandatarios del Norte Grande. Como juega Sergio Massa en el diálogo con…",
+  "url": "https://flipr.com.ar/nacionales/ultimo-momento/cronista/paso-massa-se-mete-en-la-negociacion-con-los-senadores-que-responden-a-los-gobernadores/",
+  "publicado": "2026-11-16T14:04:10+00:00",
+  "id": "9d70424de7a3c8c2",
+  "titulo_norm": "paso massa se mete en la negociación con los senadores que responden a los gobernadores",
+  "resumen": "Flipr.news informa que Sergio Massa participa en la negociación con senadores que responden a gobernadores del Norte Grande, en medio de la reactivación del debate sobre las PASO. Massa aparece como actor político que dialoga con esos legisladores.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-16T15:02:34+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "El Cronista",
   "autor": "El Cronista",
