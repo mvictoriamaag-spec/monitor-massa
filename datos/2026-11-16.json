@@ -1,5 +1,37 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "Radio del Plata",
+  "autor": "Radio del Plata",
+  "tipo": "nota",
+  "titulo": "Cristina Kirchner y Sergio Massa acuerdan llevar a Guillermo Michel al Consejo de la Magistratura",
+  "texto": "En una movida estratégica que reconfigura los equilibrajes de poder en el tablero judicial.",
+  "url": "https://amdelplata.com/cristina-kirchner-y-sergio-massa-acuerdan-llevar-a-guillermo-michel-al-consejo-de-la-magistratura/",
+  "publicado": "2026-11-16T23:21:39+00:00",
+  "id": "3cdfafe0e4c5789e",
+  "titulo_norm": "cristina kirchner y sergio massa acuerdan llevar a guillermo michel al consejo de la magistratura",
+  "resumen": "Cristina Kirchner y Sergio Massa acordaron proponer a Guillermo Michel para el Consejo de la Magistratura, en una jugada que reconfigura los equilibrios de poder en el ámbito judicial.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-16T23:26:25+00:00"
+ },
+ {
+  "plataforma": "nacional",
+  "fuente": "Nexofin",
+  "autor": "Nexofin",
+  "tipo": "nota",
+  "titulo": "Rebord recibió duras críticas por su entrevista a Chiqui Tapia y lo acusan de estar financiado por Massa",
+  "texto": "El influencer debutó en América TV; a pesar del muy bajo rating, la emisión repercutió fuertemente en redes sociales donde recibió una lluvia de comentarios negativos.",
+  "url": "https://www.nexofin.com/notas/1302592-rebord-recibio-duras-criticas-por-su-entrevista-a-chiqui-tapia-y-lo-acusan-de-estar-financiado-por-massa-n-/",
+  "publicado": "2026-11-16T23:00:25+00:00",
+  "id": "b937e208824c755f",
+  "titulo_norm": "rebord recibió duras críticas por su entrevista a chiqui tapia y lo acusan de estar financiado por massa",
+  "resumen": "Críticas al influencer Rebord por su entrevista a Chiqui Tapia en América TV, que tuvo bajo rating pero fuerte repercusión negativa en redes. Lo acusan de estar financiado por Massa.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-16T23:26:25+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Infobae",
   "autor": "Infobae",
