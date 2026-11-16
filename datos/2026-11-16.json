@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "Política del Sur",
+  "autor": "Política del Sur",
+  "tipo": "nota",
+  "titulo": "Massa quiere otra oportunidad: una fuente del FR reveló cómo haría para ser candidato a Presidente",
+  "texto": "El líder del Frente Renovador recupera protagonismo y no descarta volver a competir por la Casa Rosada. Kicillof, que no puede reelegir, está obliga",
+  "url": "https://politicadelsur.com/nota/98027/massa-quiere-otra-oportunidad-una-fuente-del-fr-revelo-como-haria-para-ser-candidato-a-presidente/",
+  "publicado": "2026-11-16T09:11:15+00:00",
+  "id": "96d935c1c1ada9c5",
+  "titulo_norm": "massa quiere otra oportunidad una fuente del fr reveló cómo haría para ser candidato a presidente",
+  "resumen": "Una fuente del Frente Renovador explica que Sergio Massa recupera protagonismo y no descarta volver a ser candidato a presidente. La nota plantea este intento en un contexto en el que Kicillof, que no puede reelegir, también queda en el centro de la disputa.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-16T11:43:19+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "La Nación",
   "autor": "La Nación",
@@ -14,6 +30,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-16T10:16:36+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Rosario la Ciudad",
+  "autor": "Rosario la Ciudad",
+  "tipo": "nota",
+  "titulo": "Massa arma una corriente peronista para enfrentar a Kicillof",
+  "texto": "Sergio Massa acelera contactos con el peronismo federal y sectores del kirchnerismo para dar forma a una nueva corriente peronista que busca disputar el",
+  "url": "https://rosariolaciudad.com.ar/massa-arma-una-corriente-peronista-para-enfrentar-a-kicillof/",
+  "publicado": "2026-11-16T09:00:00+00:00",
+  "id": "2c645b5869d3fc69",
+  "titulo_norm": "massa arma una corriente peronista para enfrentar a kicillof",
+  "resumen": "Sergio Massa acelera contactos con el peronismo federal y sectores del kirchnerismo para dar forma a una nueva corriente peronista. La iniciativa aparece como un movimiento para enfrentar a Kicillof dentro del peronismo.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-16T11:43:19+00:00"
  },
  {
   "plataforma": "nacional",
