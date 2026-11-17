@@ -1,0 +1,34 @@
+[
+ {
+  "plataforma": "nacional",
+  "fuente": "Agencia Noticias Argentinas",
+  "autor": "Agencia Noticias Argentinas",
+  "tipo": "nota",
+  "titulo": "Interna al rojo vivo: Andreotti organiza en San Fernando una cumbre de Massa sin el MDF",
+  "texto": "La convocatoria reúne al massismo y al peronismo federal en plena disputa por 2027. El espacio de Kicillof quedó fuera de las invitaciones formales, según la organización.",
+  "url": "https://noticiasargentinas.com/municipios/interna-al-rojo-vivo--andreotti-organiza-en-san-fernando-una-cumbre-de-massa-sin-el-mdf_a6afb172835eaa454718d01e1",
+  "publicado": "2026-11-17T05:00:00+00:00",
+  "id": "e8a584242a45bc3b",
+  "titulo_norm": "interna al rojo vivo andreotti organiza en san fernando una cumbre de massa sin el mdf",
+  "resumen": "Andreotti organiza en San Fernando una cumbre del massismo con el peronismo federal, sin invitar formalmente al espacio de Kicillof (MDF), en plena disputa interna por 2027. Massa aparece como referente del encuentro.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-17T05:26:03+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "El Destape",
+  "autor": "El Destape",
+  "tipo": "nota",
+  "titulo": "Un encuentro del PJ que alienta una nueva candidatura de Sergio Massa",
+  "texto": "",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU3FxMFg4UlpMS1ZUeUhXaE1NZXFxbVJnRVZ2WGY0bDFjYzNFUElUZmk3WC1YRmhCOTJOenh1ajl1bl9JUTM3YVdjNG5PTk11OFJHUDdDOXdOZ2lfTUxIZjMxcDNBY0xZUmtXc2VlS19leTh0TUNZaUhYMzJoV0p2a2hqcjFYV0dKeDZIYl9hd2ZZSmRQUkw0MElvcndOOVFnZUhuR2FQdW1GcEhhczJPcE00dEx1OTBk0gG4AUFVX3lxTE9TcXEwWDhSWkxLVlR5SFdoTU1lcXFtUmdFVnZYZjRsMWNjM0VQSVRmaTdYLVhGaEI5Mk56eHVqOXVuX0lRMzdhV2M0bk9OTXU4UkdQN0M5d05naV9NTEhmMzFwM0FjTFlSa1dzZWVLX2V5OHRNQ1lpSFgzMmhXSnZraGpyMVhXR0p4NkhiX2F3ZllKZFBSTDQwSW9yd045UWdlSG5HYVB1bUZwSGFzMk9wTTR0THU5MGQ?oc=5",
+  "publicado": "2026-11-17T03:08:46+00:00",
+  "id": "52302bb5ced978e8",
+  "titulo_norm": "un encuentro del pj que alienta una nueva candidatura de sergio massa",
+  "resumen": "Un encuentro del PJ alienta una nueva candidatura de Sergio Massa. La nota presenta el respaldo partidario a esa posible postulación como noticia.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-17T05:26:03+00:00"
+ }
+]

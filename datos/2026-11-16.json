@@ -48,6 +48,22 @@
   "recolectado": "2026-11-17T04:22:44+00:00"
  },
  {
+  "plataforma": "portal",
+  "fuente": "La Letra Chica",
+  "autor": "La Letra Chica",
+  "tipo": "nota",
+  "titulo": "Massa, el peronismo federal y el cristinismo sellan un polo opositor frente a Kicillof",
+  "texto": "Con el foco en las críticas al modelo económico de Javier Milei, Massa reúne un frente amplio sin representación del kicillofismo.",
+  "url": "https://laletrachica.com.ar/nota/26935/massa-el-peronismo-federal-y-el-cristinismo-sellan-un-polo-opositor-frente-a-kicillof/",
+  "publicado": "2026-11-17T01:52:30+00:00",
+  "id": "b5ebe0c300977dcb",
+  "titulo_norm": "massa el peronismo federal y el cristinismo sellan un polo opositor frente a kicillof",
+  "resumen": "Massa reúne un frente opositor con el peronismo federal y el cristinismo, sin representación del kicillofismo. La nota destaca las críticas de este espacio al modelo económico de Javier Milei.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-17T05:26:03+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Agencia Noticias Argentinas",
   "autor": "Agencia Noticias Argentinas",
@@ -718,6 +734,22 @@
   "relevante": 0,
   "resumen_ia": true,
   "recolectado": "2026-11-16T14:09:17+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Informe Digital",
+  "autor": "Informe Digital",
+  "tipo": "nota",
+  "titulo": "Realineamientos. Massa confluye con el peronismo federal y toma forma una corriente interna para enfrentar a Kicillof",
+  "texto": "",
+  "url": "https://informedigital.com.ar/realineamientos-massa-confluye-con-el-peronismo-federal-y-toma-forma-una-corriente-interna-para-enfrentar-a-kicillof/",
+  "publicado": "2026-11-16T09:19:28+00:00",
+  "id": "60f21273b97f8411",
+  "titulo_norm": "realineamientos massa confluye con el peronismo federal y toma forma una corriente interna para enfrentar a kicillof",
+  "resumen": "Massa confluye con el peronismo federal y comienza a formarse una corriente interna para enfrentar a Kicillof. La nota presenta el realineamiento como noticia sobre la interna peronista.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-17T05:26:03+00:00"
  },
  {
   "plataforma": "portal",
