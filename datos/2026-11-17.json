@@ -1,6 +1,38 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "Canal Doce Misiones",
+  "autor": "Canal Doce Misiones",
+  "tipo": "nota",
+  "titulo": "Sergio Massa visita Misiones: se reunirá con Passalacqua y mantendrá una agenda con empresarios",
+  "texto": "El gobernador mantiene una estrategia institucional de diálogo con dirigentes con aspiraciones presidenciales, sin importar su pertenencia partidaria. El encuentro con el exministro Sergio Massa ocurrirá este miércoles tras las visitas previas de Axel Kicillof y Sergio Uñac.",
+  "url": "https://www.canal12misiones.com/noticias-de-misiones/politica-politica/sergio-massa-llega-misiones",
+  "publicado": "2026-11-17T16:43:32+00:00",
+  "id": "4fa834daea3e64e6",
+  "titulo_norm": "sergio massa visita misiones se reunirá con passalacqua y mantendrá una agenda con empresarios",
+  "resumen": "Anuncia la visita de Sergio Massa a Misiones, con reunión con el gobernador Passalacqua y una agenda con empresarios. Se inscribe en la estrategia de diálogo del gobernador con dirigentes con aspiraciones presidenciales, como Kicillof y Uñac.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-17T16:44:50+00:00"
+ },
+ {
+  "plataforma": "nacional",
+  "fuente": "El Destape",
+  "autor": "El Destape",
+  "tipo": "nota",
+  "titulo": "KICILLOF, MASSA, MILEI Y BULLRICH | El editorial de Roberto Navarro",
+  "texto": "KICILLOF, MASSA, MILEI Y BULLRICH | El editorial de Roberto Navarro",
+  "url": "https://www.eldestapeweb.com/multimedia/BqeWdOhxNPA/kicillof-massa-milei-y-bullrich-el-editorial-de-roberto-navarro",
+  "publicado": "2026-11-17T16:30:01+00:00",
+  "id": "a69d0e5a1cce92f3",
+  "titulo_norm": "kicillof massa milei y bullrich el editorial de roberto navarro",
+  "resumen": "Editorial de Roberto Navarro en El Destape que nombra a Massa junto a Kicillof, Milei y Bullrich, todos dirigentes políticos. No se puede precisar el sentido de la mención a partir del título.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-17T16:44:50+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Nueva Ciudad",
   "autor": "Nueva Ciudad",
   "tipo": "nota",
