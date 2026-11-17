@@ -16,6 +16,38 @@
   "recolectado": "2026-11-17T00:08:46+00:00"
  },
  {
+  "plataforma": "portal",
+  "fuente": "MisionesOnline",
+  "autor": "MisionesOnline",
+  "tipo": "nota",
+  "titulo": "ACUERDO ENTRE CRISTINA KIRCHNER Y MASSA POR EL CONSEJO DE LA MAGISTRATURA",
+  "texto": "",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeHJGQ2lnYzhTSFpwck0xdi1LcHhiSS1wVmg4bi1Dd2VvRjNESEJ5X3VwcUFTVnR6TXpuVGlMUUVhUnBaU2VnOU1kXzUxS1llZVhkbmlYRFdOaDFKWHRoNENxVGx0cnpPZlZ1XzlzN0ktUWZLSkdKd0VneF9veHluVVlxQWdKZDFUcnJscFQ2WWJTWVh6TE85QnRJMkpsSVU?oc=5",
+  "publicado": "2026-11-16T23:50:00+00:00",
+  "id": "48fc8271445a2f1e",
+  "titulo_norm": "acuerdo entre cristina kirchner y massa por el consejo de la magistratura",
+  "resumen": "Cristina Kirchner y Sergio Massa alcanzaron un acuerdo para impulsar un candidato al Consejo de la Magistratura. La noticia informa la coincidencia política entre ambos dirigentes.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-17T00:31:23+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Perfil",
+  "autor": "Perfil",
+  "tipo": "nota",
+  "titulo": "Cristina Kirchner apuesta por Guillermo Michel en el Consejo de la Magistratura y fortalece su vínculo con Massa",
+  "texto": "",
+  "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPb0U1UzRLeV9PNjV4YWV3Um5DWnYzMjdMMWdaUy1XX1VZTWQxMG14dk9wM3ZTbFhhczRFRUh0dXU0U0ZKUjhibERZYlJ3eWFySXpuVUFXQ1dSUXNKWlp3d2Y0clNYcU1pdXBzMmlZVXF1NFo3S2lYbU11cWJvb3ZILTlkdWF0ZzBJZ0lyZV9fbW9odERmbVZOaGtuOE54bUlQNmE3WjUzVV9KY0ZMSGJndUZWY19PQWxxSllCYi1BY3BvZTZ0YjJvRWRCUXBDRHFmdmc3NTM5SVlsMjlPOENrMDRFXzdQVUVyQTVKR0JB?oc=5",
+  "publicado": "2026-11-16T23:43:40+00:00",
+  "id": "4af9ebf069ec4922",
+  "titulo_norm": "cristina kirchner apuesta por guillermo michel en el consejo de la magistratura y fortalece su vínculo con massa",
+  "resumen": "Cristina Kirchner respalda a Guillermo Michel para el Consejo de la Magistratura, lo que fortalece su vínculo con Sergio Massa. La nota presenta la designación como una señal de acercamiento entre ambos dirigentes.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-17T00:31:23+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "La Nación",
   "autor": "La Nación",
@@ -64,6 +96,22 @@
   "recolectado": "2026-11-16T23:26:25+00:00"
  },
  {
+  "plataforma": "interior",
+  "fuente": "Diario de Cuyo",
+  "autor": "Diario de Cuyo",
+  "tipo": "nota",
+  "titulo": "Cristina Kirchner y Sergio Massa acordaron impulsar un candidato en el Consejo de la Magistratura",
+  "texto": "El diputado Guillermo Michel será propuesto para integrar el Consejo de la Magistratura con el respaldo de Cristina Kirchner y Sergio Massa.",
+  "url": "https://www.diariodecuyo.com.ar/politica/cristina-kirchner-y-sergio-massa-acordaron-impulsar-un-candidato-el-consejo-la-magistratura-n6588796/amp",
+  "publicado": "2026-11-16T23:20:00+00:00",
+  "id": "a24730a0fb715b2e",
+  "titulo_norm": "cristina kirchner y sergio massa acordaron impulsar un candidato en el consejo de la magistratura",
+  "resumen": "Guillermo Michel será propuesto para integrar el Consejo de la Magistratura con el respaldo de Cristina Kirchner y Sergio Massa. Es una noticia que informa el acuerdo político entre ambos dirigentes.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-17T00:31:23+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Nexofin",
   "autor": "Nexofin",
@@ -110,6 +158,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-16T22:44:18+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Noticias Urbanas",
+  "autor": "Noticias Urbanas",
+  "tipo": "nota",
+  "titulo": "Massa y el peronismo federal acercan posiciones camino a las PASO",
+  "texto": "",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMUZYOXc4NDU4ejBVZ0I4Mk5oRzQyT253ZkhXR2YtdkJfQW9ycV8wN1FiTTBmSUE2bF9PQi1wb1VRalBKc3pIMWh0ZzE1LVlrNGdzaklabm9BbzJ6NFBhOXJRenVzVzNGU09RVnFBWGQ3T2xScVlnbUp4bVlVNEJNUlhiVzVfSmxZc2JhQmZQLTRrcWZ1aWZiYzBLQ0xMa1lOcnc?oc=5",
+  "publicado": "2026-11-16T21:26:46+00:00",
+  "id": "05f0b9e063b1d64b",
+  "titulo_norm": "massa y el peronismo federal acercan posiciones camino a las paso",
+  "resumen": "Sergio Massa y el peronismo federal estarían acercando posiciones de cara a las PASO. La nota presenta el acercamiento como un movimiento político previo a las primarias.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-17T00:31:23+00:00"
  },
  {
   "plataforma": "portal",
