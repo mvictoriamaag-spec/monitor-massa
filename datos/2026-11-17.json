@@ -1,6 +1,22 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "EntreMedios",
+  "autor": "EntreMedios",
+  "tipo": "nota",
+  "titulo": "Massa convoca a La Cámpora y al peronismo federal sin el sello de Kicillof, que arma por su cuenta",
+  "texto": "El kicillofismo relativiza la cita y sigue con su propio armado de cara a 2027, mientras el Senado discute eliminar las PASO.",
+  "url": "https://entremediosweb.com/massa-convoca-a-la-campora-y-al-peronismo-federal-sin-el-sello-de-kicillof-que-arma-por-su-cuenta/",
+  "publicado": "2026-11-17T08:36:10+00:00",
+  "id": "09c553fef3cb2551",
+  "titulo_norm": "massa convoca a la cámpora y al peronismo federal sin el sello de kicillof que arma por su cuenta",
+  "resumen": "Massa convoca a La Cámpora y al peronismo federal sin el sello de Kicillof, que relativiza la convocatoria y sigue con su propio armado de cara a 2027. Mientras tanto, el Senado discute eliminar las PASO.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-17T08:49:03+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "PINAMAR 24",
   "autor": "PINAMAR 24",
   "tipo": "nota",
