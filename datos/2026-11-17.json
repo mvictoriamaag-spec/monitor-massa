@@ -1,5 +1,37 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "Deuda Prometida",
+  "autor": "Deuda Prometida",
+  "tipo": "nota",
+  "titulo": "Massa acelera el armado federal rumbo a 2027: tras Santa Fe, el NEA y La Rioja, Alejandro Deanes asume en Tierra del Fuego",
+  "texto": "El parlamentario del MERCOSUR fue reconocido por la Justicia como presidente del partido en la provincia más austral. Su asunción se suma a una reorganización que en los últimos meses pasó por Santa Fe, Chaco, La Rioja, Jujuy, San Juan y la provincia de Buenos Aires. Destacó a Sergio Massa como referente nacional y a Damián “Loli” Löffler como su principal referencia política en Tierra del Fuego.",
+  "url": "https://deudaprometida.com/massa-acelera-el-armado-federal-rumbo-a-2027-tras-santa-fe-el-nea-y-la-rioja-alejandro-deanes-asume-en-tierra-del-fuego/",
+  "publicado": "2026-11-17T14:37:27+00:00",
+  "id": "10376409846a5457",
+  "titulo_norm": "massa acelera el armado federal rumbo a 2027 tras santa fe el nea y la rioja alejandro deanes asume en tierra del fuego",
+  "resumen": "Massa avanza con el armado federal rumbo a 2027 tras reorganizaciones en varias provincias, y Alejandro Deanes asumió como presidente del partido en Tierra del Fuego. Massa aparece como referente nacional de la nueva conducción provincial.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-17T14:48:06+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "El Ágora Digital",
+  "autor": "El Ágora Digital",
+  "tipo": "nota",
+  "titulo": "CFK se alia a Massa: Michel será Consejero de la Magistratura",
+  "texto": "Cristina Kirchner decidió respaldar a Guillermo Michel para que represente al peronismo en el Consejo de la Magistratura, en una decisión que profundiza",
+  "url": "https://elagora.digital/argentina/cristina-kirchner-elige-guillermo-michel-acercamiento-sergio-massa/",
+  "publicado": "2026-11-17T14:00:50+00:00",
+  "id": "20430b02be2ef13d",
+  "titulo_norm": "cfk se alia a massa michel será consejero de la magistratura",
+  "resumen": "Cristina Kirchner respalda a Guillermo Michel para representar al peronismo en el Consejo de la Magistratura, en una decisión que profundiza su acercamiento con Sergio Massa. La nota presenta el movimiento como una alianza entre ambos sectores.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-17T14:48:06+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "mendoza24.com.ar",
   "autor": "mendoza24.com.ar",
@@ -46,6 +78,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-17T13:54:54+00:00"
+ },
+ {
+  "plataforma": "interior",
+  "fuente": "Diario 13 San Juan",
+  "autor": "Diario 13 San Juan",
+  "tipo": "nota",
+  "titulo": "Cristina Kirchner se acerca a Sergio Massa y elige a Guillermo Michel para el Consejo de la Magistratura",
+  "texto": "La expresidenta impulsó al diputado nacional entrerriano y hombre de confianza de Sergio Massa para ocupar una silla clave en el organismo que selecciona y remueve jueces, rompiendo con la histórica tradición de designar perfiles de línea dura.",
+  "url": "https://www.canal13sanjuan.com/politica/cristina-kirchner-se-acerca-a-sergio-massa-y-elige-a-guillermo-michel-para-el-consejo-de-la-magistratura_a6afc4d5542fa9d9e6e3375de",
+  "publicado": "2026-11-17T13:15:01+00:00",
+  "id": "c783d209975f9c24",
+  "titulo_norm": "cristina kirchner se acerca a sergio massa y elige a guillermo michel para el consejo de la magistratura",
+  "resumen": "Cristina Kirchner impulsó a Guillermo Michel, hombre de confianza de Sergio Massa, para una silla clave en el Consejo de la Magistratura, rompiendo con la tradición de perfiles de línea dura. La nota muestra un acercamiento entre la expresidenta y Massa.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-17T14:48:06+00:00"
  },
  {
   "plataforma": "interior",
