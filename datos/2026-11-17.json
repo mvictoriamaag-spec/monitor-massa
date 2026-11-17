@@ -1,6 +1,22 @@
 [
  {
   "plataforma": "nacional",
+  "fuente": "Infobae",
+  "autor": "Infobae",
+  "tipo": "nota",
+  "titulo": "El peronismo une fuerzas para darle vida a una alternativa electoral con la confluencia de Massa, CFK y el PJ Federal",
+  "texto": "El encuentro será en San Fernando a las 18:30. También estarán Natalia de la Sota y Miguel Pichetto. El kirchnerismo envía cuatro representantes. El gran ausente será Axel Kicillof",
+  "url": "https://www.infobae.com/politica/2026/11/17/el-peronismo-une-fuerzas-para-darle-vida-a-una-alternativa-electoral-con-la-confluencia-de-massa-cfk-y-el-pj-federal/",
+  "publicado": "2026-11-17T06:06:27+00:00",
+  "id": "eae50b9b48afa8bd",
+  "titulo_norm": "el peronismo une fuerzas para darle vida a una alternativa electoral con la confluencia de massa cfk y el pj federal",
+  "resumen": "El peronismo se reunirá en San Fernando para impulsar una alternativa electoral con la confluencia de Sergio Massa, Cristina Fernández de Kirchner y el PJ Federal. Participarán Natalia de la Sota y Miguel Pichetto, y Axel Kicillof no asistirá.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-17T06:26:30+00:00"
+ },
+ {
+  "plataforma": "nacional",
   "fuente": "Agencia Noticias Argentinas",
   "autor": "Agencia Noticias Argentinas",
   "tipo": "nota",
