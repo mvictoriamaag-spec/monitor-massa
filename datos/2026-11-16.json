@@ -128,6 +128,22 @@
   "recolectado": "2026-11-17T01:03:14+00:00"
  },
  {
+  "plataforma": "portal",
+  "fuente": "Prensa Mercosur",
+  "autor": "Prensa Mercosur",
+  "tipo": "nota",
+  "titulo": "Cristina Kirchner y Sergio Massa acuerdan llevar…",
+  "texto": "",
+  "url": "https://prensamercosur.org/2026/11/16/cristina-kirchner-y-sergio-massa-acuerdan-llevar/",
+  "publicado": "2026-11-16T23:51:30+00:00",
+  "id": "738e1f9de80b6575",
+  "titulo_norm": "cristina kirchner y sergio massa acuerdan llevar",
+  "resumen": "Cristina Kirchner y Sergio Massa acuerdan llevar adelante una iniciativa conjunta, noticia que muestra un acuerdo político entre ambos dirigentes peronistas.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-17T23:30:43+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "Misiones Online",
   "autor": "Misiones Online",
