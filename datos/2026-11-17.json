@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "nacional",
+  "fuente": "La Nación",
+  "autor": "La Nación",
+  "tipo": "nota",
+  "titulo": "Axel Kicillof toma distancia de la cumbre peronista que impulsa Sergio Massa y se acelera el quiebre en el PJ",
+  "texto": "El gobernador no asistirá al acto en San Fernando por el Día de la Militancia y hubo cruces por las invitaciones que desnudaron la pelea interna",
+  "url": "https://www.lanacion.com.ar/politica/axel-kicillof-toma-distancia-de-la-cumbre-peronista-que-impulsa-sergio-massa-y-se-acelera-el-quiebre-nid17112026/",
+  "publicado": "2026-11-17T20:48:35+00:00",
+  "id": "6b218a1e1c918cb4",
+  "titulo_norm": "axel kicillof toma distancia de la cumbre peronista que impulsa sergio massa y se acelera el quiebre en el pj",
+  "resumen": "Kicillof no asistirá al acto en San Fernando por el Día de la Militancia, una cumbre peronista impulsada por Sergio Massa. Hubo cruces por las invitaciones que expusieron la pelea interna del PJ.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-17T21:31:39+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "Eldópolis",
   "autor": "Eldópolis",
