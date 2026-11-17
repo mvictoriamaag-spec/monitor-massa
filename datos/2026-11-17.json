@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "La Noticia 1",
+  "autor": "La Noticia 1",
+  "tipo": "nota",
+  "titulo": "Massa busca reunir al peronismo federal en San Fernando con la mirada puesta en 2027",
+  "texto": "La convocatoria incluye a intendentes bonaerenses, legisladores y referentes de distintas provincias. El encuentro podría marcar un nuevo movimiento en la reorganización del PJ y contará con representantes del kirchnerismo.",
+  "url": "https://www.lanoticia1.com/noticia/massa-busca-reunir-al-peronismo-federal-en-san-fernando-con-la-mirada-puesta-en-2027",
+  "publicado": "2026-11-17T12:30:20+00:00",
+  "id": "a3689fdc0d593963",
+  "titulo_norm": "massa busca reunir al peronismo federal en san fernando con la mirada puesta en 2027",
+  "resumen": "Massa convoca en San Fernando a intendentes bonaerenses, legisladores y referentes de varias provincias, con miras a 2027. El encuentro podría marcar un nuevo rumbo en la reorganización del PJ, con presencia del kirchnerismo.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-17T12:35:12+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "El Argentino Diario",
   "autor": "El Argentino Diario",
@@ -110,6 +126,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-17T10:51:40+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Diputados Bonaerenses",
+  "autor": "Diputados Bonaerenses",
+  "tipo": "nota",
+  "titulo": "Massa desafía a Kicillof y reúne a dirigentes del peronismo federal de cara a 2027",
+  "texto": "El líder del Frente Renovador, Sergio Massa, se reunirá este martes con dirigentes del peronismo federal, intendentes y dirigentes del kirchnerismo.",
+  "url": "https://diputadosbsas.com.ar/massa-reunira-dirigentes-peronismo-2027/",
+  "publicado": "2026-11-17T10:30:00+00:00",
+  "id": "4d8766e98864efed",
+  "titulo_norm": "massa desafía a kicillof y reúne a dirigentes del peronismo federal de cara a 2027",
+  "resumen": "Sergio Massa, líder del Frente Renovador, se reunirá con dirigentes del peronismo federal, intendentes y kirchneristas para avanzar hacia 2027, en un movimiento que se interpreta como un desafío a Kicillof.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-17T12:35:12+00:00"
  },
  {
   "plataforma": "portal",

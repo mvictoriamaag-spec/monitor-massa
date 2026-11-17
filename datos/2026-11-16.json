@@ -560,6 +560,22 @@
   "recolectado": "2026-11-16T17:21:33+00:00"
  },
  {
+  "plataforma": "nacional",
+  "fuente": "Ambito",
+  "autor": "Ambito",
+  "tipo": "nota",
+  "titulo": "El peronismo federal y el Frente Renovador de Sergio Massa se juntan mientras se define el futura de las PASO",
+  "texto": "Acto por el día de la Militancia pero sin la presencia de Sergio Massa, Axel Kicillof ni Máximo Kirchner. Sergio Uñac encabeza una actividad en Lobos.",
+  "url": "https://www.ambito.com/politica/el-peronismo-federal-y-el-frente-renovador-sergio-massa-se-juntan-mientras-se-define-el-futura-las-paso-n6345594/amp",
+  "publicado": "2026-11-16T16:11:12+00:00",
+  "id": "cac264e807fbf028",
+  "titulo_norm": "el peronismo federal y el frente renovador de sergio massa se juntan mientras se define el futura de las paso",
+  "resumen": "Se realiza un acto por el Día de la Militancia en Lobos encabezado por Sergio Uñac, sin presencia de Massa, Kicillof ni Máximo Kirchner, mientras se define el futuro de las PASO. El Frente Renovador de Massa aparece en la nota como parte del escenario político.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-17T12:35:12+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "Diario Uno (Mendoza)",
   "autor": "Diario Uno (Mendoza)",
