@@ -1,5 +1,37 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "Nueva Ciudad",
+  "autor": "Nueva Ciudad",
+  "tipo": "nota",
+  "titulo": "El peronismo elige a Guillermo Michel para el Consejo de la Magistratura con el aval de Cristina y Massa",
+  "texto": "La expresidenta Cristina Kirchner avaló la designación del diputado entrerriano Guillermo Michel como representante del bloque peronista de la Cámara de Diputados en el Consejo de la Magistratura, en un acuerdo que también involucró a Sergio Massa y que debe quedar formalizado este miércoles 18 de noviembre.",
+  "url": "https://www.nueva-ciudad.com.ar/notas/202611/58580-el-peronismo-elige-a-guillermo-michel-para-el-consejo-de-la-magistratura-con-el-aval-de-cristina-y-massa.html",
+  "publicado": "2026-11-17T16:10:34+00:00",
+  "id": "d3955de117409f47",
+  "titulo_norm": "el peronismo elige a guillermo michel para el consejo de la magistratura con el aval de cristina y massa",
+  "resumen": "El peronismo designa al diputado entrerriano Guillermo Michel como representante ante el Consejo de la Magistratura con el aval de Cristina Kirchner y un acuerdo que involucró también a Sergio Massa.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-17T16:20:36+00:00"
+ },
+ {
+  "plataforma": "interior",
+  "fuente": "Misiones Online",
+  "autor": "Misiones Online",
+  "tipo": "nota",
+  "titulo": "Sergio Massa llegará mañana a Misiones, se reunirá con el Gobernador y empresarios pero no con el PJ local",
+  "texto": "El último candidato presidencial del peronismo unido visitará la provincia en medio de la interna por la definición de las candidaturas en ese espacio. Se reunirá con el gobernador Hugo Passalacqua y referentes de diferentes rubros de la economía. “Escuchamos a todos los referentes de la política nacional a quienes exponemos las prioridades de Misiones”, […]",
+  "url": "https://misionesonline.net/2026/11/17/sergio-massa-llegara-manana-a-misiones-se-reunira-con-el-gobernador-y-empresarios-pero-no-con-el-pj-local/",
+  "publicado": "2026-11-17T15:53:55+00:00",
+  "id": "2ba14bd76814a947",
+  "titulo_norm": "sergio massa llegará mañana a misiones se reunirá con el gobernador y empresarios pero no con el pj local",
+  "resumen": "Anuncio de la visita de Sergio Massa a Misiones, donde se reunirá con el gobernador Hugo Passalacqua y empresarios, pero no con el PJ local, en medio de la interna peronista por las candidaturas.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-17T16:20:36+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "El Cronista",
   "autor": "El Cronista",
@@ -46,6 +78,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-17T15:44:48+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Bardeo.news",
+  "autor": "Bardeo.news",
+  "tipo": "nota",
+  "titulo": "Massa organizó el Día de la Militancia y no invitó a Kicillof",
+  "texto": "El peronismo buscará mostrar en San Fernando una foto de unidad con intendentes, legisladores y sindicalistas, pero sin el gobernador de Buenos Aires",
+  "url": "https://bardeo.news/politica/massa-organizo-el-dia-de-la-militancia-y-no-invito-a-kicillof_a6afc684d42fa9d9e6e36a022",
+  "publicado": "2026-11-17T14:52:53+00:00",
+  "id": "5876e74b3fdf9286",
+  "titulo_norm": "massa organizó el día de la militancia y no invitó a kicillof",
+  "resumen": "Massa organiza en San Fernando el Día de la Militancia con intendentes, legisladores y sindicalistas, buscando mostrar unidad peronista, sin invitar al gobernador bonaerense Axel Kicillof.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-17T16:20:36+00:00"
  },
  {
   "plataforma": "portal",
@@ -401,6 +449,22 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "El diario de Tandil",
+  "autor": "El diario de Tandil",
+  "tipo": "nota",
+  "titulo": "Topo Rodríguez: \"Massa me transmitió que trabajan para evitar el paro del transporte\"",
+  "texto": "",
+  "url": "https://www.eldiariodetandil.com/nota-topo-rodriguez-massa-me-transmitio-que-trabajan-para-evitar-el-paro-del-transporte-93441",
+  "publicado": "2026-11-17T09:54:10+00:00",
+  "id": "e54bf5e07634024d",
+  "titulo_norm": "topo rodríguez massa me transmitió que trabajan para evitar el paro del transporte",
+  "resumen": "El dirigente gremial Topo Rodríguez afirma que Massa le transmitió que trabajan para evitar un paro del transporte. La nota no tiene cuerpo de texto, solo el título con esa declaración.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-17T16:20:36+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "MDZ Online",
   "autor": "MDZ Online",
   "tipo": "nota",
@@ -558,6 +622,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-17T06:26:30+00:00"
+ },
+ {
+  "plataforma": "nacional",
+  "fuente": "El Destape",
+  "autor": "El Destape",
+  "tipo": "nota",
+  "titulo": "Elecciones 2027: un encuentro del PJ que alienta una nueva candidatura de Sergio Massa",
+  "texto": "Un encuentro peronista en San Fernando reunirá a los dirigentes que alientan una posible candidatura de Sergio Massa.",
+  "url": "https://www.eldestapeweb.com/politica/encuentro-pj-alienta-nueva-candidatura-sergio-massa-202611170538",
+  "publicado": "2026-11-17T05:53:32+00:00",
+  "id": "0f90be970765cc9e",
+  "titulo_norm": "elecciones 2027 un encuentro del pj que alienta una nueva candidatura de sergio massa",
+  "resumen": "Un encuentro del PJ en San Fernando reúne a dirigentes que impulsan una posible candidatura de Sergio Massa de cara a las elecciones de 2027.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-17T16:20:36+00:00"
  },
  {
   "plataforma": "nacional",
