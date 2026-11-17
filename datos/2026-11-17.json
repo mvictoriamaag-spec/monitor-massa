@@ -1,5 +1,37 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "PINAMAR 24",
+  "autor": "PINAMAR 24",
+  "tipo": "nota",
+  "titulo": "El peronismo reúne a Massa, el kirchnerismo y el PJ Federal para impulsar una alternativa electoral",
+  "texto": "",
+  "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOG1zcFlHSXowTjhza2YyalNKTmJjd1o0LURxSFpaczFUclB0RTlqM29tOXZ5MlVIT2d1SjQyYVM5c1pSWFJleHJjMWR3LUg2UVRINmxIRS1PcmZBQkVLblFGbkJtOTU3bGliN29hS0trWnYtcnAwWER2WEsxSWtaSFF5RnIwaDgtRFg0Q2RUSFF1VFl4M2pOcEZ4UmVRTG5UUVRYS1lmb0gwNEQ1Ym8zSEVvMEhHOS1UX0ZTRVhOU2ZhR2s4SHYzLVBwb2ZCUEo1WjRvcGlHejZtLWFBSkdQMkFLcw?oc=5",
+  "publicado": "2026-11-17T07:20:39+00:00",
+  "id": "1b0ee61d0c595c10",
+  "titulo_norm": "el peronismo reúne a massa el kirchnerismo y el pj federal para impulsar una alternativa electoral",
+  "resumen": "Nota sobre la reunión del peronismo con Sergio Massa, el kirchnerismo y el PJ Federal para impulsar una alternativa electoral conjunta.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-17T07:49:10+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "laGacetaOnline",
+  "autor": "laGacetaOnline",
+  "tipo": "nota",
+  "titulo": "Actos del Día de la Militancia: Máximo Kirchner en La Pampa y Massa sella alianza con el Peronismo Federal",
+  "texto": "",
+  "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcklfS0NEanJLWGZTNDNPdC1RVG81LXRpYWJWQ0w2WU5WYk42akdyQjlXdmpHRzNtVEVPN3hsZ3Bac0t5X3hhVHUyTmtUYlR2cFkxZm1vVllsaDBSTGIwRzVJYTlnVzRnNkhOZXpvMFItN0JZR3UtQ0VMQ2dmVGczcFgtbGNKUDlubFpKUmctN3V4eTRZQWpRQ3NUakdqbXFfbWI5cmtWdnNoZ2NndjdwX3JUWERxTUhUcmVfTmRzUHBrTkpoNVMwQm9yOFExNWJ3OXlwSXJGVQ?oc=5",
+  "publicado": "2026-11-17T06:33:07+00:00",
+  "id": "b7f0652fc5bb2beb",
+  "titulo_norm": "actos del día de la militancia máximo kirchner en la pampa y massa sella alianza con el peronismo federal",
+  "resumen": "Crónica de los actos por el Día de la Militancia, con Máximo Kirchner en La Pampa y la confirmación de que Sergio Massa sella una alianza con el Peronismo Federal.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-17T07:49:10+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Infobae",
   "autor": "Infobae",
@@ -30,6 +62,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-17T05:26:03+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "La Nación",
+  "autor": "La Nación",
+  "tipo": "nota",
+  "titulo": "Cristina Kirchner designa a un peronista federal cercano a Sergio Massa para el Consejo de la Magistratura",
+  "texto": "",
+  "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQazBTM3dnU0dOREZSUmlrd0ZvYkh1WG9nNHlFNUdvNThhQVRHWFhHaGdqWDRjRXdldXRoQzJ4Z01aWGc3RlBmNk1CQmFtX0VpTkduZ2hnZzhoLS1ka3F0SGlCdjhBb1NSVndwRnpOeGVHN1czOTJMdVRpZkMyekppOUlXYlFLWWp6R0xUTDdVNG9CX1djanRiRmFjejdmcDNGX0RoQUU3d0FxSldJd3h5RlhldmpsVWRodnJLU2VqVS16a3hSZ3BraG5oY1Qta3c4eVVwaDNQbTZ5SDN1Qk1LaXBR?oc=5",
+  "publicado": "2026-11-17T03:40:00+00:00",
+  "id": "20b64ab66825d662",
+  "titulo_norm": "cristina kirchner designa a un peronista federal cercano a sergio massa para el consejo de la magistratura",
+  "resumen": "Cristina Kirchner designa a un peronista federal cercano a Sergio Massa para integrar el Consejo de la Magistratura. Massa aparece como referencia política del designado.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-17T07:49:10+00:00"
  },
  {
   "plataforma": "portal",

@@ -321,6 +321,22 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "Informe Digital",
+  "autor": "Informe Digital",
+  "tipo": "nota",
+  "titulo": "Sergio Massa",
+  "texto": "",
+  "url": "https://informedigital.com.ar/facetag/sergio-massa/",
+  "publicado": "2026-11-16T22:18:33+00:00",
+  "id": "625a66f52346fbb6",
+  "titulo_norm": "sergio massa",
+  "resumen": "Nota centrada en Sergio Massa, dirigente político argentino, que es el eje de la publicación.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-17T07:49:10+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Hoy Día Córdoba",
   "autor": "Hoy Día Córdoba",
   "tipo": "nota",
