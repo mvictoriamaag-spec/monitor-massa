@@ -1,6 +1,38 @@
 [
  {
   "plataforma": "interior",
+  "fuente": "Río Negro",
+  "autor": "Río Negro",
+  "tipo": "nota",
+  "titulo": "Consejo de la Magistratura: Cristina Kirchner eligió a Guillermo Michel, cercano a Sergio Massa, para la banca del peronismo",
+  "texto": "El diputado entrerriano, que fue titular de la Aduana, reemplazará a Vanesa Siley y Rodolfo Tailhade como representante del peronismo de Diputados. La renovación de los consejeros vence el 18 de noviembre.",
+  "url": "https://www.rionegro.com.ar/politica/consejo-de-la-magistratura-cristina-kirchner-eligio-a-guillermo-michel-cercano-a-sergio-massa-para-la-banca-del-peronismo-4801046/",
+  "publicado": "2026-11-17T02:09:24+00:00",
+  "id": "32413c8d326f20d3",
+  "titulo_norm": "consejo de la magistratura cristina kirchner eligió a guillermo michel cercano a sergio massa para la banca del peronism",
+  "resumen": "Cristina Kirchner eligió al diputado entrerriano Guillermo Michel, cercano a Massa, para representar al peronismo en el Consejo de la Magistratura, reemplazando a Vanesa Siley y Rodolfo Tailhade. Massa aparece como referencia política del designado, no como protagonista.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-17T02:29:03+00:00"
+ },
+ {
+  "plataforma": "nacional",
+  "fuente": "Agencia Noticias Argentinas",
+  "autor": "Agencia Noticias Argentinas",
+  "tipo": "nota",
+  "titulo": "Cristina Kirchner eligió al diputado Michel, cercano a Massa, para integrar el Consejo de la Magistratura",
+  "texto": "La ex presidenta designó al ex titular de Aduanas y dirigente tanto del Peronismo Federal como del Frente Renovador para ejercer la representación del PJ en este organismo clave.",
+  "url": "https://noticiasargentinas.com/politica/cristina-kirchner-eligio-al-diputado-michel--cercano-a-massa--para-integrar-el-consejo-de-la-magistratura_a6afba38435eaa4547196164f",
+  "publicado": "2026-11-17T01:23:14+00:00",
+  "id": "29d08445304f62f1",
+  "titulo_norm": "cristina kirchner eligió al diputado michel cercano a massa para integrar el consejo de la magistratura",
+  "resumen": "La expresidenta designó al diputado Guillermo Michel, extitular de Aduanas, para representar al PJ en el Consejo de la Magistratura. Massa aparece indirectamente, por la pertenencia del designado al Frente Renovador.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-17T02:29:03+00:00"
+ },
+ {
+  "plataforma": "interior",
   "fuente": "Diario Panorama",
   "autor": "Diario Panorama",
   "tipo": "nota",
@@ -206,6 +238,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-16T22:44:18+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Infobae",
+  "autor": "Infobae",
+  "tipo": "nota",
+  "titulo": "Cristina Kirchner eligió a un diputado cercano a Massa para el Consejo de la Magistratura",
+  "texto": "",
+  "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPWVZwMnVvZGtiQnNDalJiZGJ5cWFXb0JKYVBKQnhZR2VMb1ZYQ2FBMFdTbm1uTDVRT2EwOThYZFVEQnBXNEt6OUw1OE5aV3VQOVNMXzBnMlNjLXFfcTdHN1dGNWdBa1NlNUozVjQ3TWJCQnlVNzBzcFJfQmFERkMwLWlOWUZVX2FFVU1sZldkWURrVTRib2pmU1NZZHlHWUlUTGRBcUlUeW41Q042SVh2c0xYUkg0SU5hb2RfcWlZeElSQ01RT3VBeUlQUUxuUndtZDRmdk02T050WThSQ0FiU2NXc2Y1ZzhXM2xDcUhkWnFvZm5IN19vZWd2dS1mRUtJWFdVWEI1OTlXWE3SAaYCQVVfeXFMTjV5dkUyazUwZFB1cTY3Zk5GQWVjckNiR3JSSC1kUEUyNzhXb3pjVDhVNGNvSEhWYVRoUXQ4enFCLXJ0MzBGZVlXSDJZNko1eGNHQUpqVWJWWHpVc0w3elR6U05QemU0cmJoZmIwNFJlbFZ6aC1SVWFXbFlDLTVDN0RUNFV5bVFhcVFYcUEwazRWQ1d6MV9kT1lNNFRtQWtYSzJ4YjQySjkyR2piSm12SkVTTGkyQ0d3RWxzTVZ6QzQ2WENfYVRpaUh0QzI5QV9lN0hzZFZFdERxeDNvSlYzV3V1UHB0U1JKdnE5SHllMG84VS1VelJId0RDMDRYaVJxSjBCVlp4V0phNzFybk1yU09hUGRaNFd6REVZREZOZ0VKR20zcnB3?oc=5",
+  "publicado": "2026-11-16T22:34:26+00:00",
+  "id": "9f6b3b8b7732f1c4",
+  "titulo_norm": "cristina kirchner eligió a un diputado cercano a massa para el consejo de la magistratura",
+  "resumen": "Cristina Kirchner designó a un diputado cercano a Massa para integrar el Consejo de la Magistratura en representación del peronismo. Massa aparece como referencia política del designado.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-17T02:29:03+00:00"
  },
  {
   "plataforma": "portal",
