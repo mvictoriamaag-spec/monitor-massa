@@ -1,6 +1,38 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "De la Tribuna TV",
+  "autor": "De la Tribuna TV",
+  "tipo": "nota",
+  "titulo": "Sergio Massa llega este miércoles a Misiones y se reunirá con Hugo Passalacqua",
+  "texto": "El exministro de Economía arribará a Posadas junto a Victoria Tolosa Paz. El encuentro forma parte de la agenda institucional del mandatario misionero con referentes nacionales que proyectan candidaturas presidenciales.",
+  "url": "https://delatribunatv.com/politica/politica-en-misiones/sergio-massa-llega-este-miercoles-a-misiones-y-se-reunira-con-hugo-passalacqua/",
+  "publicado": "2026-11-17T18:16:45+00:00",
+  "id": "71795fdc32921162",
+  "titulo_norm": "sergio massa llega este miércoles a misiones y se reunirá con hugo passalacqua",
+  "resumen": "El exministro de Economía Sergio Massa visitará Posadas este miércoles junto a Victoria Tolosa Paz y se reunirá con el gobernador misionero Hugo Passalacqua. El encuentro forma parte de la agenda institucional con referentes que proyectan candidaturas presidenciales.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-17T18:36:17+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Eduardo German",
+  "autor": "Eduardo German",
+  "tipo": "nota",
+  "titulo": "Quintela pegó el faltazo al acto con Massa por el Día de la Militancia, defendió las PASO y les facturó a los riojanos el voto a Milei",
+  "texto": "El gobernador desistió de viajar a San Fernando para no quedar atado a un armado sin mandatarios provinciales ni Axel Kicillof. Rechazó cambiar las reglas electorales a menos de un año de ir a las …",
+  "url": "https://eduardogerman.com/2026/11/17/quintela-pego-el-faltazo-al-acto-con-massa-por-el-dia-de-la-militancia-defendio-las-paso-y-les-facturo-a-los-riojanos-el-voto-a-milei/",
+  "publicado": "2026-11-17T17:42:17+00:00",
+  "id": "ccb6a4065e84e782",
+  "titulo_norm": "quintela pegó el faltazo al acto con massa por el día de la militancia defendió las paso y les facturó a los riojanos el",
+  "resumen": "El gobernador Quintela faltó al acto con Sergio Massa por el Día de la Militancia en San Fernando. Mientras tanto, defendió las PASO y rechazó cambiar las reglas electorales a menos de un año de los comicios.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-17T18:36:17+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Ciudadano News",
   "autor": "Ciudadano News",
   "tipo": "nota",
