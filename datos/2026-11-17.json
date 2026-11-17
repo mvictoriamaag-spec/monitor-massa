@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "interior",
+  "fuente": "Cadena 3 Argentina",
+  "autor": "Cadena 3 Argentina",
+  "tipo": "nota",
+  "titulo": "¿Ambos quieren, alguno puede llegar? La guerra de posiciones entre Kicillof y Massa",
+  "texto": "",
+  "url": "https://www.cadena3.com/noticia/cuadro-de-situacion/ambos-quieren-alguno-puede-llegar-la-guerra-de-posiciones-entre-kicillof-y-massa_613841",
+  "publicado": "2026-11-17T11:04:19+00:00",
+  "id": "21068392793cb227",
+  "titulo_norm": "ambos quieren alguno puede llegar la guerra de posiciones entre kicillof y massa",
+  "resumen": "Analiza la disputa de posiciones entre el gobernador Axel Kicillof y Sergio Massa dentro del peronismo, cuestionando quién de los dos tiene chances reales de llegar a una candidatura.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-17T11:23:47+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "Del Sur Diario",
   "autor": "Del Sur Diario",
@@ -158,6 +174,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-17T07:49:10+00:00"
+ },
+ {
+  "plataforma": "interior",
+  "fuente": "HolaSalta Noticias",
+  "autor": "HolaSalta Noticias",
+  "tipo": "nota",
+  "titulo": "Cumbre peronista en San Fernando: Massa, CFK y el PJ Federal buscan una alternativa electoral",
+  "texto": "Se realiza una cumbre peronista en San Fernando para reorganizar el espacio político de cara al próximo año. Con la presencia de Massa y CFK, pero sin Axel Kicillof.",
+  "url": "https://holasalta.com/post/cumbre-peronista-en-san-fernando-massa-cfk-y-el-pj-federal-buscan-una-alternativa-electoral/",
+  "publicado": "2026-11-17T06:18:46+00:00",
+  "id": "2e2eba5c7a3b1d90",
+  "titulo_norm": "cumbre peronista en san fernando massa cfk y el pj federal buscan una alternativa electoral",
+  "resumen": "Informa una cumbre peronista en San Fernando con Sergio Massa y Cristina Fernández de Kirchner, sin Axel Kicillof, que busca una alternativa electoral de cara al próximo año.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-17T11:23:47+00:00"
  },
  {
   "plataforma": "nacional",
