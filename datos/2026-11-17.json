@@ -1,6 +1,38 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "Del Sur Diario",
+  "autor": "Del Sur Diario",
+  "tipo": "nota",
+  "titulo": "Sin Axel Kicillof: Sergio Massa, Uñac y Zamora se juntan para hablar de la unidad peronista",
+  "texto": "Referentes del peronismo se reúnen en San Fernando para hablar de unidad. Axel Kicillof no fue invitado y quedó mirando desde la vereda.",
+  "url": "https://delsurdiario.com/politica/sin-axel-kicillof-sergio-massa-unac-y-zamora-se-juntan-para-hablar-de-la-unidad-peronista",
+  "publicado": "2026-11-17T10:33:23+00:00",
+  "id": "876cb7a781dc4aa3",
+  "titulo_norm": "sin axel kicillof sergio massa uñac y zamora se juntan para hablar de la unidad peronista",
+  "resumen": "Referentes del peronismo, entre ellos Sergio Massa, Uñac y Zamora, se reúnen en San Fernando para hablar de unidad. Axel Kicillof no fue invitado, según la nota.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-17T10:51:40+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "El Zonda",
+  "autor": "El Zonda",
+  "tipo": "nota",
+  "titulo": "Massa, Uñac y Zamora se muestran juntos en San Fernando y dejan a Kicillof afuera",
+  "texto": "Referentes del peronismo se reunirán en San Fernando para discutir unidad y estrategia. Axel Kicillof y su sector no fueron convocados.",
+  "url": "https://www.diarioelzondasj.com.ar/politica/massa-unac-y-zamora-se-muestran-juntos-en-san-fernando-y-dejan-a-kicillof-afuera",
+  "publicado": "2026-11-17T10:33:22+00:00",
+  "id": "fc270bdec97841cb",
+  "titulo_norm": "massa uñac y zamora se muestran juntos en san fernando y dejan a kicillof afuera",
+  "resumen": "Sergio Massa, Uñac y Zamora se muestran juntos en San Fernando para discutir unidad y estrategia del peronismo, dejando afuera a Axel Kicillof y su sector.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-17T10:51:40+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "MDZ Online",
   "autor": "MDZ Online",
   "tipo": "nota",
