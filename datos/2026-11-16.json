@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "7PAGINAS",
+  "autor": "7PAGINAS",
+  "tipo": "nota",
+  "titulo": "La apuesta de Cristina por Michel en la Magistratura reaviva la alianza con Massa y marca distancia con Kicillof.",
+  "texto": "",
+  "url": "https://7paginas.com.ar/la-apuesta-de-cristina-por-michel-en-la-magistratura-reaviva-la-alianza-con-massa-y-marca-distancia-con-kicillof/",
+  "publicado": "2026-11-17T02:57:26+00:00",
+  "id": "3136cf43a89f8962",
+  "titulo_norm": "la apuesta de cristina por michel en la magistratura reaviva la alianza con massa y marca distancia con kicillof",
+  "resumen": "Cristina Kirchner apuesta por Michel para la Magistratura, lo que reaviva la alianza con Sergio Massa y marca distancia con Axel Kicillof. Massa aparece como aliado político en la interna peronista.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-17T04:22:44+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "Río Negro",
   "autor": "Río Negro",
@@ -14,6 +30,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-17T02:29:03+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Diario Mendoza Today",
+  "autor": "Diario Mendoza Today",
+  "tipo": "nota",
+  "titulo": "Cristina Kirchner elige a un diputado cercano a Sergio Massa para el Consejo de la Magistratura",
+  "texto": "",
+  "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZVBDSk5wTWxxSkNCbS0tbEc4RG0tQktQcG9PckFBaXZPUVBFUDFWaGtqY0lPR01aVUdWOTlZeGc1SVN5MGV6czFkVzdVT044U05Nb29HYWw2WmFkWldpVzd5Y00yMVIyVXd2THRRYVIyR1JVVGw4TUV2UUp4QmlZZzk5QzJ4TTR4SUZOT1pVdnZjcEZfTXUwaGpoOXhzeGkwQXhsd2Qxcl9DeEZkcEJWS29vdXlFN1dzd0ZFQVVDc2YzMm1DbHc40gHHAUFVX3lxTE9lUENKTnBNbHFKQ0JtLS1sRzhEbS1CS1Bwb09yQUFpdk9RUEVQMVZoa2pjSU9HTVpVR1Y5OVl4ZzVJU3kwZXpzMWRXN1VPTjhTTk1vb0dhbDZaYWRaV2lXN3ljTTIxUjJVd3ZMdFFhUjJHUlVUbDhNRXZRSnhCaVlnOTlDMnhNNHhJRk5PWlV2dmNwRl9NdTBoamg5eHN4aTBBeGx3ZDFyX0N4RmRwQlZLb291eUU3V3N3RkVBVUNzZjMybUNsdzg?oc=5",
+  "publicado": "2026-11-17T01:55:10+00:00",
+  "id": "a626439fa68e06bc",
+  "titulo_norm": "cristina kirchner elige a un diputado cercano a sergio massa para el consejo de la magistratura",
+  "resumen": "Cristina Kirchner elige a un diputado cercano a Sergio Massa para integrar el Consejo de la Magistratura. La nota muestra la cercanía de Massa con el kirchnerismo en la designación.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-17T04:22:44+00:00"
  },
  {
   "plataforma": "nacional",
@@ -142,6 +174,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-17T00:08:46+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Primera Página",
+  "autor": "Primera Página",
+  "tipo": "nota",
+  "titulo": "Sergio Massa se alía con el peronismo federal para lanzar su candidatura presidencial y enfrentar a Axel Kicillof",
+  "texto": "",
+  "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQU05CN2VrMXdVUTVoa3FhRllnU3hCcjBpZ0tpSlN0OW84cWN1VEJWNTg4T3drZTA0QTZMUnkwaEdJTXJpeTl3RTFudFNJSDh5RGdzUDVTb05CcUFKX24teU5NbUhVY3hJbzR1VWI1NndGanVGVlhMc1R4Tjhkdlo1cDZiLWFndXd0WVpGMEJ2Q2RkRDZZUDN5ckQyV0pITzNHSnViRTRlWFhtVUprUGVTTVlOXzNvZ2gweWNGZ1NXS3dCMVB4YnJFYkFCOHZKUVM1Wm1wVUZleHZYUzA1Y0RqaE52LUptTTVJWHdXNFp6cGpiTW1uWVVYdGRobzd1NWQ1YTIzMXNR0gGUAkFVX3lxTE5XY19VNFhmRFYwdXRRMkI3WnZURllUZDVBYTU0UTNlalEzcHItSWhCX1BUaEVra293ODNDc0hMNWZma0V6Zy1zeUZUOW01aTNyNTNzakZCNEFiS1gwR19LTjMwQnczYWN4Wk5wdkllc0xXM1hVR2o0X1BLNEM0RWRJbWQxV1RnclUtano2LTE2MmVXR0tpVmk1U2toWnNGb1ZWVU0tRWVwWG52bHU2YVVsNUpkN0k5U1Z5TU5pZlpRQ3pxbzQyWkN0WkVmZk9kU3NQelZMajhHTi0xelNiRzFRMVVGTFBlMS1WRF9qaGNWTWMtVm1aZmJ0T01NY3VJNGd3VVRTUjdSZl9zNUVLZ0R6UHRGNA?oc=5",
+  "publicado": "2026-11-16T23:31:40+00:00",
+  "id": "0ce3fa497e39e236",
+  "titulo_norm": "sergio massa se alía con el peronismo federal para lanzar su candidatura presidencial y enfrentar a axel kicillof",
+  "resumen": "Sergio Massa se alía con el peronismo federal para lanzar su candidatura presidencial y enfrentar a Axel Kicillof. La nota presenta su proyecto como una disputa dentro del peronismo.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-17T04:22:44+00:00"
  },
  {
   "plataforma": "interior",
