@@ -176,6 +176,22 @@
   "recolectado": "2026-11-16T23:26:25+00:00"
  },
  {
+  "plataforma": "portal",
+  "fuente": "noticiasdebariloche.com.ar",
+  "autor": "noticiasdebariloche.com.ar",
+  "tipo": "nota",
+  "titulo": "Acuerdo entre Cristina Kirchner y Massa",
+  "texto": "",
+  "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPMmtNRE8yempCaUYycW9Ndy1kUTBNTnZzUVlVUmVmbEJiVWFoRG10UWxjQVhvdjcyLWJfNmdmSnFGOHlfUW40MUVEU1hQWENiUlRYZjlDYjJwMk04Tlp6bGo4UTRfYnlzMW5jc09QM2swelRuSjZReWVNazVNcHdZR3lTaTdIc3ZUbnBlbm5uOW1qTmlnbUZmdTgzVk1KanR3UUowRjV1dmRHYmNWSGU2aVZ3VFdKLWtSNEVzc2x0TDJ0V0JXOEl5c05EdFFZUlZ4YjdDNWxzZ3l3aXptWGRYUzBiY2EzUWR0RjkzUzdmSVU5ckpxc0hWUE9QZlIzMTZ2M0xESg?oc=5",
+  "publicado": "2026-11-16T22:39:49+00:00",
+  "id": "cd24299247509fec",
+  "titulo_norm": "acuerdo entre cristina kirchner y massa",
+  "resumen": "Nota que informa sobre un acuerdo entre la expresidenta Cristina Kirchner y Sergio Massa, en el marco de la política argentina. La información disponible es breve y no detalla los términos del acuerdo.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-17T01:17:05+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Infobae",
   "autor": "Infobae",
