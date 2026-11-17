@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "nacional",
+  "fuente": "La Política Online",
+  "autor": "La Política Online",
+  "tipo": "nota",
+  "titulo": "Massa suspendió el viaje a San Pablo para estar en el acto del peronismo en San Fernando",
+  "texto": "En La Plata niegan que Kicillof haya sido invitado. Pero en el peronismo dicen que Katopodis y Cascallares se habían comprometido a ir y que luego cancelaron.",
+  "url": "https://www.lapoliticaonline.com/politica/massa-suspendio-el-viaje-a-san-pablo-para-estar-en-el-acto-del-peronismo-en-san-fernando/",
+  "publicado": "2026-11-17T19:13:38+00:00",
+  "id": "f9f4ecbeee19e593",
+  "titulo_norm": "massa suspendió el viaje a san pablo para estar en el acto del peronismo en san fernando",
+  "resumen": "Informa que Sergio Massa suspendió su viaje a San Pablo para estar en un acto peronista en San Fernando. En La Plata niegan que Kicillof haya sido invitado, mientras en el peronismo dicen que Katopodis y Cascallares se habían comprometido a ir y cancelaron.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-17T19:44:01+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "De la Tribuna TV",
   "autor": "De la Tribuna TV",
