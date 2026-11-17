@@ -1,6 +1,22 @@
 [
  {
   "plataforma": "interior",
+  "fuente": "Diario Panorama",
+  "autor": "Diario Panorama",
+  "tipo": "nota",
+  "titulo": "Según Granados es inevitable que Cristina Kirchner va a terminar eligiendo a Massa por encima de Kicillof",
+  "texto": "Así lo expresó el licenciado Osvaldo Granados en su columna de este martes para Radio Panorama al referirse al candidato presidencial de la oposición en las elecciones del año próximo.",
+  "url": "https://www.diariopanorama.com/noticia/573263/segun-granados-es-inevitable-cristina-kirchner-va-terminar-eligiendo-massa-encima-kicillof",
+  "publicado": "2026-11-17T11:19:59+00:00",
+  "id": "1de3f9999e67505c",
+  "titulo_norm": "según granados es inevitable que cristina kirchner va a terminar eligiendo a massa por encima de kicillof",
+  "resumen": "Columna de opinión de Osvaldo Granados en Radio Panorama que sostiene que Cristina Kirchner terminará eligiendo a Massa por encima de Kicillof como candidato presidencial de la oposición para el próximo año electoral.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-17T11:34:02+00:00"
+ },
+ {
+  "plataforma": "interior",
   "fuente": "Cadena 3 Argentina",
   "autor": "Cadena 3 Argentina",
   "tipo": "nota",
