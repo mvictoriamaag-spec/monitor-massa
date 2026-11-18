@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "Diario Neuquino",
+  "autor": "Diario Neuquino",
+  "tipo": "nota",
+  "titulo": "El peronismo reunió a Massa y al kirchnerismo para enfrentar a Milei en 2027, pero sin Kicillof",
+  "texto": "Dirigentes de distintos sectores del PJ participaron de un encuentro en San Fernando para avanzar en la construcción de una alternativa electoral al Gobierno de Javier Milei. Sergio Massa reapareció como uno de los principales articuladores del espacio, con el respaldo de sectores vinculados a Cristina Kirchner. La ausencia de Axel Kicillof dejó en evidencia […]",
+  "url": "https://diarioneuquino.com.ar/el-peronismo-reunio-a-massa-y-al-kirchnerismo-para-enfrentar-a-milei-en-2027-pero-sin-kicillof/",
+  "publicado": "2026-11-18T08:44:33+00:00",
+  "id": "46500485cf2b472d",
+  "titulo_norm": "el peronismo reunió a massa y al kirchnerismo para enfrentar a milei en 2027 pero sin kicillof",
+  "resumen": "Una nota de Diario Neuquino informa que dirigentes del PJ, incluido el kirchnerismo, se reunieron en San Fernando para construir una alternativa electoral contra Milei en 2027, sin Kicillof. Massa aparece como uno de los principales articuladores del espacio.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T08:54:56+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "El Argentino Diario",
   "autor": "El Argentino Diario",
