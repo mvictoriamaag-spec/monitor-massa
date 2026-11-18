@@ -1,6 +1,22 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "Primer Plano Online",
+  "autor": "Primer Plano Online",
+  "tipo": "nota",
+  "titulo": "Martín Marinucci, tras el acto de Sergio Massa en San Fernando: “La militancia nos une, el futuro nos convoca”",
+  "texto": "",
+  "url": "https://primerplanoonline.com.ar/martin-marinucci-tras-el-acto-de-sergio-massa-en-san-fernando-la-militancia-nos-une-el-futuro-nos-convoca/",
+  "publicado": "2026-11-18T17:09:35+00:00",
+  "id": "4efc0c452dcccfbf",
+  "titulo_norm": "martín marinucci tras el acto de sergio massa en san fernando la militancia nos une el futuro nos convoca",
+  "resumen": "Martín Marinucci destaca el acto de Sergio Massa en San Fernando y sostiene que la militancia une y que el futuro convoca. Es una declaración de apoyo a Massa.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T17:14:17+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "LV16.com.ar",
   "autor": "LV16.com.ar",
   "tipo": "nota",
