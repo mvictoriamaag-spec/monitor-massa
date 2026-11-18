@@ -1,6 +1,38 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "LV16.com.ar",
+  "autor": "LV16.com.ar",
+  "tipo": "nota",
+  "titulo": "Sergio Massa posicionó a Natalia de la Sota entre las posibles candidatas presidenciales del peronismo para 2027",
+  "texto": "",
+  "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTm5ZZ0YtWlRNYndOM0FTRzMtZVhRTFZPNXRpeVVaaTJRZnNUdGdOUjBOU0xzQXJ4REEydmxCM3dXaENucVJNSXNnd0pJUWczeUI5a0RuMUxCdzB3Yi1TUEJJanF1M3BNcWczLVZqTGk1Z0JCZlFURXZOak1taXlEeGZMRDBZU1A1UTdtbk14UVVUN0lmQWxRMnJjajUzd1ZKVS1pQ056ems0ZUJIR2o1SXEyekRzSkllS0RKa0ttR21qSzFOdHF1VUljMHVuajNVTV9XYmdlYkhoTURINUZNX2NmemJodw?oc=5",
+  "publicado": "2026-11-18T16:15:00+00:00",
+  "id": "2aa243e0e115b922",
+  "titulo_norm": "sergio massa posicionó a natalia de la sota entre las posibles candidatas presidenciales del peronismo para 2027",
+  "resumen": "Sergio Massa ubicó a Natalia de la Sota entre las posibles candidatas presidenciales del peronismo para 2027, lo que la presenta como figura con proyección nacional dentro del espacio.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T17:01:40+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "La 100",
+  "autor": "La 100",
+  "tipo": "nota",
+  "titulo": "Luis Caputo criticó a la cumbre del PJ organizada por Sergio Massa por cantar “Combatir el capital”: “Es estúpido, tonto y patético”",
+  "texto": "",
+  "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxONVRnRG5JTjBKOE10bkdRdzV3bzBhdXliOTE3U285a0NRZDZrYWxjWHJNLU9fOFRLY0wwTkNaUnUxWXM3Ulp1ZTRROU14aEcwVi1BZ2djcEozYlZHczcyNW5ZLVQyc1lvejR6czNvSHI4VWlDNHNJVmt4ZU9WN0h0dWZLa1hmOW5JZENhZ1h3WE1rbk5QaTJrSWYtVzhKcHFndWpCREIwLTRKeGU2b0dmMS1QY1pWMTlDOS1yYmZPNTI2Qk5ab0wwZWozQngzY0dxRUhwMUxmR1BlTWJIampCVFJYVDlNWDRmbF9MWWtzMDExb3EweGlTYw?oc=5",
+  "publicado": "2026-11-18T16:10:46+00:00",
+  "id": "6018942c9a64fded",
+  "titulo_norm": "luis caputo criticó a la cumbre del pj organizada por sergio massa por cantar combatir el capital es estúpido tonto y pa",
+  "resumen": "Luis Caputo criticó con dureza la cumbre del PJ organizada por Sergio Massa, en la que se cantó “Combatir el capital”, y la calificó de “estúpida, tonta y patética”.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T17:01:40+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Impacto Castex",
   "autor": "Impacto Castex",
   "tipo": "nota",
@@ -926,6 +958,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-18T11:06:24+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "AIM Digital",
+  "autor": "AIM Digital",
+  "tipo": "nota",
+  "titulo": "Massa y el peronismo federal buscan construir un frente opositor para 2027",
+  "texto": "",
+  "url": "https://www.aimdigital.com.ar/politica/massa-y-el-peronismo-federal-buscan-construir-un-frente-opositor-para-2027.htm",
+  "publicado": "2026-11-18T10:32:59+00:00",
+  "id": "3cccd10e1b59d6af",
+  "titulo_norm": "massa y el peronismo federal buscan construir un frente opositor para 2027",
+  "resumen": "Sergio Massa y el peronismo federal trabajan en la construcción de un frente opositor de cara a las elecciones de 2027.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T17:01:40+00:00"
  },
  {
   "plataforma": "portal",
