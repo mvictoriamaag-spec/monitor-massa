@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "nacional",
+  "fuente": "REALPOLITIK",
+  "autor": "REALPOLITIK",
+  "tipo": "nota",
+  "titulo": "Juan Malpeli: “Sergio Massa es un candidatazo para presidente de la Nación”",
+  "texto": "El diputado bonaerense analizó el presupuesto bonaerense, las reelecciones y las PASO, y pidió que el peronismo vaya unido a 2027.",
+  "url": "https://realpolitik.com.ar/nota/75308/juan-malpeli-sergio-massa-es-un-candidatazo-para-presidente-de-la-nacion/",
+  "publicado": "2026-11-18T23:00:26+00:00",
+  "id": "e25edc3845d36ba9",
+  "titulo_norm": "juan malpeli sergio massa es un candidatazo para presidente de la nación",
+  "resumen": "El diputado bonaerense Juan Malpeli sostiene que Sergio Massa es un “candidatazo” para la presidencia. Además analiza el presupuesto bonaerense, las reelecciones y las PASO, y pide que el peronismo vaya unido en 2027. Apoyo explícito a Massa.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T23:32:49+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "Tiempo de San Juan",
   "autor": "Tiempo de San Juan",
@@ -1150,6 +1166,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-18T11:50:06+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Página Política",
+  "autor": "Página Política",
+  "tipo": "nota",
+  "titulo": "Massa aseguró unidad. Los entrerrianos que dieron el presente en San Fernando",
+  "texto": "Fue en un acto en San Fernando, en el que el ex ministro estuvo rodeado de dirigentes del peronismo federal, kirchneristas y de las provincias.",
+  "url": "https://paginapolitica.com/massa-aseguro-unidad-los-entrerrianos-que-dieron-el-presente-en-san-fernando/",
+  "publicado": "2026-11-18T11:32:31+00:00",
+  "id": "b4e9b7ae6860b9a7",
+  "titulo_norm": "massa aseguró unidad los entrerrianos que dieron el presente en san fernando",
+  "resumen": "Massa, ex ministro, llamó a la unidad en un acto en San Fernando, rodeado de dirigentes del peronismo federal, kirchneristas y de las provincias. La nota destaca la presencia de referentes entrerrianos en el encuentro.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T23:32:49+00:00"
  },
  {
   "plataforma": "portal",
