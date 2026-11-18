@@ -1,5 +1,37 @@
 [
  {
+  "plataforma": "nacional",
+  "fuente": "Perfil",
+  "autor": "Perfil",
+  "tipo": "nota",
+  "titulo": "Jorge Asís: “Es Axel Kicillof contra Sergio Massa”",
+  "texto": "El analista sostuvo que en el peronismo “se reitera el duelo de 1988 entre Antonio Cafiero y Carlos Menem”.",
+  "url": "https://www.perfil.com/nea/jorge-asis-es-axel-kicillof-contra-sergio-massa-amcVn1g1AiJK",
+  "publicado": "2026-11-18T17:26:15+00:00",
+  "id": "b690f9e74376bd48",
+  "titulo_norm": "jorge asís es axel kicillof contra sergio massa",
+  "resumen": "Jorge Asís, analista político, sostiene que en el peronismo se enfrentan Axel Kicillof y Sergio Massa, un duelo que, según él, reitera el de 1988 entre Antonio Cafiero y Carlos Menem.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T17:31:39+00:00"
+ },
+ {
+  "plataforma": "interior",
+  "fuente": "La Voz del Interior",
+  "autor": "La Voz del Interior",
+  "tipo": "nota",
+  "titulo": "Jorge Asís: Hoy es Massa versus Axel, pero van a llegar en unidad",
+  "texto": "El analista político repasó el escenario del peronismo y el panorama electoral nacional en el streaming La Voz En Vivo.",
+  "url": "https://www.lavoz.com.ar/politica/jorge-asis-hoy-massa-versus-axel-van-llegar-unidad_0_C42rd0Y1PI.html",
+  "publicado": "2026-11-18T17:16:27+00:00",
+  "id": "48a973164d67c348",
+  "titulo_norm": "jorge asís hoy es massa versus axel pero van a llegar en unidad",
+  "resumen": "Jorge Asís, analista político, repasa el escenario del peronismo y el panorama electoral nacional en La Voz En Vivo. Sostiene que hoy el peronismo enfrenta a Massa y Kicillof, aunque prevé que terminarán llegando en unidad.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T17:31:39+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "Primer Plano Online",
   "autor": "Primer Plano Online",
