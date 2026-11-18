@@ -49,6 +49,22 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "Diario Mendoza Today",
+  "autor": "Diario Mendoza Today",
+  "tipo": "nota",
+  "titulo": "Qué significa la foto de Stevanato y Difonso con Massa para las elecciones 2027 en Mendoza",
+  "texto": "",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMThFaklrcWhkSDRTRTBhcGRRWFRuekpkQ0JxMTFVN2tmVS1uQ3d0d210VkhxM2RyMzFhQS1RRl9lWktCWEhJaVBHcFFQOGRXZjdTZUNCeXhJeHJNRTZBNWZTNFh5bVVOS19GZnhGNFRib2hic2dTbERyY2Zxd3BwaDJLc2swUTZacTc0VzhzUGpUN2020gGOAUFVX3lxTFB4R0hKcnREeUpiaTJQRmcyOGRwd1ZXWkI0cjZtY1RCQjFXd0s5WjV2V0Iwbl9icTdtQ2FoLUhuZnVZQjhLMHRodklMNXpvQ0tlM09zUzNsbmdoNmpNM0dRaXpaenc4bm9vcjc4VDNKVWNhVGtZa1B6ZngwalhtTmlxZFd3VjBPZkRadG1lSEE?oc=5",
+  "publicado": "2026-11-18T16:20:11+00:00",
+  "id": "015ab5d880f1096d",
+  "titulo_norm": "qué significa la foto de stevanato y difonso con massa para las elecciones 2027 en mendoza",
+  "resumen": "Analiza el significado político de una foto de Stevanato y Difonso junto a Sergio Massa, y su posible impacto de cara a las elecciones de 2027 en Mendoza.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T18:01:33+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "LV16.com.ar",
   "autor": "LV16.com.ar",
   "tipo": "nota",
@@ -561,6 +577,22 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "TN",
+  "autor": "TN",
+  "tipo": "nota",
+  "titulo": "Tres escenarios para Milei, Bullrich y Massa, y un pronóstico de Cristina Kirchner que va a fallar",
+  "texto": "",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNemtzSGZlZWZvUXlBVW1IbG1Vb0NHcXhBa2xMcVdCVDVxRi1UbHlHd0dUMUJCTFRVU2Ftd0lsREpoa3RkUHVmSWZxSjR6bUg2emVBTkdjWnJ5YVBYMzM4eUVyRXB0Z3pCTy0ydFFaTnlDQl8xMmJ2ZVBuVkxqUzJjNG92Wm9iUkh1ZVFGYVFnWVZtT2lfU2g0bUJxM3FCSmd5VHpMQ1d4SGdUV1BjYUhnS1FqV08yemMwdG5wclBqV085cWPSAdcBQVVfeXFMT0hMYkE5RlJYY01vaTBBaW5uWWNMM2RzbGRudS15V3c0VW16ZmJSNlRQbXg5N3NHRFR1TGN6OWdDb0psYi1uZ3Y5ZlVZTnVIOXNiOVRlR0Z1Ty1pWTUtbDlWcnNHUW96NG9iNE5ybEF5VEJhZURwekc5T2t2Q2NuajV2NVg1ZnFIcWdwZk9XeURCSlNaeWJGZXFmeW84dHNjSWd5T292MjVSc0dTcDk5OG9FOFRzdUVoN3BpREtXdHlCaHR6VU93TksxYlhLVTROX0o0VlpjRTQ?oc=5",
+  "publicado": "2026-11-18T13:08:02+00:00",
+  "id": "f958899392698b70",
+  "titulo_norm": "tres escenarios para milei bullrich y massa y un pronóstico de cristina kirchner que va a fallar",
+  "resumen": "Plantea tres posibles escenarios políticos que involucran a Milei, Bullrich y Sergio Massa, e incluye un pronóstico de Cristina Kirchner que la nota presenta como erróneo.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T18:01:33+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Impacto Castex",
   "autor": "Impacto Castex",
   "tipo": "nota",
@@ -830,6 +862,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-18T12:31:11+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Editorial RN",
+  "autor": "Editorial RN",
+  "tipo": "nota",
+  "titulo": "Ramiro Massa asumió como director ejecutivo de Lunex Metals",
+  "texto": "",
+  "url": "https://editorialrn.com.ar/ramiro-massa-asumio-como-director-ejecutivo-de-lunex-metals/",
+  "publicado": "2026-11-18T11:30:33+00:00",
+  "id": "2f6c60fd3940de20",
+  "titulo_norm": "ramiro massa asumió como director ejecutivo de lunex metals",
+  "resumen": "Informa que Ramiro Massa asumió como director ejecutivo de la empresa Lunex Metals. No se trata de Sergio Massa.",
+  "relevante": 0,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T18:01:33+00:00"
  },
  {
   "plataforma": "portal",
