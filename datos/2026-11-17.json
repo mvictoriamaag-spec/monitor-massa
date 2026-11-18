@@ -96,6 +96,22 @@
   "recolectado": "2026-11-18T02:43:44+00:00"
  },
  {
+  "plataforma": "nacional",
+  "fuente": "La Política Online",
+  "autor": "La Política Online",
+  "tipo": "nota",
+  "titulo": "Massa juntó a buena parte de la dirigencia nacional del peronismo: \"Va a haber unidad y vamos a ganar\"",
+  "texto": "El ex ministro reunió a intendentes del Conurbano, La Cámpora, Gerardo Zamora, Uñac, Manzur, De la Sota y Olmos, entre otros. Faltó Kicillof.",
+  "url": "https://www.lapoliticaonline.com/politica/massa-junto-la-dirigencia-peronist/",
+  "publicado": "2026-11-18T02:13:15+00:00",
+  "id": "8c8dbe1973f02a98",
+  "titulo_norm": "massa juntó a buena parte de la dirigencia nacional del peronismo va a haber unidad y vamos a ganar",
+  "resumen": "Massa reunió a intendentes del Conurbano, La Cámpora y varios gobernadores y dirigentes peronistas, con mensaje de unidad y de confianza en ganar. Kicillof no asistió a la reunión.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T03:31:29+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "Canal C",
   "autor": "Canal C",
