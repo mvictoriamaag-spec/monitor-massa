@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "Impacto Castex",
+  "autor": "Impacto Castex",
+  "tipo": "nota",
+  "titulo": "Massa suspendió su viaje a Brasil para el acto peronista en San Fernando",
+  "texto": "El dirigente participará del encuentro por el Día de la Militancia, en medio de la tensión por la ausencia de Axel Kicillof. Los organizadores niegan que el acto busque confrontar con el gobernador y sostienen que apunta a la unidad del peronismo.",
+  "url": "https://impactocastex.com.ar/politica/19158/massa-suspendio-su-viaje-a-brasil-para-el-acto-peronista-en-san-fernando",
+  "publicado": "2026-11-18T16:00:04+00:00",
+  "id": "d152dbe4267024b4",
+  "titulo_norm": "massa suspendió su viaje a brasil para el acto peronista en san fernando",
+  "resumen": "Massa suspendió su viaje a Brasil para participar del acto peronista por el Día de la Militancia en San Fernando, en medio de tensiones con Axel Kicillof. Los organizadores sostienen que el encuentro busca la unidad del peronismo y no confrontar con el gobernador.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T16:07:57+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Radio Mitre",
   "autor": "Radio Mitre",
