@@ -1,5 +1,37 @@
 [
  {
+  "plataforma": "interior",
+  "fuente": "Tiempo de San Juan",
+  "autor": "Tiempo de San Juan",
+  "tipo": "nota",
+  "titulo": "De Mendiguren en Paren: San Juan como “leading case” de la minería, Massa para 2027 y el desafío de la unidad peronista",
+  "texto": "El exministro de Producción de la Nación pasó por Paren las Rotativas y dejó definiciones sobre el potencial minero sanjuanino, el RIGI, la situación de la industria argentina y el futuro del peronismo. Consideró que Sergio Massa puede encabezar una alternativa para 2027 y pidió construir un proyecto de desarrollo que incluya a todos los argentinos.",
+  "url": "https://www.tiempodesanjuan.com/politica/de-mendiguren-en-paren-san-juan-como-leading-case-de-la-mineria-massa-para-2027-y-el-desafio-de-la-unidad-peronista_1795039853",
+  "publicado": "2026-11-18T22:10:53+00:00",
+  "id": "991092e9fd17bf15",
+  "titulo_norm": "de mendiguren en paren san juan como leading case de la minería massa para 2027 y el desafío de la unidad peronista",
+  "resumen": "El exministro de Producción de la Nación habló en Paren las Rotativas sobre minería, RIGI e industria, y consideró que Sergio Massa puede encabezar una alternativa peronista para 2027. Pidió un proyecto de desarrollo inclusivo para todos los argentinos.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T22:43:01+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Mundo Gremial",
+  "autor": "Mundo Gremial",
+  "tipo": "nota",
+  "titulo": "La CGT empezó a mostrar sus cartas para 2027: foto con Massa y La Cámpora, sin Kicillof",
+  "texto": "Dos de los tres secretarios generales que integran el triunvirato de la CGT y el secretario adjunto de la central obrera participaron del acto por el Día de la Militancia en San Fernando, donde confluyeron el massismo y La Cámpora. Axel Kicillof estuvo ausente, en una nueva postal de la interna peronista rumbo a 2027.",
+  "url": "https://mundogremial.com/la-cgt-empezo-a-mostrar-sus-cartas-para-2027-foto-con-massa-y-la-campora-sin-kicillof/",
+  "publicado": "2026-11-18T21:43:38+00:00",
+  "id": "3a05e28ee0043c71",
+  "titulo_norm": "la cgt empezó a mostrar sus cartas para 2027 foto con massa y la cámpora sin kicillof",
+  "resumen": "Dirigentes de la CGT participaron del acto por el Día de la Militancia en San Fernando, donde confluyeron el massismo, sector de Sergio Massa, y La Cámpora. Kicillof estuvo ausente, en otra señal de la interna peronista rumbo a 2027.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T22:43:01+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "Enfoque Misiones",
   "autor": "Enfoque Misiones",
