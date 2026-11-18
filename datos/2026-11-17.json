@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "PlusInformacion",
+  "autor": "PlusInformacion",
+  "tipo": "nota",
+  "titulo": "Día de la Militancia en San Fernando con Massa, parte del kirchnerismo y sin el MDF de Kicillof",
+  "texto": "La reuni&oacute;n por el D&iacute;a de la Militancia no cont&oacute; con M&aacute;ximo Kirchner ni con miembros del Movimiento Derecho al Futuro que lidera el gobernador, Axel Kicillof.",
+  "url": "https://www.plusinformacion.com.ar/nota.php?Id=86615",
+  "publicado": "2026-11-18T01:50:56+00:00",
+  "id": "c6fbafb1615f9bb5",
+  "titulo_norm": "día de la militancia en san fernando con massa parte del kirchnerismo y sin el mdf de kicillof",
+  "resumen": "El acto por el Día de la Militancia en San Fernando contó con Massa y sectores del kirchnerismo, pero sin Máximo Kirchner ni integrantes del MDF de Axel Kicillof.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T02:01:29+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "La Nación",
   "autor": "La Nación",
@@ -753,6 +769,22 @@
  },
  {
   "plataforma": "interior",
+  "fuente": "La Gaceta (Tucumán)",
+  "autor": "La Gaceta (Tucumán)",
+  "tipo": "nota",
+  "titulo": "Manzur participó de una cumbre peronista para construir un frente nacional contra Milei",
+  "texto": "El senador compartió un encuentro con Sergio Massa, Gerardo Zamora y otros referentes del PJ en San Fernando. También estuvieron presentes Pablo Yedlin y Carlos Cisneros",
+  "url": "https://www.lagaceta.com.ar/nota/1163024/politica/manzur-participo-cumbre-peronista-para-construir-frente-nacional-contra-milei.html",
+  "publicado": "2026-11-17T22:50:00+00:00",
+  "id": "35d75b4154565e66",
+  "titulo_norm": "manzur participó de una cumbre peronista para construir un frente nacional contra milei",
+  "resumen": "El senador Manzur participó de una cumbre del PJ en San Fernando junto a Sergio Massa, Gerardo Zamora y otros referentes, con el objetivo de construir un frente nacional opositor a Milei.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T02:01:29+00:00"
+ },
+ {
+  "plataforma": "interior",
   "fuente": "El Territorio",
   "autor": "El Territorio",
   "tipo": "nota",
@@ -766,6 +798,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-18T01:49:03+00:00"
+ },
+ {
+  "plataforma": "nacional",
+  "fuente": "Agencia Noticias Argentinas",
+  "autor": "Agencia Noticias Argentinas",
+  "tipo": "nota",
+  "titulo": "Día de la Militancia: Massa armó un acto con varias tribus del PJ para aislar a Kicillof, y Máximo K estuvo en La Pampa",
+  "texto": "Además, La Cámpora movilizó a San José 1111 para saludar a Cristina Kirchner, que salió al balcón por un largo rato.",
+  "url": "https://noticiasargentinas.com/politica/dia-de-la-militancia--massa-armo-un-acto-con-varias-tribus-del-pj-para-aislar-a-kicillof--y-maximo-k-estuvo-en-la-pampa_a6afcc94e80252b427d48fdae",
+  "publicado": "2026-11-17T22:44:00+00:00",
+  "id": "feb81a5723d655c3",
+  "titulo_norm": "día de la militancia massa armó un acto con varias tribus del pj para aislar a kicillof y máximo k estuvo en la pampa",
+  "resumen": "Con motivo del Día de la Militancia, Massa organizó un acto con distintos sectores del PJ, lo que se interpreta como un intento de dejar aislado a Axel Kicillof. La Cámpora también movilizó a San José 1111 para saludar a Cristina Kirchner.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T02:01:29+00:00"
  },
  {
   "plataforma": "nacional",
@@ -1374,6 +1422,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-17T13:54:54+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "TradingView",
+  "autor": "TradingView",
+  "tipo": "nota",
+  "titulo": "Lunex Metals appoints Ramiro Massa as CEO",
+  "texto": "Lunex Metals TSXV:LUNX announced Tuesday the appointment of Ramiro Massa as chief executive officer, effective immediately.Massa has served as the company's vice president, of corporate development since May 2026 and succeeds Pablo Cortegoso, who will continue as chairman of the board of directors…",
+  "url": "https://es.tradingview.com/news/seekingalpha:39bdd937d094b:0-lunex-metals-appoints-ramiro-massa-as-ceo/",
+  "publicado": "2026-11-17T12:56:25+00:00",
+  "id": "3c90ddb2698866df",
+  "titulo_norm": "lunex metals appoints ramiro massa as ceo",
+  "resumen": "La minera Lunex Metals anunció la designación de Ramiro Massa como CEO, cargo que asume de inmediato tras desempeñarse como vicepresidente de desarrollo corporativo. No se trata de Sergio Massa.",
+  "relevante": 0,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T02:01:29+00:00"
  },
  {
   "plataforma": "portal",
