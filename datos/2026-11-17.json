@@ -1,6 +1,38 @@
 [
  {
   "plataforma": "interior",
+  "fuente": "Río Negro",
+  "autor": "Río Negro",
+  "tipo": "nota",
+  "titulo": "Cumbre del peronismo en San Fernando: Massa reunió a dirigentes federales con un mensaje para Milei y la interna, pero sin Kicillof",
+  "texto": "El exministro de Economía levantó el perfil tras tres años de sigilo para encabezar un encuentro con representación nacional y articular un frente opositor. Estuvo presente el rionegrino Pedro Pesatti junto a Miguel Ángel Pichetto y la ausencia del gobernador bonaerense generó pases de factura.",
+  "url": "https://www.rionegro.com.ar/politica/cumbre-del-peronismo-en-san-fernando-massa-reunio-a-dirigentes-federales-con-un-mensaje-para-milei-y-la-interna-pero-sin-kicillof-4802543/",
+  "publicado": "2026-11-18T02:55:46+00:00",
+  "id": "ee7cbb0eef42abb6",
+  "titulo_norm": "cumbre del peronismo en san fernando massa reunió a dirigentes federales con un mensaje para milei y la interna pero sin",
+  "resumen": "Massa encabezó en San Fernando una cumbre del peronismo con dirigentes federales, con un mensaje hacia Milei y la interna. La ausencia de Kicillof generó reproches. Participaron Pesatti y Pichetto.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T03:01:37+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Info del Estero",
+  "autor": "Info del Estero",
+  "tipo": "nota",
+  "titulo": "Sergio Massa: \"hoy acá hubo tres candidatos a Presidente. Gerardo Zamora, Sergio Uñac y Natalia de la Sota\"",
+  "texto": "",
+  "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMkxmckhMUWJiLUYydE5xUV9aT3ZHekRaaGJRdDdwYk0xVHdJSTk2cmlXUi1BQVhjbzhacE1OSWxzZkxHOThNbEZwOEhTbFJ5NThuMFV5U0IyYXRkUEhHTzZ4elAzbFl6RkxLR3BNT1FLMG9GQlpGU20tYmlMdktYLThvb1poUVRyeC1OR0dIXzFhcF9QRDF4QmN2UURkWnpmd191QTN1bVF1Xzk2elJ6QVZwR0dZNG40czhVd3F5MVBlM1FmazZyQWNUUQ?oc=5",
+  "publicado": "2026-11-18T02:43:04+00:00",
+  "id": "005a2da15fd2528d",
+  "titulo_norm": "sergio massa hoy acá hubo tres candidatos a presidente gerardo zamora sergio uñac y natalia de la sota",
+  "resumen": "Declaración de Sergio Massa sobre un encuentro al que asistieron, según sus palabras, tres candidatos a presidente: Gerardo Zamora, Sergio Uñac y Natalia de la Sota.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T03:01:37+00:00"
+ },
+ {
+  "plataforma": "interior",
   "fuente": "LM Neuquén",
   "autor": "LM Neuquén",
   "tipo": "nota",
@@ -1662,6 +1694,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-17T12:31:32+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Que Pasa Web",
+  "autor": "Que Pasa Web",
+  "tipo": "nota",
+  "titulo": "El peronismo federal tendrá un gesto de apoyo a Sergio Massa en un acto en San Fernando",
+  "texto": "",
+  "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcW1jNHJtaS1aS2ZKMEI1aF9EWjJmWUNmdWx4c051d3Q3V1RBSEtXdjNvSktrODFqSTB4cFN6bFU2VHNCVjA4bDMtNjRaVVdENFU3SWItcUdTRGhHa3Zocy0tMWNxOWtkZjZTbDFzcHpVWmVYeDY0SkVEUjhSWjNWbnZKWmE1ajB3VDRIX2NrZW4tZENwel9xQXJqeWR0eWo0Y3hFZzlLdzNzYlVaUHA5RXdmNkFUQQ?oc=5",
+  "publicado": "2026-11-17T12:03:00+00:00",
+  "id": "ab35ab750f8e5747",
+  "titulo_norm": "el peronismo federal tendrá un gesto de apoyo a sergio massa en un acto en san fernando",
+  "resumen": "Anuncio de que el peronismo federal realizará en San Fernando un acto de respaldo a Sergio Massa.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T03:01:37+00:00"
  },
  {
   "plataforma": "portal",
