@@ -1,5 +1,53 @@
 [
  {
+  "plataforma": "interior",
+  "fuente": "Los Andes",
+  "autor": "Los Andes",
+  "tipo": "nota",
+  "titulo": "Gesto del peronismo de Mendoza: Stevanato posó junto a Massa en un acto del que marginaron a Kicillof",
+  "texto": "Matías Stevanato participó del acto que organizó Sergio Massa en Buenos Aires. El intendente de Maipú suena como candidato a la gobernación por el peronismo.",
+  "url": "https://www.losandes.com.ar/gesto-del-peronismo-mendoza-stevanato-poso-junto-massa-un-acto-del-que-marginaron-kicillof-n6014747",
+  "publicado": "2026-11-18T18:53:00+00:00",
+  "id": "ba41315bef53dc39",
+  "titulo_norm": "gesto del peronismo de mendoza stevanato posó junto a massa en un acto del que marginaron a kicillof",
+  "resumen": "Informa que el intendente de Maipú, Matías Stevanato, posó junto a Massa en un acto que este organizó en Buenos Aires, del que quedó marginado Kicillof. Se lo menciona como posible candidato a gobernador por el peronismo.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T19:02:20+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "noticiasd.com",
+  "autor": "noticiasd.com",
+  "tipo": "nota",
+  "titulo": "Sergio Massa postergó su visita a Misiones y se reunirá con Passalacqua el 25 de noviembre",
+  "texto": "",
+  "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMHEweENiZnBCUDMwclYybHhnWllSQmhveE9nejUwWEs5WGZhZ0tnZmhkV05GSF9nVnFtYWUxdWlpeHU3d2hJT2FYVU9HaS1OMU1nUDhFbV9HMmpkODZLOFItTE5kejRzbVdPQ2xSckc3cTE5dUxsaDVQM0xmekw5cm5TSExzU1VkbFNDQjJnc2Z2Z0lVMVhRWWtQbHVoUjJRRWRtMXg0SEdDTkY2c3A4ekk2bEZ2Rl9tTjlxZVZzaEhjQ2VycnVTR0R3Ry1NRTZxX1RYbEd2UVg?oc=5",
+  "publicado": "2026-11-18T18:12:48+00:00",
+  "id": "3147230a80356cea",
+  "titulo_norm": "sergio massa postergó su visita a misiones y se reunirá con passalacqua el 25 de noviembre",
+  "resumen": "Anuncia que Massa postergó su visita a Misiones y que se reunirá con Passalacqua el 25 de noviembre.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T19:02:20+00:00"
+ },
+ {
+  "plataforma": "interior",
+  "fuente": "Identidad Correntina",
+  "autor": "Identidad Correntina",
+  "tipo": "nota",
+  "titulo": "Massa desafió a Kicillof con un acto peronista innovador en San Fernando",
+  "texto": "Sergio Massa encabezÃ³ en San Fernando un acto por el DÃ­a del Militante con fuerte impronta de unidad y seÃ±ales internas hacia Axel Kicillof. Sin oradores, con un PerÃ³n recreado por IA y una convocatoria amplia, la jornada dejÃ³ expuestas las tens...",
+  "url": "https://www.identidadcorrentina.com.ar/noticia/46487_massa-desafi-a-kicillof-con-un-acto-peronista-innovador-en-san-fernando.htm",
+  "publicado": "2026-11-18T18:07:47+00:00",
+  "id": "0ca62e3b13510513",
+  "titulo_norm": "massa desafió a kicillof con un acto peronista innovador en san fernando",
+  "resumen": "Crónica del acto por el Día del Militante que Massa encabezó en San Fernando, con señales de unidad y tensiones internas hacia Axel Kicillof. Tuvo un Perón recreado con IA y una convocatoria amplia, sin oradores.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T19:02:20+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Perfil",
   "autor": "Perfil",
@@ -46,6 +94,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-18T17:14:17+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "el tucumano",
+  "autor": "el tucumano",
+  "tipo": "nota",
+  "titulo": "Peronismo dividido: Cisneros, Manzur y Yedlin en el acto anti-Kicillof en apoyo a la candidatura de Massa",
+  "texto": "En el Día de la Militancia, el kirchnerismo y sectores del peronismo hicieron un acto exclusivo de dirigentes para escuchar a un Juan Domingo Perón hecho con IA en San Fernando, ratificar el liderazgo de Massa y aislar al gobernador de Buenos Aires.",
+  "url": "https://www.eltucumano.com/noticia/actualidad/327980/peronismo-dividido-cisneros-manzur-y-yedlin-en-el-acto-antikicillof-en-apoyo-a-la-candidatura-de-massa?dnd=cat&src=ph&pos=2&dis=desk",
+  "publicado": "2026-11-18T16:37:00+00:00",
+  "id": "c6a7ba0601247482",
+  "titulo_norm": "peronismo dividido cisneros manzur y yedlin en el acto anti kicillof en apoyo a la candidatura de massa",
+  "resumen": "Describe el acto del Día de la Militancia en apoyo a la candidatura de Massa, con dirigentes como Cisneros, Manzur y Yedlin, y un Perón hecho con IA en San Fernando. Buscó ratificar el liderazgo de Massa y aislar al gobernador Kicillof.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T19:02:20+00:00"
  },
  {
   "plataforma": "portal",
@@ -158,6 +222,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-18T15:31:33+00:00"
+ },
+ {
+  "plataforma": "nacional",
+  "fuente": "La Izquierda Diario",
+  "autor": "La Izquierda Diario",
+  "tipo": "nota",
+  "titulo": "Massa, entre el FMI, los fondos de inversión y la rosca para volver al poder",
+  "texto": "El exministro busca recuperar centralidad política con el respaldo de gobernadores, sindicalistas y dirigentes tradicionales. Su gestión económica, su silencio cómplice con el gobierno, sus vínculos con el capital financiero y su acercamiento a sectores del poder estadounidense contrastan con el discurso \"anti Milei\" que intenta instalar desde el peronismo.",
+  "url": "https://www.laizquierdadiario.com/Massa-entre-el-FMI-los-fondos-de-inversion-y-la-rosca-para-volver-al-poder",
+  "publicado": "2026-11-18T15:08:14+00:00",
+  "id": "dc03b274f3bd6ea1",
+  "titulo_norm": "massa entre el fmi los fondos de inversión y la rosca para volver al poder",
+  "resumen": "Nota crítica de La Izquierda Diario sobre el intento de Massa de recuperar centralidad política con gobernadores, sindicalistas y dirigentes tradicionales. Cuestiona su gestión económica, su supuesto silencio frente al gobierno, sus vínculos con el capital financiero y su acercamiento a sectores del poder estadounidense.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T19:02:20+00:00"
  },
  {
   "plataforma": "portal",
@@ -814,6 +894,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-18T12:04:23+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Diario El Argentino",
+  "autor": "Diario El Argentino",
+  "tipo": "nota",
+  "titulo": "Con Massa, el apoyo de Cristina y sin Kicillof, el peronismo armó una potente foto de unidad",
+  "texto": "Distintos sectores del PJ convergieron en San Fernando en una cumbre que fue la reaparición del ex ministro de Economía en un acto de marcado corte electoral.",
+  "url": "https://diarioelargentino.com/politica/con-massa-el-apoyo-de-cristina-y-sin-kicillof-el-peronismo-armo-una-potente-foto-de-unidad.htm",
+  "publicado": "2026-11-18T11:44:30+00:00",
+  "id": "f71b7b06525d387a",
+  "titulo_norm": "con massa el apoyo de cristina y sin kicillof el peronismo armó una potente foto de unidad",
+  "resumen": "Destaca la foto de unidad del PJ en San Fernando, con Massa, el apoyo de Cristina y la ausencia de Kicillof. Marca la reaparición del ex ministro de Economía en un acto de marcado corte electoral.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T19:02:20+00:00"
  },
  {
   "plataforma": "portal",
