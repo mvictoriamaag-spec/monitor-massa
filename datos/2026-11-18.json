@@ -1,6 +1,38 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "ANDigital",
+  "autor": "ANDigital",
+  "tipo": "nota",
+  "titulo": "Sergio Massa afirmó que “no alcanza solo con el peronismo”",
+  "texto": "Tras el plenario del peronismo federal en San Fernando, el líder del Frente Renovador convocó a “buscar sectores independientes, del campo. Gente",
+  "url": "https://andigital.com.ar/nota/145031/sergio-massa-afirmo-que-no-alcanza-solo-con-el-peronismo/",
+  "publicado": "2026-11-18T10:53:36+00:00",
+  "id": "5286b2b3cb055430",
+  "titulo_norm": "sergio massa afirmó que no alcanza solo con el peronismo",
+  "resumen": "Tras el plenario del peronismo federal en San Fernando, Sergio Massa, líder del Frente Renovador, sostuvo que “no alcanza solo con el peronismo” y convocó a buscar sectores independientes y del campo. La nota refleja una declaración política suya.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T11:06:24+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Diario Lo Nuestro",
+  "autor": "Diario Lo Nuestro",
+  "tipo": "nota",
+  "titulo": "El peronismo, con Sergio Massa como “arquitecto de la unidad, armó un frente anti Milie",
+  "texto": "El peronismo Renovador, el Federal y La Cámpora, convergieron en el teatro municipal Otamendi de San Fernando. Al calor de un país que padece una crisis social, económica e institucional sin precedentes, el peronismo comienza a unificarse. Lo hace con la intención de poner “límite a la locura” que ofrece el gobierno de Milei junto a sus socios del PRO y la UCR. Las elecciones del 2027 están a la vuelta de la esquina y conformar un “frente anti Milei” fue lo que quedó en el escenario en el teatr",
+  "url": "https://www.diariolonuestro.com.ar/single-post/el-peronismo-con-sergio-massa-como-arquitecto-de-la-unidad-arm%C3%B3-un-frente-anti-milie",
+  "publicado": "2026-11-18T10:53:28+00:00",
+  "id": "990a142b1b114b90",
+  "titulo_norm": "el peronismo con sergio massa como arquitecto de la unidad armó un frente anti milie",
+  "resumen": "Sergio Massa aparece como “arquitecto de la unidad” de un peronismo que converge en San Fernando (Frente Renovador, Federal y La Cámpora) para conformar un frente anti Milei de cara a 2027. La nota presenta su rol de forma favorable.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T11:06:24+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "InfoPlatense",
   "autor": "InfoPlatense",
   "tipo": "nota",
