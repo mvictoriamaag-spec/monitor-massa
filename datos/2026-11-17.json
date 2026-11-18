@@ -1184,6 +1184,22 @@
   "recolectado": "2026-11-17T20:32:02+00:00"
  },
  {
+  "plataforma": "interior",
+  "fuente": "Diario El Sureño",
+  "autor": "Diario El Sureño",
+  "tipo": "nota",
+  "titulo": "Massa suma a Tierra del Fuego a la reorganización del Frente Renovador",
+  "texto": "",
+  "url": "https://www.surenio.com.ar/massa-suma-a-tierra-del-fuego-a-la-reorganizacion-federal-del-frente-renovador/",
+  "publicado": "2026-11-17T19:30:04+00:00",
+  "id": "da0ef780273d270e",
+  "titulo_norm": "massa suma a tierra del fuego a la reorganización del frente renovador",
+  "resumen": "Sergio Massa incorpora a Tierra del Fuego a la reorganización del Frente Renovador, según informa la nota sobre el avance territorial del espacio en la provincia.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T04:40:33+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "Flipr.news",
   "autor": "Flipr.news",
