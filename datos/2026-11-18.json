@@ -1,5 +1,37 @@
 [
  {
+  "plataforma": "nacional",
+  "fuente": "Radio Mitre",
+  "autor": "Radio Mitre",
+  "tipo": "nota",
+  "titulo": "Luis Caputo cuestionó la cumbre del PJ que organizó Massa: “Cantar ‘Combatir el capital’ es estúpido, tonto y patético”",
+  "texto": "El ministro de Economía criticó el encuentro impulsado por Sergio Massa en San Fernando y sostuvo que ahuyentar inversiones deja al país sin financiamiento",
+  "url": "https://radiomitre.cienradios.com/politica/luis-caputo-cuestiono-la-cumbre-del-pj-que-organizo-massa-cantar-combatir-el-capital-es-estupido-tonto-y-patetico/",
+  "publicado": "2026-11-18T15:54:40+00:00",
+  "id": "8b8a19102beb09a3",
+  "titulo_norm": "luis caputo cuestionó la cumbre del pj que organizó massa cantar combatir el capital es estúpido tonto y patético",
+  "resumen": "El ministro de Economía, Luis Caputo, criticó la cumbre del PJ impulsada por Sergio Massa en San Fernando y calificó de \"estúpido, tonto y patético\" cantar \"Combatir el capital\". Sostuvo que ahuyentar inversiones deja al país sin financiamiento.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T16:02:45+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Diario Digital Conclusión",
+  "autor": "Diario Digital Conclusión",
+  "tipo": "nota",
+  "titulo": "Massa nombró tres posibles candidatos a presidente y se dejó afuera: «Hoy estoy más para ayudar a otros»",
+  "texto": "El líder del Frente Renovador tuvo estas expresiones en el marco del acto por el Día de la Militancia que se realizó en Buenos Aires sin la presencia del gobernador de esa provincia Axel Kicillof",
+  "url": "https://www.conclusion.com.ar/politica/massa-nombro-tres-posibles-candidatos-a-presidente-y-se-dejo-afuera-hoy-estoy-mas-para-ayudar-a-otros/11/2026/",
+  "publicado": "2026-11-18T15:53:40+00:00",
+  "id": "1c75826766c735bd",
+  "titulo_norm": "massa nombró tres posibles candidatos a presidente y se dejó afuera hoy estoy más para ayudar a otros",
+  "resumen": "Sergio Massa, líder del Frente Renovador, nombró tres posibles candidatos presidenciales sin incluirse y dijo que hoy prefiere ayudar a otros. Lo dijo en el acto por el Día de la Militancia en Buenos Aires, al que no asistió Axel Kicillof.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T16:02:45+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "laizquierdadiario.cl",
   "autor": "laizquierdadiario.cl",
