@@ -1,5 +1,37 @@
 [
  {
+  "plataforma": "interior",
+  "fuente": "Que Pasa Salta",
+  "autor": "Que Pasa Salta",
+  "tipo": "nota",
+  "titulo": "Massa adelantó unidad en el peronismo: \"Vamos a darle un nuevo gobierno a la Argentina\"",
+  "texto": "El excandidato aseguró que, pese a las diferencias internas, el espacio opositor encontrará la manera de competir unido. Además, cuestionó la posible suspensión de las PASO y advirtió que la iniciativa busca dividir a sus adversarios políticos.",
+  "url": "https://www.quepasasalta.com.ar/politica/sergio-massa-lista-unidad-peronismo-elecciones-2027/",
+  "publicado": "2026-11-18T12:49:20+00:00",
+  "id": "0ec539762d76039a",
+  "titulo_norm": "massa adelantó unidad en el peronismo vamos a darle un nuevo gobierno a la argentina",
+  "resumen": "Massa, presentado como excandidato, aseguró que el peronismo competirá unido pese a sus diferencias internas. También cuestionó la posible suspensión de las PASO, a la que atribuyó el objetivo de dividir a los adversarios políticos.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T12:53:31+00:00"
+ },
+ {
+  "plataforma": "interior",
+  "fuente": "Diario Jornada",
+  "autor": "Diario Jornada",
+  "tipo": "nota",
+  "titulo": "Arcioni y Luque acompañaron a Massa en el acto del Día de la Militancia",
+  "texto": "El exgobernador y el actual diputado nacional acompañaron al líder del Frente Renovador en el encuentro de San Fernando. También estuvo la diputada provincial Vanesa Abril. Legisladores, intendentes, sindicalistas y referentes de distintos puntos del país con la mirada puesta en las elecciones de 2027.",
+  "url": "https://www.diariojornada.com.ar/427291/politica/arcioni_y_luque_acompanaron_a_massa_en_el_acto_del_dia_de_la_militancia",
+  "publicado": "2026-11-18T12:28:00+00:00",
+  "id": "67cdb309502c7ab9",
+  "titulo_norm": "arcioni y luque acompañaron a massa en el acto del día de la militancia",
+  "resumen": "El exgobernador Arcioni y el diputado nacional Luque acompañaron a Sergio Massa, líder del Frente Renovador, en el acto por el Día de la Militancia en San Fernando. Legisladores, intendentes y sindicalistas participaron con la mirada puesta en las elecciones de 2027.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T12:53:31+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Infobae",
   "autor": "Infobae",
@@ -46,6 +78,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-18T12:31:11+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Diario Resumen",
+  "autor": "Diario Resumen",
+  "tipo": "nota",
+  "titulo": "Achával participó del encuentro del peronismo en San Fernando junto a Massa",
+  "texto": "El intendente de Pilar fue parte del acto por el Día de la Militancia, que reunió a referentes del Frente Renovador, el Peronismo Federal, el kirchnerismo y la Liga de Intendentes. La convocatoria buscó avanzar en la construcción de una alternativa política nacional.",
+  "url": "https://diarioresumen.com.ar/politica/achaval-participo-del-encuentro-del-peronismo-en-san-fernando-junto-a-massa/",
+  "publicado": "2026-11-18T12:12:18+00:00",
+  "id": "88064beb6ec68463",
+  "titulo_norm": "achával participó del encuentro del peronismo en san fernando junto a massa",
+  "resumen": "El intendente de Pilar, Achával, participó del acto del peronismo en San Fernando junto a Massa, con referentes del Frente Renovador, el kirchnerismo y la Liga de Intendentes. La convocatoria buscó avanzar en una alternativa política nacional.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T12:53:31+00:00"
  },
  {
   "plataforma": "portal",
