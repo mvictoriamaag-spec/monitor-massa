@@ -1,5 +1,37 @@
 [
  {
+  "plataforma": "nacional",
+  "fuente": "La Nación",
+  "autor": "La Nación",
+  "tipo": "nota",
+  "titulo": "Uno por uno, los dirigentes del PJ y el kirchnerismo que se mostraron con Sergio Massa",
+  "texto": "El exministro de Economía levantó el perfil después de tres años de moverse con sigilo; fue en un acto en San Fernando, rodeado de peronistas federales, kirchneristas y de las provincias; el gran ausente fue Kicillof",
+  "url": "https://www.lanacion.com.ar/politica/uno-por-uno-los-dirigentes-del-pj-y-el-kirchnerismo-que-se-mostraron-con-sergio-massa-nid18112026/",
+  "publicado": "2026-11-18T19:15:14+00:00",
+  "id": "32d2801a42fcc64c",
+  "titulo_norm": "uno por uno los dirigentes del pj y el kirchnerismo que se mostraron con sergio massa",
+  "resumen": "Nota sobre dirigentes del PJ y del kirchnerismo que aparecieron junto a Sergio Massa en un acto en San Fernando, tras tres años de bajo perfil. Destaca la ausencia de Kicillof.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T19:31:25+00:00"
+ },
+ {
+  "plataforma": "nacional",
+  "fuente": "Letra P",
+  "autor": "Letra P",
+  "tipo": "nota",
+  "titulo": "El PJ de Entre Ríos se subió al frente anti-Milei que presentaron Massa y el peronismo federal",
+  "texto": "Bahl, Bordet, Marclay, Cresto, Fuertes, Bravo y otros intendentes respaldaron el armado que lidera Michel. Por qué no fue Bahillo, el candidato a gobernador.",
+  "url": "https://www.letrap.com.ar/politica/el-pj-rios-se-subio-al-frente-anti-milei-que-presentaron-massa-y-el-peronismo-federal-n5428329",
+  "publicado": "2026-11-18T19:08:00+00:00",
+  "id": "e4ee0da95079fab7",
+  "titulo_norm": "el pj de entre ríos se subió al frente anti milei que presentaron massa y el peronismo federal",
+  "resumen": "El PJ de Entre Ríos, con intendentes como Bahl, Bordet y Marclay, respaldó el frente opositor a Milei que lideran Massa y el peronismo federal, armado por Michel. La nota también explica la ausencia de Bahillo como candidato a gobernador.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T19:31:25+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "Los Andes",
   "autor": "Los Andes",
@@ -14,6 +46,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-18T19:02:20+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Cronos noticias",
+  "autor": "Cronos noticias",
+  "tipo": "nota",
+  "titulo": "Massa posicionó a tres figuras del peronismo como posibles candidatos a presidente para 2027",
+  "texto": "El líder del Frente Renovador habló tras el evento por el Día de la Militancia, afirmó que el justicialismo debe trabajar por la unidad y se habl�",
+  "url": "https://infocronos.com.ar/nota/58927/massa-posiciono-a-tres-figuras-del-peronismo-como-posibles-candidatos-a-presidente-para-2027/",
+  "publicado": "2026-11-18T18:16:13+00:00",
+  "id": "521561dc85588dab",
+  "titulo_norm": "massa posicionó a tres figuras del peronismo como posibles candidatos a presidente para 2027",
+  "resumen": "Massa, líder del Frente Renovador, planteó tras el Día de la Militancia que tres figuras del peronismo son posibles candidatas a presidente en 2027. Sostuvo que el justicialismo debe trabajar por la unidad.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T19:31:25+00:00"
  },
  {
   "plataforma": "portal",
@@ -1118,6 +1166,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-18T15:03:48+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Diario Lo Nuestro",
+  "autor": "Diario Lo Nuestro",
+  "tipo": "nota",
+  "titulo": "El peronismo, con Sergio Massa como “arquitecto de la unidad\", armó un frente anti Milei",
+  "texto": "",
+  "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZEozX1Y5NXVkTldOVzNrLTktYWJhalkyWl93SlFKOG1zYnlFdlI5YnUxRTZzVlF6NU1sVEhFeVFXTURuajl5QzdhYlhiRXdOR1RLeVlvazN2X0gtbHkxNkhFSVdCamM0SjFCOEdFdXZMMUlhYjAwWGxzckozZFpEZGtrT3dZRVJkU3F4alFjaTBPcksySXkzNUNud21FeHdGdVpielRtNURMbmNNa09ySkdUTUZqMWltVEp3eE5QWXVRai1MV1VFZkpKV1dvWU9GMGc?oc=5",
+  "publicado": "2026-11-18T10:59:29+00:00",
+  "id": "95dddb536f2c3f24",
+  "titulo_norm": "el peronismo con sergio massa como arquitecto de la unidad armó un frente anti milei",
+  "resumen": "El peronismo armó un frente contra Milei con Sergio Massa presentado como \"arquitecto de la unidad\". La nota solo tiene título disponible.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T19:31:25+00:00"
  },
  {
   "plataforma": "portal",
