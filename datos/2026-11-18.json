@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "nacional",
+  "fuente": "La Política Online",
+  "autor": "La Política Online",
+  "tipo": "nota",
+  "titulo": "El giro pragmático de Cristina",
+  "texto": "La jugada de la ex presidenta con Massa. Las versiones de Quirno a Economía. Los perros de guerra de Milei.",
+  "url": "https://www.lapoliticaonline.com/politica/el-giro-pragmatico-de-cristina/",
+  "publicado": "2026-11-18T19:51:32+00:00",
+  "id": "8f43754c98860eec",
+  "titulo_norm": "el giro pragmático de cristina",
+  "resumen": "Nota de La Política Online sobre un supuesto giro pragmático de Cristina Fernández de Kirchner, que menciona una jugada suya con Sergio Massa. También aborda versiones sobre Quirno para Economía y a los 'perros de guerra' de Milei.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T20:05:00+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "Tiempo de San Juan",
   "autor": "Tiempo de San Juan",
