@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "nacional",
+  "fuente": "TN",
+  "autor": "TN",
+  "tipo": "nota",
+  "titulo": "Luis Caputo criticó la cumbre del PJ organizada por Massa: “Cantar ‘Combatir el capital’ es estúpido, tonto y patético”",
+  "texto": "El ministro de Economía habló ante empresarios pymes y advirtió sobre el encuentro de la oposición. “El capital, si lo combatís, se va”, remarcó.",
+  "url": "https://tn.com.ar/economia/2026/11/18/luis-caputo-critico-la-cumbre-del-pj-organizada-por-massa-cantar-combatir-el-capital-es-estupido-tonto-y-patetico/",
+  "publicado": "2026-11-18T12:53:43+00:00",
+  "id": "cf0893d23bbc3ad9",
+  "titulo_norm": "luis caputo criticó la cumbre del pj organizada por massa cantar combatir el capital es estúpido tonto y patético",
+  "resumen": "El ministro de Economía, Luis Caputo, criticó la cumbre del PJ organizada por Massa y calificó de “estúpido, tonto y patético” cantar “Combatir el capital”. Advirtió que el capital, si se lo combate, se va. Massa aparece como organizador del encuentro opositor.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T13:01:20+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "Que Pasa Salta",
   "autor": "Que Pasa Salta",
@@ -30,6 +46,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-18T12:53:31+00:00"
+ },
+ {
+  "plataforma": "nacional",
+  "fuente": "El Economista - Últimas noticias económicas y financieras",
+  "autor": "El Economista - Últimas noticias económicas y financieras",
+  "tipo": "nota",
+  "titulo": "MASSA REUNIÓ A SU TROPA PARA 2027: el faltazo de Kicillof y la burla de Caputo que sacudió al PJ",
+  "texto": "Massa, Kicillof, PJ, peronismo federal, San Fernando, interna peronista, 2027, Milei",
+  "url": "https://eleconomista.com.ar/politica/massa-reunio-su-tropa-2027-faltazo-kicillof-burla-caputo-sacudio-pj-n99745",
+  "publicado": "2026-11-18T12:27:00+00:00",
+  "id": "5d6ddc91b03b797d",
+  "titulo_norm": "massa reunió a su tropa para 2027 el faltazo de kicillof y la burla de caputo que sacudió al pj",
+  "resumen": "Massa reunió a su sector del peronismo federal en San Fernando con miras a 2027. La ausencia de Kicillof y una burla de Caputo sacudieron al PJ, según la nota con foco en la interna peronista.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T13:01:20+00:00"
  },
  {
   "plataforma": "nacional",
