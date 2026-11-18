@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "CFIN Noticias",
+  "autor": "CFIN Noticias",
+  "tipo": "nota",
+  "titulo": "Massa y Cristina encabezaron una foto de unidad del peronismo: Kicillof quedó afuera y crece la interna",
+  "texto": "Massa y Cristina Kirchner encabezaron un encuentro peronista en San Fernando. La ausencia de Kicillof expuso las diferencias internas rumbo a 2027.",
+  "url": "https://www.cfin.com.ar/politica/peronismo-massa-cristina-kirchner-kicillof-unidad-2027/",
+  "publicado": "2026-11-18T03:22:12+00:00",
+  "id": "7b41c96313dd6c94",
+  "titulo_norm": "massa y cristina encabezaron una foto de unidad del peronismo kicillof quedó afuera y crece la interna",
+  "resumen": "Massa y Cristina Kirchner encabezaron un encuentro peronista en San Fernando. La ausencia de Kicillof dejó expuestas las diferencias internas del peronismo rumbo a 2027.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T03:37:49+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "Diario Uno (Mendoza)",
   "autor": "Diario Uno (Mendoza)",
@@ -14,5 +30,37 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-18T03:31:29+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "infopico.com",
+  "autor": "infopico.com",
+  "tipo": "nota",
+  "titulo": "Con Massa y el respaldo de Cristina Kirchner, el peronismo mostró una fuerte foto de unidad que profundiza...",
+  "texto": "Se cantó la marcha peronista dos veces, se entonó un cántico contra la administración de Javier Milei y se recurrió a un diálogo con Juan Domingo Perón recreado...",
+  "url": "https://www.infopico.com/2026/11/18/con-massa-y-el-respaldo-de-cristina-kirchner-el-peronismo-mostro-una-fuerte-foto-de-unidad-que-profundiza-la-interna-con-kicillof/",
+  "publicado": "2026-11-18T03:08:06+00:00",
+  "id": "4b8adf51df60a3d6",
+  "titulo_norm": "con massa y el respaldo de cristina kirchner el peronismo mostró una fuerte foto de unidad que profundiza",
+  "resumen": "Con Massa y el respaldo de Cristina Kirchner, el peronismo exhibió una foto de unidad en San Fernando, con marcha, cánticos contra el gobierno de Milei y un diálogo con Perón recreado digitalmente.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T03:37:49+00:00"
+ },
+ {
+  "plataforma": "nacional",
+  "fuente": "El Destape",
+  "autor": "El Destape",
+  "tipo": "nota",
+  "titulo": "Massa se rodeó de dirigentes para lanzar el \"eje anti Milei\" sin Kicillof",
+  "texto": "En San Fernando, el Frente Renovador y el Peronismo Federal reunieron a dirigentes de la Liga de Intendentes, la CGT y el cristinismo para mostrar una foto de unidad aunque sin el gobernador bonaerense. Massa aseguró que el peronismo se mantendrá unido aun si se suspenden las PASO.",
+  "url": "https://www.eldestapeweb.com/politica/massa-rodeo-dirigentes-lanzar-eje-anti-milei-kicillof-202611180554",
+  "publicado": "2026-11-18T03:06:53+00:00",
+  "id": "7aa3cc7d58efecd2",
+  "titulo_norm": "massa se rodeó de dirigentes para lanzar el eje anti milei sin kicillof",
+  "resumen": "Massa reunió en San Fernando a dirigentes del Frente Renovador, el Peronismo Federal, la Liga de Intendentes, la CGT y el cristinismo para una foto de unidad sin Kicillof, en lo que se presentó como un \"eje anti Milei\". Aseguró que el peronismo seguirá unido aunque se suspendan las PASO.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T03:37:49+00:00"
  }
 ]

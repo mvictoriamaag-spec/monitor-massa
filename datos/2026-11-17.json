@@ -17,6 +17,22 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "Bache3000",
+  "autor": "Bache3000",
+  "tipo": "nota",
+  "titulo": "Pesatti afianza su vínculo con Massa en el acto de San Fernando donde habló Perón con inteligencia artificial",
+  "texto": "El vicegobernador de Río Negro, Pedro Pesatti, fue invitado por Sergio Massa al acto del Día de la Militancia peronista en San Fernando, y su lugar",
+  "url": "https://baribache3000.com.ar/nota/6964/pesatti-afianza-su-vinculo-con-massa-en-el-acto-de-san-fernando-donde-hablo-peron-con-inteligencia-artificial/",
+  "publicado": "2026-11-18T02:54:00+00:00",
+  "id": "34a4b52ad7a2941c",
+  "titulo_norm": "pesatti afianza su vínculo con massa en el acto de san fernando donde habló perón con inteligencia artificial",
+  "resumen": "Massa invitó al vicegobernador de Río Negro, Pedro Pesatti, al acto del Día de la Militancia peronista en San Fernando, donde se recreó a Perón con inteligencia artificial. La nota destaca el fortalecimiento del vínculo entre ambos dirigentes.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T03:37:49+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Info del Estero",
   "autor": "Info del Estero",
   "tipo": "nota",
