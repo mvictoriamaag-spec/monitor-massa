@@ -1,5 +1,37 @@
 [
  {
+  "plataforma": "interior",
+  "fuente": "Tiempo de San Juan",
+  "autor": "Tiempo de San Juan",
+  "tipo": "nota",
+  "titulo": "El peronismo mendocino mueve sus fichas hacia 2027: una cumbre con Sergio Massa impulsó la figura de un intendente",
+  "texto": "El intendente de Maipú viajó a Buenos Aires junto a dirigentes no peronistas del espacio &quot;Encuentro por Mendoza&quot; para participar del acto de unidad en San Fernando, donde confluyeron sectores del massismo y del kirchnerismo sin la presencia de Axel Kicillof.",
+  "url": "https://www.tiempodesanjuan.com/mendoza/el-peronismo-mendocino-mueve-sus-fichas-hacia-2027-una-cumbre-con-sergio-massa-impulso-la-figura-de-un-intendente_1795026461",
+  "publicado": "2026-11-18T19:37:00+00:00",
+  "id": "9ef0efa8f071fbf7",
+  "titulo_norm": "el peronismo mendocino mueve sus fichas hacia 2027 una cumbre con sergio massa impulsó la figura de un intendente",
+  "resumen": "Un intendente de Maipú viajó a Buenos Aires junto a dirigentes no peronistas de \"Encuentro por Mendoza\" a un acto de unidad en San Fernando con sectores del massismo y del kirchnerismo, sin Kicillof. La cumbre con Sergio Massa impulsó su figura de cara a 2027.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T20:01:10+00:00"
+ },
+ {
+  "plataforma": "interior",
+  "fuente": "Río Negro",
+  "autor": "Río Negro",
+  "tipo": "nota",
+  "titulo": "El vicegobernador Pesatti, junto a Massa en San Fernando, prepara su candidatura provincial",
+  "texto": "El vicegobernador participó del encuentro del Frente Renovador en San Fernando. Busca consolidar su pertenencia al espacio y contar con ese sello partidario para disputar el próximo proceso electoral en Río Negro.",
+  "url": "https://www.rionegro.com.ar/politica/el-vicegobernador-pesatti-junto-a-massa-en-san-fernando-prepara-su-candidatura-provincial-4803436/",
+  "publicado": "2026-11-18T19:31:24+00:00",
+  "id": "46c4eb26132fa338",
+  "titulo_norm": "el vicegobernador pesatti junto a massa en san fernando prepara su candidatura provincial",
+  "resumen": "El vicegobernador de Río Negro, Pesatti, participó de un encuentro del Frente Renovador en San Fernando y busca consolidar su pertenencia al espacio para disputar la próxima elección provincial. Massa aparece como referente del partido que aportaría el sello.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T20:01:10+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "La Nación",
   "autor": "La Nación",
