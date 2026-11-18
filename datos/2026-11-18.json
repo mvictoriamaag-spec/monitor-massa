@@ -1,6 +1,22 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "laizquierdadiario.cl",
+  "autor": "laizquierdadiario.cl",
+  "tipo": "nota",
+  "titulo": "Día de la Militancia peronista. Massa, entre el FMI, los fondos de inversión y la rosca para volver al poder",
+  "texto": "El exministro busca recuperar centralidad política con el respaldo de gobernadores, sindicalistas y dirigentes tradicionales. Su gestión económica, su silencio cómplice con el gobierno, sus vínculos con el capital financiero y su acercamiento a sectores del poder estadounidense contrastan con el discurso \"anti Milei\" que intenta instalar desde el peronismo.",
+  "url": "https://www.laizquierdadiario.cl/Massa-entre-el-FMI-los-fondos-de-inversion-y-la-rosca-para-volver-al-poder",
+  "publicado": "2026-11-18T15:08:14+00:00",
+  "id": "c5e9307b41bb4b7b",
+  "titulo_norm": "día de la militancia peronista massa entre el fmi los fondos de inversión y la rosca para volver al poder",
+  "resumen": "Nota crítica sobre el Día de la Militancia peronista, que cuestiona la gestión económica de Massa, su silencio frente al gobierno y sus vínculos con el capital financiero. Lo muestra buscando recuperar centralidad política.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T15:31:33+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "El Cuco Digital",
   "autor": "El Cuco Digital",
   "tipo": "nota",
@@ -14,6 +30,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-18T15:03:48+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "La Noticia Web",
+  "autor": "La Noticia Web",
+  "tipo": "nota",
+  "titulo": "Bianco sobre el acto de Massa en San Fernando: “No fue un acto anti Kicillof”",
+  "texto": "El ministro de Gobierno bonaerense, Carlos Bianco, se refirió a las repercusiones del acto peronista que encabezaron Sergio Massa y Juan Manuel Olmos en San Fernando, donde la ausencia de Axel Kicillof y de los dirigentes del Movimiento Derecho al Futuro (MDF) alimentó las especulaciones sobre una nueva interna dentro del espacio opositor. En declaraciones … Continuar leyendo \"Bianco sobre el acto de Massa en San Fernando: “No fue un acto anti Kicillof”\"",
+  "url": "https://www.lanoticiaweb.com.ar/bianco-sobre-el-acto-de-massa-en-san-fernando-no-fue-un-acto-anti-kicillof/",
+  "publicado": "2026-11-18T15:01:38+00:00",
+  "id": "d36ad50d516b95cb",
+  "titulo_norm": "bianco sobre el acto de massa en san fernando no fue un acto anti kicillof",
+  "resumen": "El ministro bonaerense Carlos Bianco responde sobre el acto de Massa y Juan Manuel Olmos en San Fernando, negando que haya sido un acto contra Kicillof. La ausencia de Kicillof alimentó especulaciones sobre una interna.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T15:31:33+00:00"
  },
  {
   "plataforma": "portal",
@@ -110,6 +142,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-18T15:03:48+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Diario Democracia",
+  "autor": "Diario Democracia",
+  "tipo": "nota",
+  "titulo": "Sergio Massa encabezó una cumbre política pero dejó afuera del encuentro a Kicillof",
+  "texto": "Juntó al kirchnerismo, la Liga de Intendentes y ex gobernadores, en un claro mensaje a la interna que cruza al peronismo.",
+  "url": "https://www.diariodemocracia.com/nacionales/348222-sergio-massa-encabezo-una-cumbre-politica-pero-dej/",
+  "publicado": "2026-11-18T14:25:45+00:00",
+  "id": "5f5be33e4e665014",
+  "titulo_norm": "sergio massa encabezó una cumbre política pero dejó afuera del encuentro a kicillof",
+  "resumen": "Sergio Massa encabezó una cumbre política que reunió al kirchnerismo, la Liga de Intendentes y exgobernadores, dejando afuera a Kicillof. La nota lo presenta como un mensaje en la interna del peronismo.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T15:31:33+00:00"
  },
  {
   "plataforma": "portal",
@@ -286,6 +334,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-18T14:01:15+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "DataClave",
+  "autor": "DataClave",
+  "tipo": "nota",
+  "titulo": "Con el acto en San Fernando, Massa consolida su rol en el peronismo con eventual apoyo de CFK",
+  "texto": "El tigrense logró la asistencia de intendentes, exgobernadores, sindicalistas y diputados nacionales. El único ausente fue el gobernador de Buenos Aires, Axel Kicillof. Según dijeron sus colaboradores más cercanos, no fue invitado.",
+  "url": "https://www.dataclave.com.ar/poder/con-el-acto-en-san-fernando--massa-consolida-su-rol-en-el-peronismo-con-eventual-apoyo-de-cfk_a6afd972232ea46a1f8082918",
+  "publicado": "2026-11-18T13:27:22+00:00",
+  "id": "21e88393c83aaacc",
+  "titulo_norm": "con el acto en san fernando massa consolida su rol en el peronismo con eventual apoyo de cfk",
+  "resumen": "Informa sobre el acto de Massa en San Fernando, con asistencia de intendentes, exgobernadores, sindicalistas y diputados, y con el posible apoyo de CFK. Destaca la ausencia de Kicillof, que según colaboradores no fue invitado.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-18T15:31:33+00:00"
  },
  {
   "plataforma": "nacional",
