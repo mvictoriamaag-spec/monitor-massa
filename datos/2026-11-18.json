@@ -384,6 +384,22 @@
   "recolectado": "2026-11-18T19:02:20+00:00"
  },
  {
+  "plataforma": "portal",
+  "fuente": "Noticias Río Negro",
+  "autor": "Noticias Río Negro",
+  "tipo": "nota",
+  "titulo": "Pesatti participó de un acto del peronismo junto a Sergio Massa y volvió a mostrar una histórica cercanía política",
+  "texto": "",
+  "url": "https://noticiasrionegro.com.ar/contenido/95018/pesatti-participo-de-un-acto-del-peronismo-junto-a-sergio-massa-y-volvio-a-mostr",
+  "publicado": "2026-11-18T18:06:00+00:00",
+  "id": "28b60611390f44a9",
+  "titulo_norm": "pesatti participó de un acto del peronismo junto a sergio massa y volvió a mostrar una histórica cercanía política",
+  "resumen": "Pesatti participó de un acto del peronismo junto a Sergio Massa, en una muestra de la histórica cercanía política entre ambos. La nota destaca la presencia conjunta en el evento partidario.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T03:39:56+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Perfil",
   "autor": "Perfil",
