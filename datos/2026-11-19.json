@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "nacional",
+  "fuente": "El Destape",
+  "autor": "El Destape",
+  "tipo": "nota",
+  "titulo": "El poder real de CGT retacea apoyo a Massa y busca candidato",
+  "texto": "El líder del Frente Renovador se anotó la presencia de dos de los triunviros de CGT pero las ausencias y la evaluación de los propios participantes dejaron más dudas que certezas respecto de un alineamiento de la central con el tigrense.",
+  "url": "https://www.eldestapeweb.com/politica/poder-real-cgt-retacea-apoyo-massa-busca-candidato-202611199028",
+  "publicado": "2026-11-19T12:01:37+00:00",
+  "id": "3c54d75eb2b655c2",
+  "titulo_norm": "el poder real de cgt retacea apoyo a massa y busca candidato",
+  "resumen": "El Destape señala que la CGT no termina de alinearse con Sergio Massa pese a la presencia de dos triunviros en un encuentro del Frente Renovador. Las ausencias dejan dudas y la central busca candidato.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T12:55:56+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "Elentrerios",
   "autor": "Elentrerios",

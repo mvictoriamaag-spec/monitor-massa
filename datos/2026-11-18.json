@@ -432,6 +432,22 @@
   "recolectado": "2026-11-19T03:39:56+00:00"
  },
  {
+  "plataforma": "interior",
+  "fuente": "noticiasdebariloche.com.ar",
+  "autor": "noticiasdebariloche.com.ar",
+  "tipo": "nota",
+  "titulo": "Sergio Massa estará el jueves en Misiones",
+  "texto": "",
+  "url": "https://www.noticiasdebariloche.com.ar/sergio-massa-estara-el-jueves-en-misiones-se-reunira-con-el-gobernador-hugo-passalacqua-y-con-sectores-filokirchneristas/",
+  "publicado": "2026-11-18T17:55:58+00:00",
+  "id": "d19a622987eded96",
+  "titulo_norm": "sergio massa estará el jueves en misiones",
+  "resumen": "Noticia sobre la visita de Sergio Massa a Misiones prevista para el jueves.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T12:55:56+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Perfil",
   "autor": "Perfil",
@@ -478,6 +494,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-18T17:14:17+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Flipr.news",
+  "autor": "Flipr.news",
+  "tipo": "nota",
+  "titulo": "«Combatir el capital es estúpido»: la crítica de Caputo a la cumbre peronista de Massa",
+  "texto": "El funcionario elevó la tensión política al cuestionar el rol…",
+  "url": "https://flipr.com.ar/nacionales/politica/iprofesional/combatir-el-capital-es-estupido-la-critica-de-caputo-a-la-cumbre-peronista-de-massa/",
+  "publicado": "2026-11-18T17:03:33+00:00",
+  "id": "e6011b46da79a300",
+  "titulo_norm": "combatir el capital es estúpido la crítica de caputo a la cumbre peronista de massa",
+  "resumen": "Flipr.news recoge la crítica del funcionario Caputo a la cumbre peronista de Massa: «combatir el capital es estúpido». La crítica eleva la tensión política.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T12:55:56+00:00"
  },
  {
   "plataforma": "portal",
@@ -638,6 +670,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-18T21:00:15+00:00"
+ },
+ {
+  "plataforma": "interior",
+  "fuente": "Agencia NOVA",
+  "autor": "Agencia NOVA",
+  "tipo": "nota",
+  "titulo": "Le hacen bullying al enano keynesiano: Massa golpeó el corazón del kicillofismo y juntó al PJ bonaerense sin el MDF",
+  "texto": "La convocatoria impulsada por el Frente Renovador de Sergio Massa y sectores del peronismo federal en el Teatro Otamendi de San Fernando, organizada por el intendente local Juan Andreotti bajo la consigna “Perón nos une, un país por delante”, reavivó las diferencias internas dentro del justicialismo bonaerense y nacional.",
+  "url": "https://www.agencianova.com/nota.asp?n=2026_11_18&id=175448&id_tiponota=30",
+  "publicado": "2026-11-18T15:15:30+00:00",
+  "id": "c1da6f10adcb6738",
+  "titulo_norm": "le hacen bullying al enano keynesiano massa golpeó el corazón del kicillofismo y juntó al pj bonaerense sin el mdf",
+  "resumen": "Agencia NOVA describe con tono irónico la convocatoria del Frente Renovador de Massa en el Teatro Otamendi de San Fernando, bajo la consigna «Perón nos une». El encuentro reavivó las diferencias internas del PJ bonaerense sin el MDF (Movimiento Derecho al Futuro).",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T12:55:56+00:00"
  },
  {
   "plataforma": "portal",
@@ -1134,6 +1182,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-18T18:01:33+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Stop en línea",
+  "autor": "Stop en línea",
+  "tipo": "nota",
+  "titulo": "Reprograman la visita de Sergio Massa a Misiones",
+  "texto": "Reacomodamiento del peronismo de cara a las elecciones del 2027",
+  "url": "https://www.stopenlinea.com.ar/noticias/2026/11/18/101784-reprograman-la-visita-de-sergio-massa-a-misiones",
+  "publicado": "2026-11-18T13:00:12+00:00",
+  "id": "ff9581c7b3db8ce5",
+  "titulo_norm": "reprograman la visita de sergio massa a misiones",
+  "resumen": "Stop en línea informa que se reprogramó la visita de Sergio Massa a Misiones, en el marco del reacomodamiento del peronismo rumbo a las elecciones de 2027.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T12:55:56+00:00"
  },
  {
   "plataforma": "portal",
