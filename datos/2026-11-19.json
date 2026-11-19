@@ -1,6 +1,22 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "Infomiba",
+  "autor": "Infomiba",
+  "tipo": "nota",
+  "titulo": "Bianco buscó desactivar la polémica por el acto de Massa: “No fue contra Kicillof”",
+  "texto": "El ministro de Gobierno bonaerense se refirió a la ausencia del gobernador y del Movimiento Derecho al Futuro en el encuentro de San Fernando. Ademá",
+  "url": "https://infomiba.com.ar/nota/59727/bianco-busco-desactivar-la-polemica-por-el-acto-de-massa-no-fue-contra-kicillof/",
+  "publicado": "2026-11-19T17:03:42+00:00",
+  "id": "de60f8ac6badf74e",
+  "titulo_norm": "bianco buscó desactivar la polémica por el acto de massa no fue contra kicillof",
+  "resumen": "El ministro de Gobierno bonaerense, Bianco, intentó desactivar la polémica por el acto de Massa en San Fernando y afirmó que no fue contra Kicillof. Se refiere a la ausencia del gobernador y del Movimiento Derecho al Futuro en ese encuentro.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T19:06:09+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Buenos Aires Times",
   "autor": "Buenos Aires Times",
   "tipo": "nota",
@@ -14,6 +30,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-19T18:04:05+00:00"
+ },
+ {
+  "plataforma": "nacional",
+  "fuente": "Clarín",
+  "autor": "Clarín",
+  "tipo": "nota",
+  "titulo": "Un fallo de la Corte que desbarató la estrategia de Tapia y Toviggino amparada por sectores de la política y la justicia",
+  "texto": "Así se cayó una maniobra de Forum Shopping (elegir el juez amigo) amparada por sectores de la Cámara Federal de San Martín y la Cámara Federal de Casación Penal. Además, Toviggino es muy cercado al ex gobernador de Santiago del Estero, Gerardo Zamora, y fue asesor del ex presidente de la Cámara de Diputados, Sergio Massa.",
+  "url": "https://www.clarin.com/politica/fallo-corte-desbarato-estrategia-tapia-toviggino-amparada-sectores-politica-justicia_0_Yw8kiLnS6Q.html",
+  "publicado": "2026-11-19T16:46:50+00:00",
+  "id": "a04cdda4ca880f2c",
+  "titulo_norm": "un fallo de la corte que desbarató la estrategia de tapia y toviggino amparada por sectores de la política y la justicia",
+  "resumen": "Nota sobre un fallo de la Corte que frenó una maniobra de Forum Shopping de Tapia y Toviggino. Massa aparece de forma indirecta: se menciona que Toviggino fue asesor del entonces presidente de la Cámara de Diputados.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T19:06:09+00:00"
  },
  {
   "plataforma": "portal",
