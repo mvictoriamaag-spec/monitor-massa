@@ -880,6 +880,22 @@
   "recolectado": "2026-11-18T14:08:22+00:00"
  },
  {
+  "plataforma": "portal",
+  "fuente": "Medios Rioja",
+  "autor": "Medios Rioja",
+  "tipo": "nota",
+  "titulo": "Massa mencionó a Zamora, Uñac y De La Sota entre los posibles candidatos presidenciales",
+  "texto": "",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQW1FbE1uNXg4MzNQWkJmbU1jQVJkQVpOdEZpaFFlamw5aEtWY2R1RDAxaVhsdDZfY09mOWxiS2s0bFZXYzlyYVpaM2ZOdVdFMjVmdXRSMjg5clFrVjluOWVTenFfTU1Hd2lQTXhyMGJhaGpIeWQ5ZVhoemhxZ2pDUnFxeHl0cTNPeVllRTIwRmZJdU1RZmxISFpReVRXejNRdXBmWkZZSXNwSVR0R0Ntc2pJTGs?oc=5",
+  "publicado": "2026-11-18T14:03:38+00:00",
+  "id": "c8599b2a72114f42",
+  "titulo_norm": "massa mencionó a zamora uñac y de la sota entre los posibles candidatos presidenciales",
+  "resumen": "Massa mencionó a Zamora, Uñac y De La Sota entre los posibles candidatos presidenciales. Aparece como referencia a su opinión sobre las candidaturas dentro del peronismo.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T11:31:42+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "La Voz del Interior",
   "autor": "La Voz del Interior",
@@ -1134,6 +1150,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-18T13:31:31+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "YaTeCuento",
+  "autor": "YaTeCuento",
+  "tipo": "nota",
+  "titulo": "Argentina: en el Día de la Militancia, Massa armó un acto con varias tribus del PJ para aislar a Kicillof, y Máximo K estuvo en La Pampa",
+  "texto": "Además, La Cámpora movilizó a San José 1111 para saludar a Cristina Kirchner, que salió al balcón por un largo rato.",
+  "url": "https://www.yatecuento.com.ar/noticia/Argentina_en_el_Dia_de_la_Militancia_Massa_armo_un_acto_con_varias_tribus_del_PJ_para_aislar_a_Kicillof_y_Maximo_K_estuvo_en_La_Pampa",
+  "publicado": "2026-11-18T12:34:00+00:00",
+  "id": "5f5eb41395870662",
+  "titulo_norm": "argentina en el día de la militancia massa armó un acto con varias tribus del pj para aislar a kicillof y máximo k estuv",
+  "resumen": "Massa armó un acto del Día de la Militancia con varias tribus del PJ, en una movida que apunta a aislar a Kicillof. Mientras Máximo Kirchner estuvo en La Pampa, La Cámpora movilizó a San José 1111 para saludar a Cristina Kirchner.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T11:31:42+00:00"
  },
  {
   "plataforma": "interior",
