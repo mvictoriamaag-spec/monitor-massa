@@ -273,6 +273,22 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "Editorial RN",
+  "autor": "Editorial RN",
+  "tipo": "nota",
+  "titulo": "De Mendiguren en Paren: San Juan como “leading case” de la minería, Massa para 2027 y el desafío de la unidad peronista – Editorial RN",
+  "texto": "",
+  "url": "https://editorialrn.com.ar/de-mendiguren-en-paren-san-juan-como-leading-case-de-la-mineria-massa-para-2027-y-el-desafio-de-la-unidad-peronista/",
+  "publicado": "2026-11-19T11:15:11+00:00",
+  "id": "d2bec15cc514138b",
+  "titulo_norm": "de mendiguren en paren san juan como leading case de la minería massa para 2027 y el desafío de la unidad peronista edit",
+  "resumen": "Nota de opinión o análisis de Editorial RN que aborda la minería en San Juan y menciona a Massa en la perspectiva de 2027, junto con el desafío de la unidad del peronismo. Massa aparece como referencia política, no como protagonista de un hecho concreto.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T22:41:26+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Elentrerios",
   "autor": "Elentrerios",
   "tipo": "nota",
