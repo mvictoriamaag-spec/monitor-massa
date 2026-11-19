@@ -96,6 +96,22 @@
   "recolectado": "2026-11-19T00:33:20+00:00"
  },
  {
+  "plataforma": "interior",
+  "fuente": "Agencia NOVA",
+  "autor": "Agencia NOVA",
+  "tipo": "nota",
+  "titulo": "Se le agranda la interna a Weretilneck: Pesatti se mostró con Massa y amenaza con disputarle Río Negro",
+  "texto": "El vicegobernador Pedro Pesatti ocupó un lugar en la foto central del Día de la Militancia y volvió a exponer la distancia con su compañero de fórmula. Mientras circula la versión de que María Emilia Soria podría bajarse de la carrera, uno de los fundadores de Juntos Somos Río Negro empieza a moverse para competir por la gobernación en 2027.",
+  "url": "https://www.agencianova.com/nota.asp?n=2026_11_19&id=175490&id_tiponota=10",
+  "publicado": "2026-11-18T23:26:47+00:00",
+  "id": "78cc1f0d11f77ff8",
+  "titulo_norm": "se le agranda la interna a weretilneck pesatti se mostró con massa y amenaza con disputarle río negro",
+  "resumen": "El vicegobernador Pedro Pesatti aparece junto a Sergio Massa en el Día de la Militancia, lo que expone su distancia con la gobernadora María Emilia Soria. Pesatti amenaza con disputar la gobernación de Río Negro en 2027.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T11:48:56+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "REALPOLITIK",
   "autor": "REALPOLITIK",
@@ -302,6 +318,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-18T19:31:25+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Vive Click",
+  "autor": "Vive Click",
+  "tipo": "nota",
+  "titulo": "Massa, Uñac, Urtubey y Pichetto se reunieron en San Fernando para armar un frente opositor",
+  "texto": "El encuentro por el Día de la Militancia reunió a dirigentes del Frente Renovador y del peronismo federal con la mira en 2027. Axel Kicillof no participó ni envió representantes. El Frente Renovador y referentes del peronismo federal se reunieron este martes en San Fernando para avanzar en la construcción de un frente nacional opositor - Medio Digital de Noticias - CABA - 19",
+  "url": "https://vive.click/massa-unac-urtubey-y-pichetto-se-reunieron-en-san-fernando-para-armar-un-frente-opositor/",
+  "publicado": "2026-11-18T19:02:25+00:00",
+  "id": "6bd4f7d808caa463",
+  "titulo_norm": "massa uñac urtubey y pichetto se reunieron en san fernando para armar un frente opositor",
+  "resumen": "Massa, Uñac, Urtubey y Pichetto se reunieron en San Fernando, en el Día de la Militancia, para avanzar en un frente nacional opositor de cara a 2027. Kicillof no participó ni envió representantes.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T11:48:56+00:00"
  },
  {
   "plataforma": "interior",
