@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "nacional",
+  "fuente": "Ámbito",
+  "autor": "Ámbito",
+  "tipo": "nota",
+  "titulo": "Los tres escenarios del peronismo sin PASO: acuerdo, interna abierta o listas separadas",
+  "texto": "En el MDF de Axel Kicillof apuestan a la unidad pero no descartan que, sin PASO, haya más de un candidato. Se engorda el dedo de Cristina. Massa movedizo.",
+  "url": "https://www.ambito.com/politica/los-tres-escenarios-del-peronismo-paso-acuerdo-interna-abierta-o-listas-separadas-n6347070",
+  "publicado": "2026-11-19T15:33:47+00:00",
+  "id": "df305156bc09f5e6",
+  "titulo_norm": "los tres escenarios del peronismo sin paso acuerdo interna abierta o listas separadas",
+  "resumen": "Analiza los escenarios del peronismo sin PASO (acuerdo, interna abierta o listas separadas), con el MDF de Kicillof apostando a la unidad. Menciona a Massa solo de forma breve, calificándolo de movedizo, sin precisar su posición.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T16:08:36+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "Diario Norte (Chaco)",
   "autor": "Diario Norte (Chaco)",

@@ -416,6 +416,22 @@
   "recolectado": "2026-11-18T19:02:20+00:00"
  },
  {
+  "plataforma": "interior",
+  "fuente": "Primera Página",
+  "autor": "Primera Página",
+  "tipo": "nota",
+  "titulo": "Milei quiere borrar las PASO mientras Massa, Cristina y Kicillof se disputan el poder",
+  "texto": "La Casa Rosada busca cambiar las reglas electorales, el peronismo se pelea por las candidaturas y el acuerdo con el PRO sigue empantanado.",
+  "url": "https://primerapagina.info/politica/milei-quiere-borrar-las-paso-mientras-massa--cristina-y-kicillof-se-disputan-el-poder_a6afdc4cd90b8e927e2981d38",
+  "publicado": "2026-11-18T18:40:42+00:00",
+  "id": "d65fa1ec450c7631",
+  "titulo_norm": "milei quiere borrar las paso mientras massa cristina y kicillof se disputan el poder",
+  "resumen": "Informa que la Casa Rosada busca cambiar las reglas electorales para eliminar las PASO, mientras el peronismo disputa candidaturas entre Massa, Cristina Kicillof. También indica que el acuerdo con el PRO sigue trabado.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T16:08:36+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "Cronos noticias",
   "autor": "Cronos noticias",
