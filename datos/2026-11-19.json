@@ -1,6 +1,22 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "Buenos Aires Times",
+  "autor": "Buenos Aires Times",
+  "tipo": "nota",
+  "titulo": "Kicillof absent as Peronism takes a ‘federal photo’ with Massa",
+  "texto": "La Cámpora and federal Peronist leaders share rally in San Fernando.",
+  "url": "https://batimes.com.ar/news/argentina/kicillof-absent-as-peronism-takes-a-federal-photo-with-massa.phtml",
+  "publicado": "2026-11-19T17:00:37+00:00",
+  "id": "2d7bd48de8e0744b",
+  "titulo_norm": "kicillof absent as peronism takes a federal photo with massa",
+  "resumen": "Kicillof no participó de un acto peronista en San Fernando al que sí asistieron La Cámpora y dirigentes federales junto a Sergio Massa, en lo que el medio describe como una \"foto federal\" del peronismo.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T18:04:05+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Informe Digital",
   "autor": "Informe Digital",
   "tipo": "nota",
@@ -14,6 +30,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-19T17:14:22+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Provincia Noticias",
+  "autor": "Provincia Noticias",
+  "tipo": "nota",
+  "titulo": "Sin PASO se ordena la interna detrás de Massa y Cristina y se frenan las aspiraciones de Kicillof",
+  "texto": "",
+  "url": "https://provincianoticias.com.ar/nota/22946/sin-paso-se-ordena-la-interna-detras-de-massa-y-cristina-y-se-frenan-las-aspiraciones-de-kicillof/",
+  "publicado": "2026-11-19T16:18:45+00:00",
+  "id": "04d8d528b99cea5d",
+  "titulo_norm": "sin paso se ordena la interna detrás de massa y cristina y se frenan las aspiraciones de kicillof",
+  "resumen": "Análisis sobre la interna peronista: sin elecciones primarias (PASO), el espacio se ordenaría en torno a Sergio Massa y Cristina Kirchner, y las aspiraciones de Kicillof quedarían frenadas.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T18:04:05+00:00"
  },
  {
   "plataforma": "nacional",
