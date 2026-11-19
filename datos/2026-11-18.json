@@ -449,6 +449,22 @@
  },
  {
   "plataforma": "interior",
+  "fuente": "Primera Página",
+  "autor": "Primera Página",
+  "tipo": "nota",
+  "titulo": "El peronismo, sin Kicillof, arropó a Massa como su posible candidato",
+  "texto": "Mientras Sergio Massa se abraza con gobernadores en San Fernando para armar un eje antiaxelista, el kirchnerismo admite con pánico que la suspensión de las PASO dinamita sus chances y expone una feroz guerra suicida.",
+  "url": "https://primerapagina.info/politica/el-peronismo--sin-kicillof--arropo-a-massa-como-su-posible-candidato_a6afdbb2490b8e927e296e46c",
+  "publicado": "2026-11-18T18:07:53+00:00",
+  "id": "a77fed57caca6b41",
+  "titulo_norm": "el peronismo sin kicillof arropó a massa como su posible candidato",
+  "resumen": "Massa arma en San Fernando un eje con gobernadores contra el sector axelista, mientras el kirchnerismo teme que la suspensión de las PASO afecte sus chances como candidato. Se describe la interna peronista.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T14:02:00+00:00"
+ },
+ {
+  "plataforma": "interior",
   "fuente": "Identidad Correntina",
   "autor": "Identidad Correntina",
   "tipo": "nota",

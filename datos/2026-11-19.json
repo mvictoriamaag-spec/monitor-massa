@@ -1,6 +1,38 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "Elintra.com.ar",
+  "autor": "Elintra.com.ar",
+  "tipo": "nota",
+  "titulo": "Urtubey y Massa reaparecen en el peronismo con viejas recetas rumbo a 2027",
+  "texto": "Urtubey y Massa reactivan movimientos en el peronismo rumbo a 2027, mientras crecen las críticas por la falta de renovación y autocrítica.",
+  "url": "https://elintra.com.ar/2026/11/19/urtubey-massa-reaparecen-peronismo-viejas-recetas-rumbo-2027/",
+  "publicado": "2026-11-19T13:54:06+00:00",
+  "id": "4033409c30bcd112",
+  "titulo_norm": "urtubey y massa reaparecen en el peronismo con viejas recetas rumbo a 2027",
+  "resumen": "Urtubey y Massa reactivan movimientos en el peronismo rumbo a 2027. La nota señala críticas por la falta de renovación y autocrítica en el espacio.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T14:02:00+00:00"
+ },
+ {
+  "plataforma": "nacional",
+  "fuente": "La Nación",
+  "autor": "La Nación",
+  "tipo": "nota",
+  "titulo": "Galmarini cruzó a Caputo por su reacción al evento del peronismo organizado por Massa: “Está bien que te agarres la cabeza”",
+  "texto": "El ministro de Economía compartió un video del acto por el Día de la Lealtad Peronista en el que participaron distintos actores de la política; la senadora lo cuestionó y apuntó a las políticas del Gobierno",
+  "url": "https://www.lanacion.com.ar/politica/galmarini-cruzo-a-caputo-por-su-reaccion-al-evento-del-peronismo-organizado-por-massa-esta-bien-que-nid19112026/",
+  "publicado": "2026-11-19T13:41:10+00:00",
+  "id": "18410354eb8e96af",
+  "titulo_norm": "galmarini cruzó a caputo por su reacción al evento del peronismo organizado por massa está bien que te agarres la cabeza",
+  "resumen": "La senadora Galmarini cuestionó al ministro de Economía, Luis Caputo, por compartir un video del acto del Día de la Lealtad Peronista organizado por Massa. Criticó las políticas del Gobierno.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T14:02:00+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Impacto Castex",
   "autor": "Impacto Castex",
   "tipo": "nota",
