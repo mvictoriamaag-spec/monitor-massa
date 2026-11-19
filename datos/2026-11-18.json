@@ -1,5 +1,37 @@
 [
  {
+  "plataforma": "interior",
+  "fuente": "Sitio Andino (Mendoza)",
+  "autor": "Sitio Andino (Mendoza)",
+  "tipo": "nota",
+  "titulo": "Los rebotes del encuentro peronista que armó Massa y las caras mendocinas que se mostraron",
+  "texto": "El exministro de Economía encabezó un acto al cual no fue invitado un sector interno clave. Hubo dirigentes de distintos espacios locales y un potencial candidato a gobernador.",
+  "url": "https://www.sitioandino.com.ar/politica/los-rebotes-del-encuentro-peronista-que-armo-massa-y-las-caras-mendocinas-que-se-mostraron-n5734111",
+  "publicado": "2026-11-19T02:27:00+00:00",
+  "id": "363917691c36a8bf",
+  "titulo_norm": "los rebotes del encuentro peronista que armó massa y las caras mendocinas que se mostraron",
+  "resumen": "Massa encabezó un encuentro peronista al que no fue invitado un sector interno clave, con dirigentes de distintos espacios mendocinos y un potencial candidato a gobernador. La nota analiza los rebotes políticos del acto.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T02:45:31+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Diario La Palabra",
+  "autor": "Diario La Palabra",
+  "tipo": "nota",
+  "titulo": "Pesatti se mostró con Massa y profundiza su acercamiento al peronismo",
+  "texto": "El vicegobernador participó del acto por el Día de la Militancia en San Fernando, junto a referentes del Frente Renovador y otros sectores del justicialismo. Su presencia se suma a una serie de contactos políticos que alimentan las versiones sobre una posible candidatura a la Gobernación en 2027, por fuera de Juntos Somos Río Negro",
+  "url": "https://www.diariolapalabra.com.ar/noticia/153896/pesatti-se-mostro-con-massa-y-profundiza-su-acercamiento-al-peronismo",
+  "publicado": "2026-11-19T02:05:47+00:00",
+  "id": "61bf9c6afd02738e",
+  "titulo_norm": "pesatti se mostró con massa y profundiza su acercamiento al peronismo",
+  "resumen": "El vicegobernador rionegrino Pesatti participó junto a Massa y referentes del Frente Renovador en el acto por el Día de la Militancia en San Fernando. Su presencia alimenta versiones sobre una candidatura a la Gobernación en 2027.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T02:45:31+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Página/12",
   "autor": "Página/12",
@@ -414,6 +446,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-18T19:02:20+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Provincia Noticias",
+  "autor": "Provincia Noticias",
+  "tipo": "nota",
+  "titulo": "Sergio Massa explicó por qué Axel Kicillof no participó del evento de San Fernando",
+  "texto": "",
+  "url": "https://provincianoticias.com.ar/nota/22936/sergio-massa-explico-por-que-axel-kicillof-no-participo-del-evento-de-san-fernando/",
+  "publicado": "2026-11-18T16:27:06+00:00",
+  "id": "c4e7d958c80ca8c2",
+  "titulo_norm": "sergio massa explicó por qué axel kicillof no participó del evento de san fernando",
+  "resumen": "Massa dio explicaciones públicas sobre la ausencia de Axel Kicillof en el evento de San Fernando. Es una declaración del propio dirigente sobre la falta del gobernador bonaerense.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T02:45:31+00:00"
  },
  {
   "plataforma": "portal",
@@ -1392,6 +1440,22 @@
   "recolectado": "2026-11-18T11:31:51+00:00"
  },
  {
+  "plataforma": "portal",
+  "fuente": "La Letra Chica",
+  "autor": "La Letra Chica",
+  "tipo": "nota",
+  "titulo": "Massa, el peronismo federal y el kirchnerismo se reunieron con un llamado a la unidad",
+  "texto": "Por el Día de la Militancia, parte del peronismo mostró músculo con críticas al modelo económico de Javier Milei, aunque con la ausencia del gobe",
+  "url": "https://laletrachica.com.ar/nota/26949/massa-el-peronismo-federal-y-el-kirchnerismo-se-reunieron-con-un-llamado-a-la-unidad/",
+  "publicado": "2026-11-18T11:19:18+00:00",
+  "id": "247c2101adfdea42",
+  "titulo_norm": "massa el peronismo federal y el kirchnerismo se reunieron con un llamado a la unidad",
+  "resumen": "En el Día de la Militancia, Massa compartió un acto con el peronismo federal y el kirchnerismo, con un llamado a la unidad y críticas al modelo económico de Javier Milei. Se destaca una ausencia relevante en el encuentro.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T02:45:31+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "Los Andes (Mendoza)",
   "autor": "Los Andes (Mendoza)",
@@ -1502,6 +1566,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-18T11:06:24+00:00"
+ },
+ {
+  "plataforma": "nacional",
+  "fuente": "Diagonales",
+  "autor": "Diagonales",
+  "tipo": "nota",
+  "titulo": "Massa armó una foto sin Kicillof y se metió en la discusión por la candidatura presidencial",
+  "texto": "En San Fernando, el exministro reunió al Peronismo Federal, a referentes del kirchnerismo, a intendentes bonaerenses y gobernadores. La ausencia de Axel Kicillof dejó a la vista la disputa por quién conduce el armado y cómo se define la candidatura presidencial.",
+  "url": "https://www.diagonales.com/nacion/massa-armo-una-foto-sin-kicillof-y-se-metio-en-la-discusion-por-la-candidatura-presidencial_a6afd807742fa9d9e6e4493db",
+  "publicado": "2026-11-18T10:45:07+00:00",
+  "id": "350f576ec1ae01ef",
+  "titulo_norm": "massa armó una foto sin kicillof y se metió en la discusión por la candidatura presidencial",
+  "resumen": "Massa reunió en San Fernando al Peronismo Federal, referentes del kirchnerismo, intendentes y gobernadores, sin Axel Kicillof. La ausencia expuso la disputa por quién conduce el armado y por la candidatura presidencial.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T02:45:31+00:00"
  },
  {
   "plataforma": "portal",
