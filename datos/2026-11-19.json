@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "interior",
+  "fuente": "Río Negro",
+  "autor": "Río Negro",
+  "tipo": "nota",
+  "titulo": "Elecciones 2027: cerca de Axel Kicillof creen que Sergio Massa y Cristina Kirchner lo quieren “condicionado”",
+  "texto": "El entorno del gobernador bonaerense cree que la cumbre peronista busca condicionar su candidatura. Massa quedó como el gran articulador del otro sector del PJ.",
+  "url": "https://www.rionegro.com.ar/politica/elecciones-2027-cerca-de-axel-kicillof-creen-que-sergio-massa-y-cristina-kirchner-lo-quieren-condicionado-4804560/",
+  "publicado": "2026-11-19T14:25:52+00:00",
+  "id": "2108ac5fd1c66cf6",
+  "titulo_norm": "elecciones 2027 cerca de axel kicillof creen que sergio massa y cristina kirchner lo quieren condicionado",
+  "resumen": "El entorno de Axel Kicillof sospecha que la cumbre peronista encabezada por Sergio Massa y Cristina Kirchner busca condicionar la candidatura del gobernador para 2027. Massa aparece como articulador del otro sector del PJ.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T14:31:12+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "Elintra.com.ar",
   "autor": "Elintra.com.ar",

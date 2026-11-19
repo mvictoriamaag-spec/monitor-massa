@@ -897,6 +897,22 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "Diario Núcleo",
+  "autor": "Diario Núcleo",
+  "tipo": "nota",
+  "titulo": "Massa encabezó una cumbre política pero dejó afuera del encuentro a Kicillof",
+  "texto": "Juntó al kirchnerismo, la Liga de Intendentes y ex gobernadores, en un claro mensaje a la interna que cruza al peronismo.",
+  "url": "https://diarionucleo.com/nacionales/292190-massa-encabezo-cumbre-politica-dejo-afuera-encuent/",
+  "publicado": "2026-11-18T14:33:01+00:00",
+  "id": "f4cd07f7fe484bce",
+  "titulo_norm": "massa encabezó una cumbre política pero dejó afuera del encuentro a kicillof",
+  "resumen": "Sergio Massa encabezó una cumbre que reunió al kirchnerismo, la Liga de Intendentes y ex gobernadores, dejando afuera a Axel Kicillof. El encuentro se interpreta como un mensaje a la interna del peronismo.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T14:31:12+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Impacto Castex",
   "autor": "Impacto Castex",
   "tipo": "nota",
