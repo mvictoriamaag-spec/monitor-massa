@@ -1,6 +1,38 @@
 [
  {
   "plataforma": "interior",
+  "fuente": "Diario Norte (Chaco)",
+  "autor": "Diario Norte (Chaco)",
+  "tipo": "nota",
+  "titulo": "Leiva: \"Con o sin primarias, vamos a volver a ser gobierno\"",
+  "texto": "El diputado nacional participó de los actos por el Día de la Militancia y destacó su buena relación con Sergio Massa, aunque evitó definirse entre el exministro y Axel Kicillof. Se mostró optimista sobre las posibilidades electorales del PJ y cuestionó con dureza la gestión económica del Gobierno nacional.",
+  "url": "https://www.diarionorte.com/336912-leiva-con-o-sin-primarias-vamos-a-volver-a-ser-gobierno",
+  "publicado": "2026-11-19T14:50:48+00:00",
+  "id": "14e03300af9b80cf",
+  "titulo_norm": "leiva con o sin primarias vamos a volver a ser gobierno",
+  "resumen": "El diputado nacional Leiva participó de los actos por el Día de la Militancia, destacó su buena relación con Sergio Massa y evitó definirse entre el exministro y Axel Kicillof. También cuestionó con dureza la gestión económica del Gobierno nacional.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T15:01:20+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Diputados Bonaerenses",
+  "autor": "Diputados Bonaerenses",
+  "tipo": "nota",
+  "titulo": "Galmarini cruzó a Caputo por la cumbre del PJ de Massa",
+  "texto": "Malena Galmarini apuntó contra Caputo tras su reacción a la cumbre del PJ y aseguró que el peronismo trabaja para volver a la Casa Rosada.",
+  "url": "https://diputadosbsas.com.ar/galmarini-cruza-caputo-cumbre-pj-massa/",
+  "publicado": "2026-11-19T14:35:00+00:00",
+  "id": "d5666f8334889305",
+  "titulo_norm": "galmarini cruzó a caputo por la cumbre del pj de massa",
+  "resumen": "Malena Galmarini cruzó a Caputo por su reacción a la cumbre del PJ de Massa. Afirmó que el peronismo trabaja para volver a la Casa Rosada.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T15:01:20+00:00"
+ },
+ {
+  "plataforma": "interior",
   "fuente": "Río Negro",
   "autor": "Río Negro",
   "tipo": "nota",

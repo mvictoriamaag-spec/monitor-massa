@@ -80,6 +80,22 @@
   "recolectado": "2026-11-19T13:31:22+00:00"
  },
  {
+  "plataforma": "portal",
+  "fuente": "Infomiba",
+  "autor": "Infomiba",
+  "tipo": "nota",
+  "titulo": "Las tres K, el pacto Massa-Milei y la pelea por el poder",
+  "texto": "De la Torre lanzó una definición sobre el próximo gobierno y denunció que la suspensión de las PASO sería una devolución de favores entre liber",
+  "url": "https://infomiba.com.ar/nota/59717/las-tres-k-el-pacto-massa-milei-y-la-pelea-por-el-poder/",
+  "publicado": "2026-11-19T00:12:48+00:00",
+  "id": "b3e63a6e12f8949b",
+  "titulo_norm": "las tres k el pacto massa milei y la pelea por el poder",
+  "resumen": "Nota sobre el pacto Massa-Milei y la disputa por el poder. De la Torre lanza una definición sobre el próximo gobierno y denuncia que suspender las PASO sería una devolución de favores entre libertarios.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T15:01:20+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Página/12",
   "autor": "Página/12",
