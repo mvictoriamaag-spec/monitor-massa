@@ -273,6 +273,22 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "Agencia Comunas",
+  "autor": "Agencia Comunas",
+  "tipo": "nota",
+  "titulo": "DÍA DE LA MILITANCIA: La CGT empezó a mostrar sus cartas para 2027: foto con Massa y La Cámpora, sin Kicillof",
+  "texto": "Dos de los tres secretarios generales que integran el triunvirato de la CGT y el secretario adjunto de la central obrera participaron del acto por el Día de la Militancia en San Fernando, donde confluyeron el massismo y La Cámpora. Axel Kicillof estuvo ausente, en una nueva postal de la interna peronista rumbo a 2027.",
+  "url": "https://agenciacomunas.com.ar/dia-de-la-militancia-la-cgt-empezo-a-mostrar-sus-cartas-para-2027-foto-con-massa-y-la-campora-sin-kicillof/",
+  "publicado": "2026-11-19T04:32:58+00:00",
+  "id": "8ec0737232b5064b",
+  "titulo_norm": "día de la militancia la cgt empezó a mostrar sus cartas para 2027 foto con massa y la cámpora sin kicillof",
+  "resumen": "La CGT mostró señales de unidad con el massismo y La Cámpora en el acto por el Día de la Militancia en San Fernando, con la ausencia de Axel Kicillof, en el marco de la interna peronista rumbo a 2027. Massa aparece como parte de esa foto de alianzas.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T20:11:38+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Alfil",
   "autor": "Alfil",
   "tipo": "nota",

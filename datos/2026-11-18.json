@@ -160,6 +160,22 @@
   "recolectado": "2026-11-18T23:32:49+00:00"
  },
  {
+  "plataforma": "portal",
+  "fuente": "NOVA Bonaerense",
+  "autor": "NOVA Bonaerense",
+  "tipo": "nota",
+  "titulo": "Le hacen bullying al enano keynesiano: Massa golpeó el corazón del kicillofismo y mostró un peronismo unido sin el MDF",
+  "texto": "La convocatoria impulsada por el Frente Renovador de Sergio Massa y sectores del peronismo federal en el Teatro Otamendi de San Fernando, organizada por el intendente local Juan Andreotti bajo la consigna “Perón nos une, un país por delante”, reavivó las diferencias internas dentro del justicialismo bonaerense y nacional.",
+  "url": "https://www.novabonaerense.com/nota.asp?n=2026_11_18&id=92726&id_tiponota=4",
+  "publicado": "2026-11-18T22:31:52+00:00",
+  "id": "d768ce54f3d77135",
+  "titulo_norm": "le hacen bullying al enano keynesiano massa golpeó el corazón del kicillofismo y mostró un peronismo unido sin el mdf",
+  "resumen": "El Frente Renovador de Sergio Massa y sectores del peronismo federal realizaron un acto en San Fernando bajo la consigna “Perón nos une”, que reavivó las diferencias internas con el kicillofismo. La nota destaca a Massa como impulsor de la convocatoria.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T20:11:38+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "Tiempo de San Juan",
   "autor": "Tiempo de San Juan",
