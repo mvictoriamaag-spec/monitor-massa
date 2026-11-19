@@ -1,6 +1,38 @@
 [
  {
   "plataforma": "nacional",
+  "fuente": "Página/12",
+  "autor": "Página/12",
+  "tipo": "nota",
+  "titulo": "Menem- Cafiero sí, Julián- Aníbal no",
+  "texto": "El acto por el Día de la Militancia en San Fernando fue, si no el lanzamiento de campaña de Sergio Massa, al menos una demostración de que es hoy el dueño de un músculo importante del peronismo.",
+  "url": "https://www.pagina12.com.ar/2026/11/18/menem-cafiero-si-julian-anibal-no/",
+  "publicado": "2026-11-18T23:53:45+00:00",
+  "id": "5f04f2eb4782fbe0",
+  "titulo_norm": "menem cafiero sí julián aníbal no",
+  "resumen": "Nota sobre el acto por el Día de la Militancia en San Fernando, que el texto describe como, si no el lanzamiento de campaña, una demostración de que Sergio Massa controla un sector importante del peronismo.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T00:33:20+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Clarin.com",
+  "autor": "Clarin.com",
+  "tipo": "nota",
+  "titulo": "La victoria mileísta con las PASO y la jugada de Sergio Massa",
+  "texto": "",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR0pzU09HeUlJMVdmY1dONnh1WWdHbk44SmJlX2o1YkdVS2xyVWxQQnVZeWpCVEtTSlRvNkREN3dxS1NCOFlGZkVnUlh3MjRvZWNsRWNsODlGcDdkMDNZOWQwM29tdG53ak5HOTF2bkFJbGlCNGRPLTNBSG5CQW1QYzdGanNVOC1uYno5UGltM1NtQUtXTTVz?oc=5",
+  "publicado": "2026-11-18T23:43:23+00:00",
+  "id": "b3787e2b09b9f775",
+  "titulo_norm": "la victoria mileísta con las paso y la jugada de sergio massa",
+  "resumen": "Análisis sobre la victoria de La Libertad Avanza en las PASO y la estrategia política que se atribuye a Sergio Massa tras ese resultado.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T00:33:20+00:00"
+ },
+ {
+  "plataforma": "nacional",
   "fuente": "REALPOLITIK",
   "autor": "REALPOLITIK",
   "tipo": "nota",
@@ -238,6 +270,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-18T19:02:20+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "https://literal.ar/",
+  "autor": "https://literal.ar/",
+  "tipo": "nota",
+  "titulo": "Pesatti se muestra con Massa y alimenta especulaciones sobre una candidatura en 2027",
+  "texto": "",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc0ozbzVWXzg2dUFRZTJxWVBzREx1U09OSG1xRHlqblhoNlp5NnQtTXV2NGt2MU1lMlFHNldnSFRwMnFYR1J0QkxJeU1EckI1a0Z6OTU1WGdENFhHQ1Z3OWdaREFzRnVLbUZMOWpMU0lSbjZFQ3h1RUdBWWlnN2g0dm5ONHJTQjlZaXFjRFFxUFlQRlhKQkV1bVVUV09jc2l6Ul9Eak5Maw?oc=5",
+  "publicado": "2026-11-18T18:10:00+00:00",
+  "id": "a1b866f63e362c56",
+  "titulo_norm": "pesatti se muestra con massa y alimenta especulaciones sobre una candidatura en 2027",
+  "resumen": "Pesatti aparece junto a Sergio Massa, hecho que alimenta especulaciones sobre una candidatura en 2027.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T00:33:20+00:00"
  },
  {
   "plataforma": "interior",
