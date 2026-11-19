@@ -160,6 +160,22 @@
   "recolectado": "2026-11-18T23:32:49+00:00"
  },
  {
+  "plataforma": "interior",
+  "fuente": "Primera Página",
+  "autor": "Primera Página",
+  "tipo": "nota",
+  "titulo": "Natalia de la Sota cruzó durísimo a Milei, destiló peronismo y suena para vice de Massa | VIDEO",
+  "texto": "La diputada cordobesa cuestionó las políticas del Gobierno y reclamó generosidad, honestidad y coherencia para construir una alternativa en 2027.",
+  "url": "https://primerapagina.info/politica/natalia-de-la-sota-cruzo-durisimo-a-milei--destilo-peronismo-y-suena-para-vice-de-massa---video_a6afdfb9890b8e927e29d0b93",
+  "publicado": "2026-11-18T22:41:17+00:00",
+  "id": "bbad3965727c4cfa",
+  "titulo_norm": "natalia de la sota cruzó durísimo a milei destiló peronismo y suena para vice de massa video",
+  "resumen": "La diputada cordobesa Natalia de la Sota criticó duramente al Gobierno de Milei, reivindicó valores peronistas y es mencionada como posible vicepresidenta de Massa. Massa aparece sólo en el título como referencia política.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T21:57:05+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "NOVA Bonaerense",
   "autor": "NOVA Bonaerense",
