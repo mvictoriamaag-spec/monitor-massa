@@ -545,6 +545,22 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "El Intransigente",
+  "autor": "El Intransigente",
+  "tipo": "nota",
+  "titulo": "Massa rechazó eliminar las PASO y habló de los posibles candidatos presidenciales",
+  "texto": "",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTUZtU054aWdvQWdmaXNWWGI4RXlqZXM3S3VTUVFTQ2YwNVlSR25rSk5jUWQ5RUF4WV9PbGx1SjIzbHVMc2hxSG95RGNqZGFhMHlUNnY3ZzF5aTNVdkNFbGtMU2REQkFnUXA4OHRfc2wwN0x6VG9HdXZSU2RuNzFCVmo1R05WYllCOTM3Q1Bhb0NDZjNXOVc3Y3Z3LWJ3SWxwdXlpVVR3cWVmeWVM?oc=5",
+  "publicado": "2026-11-18T16:11:44+00:00",
+  "id": "8e69a77557b8b65a",
+  "titulo_norm": "massa rechazó eliminar las paso y habló de los posibles candidatos presidenciales",
+  "resumen": "Sergio Massa rechazó la eliminación de las PASO y habló sobre los posibles candidatos presidenciales. Su postura aparece como declaración propia sobre el sistema electoral y la próxima contienda.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T12:01:14+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "La 100",
   "autor": "La 100",
   "tipo": "nota",
@@ -1294,6 +1310,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-18T12:53:31+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Radio Cataratas",
+  "autor": "Radio Cataratas",
+  "tipo": "nota",
+  "titulo": "Massa posterga su visita a Misiones y llega el 25 de noviembre",
+  "texto": "",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc0J6XzFtS3RCZmF0Wnk5N2xrOEhXRldQdjNRalFmLUdmMjJuMUVkVjJiZ184REdYN0F2Zkx3ck9jemdlWHQ5UnRMMmtlM1ZOMTJlRnVMMGtxTThuc0p6LW10UFFzd2VqWmk0bXQybHFmbnRxRmg1VkV1V3U3c0hEWW8xNk9IX3VOR1VZb1Q3cnFDbnl5WUhWbXlmRHlYV2U0aEhJ?oc=5",
+  "publicado": "2026-11-18T12:09:31+00:00",
+  "id": "cda1854833fac6f0",
+  "titulo_norm": "massa posterga su visita a misiones y llega el 25 de noviembre",
+  "resumen": "Sergio Massa postergó su visita a Misiones y llegará a la provincia el 25 de noviembre. La noticia es de agenda política y se refiere al dirigente en un contexto de gira provincial.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T12:01:14+00:00"
  },
  {
   "plataforma": "portal",
