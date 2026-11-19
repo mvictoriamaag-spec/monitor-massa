@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "interior",
+  "fuente": "PINAMAR 24",
+  "autor": "PINAMAR 24",
+  "tipo": "nota",
+  "titulo": "El peronismo profundiza su división: Kicillof avanza con su propio espacio y Massa gana protagonismo",
+  "texto": "El acto por el Día de la Militancia en San Fernando dejó expuesta la reorganización interna del peronismo en dos grandes sectores. Mientras Axel Kicillof mantiene su construcción política a través del Movimiento Derecho al Futuro, Sergio Massa se posiciona como articulador de un amplio conglomerado de dirigentes, con el respaldo de Cristina Kirchner.",
+  "url": "https://www.pinamar24.com.ar/nota/1911202604362874/el-peronismo-profundiza-su-divisi-n-kicillof-avanza-con-su-propio-espacio-y-massa-gana-protagonismo",
+  "publicado": "2026-11-19T08:01:28+00:00",
+  "id": "028ff651af5b8949",
+  "titulo_norm": "el peronismo profundiza su división kicillof avanza con su propio espacio y massa gana protagonismo",
+  "resumen": "La nota describe la reorganización interna del peronismo tras el acto por el Día de la Militancia en San Fernando, con Kicillof impulsando su propio espacio. Sergio Massa aparece ganando protagonismo como articulador de un amplio conglomerado de dirigentes, con respaldo de Cristina Kirchner.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T08:57:31+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Infobae",
   "autor": "Infobae",
