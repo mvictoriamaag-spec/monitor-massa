@@ -64,6 +64,22 @@
   "recolectado": "2026-11-19T01:57:29+00:00"
  },
  {
+  "plataforma": "portal",
+  "fuente": "Impacto Corrientes",
+  "autor": "Impacto Corrientes",
+  "tipo": "nota",
+  "titulo": "Con Massa y el apoyo de CFK, el peronismo armó una potente foto de unidad",
+  "texto": "Distintos sectores del PJ convergieron en San Fernando en una cumbre que fue la reaparición del ex ministro de Economía en un acto de marcado corte electoral. Solo faltó el espacio de Axel Kicillof, que también dejó su mensaje al ausentarse",
+  "url": "https://www.impactocorrientes.com/notix/noticia/246771/con_massa_y_el_apoyo_de_cfk_el_peronismo_arm%C3%B3_una_potente_foto_de_unidad.htm",
+  "publicado": "2026-11-19T00:28:08+00:00",
+  "id": "c3a12fe9a8a6491d",
+  "titulo_norm": "con massa y el apoyo de cfk el peronismo armó una potente foto de unidad",
+  "resumen": "Nota sobre la cumbre peronista en San Fernando, con apoyo de Cristina Fernández de Kirchner y la reaparición de Massa, ex ministro de Economía, en un acto de marcado tono electoral. Sólo faltó Axel Kicillof.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T13:31:22+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Página/12",
   "autor": "Página/12",
@@ -158,6 +174,38 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-18T22:43:01+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Codigo Baires",
+  "autor": "Codigo Baires",
+  "tipo": "nota",
+  "titulo": "Massa y la polémica por la ausencia de Kicillof: \"Estaban todos invitados\"",
+  "texto": "El líder del Frente Renovador aseguró que todos los sectores fueron convocados al acto por el Día de la Militancia y mencionó a Zamora, Uñac y Natalia de la Sota como posibles candidatos para...",
+  "url": "https://www.codigobaires.com.ar/2026-11-18/massa-y-la-polemica-por-la-ausencia-de-kicillof.-estaban-todos-invitados-251959/",
+  "publicado": "2026-11-18T21:42:00+00:00",
+  "id": "7d93250ec157021f",
+  "titulo_norm": "massa y la polémica por la ausencia de kicillof estaban todos invitados",
+  "resumen": "Declaración de Massa, líder del Frente Renovador, sosteniendo que todos los sectores fueron convocados al acto y respondiendo por la ausencia de Kicillof. Mencionó a Zamora, Uñac y Natalia de la Sota como posibles candidatos.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T13:31:22+00:00"
+ },
+ {
+  "plataforma": "interior",
+  "fuente": "Gente de Salta",
+  "autor": "Gente de Salta",
+  "tipo": "nota",
+  "titulo": "Caputo se burló del acto del PJ encabezado por Massa: “Así se ve el riesgo país”",
+  "texto": "La reunión fue organizada por Sergio Massa y Juan Manuel Olmos en el marco del Día de la Militancia. Participaron dirigentes de distintos sectores del peronismo, aunque se destacó la ausencia del gobernador bonaerense Axel Kicillof. El episodio reavivó el enfrentamiento entre el Gobierno y la oposición de cara a las elecciones de 2027.",
+  "url": "https://www.gentedesalta.com/politica/caputo-burlo-acto-pj-encabezado-massa-asi-ve-riesgo-pais-n14086",
+  "publicado": "2026-11-18T21:32:00+00:00",
+  "id": "7b4981bbefc92eae",
+  "titulo_norm": "caputo se burló del acto del pj encabezado por massa así se ve el riesgo país",
+  "resumen": "Crítica de Caputo al acto del PJ organizado por Massa y Juan Manuel Olmos, al que ironizó con \"Así se ve el riesgo país\". La nota destaca la ausencia de Kicillof y el enfrentamiento Gobierno-oposición rumbo a 2027.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T13:31:22+00:00"
  },
  {
   "plataforma": "portal",
@@ -430,6 +478,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-19T03:39:56+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "La Letra Chica",
+  "autor": "La Letra Chica",
+  "tipo": "nota",
+  "titulo": "Dia de la militancia: Massa reunió al peronismo, Kicillof pegó el faltazo y Michel agitó la interna",
+  "texto": "El diputado nacional aseguró que dirigentes del MDF habían sido convocados al encuentro de San Fernando, pero finalmente decidieron no asistir. Sus",
+  "url": "https://laletrachica.com.ar/nota/26952/dia-de-la-militancia-massa-reunio-al-peronismo-kicillof-pego-el-faltazo-y-michel-agito-la-interna/",
+  "publicado": "2026-11-18T18:00:00+00:00",
+  "id": "c4f8b83611c085b3",
+  "titulo_norm": "dia de la militancia massa reunió al peronismo kicillof pegó el faltazo y michel agitó la interna",
+  "resumen": "Massa, en el encuentro de San Fernando por el Día de la Militancia, afirmó que dirigentes del MDF fueron convocados, pero decidieron no asistir. La nota también destaca la ausencia de Kicillof y la agitación de la interna peronista.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T13:31:22+00:00"
  },
  {
   "plataforma": "interior",

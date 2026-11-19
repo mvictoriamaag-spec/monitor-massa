@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "Impacto Castex",
+  "autor": "Impacto Castex",
+  "tipo": "nota",
+  "titulo": "CGT: la cúpula sindical retacea apoyo a Massa y busca candidato",
+  "texto": "La convocatoria de Sergio Massa en San Fernando reunió a dos integrantes del triunvirato de la CGT y a un grupo reducido de dirigentes. Las ausencias expusieron las diferencias internas y la falta de definiciones ante la disputa por el liderazgo del peronismo.",
+  "url": "https://impactocastex.com.ar/politica/19251/cgt-la-cupula-sindical-retacea-apoyo-a-massa-y-busca-candidato",
+  "publicado": "2026-11-19T13:00:05+00:00",
+  "id": "20942357952e41e8",
+  "titulo_norm": "cgt la cúpula sindical retacea apoyo a massa y busca candidato",
+  "resumen": "Nota sobre el acto de Sergio Massa en San Fernando, al que asistieron dos integrantes del triunvirato de la CGT y pocos dirigentes. Las ausencias evidencian diferencias internas en la central sindical y la disputa por el liderazgo del peronismo.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T13:31:22+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "El Destape",
   "autor": "El Destape",
