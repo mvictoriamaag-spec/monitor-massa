@@ -1,6 +1,22 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "HOY ROJAS",
+  "autor": "HOY ROJAS",
+  "tipo": "nota",
+  "titulo": "El peronismo coincidió en Luján: Axel Kicillof, Máximo Kirchner y Sergio Massa asistieron a la misa de León XIV",
+  "texto": "",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iMnFUcHhhZDRRNWg5VmswYUtoY2k4M3lVR2JLR0VEQ1FfZmFoTU9DVFdjVzB0MkJibEpyRE1hTGZ2aVdiTHZHX053UTZ5N1FYMmVtdmJzRTlwWEVMU3VmS3hPZDdRVmc?oc=5",
+  "publicado": "2026-11-19T18:15:24+00:00",
+  "id": "6f90cfdc3aa7ef15",
+  "titulo_norm": "el peronismo coincidió en luján axel kicillof máximo kirchner y sergio massa asistieron a la misa de león xiv",
+  "resumen": "Nota de HOY ROJAS sobre la misa del papa León XIV en Luján, a la que asistieron Axel Kicillof, Máximo Kirchner y Sergio Massa, mostrando la presencia conjunta del peronismo. Sólo se dispone del título.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T21:01:10+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Infomiba",
   "autor": "Infomiba",
   "tipo": "nota",
