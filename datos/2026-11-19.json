@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "Informe Digital",
+  "autor": "Informe Digital",
+  "tipo": "nota",
+  "titulo": "Malena Galmarini cruzó a Caputo por el acto de Massa y defendió la unidad del peronismo",
+  "texto": "",
+  "url": "https://informedigital.com.ar/malena-galmarini-cruzo-a-caputo-por-el-acto-de-massa-y-defendio-la-unidad-del-peronismo/",
+  "publicado": "2026-11-19T16:39:06+00:00",
+  "id": "a82912cb586b2592",
+  "titulo_norm": "malena galmarini cruzó a caputo por el acto de massa y defendió la unidad del peronismo",
+  "resumen": "Malena Galmarini cuestionó a Luis Caputo por el acto de Sergio Massa y defendió la unidad del peronismo.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T17:14:22+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Ámbito",
   "autor": "Ámbito",
@@ -14,6 +30,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-19T16:08:36+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "infocronos.com.ar",
+  "autor": "infocronos.com.ar",
+  "tipo": "nota",
+  "titulo": "Junto a Massa, La Liga de Intendentes participó del encuentro en San Fernando y pidió construir una alternativa federal",
+  "texto": "La Liga compartió el acto encabezado por Sergio Massa en el Teatro Otamendi. Durante la jornada, coincidieron en la importancia de fortalecer la unid",
+  "url": "https://infocronos.com.ar/nota/58947/junto-a-massa-la-liga-de-intendentes-participo-del-encuentro-en-san-fernando-y-pidio-construir-una-alternativa-federal/",
+  "publicado": "2026-11-19T15:16:57+00:00",
+  "id": "13650d7fe1539459",
+  "titulo_norm": "junto a massa la liga de intendentes participó del encuentro en san fernando y pidió construir una alternativa federal",
+  "resumen": "La Liga de Intendentes participó de un acto encabezado por Sergio Massa en el Teatro Otamendi, en San Fernando, donde coincidieron en fortalecer la unidad y construir una alternativa federal.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T17:14:22+00:00"
  },
  {
   "plataforma": "interior",

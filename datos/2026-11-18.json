@@ -241,6 +241,22 @@
  },
  {
   "plataforma": "interior",
+  "fuente": "Primera Página",
+  "autor": "Primera Página",
+  "tipo": "nota",
+  "titulo": "Massa embolsa al gobernador de Misiones, pero evita al PJ que responde a Kicillof",
+  "texto": "El exministro reprogramó su visita para el 25 de noviembre. Se reunirá con Passalacqua y sectores políticos en plena disputa por el armado de 2027.",
+  "url": "https://primerapagina.info/politica/massa-embolsa-al-gobernador-de-misiones--pero-evita-al-pj-que-responde-a-kicillof_a6afdce8990b8e927e2994e05",
+  "publicado": "2026-11-18T20:50:00+00:00",
+  "id": "0e371092fb60e03d",
+  "titulo_norm": "massa embolsa al gobernador de misiones pero evita al pj que responde a kicillof",
+  "resumen": "Sergio Massa reprogramó para el 25 de noviembre su visita a Misiones, donde se reunirá con el gobernador Passalacqua y sectores políticos en medio de la disputa por el armado de 2027 y la relación con el PJ que responde a Kicillof.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-19T17:14:22+00:00"
+ },
+ {
+  "plataforma": "interior",
   "fuente": "InfoCielo (Buenos Aires)",
   "autor": "InfoCielo (Buenos Aires)",
   "tipo": "nota",
