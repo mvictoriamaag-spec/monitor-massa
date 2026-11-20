@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "nacional",
+  "fuente": "Clarin.com",
+  "autor": "Clarin.com",
+  "tipo": "nota",
+  "titulo": "Massa acelera el armado federal del Frente Renovador rumbo a 2027: rearmó el partido y bendijo a su hombre en Tierra del Fuego",
+  "texto": "La Justicia reconoció al parlamentario del Mercosur, Alejandro Deanes, como presidente del partido.Damián \"Loli\" Löffler, del Movimiento Popular Fueguino, pasa a ser el referente massista en Tierra del Fuego.",
+  "url": "https://www.clarin.com/politica/massa-acelera-armado-federal-frente-renovador-rumbo-2027-rearmo-partido-bendijo-hombre-tierra-fuego_0_8uBTR8SCA2.html",
+  "publicado": "2026-11-20T18:36:12+00:00",
+  "id": "cf5a425d8113d853",
+  "titulo_norm": "massa acelera el armado federal del frente renovador rumbo a 2027 rearmó el partido y bendijo a su hombre en tierra del ",
+  "resumen": "Massa acelera el armado federal del Frente Renovador rumbo a 2027, con la Justicia reconociendo a Alejandro Deanes como presidente del partido. En Tierra del Fuego, Damián Löffler pasa a ser el referente massista.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-20T18:48:05+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "Flipr.news",
   "autor": "Flipr.news",
