@@ -11,9 +11,9 @@
   "publicado": "2026-11-20T12:58:36+00:00",
   "id": "5fe0c179fb90d734",
   "titulo_norm": "",
-  "resumen": "No sé, si solo están Massa y Milei la votaría.",
+  "resumen": "Usuario de X dice que votaría por Milei sólo si las únicas opciones fueran Massa y Milei, expresando una preferencia electoral condicionada.",
   "relevante": 1,
-  "resumen_ia": false,
+  "resumen_ia": true,
   "recolectado": "2026-11-20T13:00:35+00:00"
  },
  {
@@ -28,9 +28,9 @@
   "publicado": "2026-11-20T12:56:31+00:00",
   "id": "ce279d2dbcf9603f",
   "titulo_norm": "",
-  "resumen": "Vengan a decirme que Ritondo es mas valioso que cualquier gordo de X que cagando en un inodoro, domaba a Massa, CFK, Alberto y toda la horda de orcos que los acompañaban.",
+  "resumen": "Post de tono insultante que defiende a Ritondo frente a un dirigente al que acusa de haber \"domado\" a Massa, CFK y Alberto Fernández, en una crítica política.",
   "relevante": 1,
-  "resumen_ia": false,
+  "resumen_ia": true,
   "recolectado": "2026-11-20T13:00:35+00:00"
  },
  {
@@ -45,9 +45,9 @@
   "publicado": "2026-11-20T12:52:00+00:00",
   "id": "9e580215f4af86f6",
   "titulo_norm": "",
-  "resumen": "Era Massa en Luján",
+  "resumen": "Comentario breve que señala que Massa fue visto en Luján, según el usuario; la mención refiere al dirigente político en un contexto de presencia pública.",
   "relevante": 1,
-  "resumen_ia": false,
+  "resumen_ia": true,
   "recolectado": "2026-11-20T13:00:35+00:00"
  },
  {
@@ -62,9 +62,9 @@
   "publicado": "2026-11-20T12:44:59+00:00",
   "id": "4d5d41ac4e2fdbc8",
   "titulo_norm": "",
-  "resumen": "La pelea de baba entre Massa y Kicillof la deberían hacer en la previa de boke.",
+  "resumen": "Comentario humorístico que sugiere que la pelea entre Massa y Kicillof debería hacerse como previa de un combate de boxeo.",
   "relevante": 1,
-  "resumen_ia": false,
+  "resumen_ia": true,
   "recolectado": "2026-11-20T13:00:35+00:00"
  },
  {
@@ -79,9 +79,9 @@
   "publicado": "2026-11-20T12:41:58+00:00",
   "id": "debfb321f2211596",
   "titulo_norm": "",
-  "resumen": "No habló de massa Don Orione?. Te falta tanto para conocer su gran obra. En principio vivir cerca de uno de sus cottolengos, e ir a ayudar. Si dijo eso. Es verdad.",
-  "relevante": 1,
-  "resumen_ia": false,
+  "resumen": "Respuesta sobre la obra de Don Orione y sus cottolengos, en la que se pregunta si se habló de \"Massa\" en referencia al santo y su obra religiosa, sin relación con el dirigente.",
+  "relevante": 0,
+  "resumen_ia": true,
   "recolectado": "2026-11-20T13:00:35+00:00"
  },
  {
@@ -96,9 +96,9 @@
   "publicado": "2026-11-20T12:36:11+00:00",
   "id": "561677285f3559ea",
   "titulo_norm": "",
-  "resumen": "Lamentamos profundamente el fallecimiento de nuestra socia Rosa Libonati, catequista y una de las impulsoras de la Capilla Lorenzo Massa, quien dejó una huella imborrable en nuestra comunidad. San Lorenzo acompaña en este doloroso momento a su hijo Mario Benigni y a toda su",
-  "relevante": 1,
-  "resumen_ia": false,
+  "resumen": "Comunicado del club San Lorenzo que lamenta el fallecimiento de la socia Rosa Libonati, impulsora de la Capilla Lorenzo Massa, término que no refiere al dirigente político.",
+  "relevante": 0,
+  "resumen_ia": true,
   "recolectado": "2026-11-20T13:00:35+00:00"
  },
  {
