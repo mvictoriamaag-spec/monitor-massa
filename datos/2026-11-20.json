@@ -1,0 +1,34 @@
+[
+ {
+  "plataforma": "interior",
+  "fuente": "El Ancasti (Catamarca)",
+  "autor": "El Ancasti (Catamarca)",
+  "tipo": "nota",
+  "titulo": "La cuña Massa",
+  "texto": "",
+  "url": "https://www.elancasti.com.ar/opinion/la-cuna-massa-n626417",
+  "publicado": "2026-11-20T03:48:44+00:00",
+  "id": "5b4bef332e0dd1d4",
+  "titulo_norm": "la cuña massa",
+  "resumen": "Nota titulada \"La cuña Massa\", que alude a una cuña o spot publicitario asociado a Sergio Massa en el marco de la actividad política. El texto no está disponible.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-20T04:03:45+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Diario Hoy En la noticia",
+  "autor": "Diario Hoy En la noticia",
+  "tipo": "nota",
+  "titulo": "“Massa fue, es y será el candidato de la Embajada”",
+  "texto": "Alicia Castro salió al cruce luego del acto que encabezó el exministro de Economía por el Día de la Militancia en territorio bonaerense sin Kicillof. “Los dirigentes del peronismo que lo apoyen están profundamente desviados”, lanzó en diálogo con este medio.",
+  "url": "https://diariohoy.net/politica/massa-fue-es-y-sera-el-candidato-de-la-embajada-290398",
+  "publicado": "2026-11-20T03:00:00+00:00",
+  "id": "9ddf9de596e8ce83",
+  "titulo_norm": "massa fue es y será el candidato de la embajada",
+  "resumen": "Alicia Castro critica el acto de Sergio Massa por el Día de la Militancia en territorio bonaerense, sin Kicillof, y lo llama \"el candidato de la Embajada\". Afirma que los dirigentes peronistas que lo apoyan están \"profundamente desviados\".",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-20T04:03:45+00:00"
+ }
+]
