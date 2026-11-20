@@ -1,6 +1,38 @@
 [
  {
   "plataforma": "nacional",
+  "fuente": "Perfil",
+  "autor": "Perfil",
+  "tipo": "nota",
+  "titulo": "Tévez toma partido por Natalia de la Sota en medio de la presión de Massa sobre el PJ de Llaryora",
+  "texto": "La presión del peronismo nacional sobre Llaryora para definir su lugar en la construcción anti-Milei empieza a tener repercusiones en Córdoba. Tévez reivindicó a Natalia como posible cabeza de un proyecto nacional y planteó que su proyección no debe excluirla del esquema provincial.",
+  "url": "https://www.perfil.com/cordoba/tevez-toma-partido-por-natalia-de-la-sota-en-medio-de-la-presion-de-massa-sobre-el-pj-de-llaryora-akWfj4C66KgO",
+  "publicado": "2026-11-20T19:04:41+00:00",
+  "id": "8c08cba565700a26",
+  "titulo_norm": "tévez toma partido por natalia de la sota en medio de la presión de massa sobre el pj de llaryora",
+  "resumen": "Tévez respalda a Natalia de la Sota como posible cabeza de un proyecto nacional y sostiene que no debe quedar excluida del esquema provincial, en medio de la presión de Massa sobre Llaryora para definir el lugar del PJ cordobés en la construcción anti-Milei.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-20T19:51:25+00:00"
+ },
+ {
+  "plataforma": "nacional",
+  "fuente": "Perfil",
+  "autor": "Perfil",
+  "tipo": "nota",
+  "titulo": "Miguel Ángel Pichetto: \"Les aconsejo a Massa y Kicillof que agoten las instancias del diálogo para construir una alternativa de gobierno\"",
+  "texto": "El líder de Encuentro Republicano Federal abordó la eliminación de las PASO, pidió un peronismo de \"centro nacional productivo\" y alertó sobre el acercamiento del PRO a Milei.",
+  "url": "https://perfil.com/modo-fontevecchia/miguel-angel-pichetto-les-aconsejo-a-massa-y-kicillof-que-agoten-las-instancias-del-dialogo-para-construir-una-alternativa-de-gobierno-aqPYY1S7vZGt",
+  "publicado": "2026-11-20T18:46:30+00:00",
+  "id": "d5f53eec5ec4ab4f",
+  "titulo_norm": "miguel ángel pichetto les aconsejo a massa y kicillof que agoten las instancias del diálogo para construir una alternati",
+  "resumen": "Miguel Ángel Pichetto, líder de Encuentro Republicano Federal, aconseja a Massa y Kicillof agotar el diálogo para construir una alternativa de gobierno. También reclama un peronismo de «centro nacional productivo», cuestiona la eliminación de las PASO y alerta sobre el acercamiento del PRO a Milei.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-20T19:51:25+00:00"
+ },
+ {
+  "plataforma": "nacional",
   "fuente": "Clarin.com",
   "autor": "Clarin.com",
   "tipo": "nota",
@@ -14,6 +46,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-20T18:48:05+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Informe Digital",
+  "autor": "Informe Digital",
+  "tipo": "nota",
+  "titulo": "Massa busca aislar a Kicillof y piensa en Natalia de la Sota o Zamora para la fórmula",
+  "texto": "",
+  "url": "https://informedigital.com.ar/massa-busca-aislar-a-kicillof-y-piensa-en-natalia-de-la-sota-o-zamora-para-la-formula/",
+  "publicado": "2026-11-20T17:26:49+00:00",
+  "id": "f23edd615317272f",
+  "titulo_norm": "massa busca aislar a kicillof y piensa en natalia de la sota o zamora para la fórmula",
+  "resumen": "Sergio Massa buscaría aislar a Kicillof y evalúa a Natalia de la Sota o a Zamora como posibles integrantes de la fórmula.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-20T19:51:25+00:00"
  },
  {
   "plataforma": "portal",
