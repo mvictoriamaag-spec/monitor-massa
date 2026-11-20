@@ -97,6 +97,22 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "NotiAR",
+  "autor": "NotiAR",
+  "tipo": "nota",
+  "titulo": "La victoria mileísta con las PASO y la jugada de Sergio Massa - Por Pablo de León",
+  "texto": "El Gobierno logró un triunfo con su estrategia sobre las Primarias. Senado hoy, EN VIVO: debaten Discapacidad y Ley de Tierras tras la sesión fallida por la Ley Malvinas. Diego César Santilli fue el anfitrión del último encuentro de la Mesa Política del Gobierno nacional. Como había reunión de comi...",
+  "url": "https://notiar.com.ar/index.php/politica/143675-la-victoria-mileista-con-las-paso-y-la-jugada-de-sergio-massa-por-pablo-de-leon",
+  "publicado": "2026-11-19T18:14:00+00:00",
+  "id": "0a584a037a2e9305",
+  "titulo_norm": "la victoria mileísta con las paso y la jugada de sergio massa por pablo de león",
+  "resumen": "Columna de opinión de Pablo de León que analiza la jugada de Sergio Massa en el marco del triunfo del Gobierno con su estrategia en las PASO. La nota se centra en el dirigente como actor político.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-20T02:21:53+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Infomiba",
   "autor": "Infomiba",
   "tipo": "nota",
