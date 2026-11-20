@@ -1,6 +1,22 @@
 [
  {
   "plataforma": "nacional",
+  "fuente": "Perfil",
+  "autor": "Perfil",
+  "tipo": "nota",
+  "titulo": "Axel Kicillof define qué hacer con las PASO bonaerenses, mientras Máximo Kirchner y Sergio Massa exigen un frente de unidad anti-Milei",
+  "texto": "Si no hay primarias nacionales, el gobernador estudia mantenerlas a nivel provincial. Prepara un acto con intendentes tras su ausencia en la foto federal de San Fernando. Los pedidos del kirchnerismo y el massismo.",
+  "url": "https://www.perfil.com/politica/kicillof-define-que-hacer-con-las-paso-bonaerenses-mientras-maximo-y-massa-exigen-un-frente-de-unidad-anti-milei-aM3Ol0k1FqKD",
+  "publicado": "2026-11-20T16:07:26+00:00",
+  "id": "7dd5124a30a5f0f4",
+  "titulo_norm": "axel kicillof define qué hacer con las paso bonaerenses mientras máximo kirchner y sergio massa exigen un frente de unid",
+  "resumen": "Axel Kicillof evalúa mantener las PASO a nivel bonaerense si no hay primarias nacionales, mientras Máximo Kirchner y Sergio Massa piden un frente de unidad anti-Milei. Kicillof prepara un acto con intendentes tras su ausencia en la foto federal de San Fernando.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-20T16:50:06+00:00"
+ },
+ {
+  "plataforma": "nacional",
   "fuente": "Radio Mitre",
   "autor": "Radio Mitre",
   "tipo": "nota",
