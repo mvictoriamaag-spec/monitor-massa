@@ -1,5 +1,37 @@
 [
  {
+  "plataforma": "nacional",
+  "fuente": "Infobae",
+  "autor": "Infobae",
+  "tipo": "nota",
+  "titulo": "Kicillof se aferra a sostener las PASO en Buenos Aires para negociar a nivel nacional con Massa y CFK",
+  "texto": "La discusión ocurre en paralelo a las intenciones del Gobierno de suspendar las Primarias en 2027. El gobernador bonaerense lo definirá en base a lo que suceda en el Congreso, pero distintas terminales del peronismo creen que servirá para descomprimir",
+  "url": "https://www.infobae.com/politica/2026/11/20/kicillof-se-aferra-a-sostener-las-paso-en-buenos-aires-para-negociar-a-nivel-nacional-con-massa-y-cfk/",
+  "publicado": "2026-11-20T04:40:11+00:00",
+  "id": "5028fd5af0a4b506",
+  "titulo_norm": "kicillof se aferra a sostener las paso en buenos aires para negociar a nivel nacional con massa y cfk",
+  "resumen": "Kicillof insiste en sostener las PASO en la provincia de Buenos Aires para negociar a nivel nacional con Massa y Cristina Fernández de Kirchner, en paralelo a la intención del Gobierno de suspenderlas en 2027. Según el texto, distintas terminales del peronismo creen que las primarias servirán para descomprimir la interna.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-20T05:08:20+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Enfoque Sindical |",
+  "autor": "Enfoque Sindical |",
+  "tipo": "nota",
+  "titulo": "Cristian Jerónimo tomó distancia de Massa y reclamó una interna para definir el liderazgo del peronismo",
+  "texto": "",
+  "url": "https://enfoquesindical.org/articulo/noticias/cristian-jeronimo-tomo-distancia-de-massa-y-reclamo-una-interna-para-definir-el",
+  "publicado": "2026-11-20T04:29:57+00:00",
+  "id": "eacf99198b289294",
+  "titulo_norm": "cristian jerónimo tomó distancia de massa y reclamó una interna para definir el liderazgo del peronismo",
+  "resumen": "Cristian Jerónimo se distancia de Massa y reclama una interna dentro del peronismo para definir su liderazgo. La nota marca una posición crítica o de desmarque respecto del dirigente.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-20T05:08:20+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "El Ancasti (Catamarca)",
   "autor": "El Ancasti (Catamarca)",
