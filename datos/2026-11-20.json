@@ -1,5 +1,37 @@
 [
  {
+  "plataforma": "interior",
+  "fuente": "Nuevo Diario de Salta",
+  "autor": "Nuevo Diario de Salta",
+  "tipo": "nota",
+  "titulo": "Kicillof se aferra a las PASO en Buenos Aires para negociar con Massa y CFK",
+  "texto": "",
+  "url": "https://nuevodiariodesalta.com.ar/kicillof-se-aferra-a-las-paso-en-buenos-aires-para-negociar-con-massa-y-cfk/",
+  "publicado": "2026-11-20T23:04:00+00:00",
+  "id": "98e40dd3ac12d517",
+  "titulo_norm": "kicillof se aferra a las paso en buenos aires para negociar con massa y cfk",
+  "resumen": "Kicillof insiste en mantener las PASO en la provincia de Buenos Aires como posición de negociación frente a Sergio Massa y Cristina Fernández de Kirchner.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-20T23:13:02+00:00"
+ },
+ {
+  "plataforma": "nacional",
+  "fuente": "La Política Online",
+  "autor": "La Política Online",
+  "tipo": "nota",
+  "titulo": "Kicillof, Máximo y Massa cruzaron gestos de unidad en la antesala del congreso del PJ bonaerense",
+  "texto": "Tras el acto de San Fernando, el peronismo elegirĂˇ este sĂˇbado a MĂˇximo como presidente del Congreso del partido.",
+  "url": "https://www.lapoliticaonline.com/provincia/kicillof-maximo-y-massa-cruzaron-gestos-de-unidad-en-la-antesala-del-congreso-del-pj-bonaerense/",
+  "publicado": "2026-11-20T22:41:43+00:00",
+  "id": "51bf3fd349322fa0",
+  "titulo_norm": "kicillof máximo y massa cruzaron gestos de unidad en la antesala del congreso del pj bonaerense",
+  "resumen": "Kicillof, Máximo Kirchner y Sergio Massa intercambiaron gestos de unidad antes del congreso del PJ bonaerense, tras el acto de San Fernando. El peronismo elegirá este sábado a Máximo como presidente del congreso del partido.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-20T23:13:02+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "El Observador Argentina",
   "autor": "El Observador Argentina",
