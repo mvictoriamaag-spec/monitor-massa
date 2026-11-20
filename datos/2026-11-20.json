@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "Impacto Castex",
+  "autor": "Impacto Castex",
+  "tipo": "nota",
+  "titulo": "Kicillof convoca a intendentes tras el acto de Massa",
+  "texto": "El gobernador encabezará en La Plata una actividad de gestión para presentar el Servicio Bonaerense de Empleo. En su entorno esperan que el encuentro incluya definiciones sobre la unidad del peronismo, luego del acto organizado por Sergio Massa.",
+  "url": "https://impactocastex.com.ar/politica/19375/kicillof-convoca-a-intendentes-tras-el-acto-de-massa",
+  "publicado": "2026-11-20T12:00:10+00:00",
+  "id": "6a8b0ea61e84f318",
+  "titulo_norm": "kicillof convoca a intendentes tras el acto de massa",
+  "resumen": "El gobernador Kicillof encabezará en La Plata una actividad de gestión para presentar el Servicio Bonaerense de Empleo, donde su entorno espera definiciones sobre la unidad del peronismo tras el acto organizado por Sergio Massa.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-20T12:11:32+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "Diario Mendoza Today",
   "autor": "Diario Mendoza Today",
