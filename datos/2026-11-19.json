@@ -49,6 +49,22 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "NorteOnline",
+  "autor": "NorteOnline",
+  "tipo": "nota",
+  "titulo": "Galmarini cruzó a Caputo por el acto de Massa: “No te alteres que te sube el riesgo país”",
+  "texto": "La senadora bonaerense respondió a una publicación del ministro de Economía sobre el encuentro peronista en San Fernando. Defendió el acercamiento entre sectores opositores y cuestionó las prioridades del programa económico nacional. Malena Galmarini y Luis Caputo protagonizaron un cruce en redes sociales a partir del encuentro por el Día de la Militancia que reunió […]",
+  "url": "https://norteonline.com.ar/galmarini-cruzo-a-caputo-por-el-acto-de-massa-no-te-alteres-que-te-sube-el-riesgo-pais/",
+  "publicado": "2026-11-19T22:40:44+00:00",
+  "id": "f314d19b2f6e8dc3",
+  "titulo_norm": "galmarini cruzó a caputo por el acto de massa no te alteres que te sube el riesgo país",
+  "resumen": "La senadora Malena Galmarini respondió a Luis Caputo por una publicación sobre el acto peronista en San Fernando por el Día de la Militancia, con Sergio Massa como protagonista. Galmarini defendió el acercamiento entre sectores opositores y cuestionó las prioridades económicas nacionales.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-20T01:13:59+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "NOVA Bonaerense",
   "autor": "NOVA Bonaerense",
   "tipo": "nota",
