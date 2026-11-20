@@ -160,6 +160,22 @@
   "recolectado": "2026-11-20T16:50:06+00:00"
  },
  {
+  "plataforma": "portal",
+  "fuente": "Cronos noticias",
+  "autor": "Cronos noticias",
+  "tipo": "nota",
+  "titulo": "Massa manda a sus intendentes al acto de Kicillof en La Plata y llamó a dejar de lado las internas",
+  "texto": "Alexis Guerrera aseguró que todos los intendentes del Frente Renovador participarán del acto de gestión que encabezará el gobernador el próximo m",
+  "url": "https://infocronos.com.ar/nota/58974/massa-manda-a-sus-intendentes-al-acto-de-kicillof-en-la-plata-y-llamo-a-dejar-de-lado-las-internas/",
+  "publicado": "2026-11-20T15:26:34+00:00",
+  "id": "538d114954f71c89",
+  "titulo_norm": "massa manda a sus intendentes al acto de kicillof en la plata y llamó a dejar de lado las internas",
+  "resumen": "Alexis Guerrera asegura que todos los intendentes del Frente Renovador asistirán al acto de gestión que encabezará Kicillof en La Plata. Massa, según la nota, llamó a dejar de lado las internas.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-20T21:29:40+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Radio Mitre",
   "autor": "Radio Mitre",
