@@ -1,5 +1,37 @@
 [
  {
+  "plataforma": "interior",
+  "fuente": "Diario Mendoza Today",
+  "autor": "Diario Mendoza Today",
+  "tipo": "nota",
+  "titulo": "Massa desafía a Kicillof y empieza a jugar sus cartas en terreno mendocino",
+  "texto": "Mientras el gobernador bonaerense lleva meses construyendo su propio espacio político a través del Movimiento Derecho al Futuro, el líder del Frente Renovador volvió a escena con un movimiento que expone sus intenciones de recuperar protagonismo.",
+  "url": "https://mendozatoday.com.ar/politica/massa-desafia-a-kicillof-y-empieza-a-jugar-sus-cartas-en-terreno-mendocino/",
+  "publicado": "2026-11-20T09:02:51+00:00",
+  "id": "688f6432fd1f49f2",
+  "titulo_norm": "massa desafía a kicillof y empieza a jugar sus cartas en terreno mendocino",
+  "resumen": "Nota sobre Massa, líder del Frente Renovador, que reaparece en Mendoza con un movimiento para recuperar protagonismo, en contraste con el espacio político que construye Kicillof. Se lo presenta como un desafío a Kicillof.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-20T09:38:03+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Impacto Castex",
+  "autor": "Impacto Castex",
+  "tipo": "nota",
+  "titulo": "Massa destacó a tres candidatos presidenciales en un acto de unidad",
+  "texto": "En un encuentro de distintos sectores del justicialismo en San Fernando, Sergio Massa mencionó a Sergio Uñac, Gerardo Zamora y Natalia de la Sota. También llamó a ampliar la convocatoria y cuestionó la posible suspensión de las PASO.",
+  "url": "https://impactocastex.com.ar/nacionales/19349/massa-destaco-a-tres-candidatos-presidenciales-en-un-acto-de-unidad",
+  "publicado": "2026-11-20T09:00:00+00:00",
+  "id": "fec22661279c1ab0",
+  "titulo_norm": "massa destacó a tres candidatos presidenciales en un acto de unidad",
+  "resumen": "Massa participó en un acto de unidad del justicialismo en San Fernando, donde destacó a Sergio Uñac, Gerardo Zamora y Natalia de la Sota como posibles candidatos presidenciales. Además, llamó a ampliar la convocatoria y cuestionó la posible suspensión de las PASO.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-20T09:38:03+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Infobae",
   "autor": "Infobae",
