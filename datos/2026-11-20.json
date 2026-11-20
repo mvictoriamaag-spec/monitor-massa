@@ -1,6 +1,22 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "Diario Junio",
+  "autor": "Diario Junio",
+  "tipo": "nota",
+  "titulo": "Massa dio su mejor golpe, pero…",
+  "texto": "No por esperable, el acto del masismo en Tigre, dejo de provocar ardor en la escaldada piel del peronismo en particular, y del ambiente político en general. La prensa ‘formal’ (SIC) la presentó como una reunión de ‘prácticamente todo’ el peronismo, pero el encuentro no mostro eso, se vio otra…",
+  "url": "https://www.diariojunio.com.ar/165099_massa-dio-su-mejor-golpe-pero/",
+  "publicado": "2026-11-20T13:06:46+00:00",
+  "id": "b0f69590f27fb3bf",
+  "titulo_norm": "massa dio su mejor golpe pero",
+  "resumen": "Nota crítica sobre el acto del masismo en Tigre, que la prensa presentó como una reunión de casi todo el peronismo, pero que según el texto no mostró esa unidad. Sergio Massa aparece como protagonista del encuentro y de la tensión que generó en el peronismo.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-20T13:45:00+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Diputados Bonaerenses",
   "autor": "Diputados Bonaerenses",
   "tipo": "nota",
