@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "El Observador Argentina",
+  "autor": "El Observador Argentina",
+  "tipo": "nota",
+  "titulo": "Power Rankings Político: con las PASO por caer, Milei y Massa activan el modo full campaña",
+  "texto": "Con el dictamen para suspender las PASO como telón de fondo, el oficialismo avanza en el Senado mientras la oposición reconfigura sus piezas de cara a 2027.",
+  "url": "https://www.elobservador.com/argentina/politica/power-rankings-politico-las-paso-caer-milei-y-massa-activan-el-modo-full-campana-n6064610",
+  "publicado": "2026-11-20T21:29:00+00:00",
+  "id": "e96af5589170a06a",
+  "titulo_norm": "power rankings político con las paso por caer milei y massa activan el modo full campaña",
+  "resumen": "Power Rankings político de El Observador que señala a Milei y Massa en modo full campaña, con las PASO por caer tras un dictamen en el Senado. Massa aparece en la previa de 2027, mientras la oposición reconfigura sus piezas.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-20T22:18:53+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Perfil",
   "autor": "Perfil",
