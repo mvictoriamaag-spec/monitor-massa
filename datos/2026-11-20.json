@@ -1,6 +1,22 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "Diputados Bonaerenses",
+  "autor": "Diputados Bonaerenses",
+  "tipo": "nota",
+  "titulo": "Tras el acto de Massa, Guerrera hizo un guiño a Kicillof",
+  "texto": "Tras el acto de Massa en San Fernando, Guerrera confirmó que los intendentes del Frente Renovador acompañarán a Kicillof y pidió unidad.",
+  "url": "https://diputadosbsas.com.ar/guerrera-intendentes-massa-acto-kicillof/",
+  "publicado": "2026-11-20T12:18:00+00:00",
+  "id": "7213abb01a0ca530",
+  "titulo_norm": "tras el acto de massa guerrera hizo un guiño a kicillof",
+  "resumen": "Tras el acto de Massa en San Fernando, Guerrera confirmó que los intendentes del Frente Renovador acompañarán a Kicillof y pidió unidad. Muestra el alineamiento del massismo con el gobernador bonaerense, a partir de un acto encabezado por Massa.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-20T12:39:34+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Impacto Castex",
   "autor": "Impacto Castex",
   "tipo": "nota",
