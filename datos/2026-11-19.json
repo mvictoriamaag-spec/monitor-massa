@@ -288,6 +288,22 @@
   "recolectado": "2026-11-19T14:02:00+00:00"
  },
  {
+  "plataforma": "portal",
+  "fuente": "Critica Sur",
+  "autor": "Critica Sur",
+  "tipo": "nota",
+  "titulo": "Massa reorganiza su Frente Renovador: Alejandro Deanes asume en Tierra del Fuego",
+  "texto": "El parlamentario del MERCOSUR fue reconocido como presidente del partido en la provincia austral. Destacó a Sergio Massa como referente nacional y a",
+  "url": "https://criticasur.com.ar/nota/58089/massa_reorganiza_su_frente_renovador_alejandro_deanes_asume_en_tierra_del_fuego/",
+  "publicado": "2026-11-19T13:45:44+00:00",
+  "id": "325976be63277a53",
+  "titulo_norm": "massa reorganiza su frente renovador alejandro deanes asume en tierra del fuego",
+  "resumen": "Alejandro Deanes asumió como presidente del Frente Renovador en Tierra del Fuego, en una reorganización del partido. La nota destaca a Sergio Massa como referente nacional de la fuerza.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-20T03:12:23+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "La Nación",
   "autor": "La Nación",
@@ -494,5 +510,21 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-19T21:57:05+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Nueva Ciudad",
+  "autor": "Nueva Ciudad",
+  "tipo": "nota",
+  "titulo": "El peronismo elige a Guillermo Michel para el Consejo de la Magistratura con el aval de Cristina y Massa",
+  "texto": "La expresidenta Cristina Kirchner avaló la designación del diputado entrerriano Guillermo Michel como representante del bloque peronista de la Cámara de Diputados en el Consejo de la Magistratura, en un acuerdo que también involucró a Sergio Massa y que debe quedar formalizado este miércoles 18 de noviembre.",
+  "url": "https://www.nueva-ciudad.com.ar/notas/202611/58580-el-peronismo-elige-a-guillermo-michel-para-el-consejo-de-la-magistratura-con-el-aval-de-cristina-y-massa.html",
+  "publicado": "2026-11-19T03:47:23+00:00",
+  "id": "d3955de117409f47",
+  "titulo_norm": "el peronismo elige a guillermo michel para el consejo de la magistratura con el aval de cristina y massa",
+  "resumen": "Cristina Kirchner avaló la designación del diputado Guillermo Michel como representante del peronismo en el Consejo de la Magistratura, en un acuerdo que también involucró a Sergio Massa. La formalización estaba prevista para el 18 de noviembre.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-20T03:12:23+00:00"
  }
 ]
