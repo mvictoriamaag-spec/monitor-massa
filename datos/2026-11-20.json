@@ -1,5 +1,37 @@
 [
  {
+  "plataforma": "nacional",
+  "fuente": "Página/12",
+  "autor": "Página/12",
+  "tipo": "nota",
+  "titulo": "El balotaje, el peor escenario para Milei",
+  "texto": "En la consulta nacional sobre una posible segunda vuelta para 2027, el oficialismo es derrotado por los posibles candidatos del PJ, Axel Kicillof y Sergio Massa. Las mujeres son las que más se expresan en contra del presidente Milei.",
+  "url": "https://www.pagina12.com.ar/2026/11/21/el-balotaje-el-peor-escenario-para-milei/",
+  "publicado": "2026-11-21T02:29:42+00:00",
+  "id": "61e16bfdc7b113e1",
+  "titulo_norm": "el balotaje el peor escenario para milei",
+  "resumen": "Una consulta nacional sobre una posible segunda vuelta en 2027 muestra al oficialismo derrotado frente a Axel Kicillof y Sergio Massa, posibles candidatos del PJ. Las mujeres son quienes más rechazan al presidente Milei.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-21T02:48:37+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "www.diariovoces.com.ar",
+  "autor": "www.diariovoces.com.ar",
+  "tipo": "nota",
+  "titulo": "La suspensión de las PASO hizo explotar la interna entre Kicillof y Massa por las candidaturas de 2027",
+  "texto": "El PJ asume que las PASO serán eliminadas y acelera la guerra interna para ver quién es el \"candidato de la unidad\". ¿Kicillof o Massa?",
+  "url": "https://www.diariovoces.com.ar/politica/la-suspension-de-las-paso-hizo-explotar-la-interna-entre-kicillof-y-massa-por-las-candidaturas-de-2027/",
+  "publicado": "2026-11-21T01:53:09+00:00",
+  "id": "aedd3945bff2d07d",
+  "titulo_norm": "la suspensión de las paso hizo explotar la interna entre kicillof y massa por las candidaturas de 2027",
+  "resumen": "El PJ da por hecho que las PASO serán eliminadas y la interna entre Kicillof y Massa se acelera por la candidatura de unidad de 2027. La nota plantea la disputa como una pregunta abierta entre ambos.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-21T02:48:37+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "Nuevo Diario de Salta",
   "autor": "Nuevo Diario de Salta",
@@ -30,6 +62,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-20T23:13:02+00:00"
+ },
+ {
+  "plataforma": "interior",
+  "fuente": "Primera Página",
+  "autor": "Primera Página",
+  "tipo": "nota",
+  "titulo": "Milei mueve las PASO, Massa reúne al PJ y Kicillof enfrenta una interna decisiva",
+  "texto": "La posible suspensión de las primarias modifica los cálculos electorales. Cristina Kirchner, Bullrich y Macri también aparecen en las negociaciones hacia 2027.",
+  "url": "https://primerapagina.info/politica/milei-mueve-las-paso--massa-reune-al-pj-y-kicillof-enfrenta-una-interna-decisiva_a6b009570cd25aee28856b4c4",
+  "publicado": "2026-11-20T22:01:40+00:00",
+  "id": "fed7b5ac020dab97",
+  "titulo_norm": "milei mueve las paso massa reúne al pj y kicillof enfrenta una interna decisiva",
+  "resumen": "La posible suspensión de las PASO reconfigura las negociaciones del peronismo hacia 2027, con Massa reuniendo al PJ mientras Kicillof enfrenta una interna decisiva. También aparecen Cristina Kirchner, Bullrich y Macri.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-21T02:48:37+00:00"
  },
  {
   "plataforma": "portal",
