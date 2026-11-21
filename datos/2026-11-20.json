@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "Menorca - Es diari",
+  "autor": "Menorca - Es diari",
+  "tipo": "nota",
+  "titulo": "Massa Djent: el sonido a golpe de metal que debuta con su primer trabajo en Ciutadella",
+  "texto": "El grupo menorquín de metal progresivo presenta ‘Djegantium’, que presentarán en directo el 4 de diciembre en los Cinemes Moix Negre",
+  "url": "https://www.menorca.info/menorca/cultura/2026/11/21/2754473/sonido-golpe-metal-ciutadella.html",
+  "publicado": "2026-11-21T02:56:20+00:00",
+  "id": "62ce9096d986333d",
+  "titulo_norm": "massa djent el sonido a golpe de metal que debuta con su primer trabajo en ciutadella",
+  "resumen": "Nota sobre Massa Djent, un grupo menorquín de metal progresivo que presenta su primer trabajo, 'Djegantium', con un concierto el 4 de diciembre en los Cinemes Moix Negre. No se refiere a Sergio Massa.",
+  "relevante": 0,
+  "resumen_ia": true,
+  "recolectado": "2026-11-21T03:42:44+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Página/12",
   "autor": "Página/12",
