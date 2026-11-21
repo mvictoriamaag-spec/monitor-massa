@@ -1,5 +1,37 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "www.puntocapitalnoticias.com",
+  "autor": "www.puntocapitalnoticias.com",
+  "tipo": "nota",
+  "titulo": "Massa confirmó que sus intendentes acompañarán a Kicillof en La Plata y pidió unidad en el peronismo",
+  "texto": "Alexis Guerrera aseguró que todos los jefes comunales del Frente Renovador participarán el próximo martes de una actividad encabezada por el gobernador bonaerense en la Gobernación. El encuentro servirá para presentar el Servicio Bonaerense de Empleo y se desarrollará en medio de las diferencias internas del justicialismo de cara a 2027. Los intendentes bonaerenses alineados […]",
+  "url": "https://www.puntocapitalnoticias.com/massa-confirmo-que-sus-intendentes-acompanaran-a-kicillof-en-la-plata-y-pidio-unidad-en-el-peronismo/",
+  "publicado": "2026-11-21T12:27:34+00:00",
+  "id": "c9346275d3ce6e47",
+  "titulo_norm": "massa confirmó que sus intendentes acompañarán a kicillof en la plata y pidió unidad en el peronismo",
+  "resumen": "Massa confirmó que los intendentes del Frente Renovador acompañarán a Kicillof en una actividad en La Plata para presentar el Servicio Bonaerense de Empleo, y pidió unidad en el peronismo pese a las diferencias internas rumbo a 2027.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-21T12:39:48+00:00"
+ },
+ {
+  "plataforma": "interior",
+  "fuente": "Diario El Norte - San Nicolás",
+  "autor": "Diario El Norte - San Nicolás",
+  "tipo": "nota",
+  "titulo": "Massa y Kicillof tensan la interna peronista rumbo a 2027",
+  "texto": "",
+  "url": "https://diarioelnorte.com.ar/massa-y-kicillof-tensan-la-interna-peronista-rumbo-a-2027/",
+  "publicado": "2026-11-21T12:03:42+00:00",
+  "id": "1e8f287c80e0bfe5",
+  "titulo_norm": "massa y kicillof tensan la interna peronista rumbo a 2027",
+  "resumen": "Massa y Kicillof protagonizan tensiones dentro de la interna del peronismo de cara a 2027. La nota pone el foco en el enfrentamiento político entre ambos dirigentes.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-21T12:39:48+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Agencia Noticias Argentinas",
   "autor": "Agencia Noticias Argentinas",
