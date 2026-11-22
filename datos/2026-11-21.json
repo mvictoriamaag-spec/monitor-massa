@@ -288,6 +288,22 @@
   "recolectado": "2026-11-21T15:17:15+00:00"
  },
  {
+  "plataforma": "portal",
+  "fuente": "esposta.com.ar",
+  "autor": "esposta.com.ar",
+  "tipo": "nota",
+  "titulo": "Massa se mueve fuerte mientras que el peronismo se debate si desaparecen las PASO",
+  "texto": "",
+  "url": "https://esposta.com.ar/contenido/4621/massa-se-mueve-fuerte-mientras-que-el-peronismo-se-debate-si-desaparecen-las-paso",
+  "publicado": "2026-11-21T13:20:07+00:00",
+  "id": "1da216976d32c92b",
+  "titulo_norm": "massa se mueve fuerte mientras que el peronismo se debate si desaparecen las paso",
+  "resumen": "Sergio Massa aparece con una movida política fuerte mientras el peronismo debate si desaparecen las PASO. La nota gira en torno al posicionamiento de Massa dentro de la discusión electoral interna.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-22T07:58:27+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "MDZ Online",
   "autor": "MDZ Online",
