@@ -1,6 +1,22 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "Diario Neuquino",
+  "autor": "Diario Neuquino",
+  "tipo": "nota",
+  "titulo": "El PJ se reorganiza para 2027 y Massa busca liderar el armado mientras Javier Milei negocia concesiones con los gobernadores",
+  "texto": "El líder del Frente Renovador prepara una agenda económica para ampliar su espacio. La Casa Rosada busca contener las disputas internas, avanzar con el Presupuesto y cerrar alianzas provinciales para las legislativas. Miguel Ángel Pichetto mantuvo el gesto serio durante buena parte del acto por el Día de la Militancia en San Fernando. Su expresión […]",
+  "url": "https://diarioneuquino.com.ar/el-pj-se-reorganiza-para-2027-y-massa-busca-liderar-el-armado-mientras-javier-milei-negocia-concesiones-con-los-gobernadores/",
+  "publicado": "2026-11-21T22:12:31+00:00",
+  "id": "705b0e6725ee425d",
+  "titulo_norm": "el pj se reorganiza para 2027 y massa busca liderar el armado mientras javier milei negocia concesiones con los gobernad",
+  "resumen": "Massa busca liderar la reorganización del PJ rumbo a 2027 y prepara una agenda económica para ampliar su espacio, mientras Milei negocia concesiones con gobernadores.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-22T21:40:05+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "www.lalicuadoratdf.com.ar",
   "autor": "www.lalicuadoratdf.com.ar",
   "tipo": "nota",
