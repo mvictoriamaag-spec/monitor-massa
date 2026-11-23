@@ -145,6 +145,22 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "Flipr.news",
+  "autor": "Flipr.news",
+  "tipo": "nota",
+  "titulo": "El Acto de Massa, la Unidad Peronista y la Crisis de Milei | MÁS O MENOS BIEN",
+  "texto": "https://www.youtube.com/watch?v=7j11dVnRzNk RADIO CON VOS 🎙️ PROGRAMACIÓN 2026 🔊 De lunes a viernes te acompañamos con: 🔹 6:00 a 8:00 VAMO A CALMARNO con DIEGO IGLESIAS 🔹 8:00 a 12:00 ¿Y AHORA QUIÉN…",
+  "url": "https://flipr.com.ar/nacionales/streaming/con-vos/el-acto-de-massa-la-unidad-peronista-y-la-crisis-de-milei-mas-o-menos-bien/",
+  "publicado": "2026-11-22T20:20:24+00:00",
+  "id": "7529a97de23ac381",
+  "titulo_norm": "el acto de massa la unidad peronista y la crisis de milei más o menos bien",
+  "resumen": "Segmento de un programa de radio que analiza el acto de Massa, la unidad peronista y la crisis del gobierno de Milei.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-23T10:27:58+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "El Canciller",
   "autor": "El Canciller",
   "tipo": "nota",
@@ -224,6 +240,22 @@
   "recolectado": "2026-11-22T16:00:25+00:00"
  },
  {
+  "plataforma": "portal",
+  "fuente": "Voces Criticas - Salta",
+  "autor": "Voces Criticas - Salta",
+  "tipo": "nota",
+  "titulo": "Massa suma respaldos dentro del PJ y crece la tensión con Kicillof por las PASO de 2027",
+  "texto": "La posible suspensión de las elecciones primarias para 2027 genera incertidumbre sobre la definición de candidaturas y profundiza las diferencias con el gobernador bonaerense",
+  "url": "https://www.vocescriticas.com/noticias/2026/11/22/227346-massa-suma-respaldos-dentro-del-pj-y-crece-la-tension-con-kicillof-por-las-paso-de-2027",
+  "publicado": "2026-11-22T15:29:00+00:00",
+  "id": "e45f3201f222b929",
+  "titulo_norm": "massa suma respaldos dentro del pj y crece la tensión con kicillof por las paso de 2027",
+  "resumen": "Informa que Massa suma respaldos dentro del PJ mientras crece la tensión con Kicillof por la posible suspensión de las PASO de 2027, lo que genera incertidumbre sobre las candidaturas.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-23T10:27:58+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "Río Negro",
   "autor": "Río Negro",
@@ -254,6 +286,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-22T16:00:25+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "La Voz de Tandil",
+  "autor": "La Voz de Tandil",
+  "tipo": "nota",
+  "titulo": "Con las PASO en riesgo, Massa engrosa apoyos para la paritaria del PJ",
+  "texto": "",
+  "url": "https://www.lavozdetandil.com.ar/nota-con-las-paso-en-riesgo--massa-engrosa-apoyos-para-la-paritaria-del-pj-126747",
+  "publicado": "2026-11-22T15:02:45+00:00",
+  "id": "7d87d4ffbe6f4d60",
+  "titulo_norm": "con las paso en riesgo massa engrosa apoyos para la paritaria del pj",
+  "resumen": "Informa que Massa suma respaldos dentro del PJ para la paritaria partidaria, en un contexto en que las PASO están en riesgo.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-23T10:27:58+00:00"
  },
  {
   "plataforma": "portal",
