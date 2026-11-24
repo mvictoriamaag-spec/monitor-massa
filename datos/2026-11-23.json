@@ -17,6 +17,22 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "TradingView",
+  "autor": "TradingView",
+  "tipo": "nota",
+  "titulo": "Empresas de redes sociais não são responsáveis pelo tiroteio em massa em Buffalo, decide a Suprema Corte de Nova York",
+  "texto": "",
+  "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QcXhyN3JiOEFZazJHX0JCMExHNFVtV09Nakh3VW1sbnQwLW5QZ2R3MnZmaUtSQ29PUkpVYzRHQ0tod0NKUUxZamNxdDl3Q2hWZXRyWDVIWVB4ZkNIX3c1WWtJclQ2cFhEN19vLS1FME9zVXluNDBn?oc=5",
+  "publicado": "2026-11-23T20:33:17+00:00",
+  "id": "bd52adb068a7b2c9",
+  "titulo_norm": "empresas de redes sociais n o s o responsáveis pelo tiroteio em massa em buffalo decide a suprema corte de nova york",
+  "resumen": "Nota en portugués sobre la decisión de la Corte Suprema de Nueva York de que las redes sociales no son responsables del tiroteo masivo en Buffalo. La palabra 'massa' significa aquí 'masivo', no a Sergio Massa.",
+  "relevante": 0,
+  "resumen_ia": true,
+  "recolectado": "2026-11-24T17:14:16+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Compacto Diario",
   "autor": "Compacto Diario",
   "tipo": "nota",
