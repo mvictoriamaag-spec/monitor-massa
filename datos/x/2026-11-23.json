@@ -11,9 +11,9 @@
   "publicado": "2026-11-24T00:22:43+00:00",
   "id": "b1bb4b09b3aaf3cb",
   "titulo_norm": "",
-  "resumen": "Esto es lo que viene si gana Kiciloff o Massa",
+  "resumen": "Publicación especulativa que plantea qué pasaría si gana Kicillof o Massa, presentando a ambos como posibles ganadores electorales. No desarrolla argumentos.",
   "relevante": 1,
-  "resumen_ia": false,
+  "resumen_ia": true,
   "recolectado": "2026-11-24T00:58:51+00:00"
  },
  {
@@ -28,9 +28,9 @@
   "publicado": "2026-11-24T00:21:07+00:00",
   "id": "4cfd87a0a2c12bd4",
   "titulo_norm": "",
-  "resumen": "Sí, lo mismo, con el vilipendiado de Massa a mí me sobraba plata que hoy no.",
+  "resumen": "Comentario irónico que contrapone la situación económica actual con la época en que Massa estaba al frente de la economía, a quien llama \"vilipendiado\". Expresa apoyo implícito a su gestión.",
   "relevante": 1,
-  "resumen_ia": false,
+  "resumen_ia": true,
   "recolectado": "2026-11-24T00:58:51+00:00"
  },
  {
@@ -45,9 +45,9 @@
   "publicado": "2026-11-24T00:15:53+00:00",
   "id": "8aa2c906a2a9d7e4",
   "titulo_norm": "",
-  "resumen": "Peronismo: Massa y Cristina Kirchner consolidan su alianza interna y vuelcan la presión sobre Kicillof - LA NACION",
+  "resumen": "Nota de La Nación sobre la alianza interna entre Massa y Cristina Kirchner, que presiona a Kicillof dentro del peronismo. Lo muestra como un actor clave en la disputa interna.",
   "relevante": 1,
-  "resumen_ia": false,
+  "resumen_ia": true,
   "recolectado": "2026-11-24T00:58:51+00:00"
  },
  {
@@ -62,9 +62,9 @@
   "publicado": "2026-11-24T00:11:39+00:00",
   "id": "93816dd9b707b92d",
   "titulo_norm": "",
-  "resumen": "La Asociación Afavita sostiene que los padres de Malena Massa colocaron una bomba en la Plaza Mitre de San Isidro, que terminó con la vida de un bombero. Una bomba que también pudo haber matado a niños que jugaban en la plaza. No todo vale en nombre de una supuesta revolución. La",
+  "resumen": "Publicación que cita a la asociación Afavita para acusar a los padres de Malena Massa de haber colocado una bomba en la Plaza Mitre de San Isidro, que mató a un bombero. Es una acusación grave sin respaldo en el texto.",
   "relevante": 1,
-  "resumen_ia": false,
+  "resumen_ia": true,
   "recolectado": "2026-11-24T00:58:51+00:00"
  },
  {
@@ -79,9 +79,9 @@
   "publicado": "2026-11-24T00:07:32+00:00",
   "id": "fe9196e61e22a672",
   "titulo_norm": "",
-  "resumen": "Y @SergioMassa piensa que así podría ganar una elección? Borraste del mapa hdp. Ya compraste todos los jueces y fiscales. Ya la robaste, si consumis menos te va a alcanzar. Hijo de re mil puta.",
+  "resumen": "Mensaje hostil dirigido a Massa en el que lo acusa de comprar jueces y fiscales y de robar, con insultos. Expresa crítica agresiva, sin aportar pruebas.",
   "relevante": 1,
-  "resumen_ia": false,
+  "resumen_ia": true,
   "recolectado": "2026-11-24T00:58:51+00:00"
  },
  {
@@ -96,9 +96,9 @@
   "publicado": "2026-11-23T23:46:06+00:00",
   "id": "8ab07377838fedcd",
   "titulo_norm": "",
-  "resumen": "El rectorado de la UBA es Massa en las elecciones Yankees, apoya a los dos contendientes.",
-  "relevante": 1,
-  "resumen_ia": false,
+  "resumen": "Publicación confusa o humorística que usa \"Massa\" en referencia a elecciones y al rectorado de la UBA, sin aludir claramente al dirigente político.",
+  "relevante": 0,
+  "resumen_ia": true,
   "recolectado": "2026-11-24T00:58:51+00:00"
  },
  {
@@ -113,9 +113,9 @@
   "publicado": "2026-11-23T23:35:15+00:00",
   "id": "2a1dc6f28323cdf6",
   "titulo_norm": "",
-  "resumen": "Esta es la familia Massa/Galmarini, en la imagen hay dos terroristas que también hicieron daño en los 70. Tengamos memoria siempre.",
+  "resumen": "Publicación que señala a la familia Massa/Galmarini y afirma que en una imagen hay dos terroristas que dañaron a la sociedad en los 70. Es un ataque hostil y difamatorio, sin respaldo en el texto.",
   "relevante": 1,
-  "resumen_ia": false,
+  "resumen_ia": true,
   "recolectado": "2026-11-24T00:58:51+00:00"
  }
 ]

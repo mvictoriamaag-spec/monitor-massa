@@ -16,6 +16,22 @@
   "recolectado": "2026-11-23T22:10:55+00:00"
  },
  {
+  "plataforma": "portal",
+  "fuente": "Compacto Diario",
+  "autor": "Compacto Diario",
+  "tipo": "nota",
+  "titulo": "Kicillof y Massa: La lucha por el liderazgo peronista se intensifica en las provincias",
+  "texto": "La competencia por el liderazgo del peronismo se traslada al ámbito provincial mientras los precandidatos Axel Kicillof y Sergio Massa buscan consolidar su influencia de cara a las elecciones de 2027. Ambos líderes intentan sumar el apoyo de gobernadores y referentes locales, tanto peronistas como de otros espacios políticos, en un contexto donde la figura",
+  "url": "https://compactodiario.com.ar/kicillof-y-massa-la-lucha-por-el-liderazgo-peronista-se-intensifica-en-las-provincias/?amp=1",
+  "publicado": "2026-11-23T20:18:05+00:00",
+  "id": "c630c56c98e4f894",
+  "titulo_norm": "kicillof y massa la lucha por el liderazgo peronista se intensifica en las provincias",
+  "resumen": "Nota sobre la competencia por el liderazgo del peronismo, con Axel Kicillof y Sergio Massa como precandidatos que buscan ganar influencia de cara a 2027. Ambos intentan sumar apoyo de gobernadores y referentes locales.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-24T00:59:35+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "La Nación",
   "autor": "La Nación",
