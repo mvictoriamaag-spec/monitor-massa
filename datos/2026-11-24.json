@@ -32,6 +32,22 @@
   "recolectado": "2026-11-24T21:55:13+00:00"
  },
  {
+  "plataforma": "portal",
+  "fuente": "LaPrensa.com.ar",
+  "autor": "LaPrensa.com.ar",
+  "tipo": "nota",
+  "titulo": "El eje Cristina-Massa",
+  "texto": "",
+  "url": "https://www.laprensa.com.ar/El-eje-Cristina-Massa-578162.note.aspx",
+  "publicado": "2026-11-24T20:51:06+00:00",
+  "id": "1494ddf10392e24e",
+  "titulo_norm": "el eje cristina massa",
+  "resumen": "Nota de LaPrensa.com.ar que aborda el vínculo político entre Cristina Fernández de Kirchner y Sergio Massa, presentado como un \"eje\" de poder dentro del peronismo.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-24T22:34:23+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Perfil",
   "autor": "Perfil",
