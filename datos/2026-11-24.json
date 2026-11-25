@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "interior",
+  "fuente": "Primera Página",
+  "autor": "Primera Página",
+  "tipo": "nota",
+  "titulo": "El peronismo ante su propia encrucijada: sin PASO, Massa y Kicillof disputan el poder",
+  "texto": "Cristina respalda al líder del Frente Renovador, el gobernador sostiene su proyecto presidencial y la dirigencia negocia cómo evitar una ruptura.",
+  "url": "https://primerapagina.info/politica/el-peronismo-ante-su-propia-encrucijada--sin-paso--massa-y-kicillof-disputan-el-poder_a6b05ea3ecd25aee2889b785e",
+  "publicado": "2026-11-24T22:53:47+00:00",
+  "id": "4c180772748b9c3d",
+  "titulo_norm": "el peronismo ante su propia encrucijada sin paso massa y kicillof disputan el poder",
+  "resumen": "Nota de análisis sobre la interna peronista sin PASO: Cristina Kirchner respalda a Massa, líder del Frente Renovador, mientras Kicillof sostiene su proyecto presidencial. La dirigencia negocia cómo evitar una ruptura.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-25T11:01:23+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "La Nación",
   "autor": "La Nación",
@@ -14,6 +30,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-24T21:55:13+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Tendencia de Noticias",
+  "autor": "Tendencia de Noticias",
+  "tipo": "nota",
+  "titulo": "Sergio Massa volvió a postergar su viaje a Misiones en medio de las negociaciones rumbo a 2027",
+  "texto": "El exministro de Economía tenía previsto reunirse con el gobernador Hugo Passalacqua y representantes del sector productivo provincial. La visita fue reprogramada por segunda vez y todavía no tiene una nueva fecha confirmada.",
+  "url": "https://tendenciadenoticias.com.ar/politica/sergio-massa-volvio-a-postergar-su-viaje-a-misiones-en-medio-de-las-negociaciones-rumbo-a-2027",
+  "publicado": "2026-11-24T21:09:00+00:00",
+  "id": "0fc283468d8c366f",
+  "titulo_norm": "sergio massa volvió a postergar su viaje a misiones en medio de las negociaciones rumbo a 2027",
+  "resumen": "Sergio Massa volvió a postergar por segunda vez su viaje a Misiones, donde iba a reunirse con el gobernador Hugo Passalacqua y representantes del sector productivo provincial. Todavía no hay nueva fecha confirmada.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-25T11:01:23+00:00"
  },
  {
   "plataforma": "nacional",
