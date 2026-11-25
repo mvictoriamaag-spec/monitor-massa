@@ -16,6 +16,22 @@
   "recolectado": "2026-11-25T11:01:23+00:00"
  },
  {
+  "plataforma": "portal",
+  "fuente": "La Reforma, General Pico",
+  "autor": "La Reforma, General Pico",
+  "tipo": "nota",
+  "titulo": "Massa volvió a postergar su viaje a Misiones de cara a las elecciones de 2027",
+  "texto": "Massa volvió a postergar su viaje a Misiones de cara a las elecciones de 2027",
+  "url": "https://www.lareforma.com.ar/Massa-volvio-a-postergar-su-viaje-a-misiones-de-cara-a-las-elecciones-de-2027.html",
+  "publicado": "2026-11-24T22:45:51+00:00",
+  "id": "3d8b9db0b4ca1275",
+  "titulo_norm": "massa volvió a postergar su viaje a misiones de cara a las elecciones de 2027",
+  "resumen": "Noticia sobre la agenda política de Massa: volvió a postergar su viaje a Misiones, en el marco de la preparación para las elecciones de 2027.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-25T22:12:15+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "Primera Página",
   "autor": "Primera Página",

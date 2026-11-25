@@ -1,6 +1,22 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "ANDigital",
+  "autor": "ANDigital",
+  "tipo": "nota",
+  "titulo": "Encuesta: Kicillof y Massa le ganarían a Milei en un eventual balotaje",
+  "texto": "Un relevamiento nacional de la consultora Analogías midió la intención de voto por espacio político y dos posibles cruces de segunda vuelta para 2",
+  "url": "https://andigital.com.ar/nota/145199/encuesta-kicillof-y-massa-le-ganarian-a-milei-en-un-eventual-balotaje/",
+  "publicado": "2026-11-25T22:10:42+00:00",
+  "id": "96e9bae65012504c",
+  "titulo_norm": "encuesta kicillof y massa le ganarían a milei en un eventual balotaje",
+  "resumen": "Encuesta de la consultora Analogías que mide la intención de voto por espacio político y dos posibles balotajes para 2027. Massa aparece como posible candidato que le ganaría a Milei en segunda vuelta junto a Kicillof.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-25T22:12:15+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "SL24",
   "autor": "SL24",
   "tipo": "nota",
