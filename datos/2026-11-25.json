@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "interior",
+  "fuente": "HOY ROJAS",
+  "autor": "HOY ROJAS",
+  "tipo": "nota",
+  "titulo": "Proyecciones electorales rumbo a 2027: una encuesta nacional ubica a Kicillof y a Massa por encima de Milei en un eventual balotaje",
+  "texto": "Un estudio realizado por la consultora Analogías sobre 2.786 casos en todo el país muestra una paridad técnica en primera vuelta entre el Presidente y un peronismo unificado, mientras que en segunda vuelta el gobernador bonaerense se impone por seis puntos y el exministro de Economía por 2,4 puntos. Además, el 53,7% de los consultados se inclina por un cambio de gobierno.",
+  "url": "https://hoyrojas.com.ar/index1.php?que=noticias&id=52336",
+  "publicado": "2026-11-25T22:21:04+00:00",
+  "id": "799ba929b7ea7d9a",
+  "titulo_norm": "proyecciones electorales rumbo a 2027 una encuesta nacional ubica a kicillof y a massa por encima de milei en un eventua",
+  "resumen": "Una encuesta de la consultora Analogías (2.786 casos) proyecta un balotaje de 2027 donde Kicillof y Massa superan a Milei, aunque en primera vuelta hay paridad técnica. Massa aparece como posible candidato del peronismo unificado.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-25T22:31:21+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "ANDigital",
   "autor": "ANDigital",
