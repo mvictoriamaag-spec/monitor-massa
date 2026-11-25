@@ -1,5 +1,37 @@
 [
  {
+  "plataforma": "nacional",
+  "fuente": "La Nación",
+  "autor": "La Nación",
+  "tipo": "nota",
+  "titulo": "Misiones: tras romper con Rovira, Passalacqua suma encuentros con referentes del PJ",
+  "texto": "El riojano Ricardo Quintela visitó ayer en Posadas al nuevo jefe del oficialismo misionero; Massa llegará el 3 de diciembre",
+  "url": "https://www.lanacion.com.ar/politica/misiones-tras-romper-con-rovira-passalacqua-suma-encuentros-con-referentes-del-pj-nid25112026/",
+  "publicado": "2026-11-25T12:55:22+00:00",
+  "id": "7263f8bd10ef7ba1",
+  "titulo_norm": "misiones tras romper con rovira passalacqua suma encuentros con referentes del pj",
+  "resumen": "Tras romper con Rovira, el nuevo jefe del oficialismo misionero, Passalacqua, suma encuentros con referentes del PJ. El riojano Ricardo Quintela visitó Posadas y Massa llegará el 3 de diciembre.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-25T13:43:02+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Editorial RN",
+  "autor": "Editorial RN",
+  "tipo": "nota",
+  "titulo": "Un proyecto para que se informen las subas de la nafta en la provincia enfrenta a Massa con las petroleras",
+  "texto": "",
+  "url": "https://editorialrn.com.ar/un-proyecto-para-que-se-informen-las-subas-de-la-nafta-en-la-provincia-enfrenta-a-massa-con-las-petroleras/",
+  "publicado": "2026-11-25T11:27:51+00:00",
+  "id": "6b8d38c4bff962ad",
+  "titulo_norm": "un proyecto para que se informen las subas de la nafta en la provincia enfrenta a massa con las petroleras",
+  "resumen": "Un proyecto para informar las subas de la nafta en la provincia enfrenta a Massa con las petroleras.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-25T13:43:02+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "MDZ Online",
   "autor": "MDZ Online",
