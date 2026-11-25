@@ -33,6 +33,22 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "Confirmado.com.ar",
+  "autor": "Confirmado.com.ar",
+  "tipo": "nota",
+  "titulo": "Massa reunió al peronismo en un frente anti-Milei, pero no invitó a Kicillof y se reaviva la interna",
+  "texto": "Portal de Contenidos Corrientes, Paso de los Libres, República Argentina.",
+  "url": "https://www.confirmado.com.ar/vernota.asp?id_noticia=35528",
+  "publicado": "2026-11-25T21:36:02+00:00",
+  "id": "bfddc8755bfaab10",
+  "titulo_norm": "massa reunió al peronismo en un frente anti milei pero no invitó a kicillof y se reaviva la interna",
+  "resumen": "Massa reunió al peronismo en un frente opositor a Milei, sin invitar a Axel Kicillof, lo que reavivó las tensiones internas del peronismo. Aparece como protagonista de una noticia sobre la política partidaria.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-25T23:30:59+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "SL24",
   "autor": "SL24",
   "tipo": "nota",
@@ -158,6 +174,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-25T19:56:22+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "NotiAR",
+  "autor": "NotiAR",
+  "tipo": "nota",
+  "titulo": "El eje Cristina-Massa - Por Sergio Crivelli",
+  "texto": "La semana pasada el kirchnerismo y Sergio Massa -términos que otra vez han vuelto a ser sinónimos- se reunieron en San Fernando en lo que presentaron como el lanzamiento de un frente nacional anti Milei, pero que no pasó de una demostración de fuerza dirigida a Axel Kicillof.&nbsp; De nacional tenía...",
+  "url": "https://www.notiar.com.ar/index.php/politica/143782-el-eje-cristina-massa-por-sergio-crivelli",
+  "publicado": "2026-11-25T14:52:00+00:00",
+  "id": "09dab90f65d03b23",
+  "titulo_norm": "el eje cristina massa por sergio crivelli",
+  "resumen": "Columna de Sergio Crivelli que analiza la alianza entre el kirchnerismo y Sergio Massa, presentada en San Fernando como lanzamiento de un frente anti-Milei. La describe como una demostración de fuerza dirigida a Axel Kicillof.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-25T23:30:59+00:00"
  },
  {
   "plataforma": "nacional",
