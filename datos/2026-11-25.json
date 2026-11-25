@@ -1,5 +1,37 @@
 [
  {
+  "plataforma": "interior",
+  "fuente": "Identidad Correntina",
+  "autor": "Identidad Correntina",
+  "tipo": "nota",
+  "titulo": "Kicillof y Massa aventajan a Milei en dos escenarios de balotaje y reabren la discusión en el PJ",
+  "texto": "La encuesta nacional de Analogías ubica a Kicillof seis puntos por encima del Presidente en una segunda vuelta hipotética. Massa también queda adelante, con una diferencia menor. En la medición por espacio, Milei y un pero...",
+  "url": "https://www.identidadcorrentina.com.ar/noticia/47097_kicillof-y-massa-aventajan-a-milei-en-dos-escenarios-de-balotaje-y-reabren-la-discusin-en-el-pj.htm",
+  "publicado": "2026-11-25T13:53:55+00:00",
+  "id": "3f130c40baf44ad8",
+  "titulo_norm": "kicillof y massa aventajan a milei en dos escenarios de balotaje y reabren la discusión en el pj",
+  "resumen": "Una encuesta nacional de Analogías ubica a Kicillof seis puntos por encima de Milei en un balotaje hipotético, y a Massa también adelante, con una diferencia menor. La nota reabre la discusión sobre candidaturas en el PJ.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-25T14:31:19+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "elconurbano.com.ar",
+  "autor": "elconurbano.com.ar",
+  "tipo": "nota",
+  "titulo": "Jacob con Massa",
+  "texto": "",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5DUDczQ1hlREUzTFgwSUxtMlBnQXpUODI1dllPRnhmRGF6dTZZWDBoVFVLUkM2aUt2QXZrTmMtUDhydi1hRlI4V0o0U0lValdiakFJZ1c0Szk5b0dua1ZpRjVB?oc=5",
+  "publicado": "2026-11-25T13:53:06+00:00",
+  "id": "361856712c02ec08",
+  "titulo_norm": "jacob con massa",
+  "resumen": "Muestra a Jacob junto a Massa, aparentemente en un encuentro o acompañamiento conjunto, según se desprende del título.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-25T14:31:19+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "La Nación",
   "autor": "La Nación",
