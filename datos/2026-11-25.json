@@ -369,6 +369,22 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "El Comodorense",
+  "autor": "El Comodorense",
+  "tipo": "nota",
+  "titulo": "Un proyecto que obliga a anunciar con antelación las subas en surtidores enfrenta a Massa con las petroleras",
+  "texto": "Lo redactó la diputada bonaerense Ayelén Rasquetti, referente del Frente Renovador en la Legislatura provincial, y sorprendió a Kicillof; las empresas dicen que podría provocar desequilibrios en el abastecimiento.",
+  "url": "https://www.elcomodorense.net/un-proyecto-que-obliga-a-anunciar-con-antelacion-las-subas-en-surtidores-enfrenta-a-massa-con-las-petroleras/",
+  "publicado": "2026-11-25T12:26:34+00:00",
+  "id": "b1282c0ac713a3eb",
+  "titulo_norm": "un proyecto que obliga a anunciar con antelación las subas en surtidores enfrenta a massa con las petroleras",
+  "resumen": "Proyecto de la diputada bonaerense Ayelén Rasquetti, del Frente Renovador, que obliga a anunciar con antelación las subas en surtidores; enfrenta a Massa con las petroleras, que advierten posibles desequilibrios en el abastecimiento. La iniciativa sorprendió a Kicillof.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-26T11:29:34+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Editorial RN",
   "autor": "Editorial RN",
   "tipo": "nota",
