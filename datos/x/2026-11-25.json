@@ -11,9 +11,9 @@
   "publicado": "2026-11-26T00:53:48+00:00",
   "id": "b0c24fc083e8956a",
   "titulo_norm": "",
-  "resumen": "Che,me bajaron 50 seguidores de un saque???? O qué pasó???? O hubo cancelación en massa?????",
-  "relevante": 1,
-  "resumen_ia": false,
+  "resumen": "Usuario que se queja de haber perdido 50 seguidores de golpe y pregunta si hubo una cancelación en masa. Usa 'massa' como 'en masa', no como referencia a Sergio Massa.",
+  "relevante": 0,
+  "resumen_ia": true,
   "recolectado": "2026-11-26T01:00:24+00:00"
  },
  {
@@ -28,9 +28,9 @@
   "publicado": "2026-11-26T00:43:56+00:00",
   "id": "0fcabe159b58b5f9",
   "titulo_norm": "",
-  "resumen": "#Elecciones2027 Encuesta: Kicillof y Massa le ganarían a Milei en un eventual balotaje Un relevamiento nacional de la consultora Analogías midió la intención de voto por espacio político y dos posibles cruces de segunda vuelta para 2027. En el escenario con Axel Kicillof,",
+  "resumen": "Encuesta nacional de la consultora Analogías sobre intención de voto para 2027. Según el relevamiento, Kicillof y Massa le ganarían a Milei en dos hipotéticos balotajes.",
   "relevante": 1,
-  "resumen_ia": false,
+  "resumen_ia": true,
   "recolectado": "2026-11-26T01:00:24+00:00"
  },
  {
@@ -45,9 +45,9 @@
   "publicado": "2026-11-26T00:43:50+00:00",
   "id": "be268c8b44cc8460",
   "titulo_norm": "",
-  "resumen": "Que Milei recurra al swap con China y a una operación -la autorización de u$s 5000 millones- que en su momento gestionó Massa es un dato de solidez institucional. Dicho sin ironías. O con ella.",
+  "resumen": "Post que, aparentemente con ironía, destaca como 'solidez institucional' que Milei use el swap con China y la autorización de u$s 5000 millones que gestionó Massa.",
   "relevante": 1,
-  "resumen_ia": false,
+  "resumen_ia": true,
   "recolectado": "2026-11-26T01:00:24+00:00"
  },
  {
