@@ -1,5 +1,37 @@
 [
  {
+  "plataforma": "nacional",
+  "fuente": "Diagonales",
+  "autor": "Diagonales",
+  "tipo": "nota",
+  "titulo": "Desde el Frente Renovador postulan a Massa: “Es el único tipo que de verdad puede ordenar el país”",
+  "texto": "El joven dirigente Felipe Romero defendió al exministro de Economía, propuso sumar a Monzó y Pichetto y descartó un armado contra Kicillof. También reclamó la libertad de Cristina Kirchner.",
+  "url": "https://www.diagonales.com/nacion/desde-el-frente-renovador-postulan-a-massa---es-el-unico-tipo-que-de-verdad-puede-ordenar-el-pais-_a6b07725a5e0aceca404637c6",
+  "publicado": "2026-11-25T23:48:39+00:00",
+  "id": "5710b8a25575e8d0",
+  "titulo_norm": "desde el frente renovador postulan a massa es el único tipo que de verdad puede ordenar el país",
+  "resumen": "El dirigente Felipe Romero, del Frente Renovador, respalda a Sergio Massa como candidato y dice que es el único que puede ordenar el país. Propone sumar a Monzó y Pichetto, descarta un armado contra Kicillof y reclama la libertad de Cristina Kirchner.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-26T00:00:56+00:00"
+ },
+ {
+  "plataforma": "nacional",
+  "fuente": "Letra P",
+  "autor": "Letra P",
+  "tipo": "nota",
+  "titulo": "Mario Giacobbe: \"Sergio Massa es el mejor candidato a presidente que tiene el peronismo\"",
+  "texto": "El exdiputado bonaerense promueve una interna amplia para definir quién enfrentará a Milei el año que viene y anticipa que ya trabaja para instalar al tigrense.",
+  "url": "https://www.letrap.com.ar/municipios/mario-giacobbe-sergio-massa-es-el-mejor-candidato-presidente-que-tiene-el-peronismo-n5428510/amp",
+  "publicado": "2026-11-25T22:38:00+00:00",
+  "id": "1a1b2f5b2609b8b4",
+  "titulo_norm": "mario giacobbe sergio massa es el mejor candidato a presidente que tiene el peronismo",
+  "resumen": "El exdiputado Mario Giacobbe afirma que Sergio Massa es el mejor candidato presidencial del peronismo. Promueve una interna amplia para definir quién enfrentará a Milei y anticipa que trabaja para instalar al tigrense.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-26T00:00:56+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "HOY ROJAS",
   "autor": "HOY ROJAS",
