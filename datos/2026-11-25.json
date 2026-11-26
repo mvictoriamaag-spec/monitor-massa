@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "qpasó",
+  "autor": "qpasó",
+  "tipo": "nota",
+  "titulo": "Denuncian por abuso sexual a Janones, el estratega digital de Lula que asesora a Cristina y Massa",
+  "texto": "La abogada Jade Elena Moraes denunció al diputado brasileño por una presunta violación ocurrida en 2009.",
+  "url": "https://qpaso.ar/noticias/derechadiario/politica/denuncian-por-abuso-sexual-janones-estratega-digital-lula-que-asesora-cristina-massa",
+  "publicado": "2026-11-26T01:16:09+00:00",
+  "id": "3733fced1774622f",
+  "titulo_norm": "denuncian por abuso sexual a janones el estratega digital de lula que asesora a cristina y massa",
+  "resumen": "Una abogada denunció al diputado brasileño Janones, estratega digital de Lula que asesora a Cristina y Massa, por una presunta violación ocurrida en 2009. Massa aparece sólo como uno de sus asesorados, no como protagonista del hecho.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-26T01:31:09+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Diagonales",
   "autor": "Diagonales",
