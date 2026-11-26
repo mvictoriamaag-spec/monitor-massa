@@ -97,6 +97,22 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "Tendencia de Noticias",
+  "autor": "Tendencia de Noticias",
+  "tipo": "nota",
+  "titulo": "Navidad para Todos: el Instituto Salesiano Lorenzo Massa organiza una gran peña solidaria",
+  "texto": "La propuesta se desarrollará este viernes 27 de noviembre, de 20 a 23 h, en la sede del establecimiento educativo. Habrá espectáculos musicales, baile y actuaciones de alumnos del colegio. La entrada consistirá en la donación de un alimento para el armado de canastas navideñas.",
+  "url": "https://tendenciadenoticias.com.ar/tendencias/navidad-para-todos-el-instituto-salesiano-lorenzo-massa-organiza-una-gran-pena-solidaria",
+  "publicado": "2026-11-25T18:11:00+00:00",
+  "id": "3555900919383629",
+  "titulo_norm": "navidad para todos el instituto salesiano lorenzo massa organiza una gran peña solidaria",
+  "resumen": "Nota sobre una peña solidaria de Navidad del Instituto Salesiano Lorenzo Massa, con espectáculos y donación de alimentos. La mención de 'Massa' corresponde al nombre de la institución educativa, no a un político.",
+  "relevante": 0,
+  "resumen_ia": true,
+  "recolectado": "2026-11-26T11:01:04+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "SL24",
   "autor": "SL24",
   "tipo": "nota",
@@ -240,6 +256,22 @@
   "recolectado": "2026-11-25T23:30:59+00:00"
  },
  {
+  "plataforma": "portal",
+  "fuente": "NotiAR",
+  "autor": "NotiAR",
+  "tipo": "nota",
+  "titulo": "Sergio Massa busca la unidad para crecer, mientras muchos se ilusionan - Por Alejandro Cancelare",
+  "texto": "El líder del Frente Renovador trabaja para que la unidad sea de todo un frente anti Milei mientras que Axel Kicillof confía que, al final, será el kirchnerista preferido del kirchnerismo. \"Massa nos une\", es el lema que está desplegándose en todas las arterias del Gran Buenos Aires. Las pintadas apa...",
+  "url": "https://www.notiar.com.ar/index.php/politica/143781-sergio-massa-busca-la-unidad-para-crecer-mientras-muchos-se-ilusionan-por-alejandro-cancelare",
+  "publicado": "2026-11-25T14:51:00+00:00",
+  "id": "84b1b72b291c3f50",
+  "titulo_norm": "sergio massa busca la unidad para crecer mientras muchos se ilusionan por alejandro cancelare",
+  "resumen": "Columna de Alejandro Cancelare que describe el trabajo de Sergio Massa, líder del Frente Renovador, para lograr la unidad de un frente opositor anti Milei. Señala el lema 'Massa nos une' y las pintadas en el Gran Buenos Aires.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-26T11:01:04+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Noticias Urbanas",
   "autor": "Noticias Urbanas",
@@ -350,6 +382,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-25T13:43:02+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Fenix951",
+  "autor": "Fenix951",
+  "tipo": "nota",
+  "titulo": "Una encuesta de \"Analogías\" que le llegó a Cristina y sacudió la interna del PJ: Kicillof y Massa vs. Milei en el balotaje",
+  "texto": "",
+  "url": "https://fenix951.com.ar/noticia.php?id=361616",
+  "publicado": "2026-11-25T11:04:37+00:00",
+  "id": "e5c5cf753c11f486",
+  "titulo_norm": "una encuesta de analogías que le llegó a cristina y sacudió la interna del pj kicillof y massa vs milei en el balotaje",
+  "resumen": "Informa sobre una encuesta de Analogías que llegó a Cristina Kirchner y generó tensión en la interna del PJ. El sondeo evalúa un balotaje entre Kicillof y Massa contra Milei.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-26T11:01:04+00:00"
  },
  {
   "plataforma": "interior",
