@@ -1,6 +1,22 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "El Diario del Fin del Mundo",
+  "autor": "El Diario del Fin del Mundo",
+  "tipo": "nota",
+  "titulo": "Qué pasaría si Milei enfrentara a Kicillof o a Massa",
+  "texto": "El gobernador bonaerense aventaja por seis puntos porcentuales al presidente en un hipotético balotaje en 2027, mientras que el ex ministro de Economía obtiene una diferencia favorable de 2,4 puntos.",
+  "url": "https://www.eldiariodelfindelmundo.com/noticias/2026/11/26/118843-que-pasaria-si-milei-enfrentara-a-kicillof-o-a-massa",
+  "publicado": "2026-11-26T10:52:30+00:00",
+  "id": "8bcf12e81c20fa0e",
+  "titulo_norm": "qué pasaría si milei enfrentara a kicillof o a massa",
+  "resumen": "Encuesta sobre un hipotético balotaje en 2027: Kicillof aventaja a Milei por seis puntos porcentuales, mientras Sergio Massa, exministro de Economía, obtiene una diferencia favorable de 2,4 puntos frente al presidente.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-26T12:30:56+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Mundo Azulgrana",
   "autor": "Mundo Azulgrana",
   "tipo": "nota",

@@ -161,6 +161,22 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "Diario El Norte - San Nicolás",
+  "autor": "Diario El Norte - San Nicolás",
+  "tipo": "nota",
+  "titulo": "Encuesta 2027: Milei se encuentra por debajo a Kicillof y Massa",
+  "texto": "",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdmFJcEVWSEdVVW5JTGEwTjdnWW5oTVlzMGdiQ25mSXYwdzBZNzY1a1U0NlZYdmNsNVhuWHh3NzE1b1NSWDlwUkNodFJ6dUs0NHdod0l6bU0tNzFMNlRlZjJaTEFyUl9zaTRVeEY0cklkWVU3eUpDeExNbTZYWGJ2YnZsN3Rtazla?oc=5",
+  "publicado": "2026-11-25T16:04:39+00:00",
+  "id": "a7de2481dc7c84bb",
+  "titulo_norm": "encuesta 2027 milei se encuentra por debajo a kicillof y massa",
+  "resumen": "Encuesta proyectada a 2027 que ubica a Milei por debajo de Kicillof y de Sergio Massa en una hipotética competencia electoral.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-26T12:30:56+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Los Primeros TV",
   "autor": "Los Primeros TV",
   "tipo": "nota",
