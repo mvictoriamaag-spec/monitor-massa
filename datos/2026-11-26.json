@@ -90,9 +90,9 @@
   "publicado": "2026-11-26T23:16:59+00:00",
   "id": "971b4d5634cf5ccf",
   "titulo_norm": "juan tachu malpeli pidió mayor autonomía para los delegados municipales y respaldó a alak",
-  "resumen": "Juan \"Tachu\" Malpeli pidió mayor autonomía para los delegados municipales y respaldó a Alak. En una extensa charla con Mariano Gandini en Todo Provincial Stream, el diputado provincial Juan Martín \"Tachu\" Malpeli repasó los principales desafíos de",
+  "resumen": "El diputado provincial Juan Martín \"Tachu\" Malpeli pidió mayor autonomía para los delegados municipales y respaldó a Alak en una entrevista en Todo Provincial Stream.",
   "relevante": 1,
-  "resumen_ia": false,
+  "resumen_ia": true,
   "recolectado": "2026-11-27T22:49:38+00:00"
  },
  {
@@ -106,9 +106,9 @@
   "publicado": "2026-11-26T23:05:06+00:00",
   "id": "2e6adefd9c2e0246",
   "titulo_norm": "guillermo michel estamos frente a un gobierno que no cumple con la ley",
-  "resumen": "Guillermo Michel: \"Estamos frente a un Gobierno que no cumple con la ley\". Guillermo Michel confirmó a Elonce que votará en contra del Presupuesto 2027 y cuestionó al Gobierno por el incumplimiento de leyes y el manejo de recursos.",
+  "resumen": "Guillermo Michel anticipó que votará en contra del Presupuesto 2027 y acusó al Gobierno nacional de no cumplir la ley y de manejar mal los recursos.",
   "relevante": 1,
-  "resumen_ia": false,
+  "resumen_ia": true,
   "recolectado": "2026-11-27T22:49:38+00:00"
  },
  {
@@ -202,9 +202,9 @@
   "publicado": "2026-11-26T22:02:00+00:00",
   "id": "daf3591a63aa0edb",
   "titulo_norm": "diego giuliano a santa fe se la defiende con hechos",
-  "resumen": "Diego Giuliano: \"A Santa Fe se la defiende con hechos\". El diputado nacional cuestionó que los legisladores del gobernador Pullaro hayan dado quórum para tratar el Presupuesto 2027 de Javier Milei, sin garantizar recursos fundamentales para la provincia",
+  "resumen": "Diego Giuliano cuestionó que los legisladores del gobernador Pullaro dieran quórum al Presupuesto 2027 sin garantizar recursos clave para Santa Fe, y dijo que la provincia se defiende con hechos.",
   "relevante": 1,
-  "resumen_ia": false,
+  "resumen_ia": true,
   "recolectado": "2026-11-27T22:49:38+00:00"
  },
  {
@@ -218,9 +218,9 @@
   "publicado": "2026-11-26T22:01:16+00:00",
   "id": "1b5d80bf9f035150",
   "titulo_norm": "en urbana ba sibila botti respaldó la candidatura de marinucci en morón es el mejor candidato y tiene que ser el candida",
-  "resumen": "En Urbana BA, Sibila Botti respaldó la candidatura de Marinucci en Morón: \"Es el mejor candidato\" y \"tiene que ser el candidato a intendente\". Sibila Botti, presidenta del Concejo Deliberante de Morón y dirigente del Frente Renovador en el distrito, respaldó la candidatura de…",
+  "resumen": "Sibila Botti, dirigente del Frente Renovador en Morón, respaldó a Martín Marinucci como candidato a intendente en 2027, al que definió como el mejor candidato para encabezar la unidad del peronismo local.",
   "relevante": 1,
-  "resumen_ia": false,
+  "resumen_ia": true,
   "recolectado": "2026-11-27T22:49:38+00:00"
  },
  {
@@ -298,9 +298,9 @@
   "publicado": "2026-11-26T21:33:00+00:00",
   "id": "06e43b655d424aec",
   "titulo_norm": "presupuesto 2027 diego giuliano cuestionó la falta de fondos para santa fe y reclamó defender los recursos de la provinc",
-  "resumen": "Presupuesto 2027: Diego Giuliano cuestionó la falta de fondos para Santa Fe y reclamó defender los recursos de la provincia. El diputado nacional advirtió que el proyecto del presidente Javier Milei no garantiza partidas para la Caja de Jubilaciones, las universidades y obras…",
+  "resumen": "Diego Giuliano criticó que el Presupuesto 2027 de Milei no garantice partidas para la Caja de Jubilaciones, las universidades y obras viales estratégicas de Santa Fe.",
   "relevante": 1,
-  "resumen_ia": false,
+  "resumen_ia": true,
   "recolectado": "2026-11-27T22:49:38+00:00"
  },
  {
@@ -330,9 +330,9 @@
   "publicado": "2026-11-26T20:45:11+00:00",
   "id": "22e968be89cb187c",
   "titulo_norm": "diputados cecilia moreau criticó el rechazo al proyecto de endeudamiento familiar",
-  "resumen": "Diputados: Cecilia Moreau criticó el rechazo al proyecto de endeudamiento familiar. La diputada explicó que la propuesta no logró ser tratada en Diputados, mientras Villarruel aprobó adelantos de haberes para empleados del Senado endeudados.",
+  "resumen": "Cecilia Moreau criticó que Diputados rechazara el proyecto de endeudamiento familiar, mientras Villarruel aprobó adelantos de haberes a empleados del Senado endeudados.",
   "relevante": 1,
-  "resumen_ia": false,
+  "resumen_ia": true,
   "recolectado": "2026-11-27T22:49:38+00:00"
  },
  {
@@ -410,9 +410,9 @@
   "publicado": "2026-11-26T19:56:30+00:00",
   "id": "583316bd2a2d64d2",
   "titulo_norm": "defendé a los bonaerenses no a angelici diputado del massismo cruzó a uno del pro en el debate de la ley de ludopatía",
-  "resumen": "“Defendé a los bonaerenses, no a Angelici\": Diputado del massismo cruzó a uno del PRO en el debate de la ley de ludopatía. Con reproches y hasta amagues de pasar a mayores, la Legislatura fue escenario de fuertes discusiones. \"Trato de no calentarme, no tengo problema, me…",
+  "resumen": "En el debate de la ley de ludopatía en la Legislatura bonaerense, un diputado del massismo tuvo un fuerte cruce con un legislador del PRO, con amagues de pasar a mayores.",
   "relevante": 1,
-  "resumen_ia": false,
+  "resumen_ia": true,
   "recolectado": "2026-11-27T22:49:38+00:00"
  },
  {
@@ -602,9 +602,9 @@
   "publicado": "2026-11-26T18:04:11+00:00",
   "id": "eccfd0719d9c8dfe",
   "titulo_norm": "jimena lópez cruzó al oficialismo faltan denuncias no falsas denuncias",
-  "resumen": "Jimena López cruzó al oficialismo: “Faltan denuncias, no falsas denuncias”. La diputada nacional cuestionó el proyecto que busca endurecer las penas por falsas denuncias y reclamó que el Congreso priorice las políticas de p",
+  "resumen": "La diputada nacional Jimena López cuestionó el proyecto que busca endurecer las penas por falsas denuncias: \"Faltan denuncias, no falsas denuncias\".",
   "relevante": 1,
-  "resumen_ia": false,
+  "resumen_ia": true,
   "recolectado": "2026-11-27T22:49:38+00:00"
  },
  {
@@ -650,9 +650,9 @@
   "publicado": "2026-11-26T16:02:36+00:00",
   "id": "dfdcad23a3f7663e",
   "titulo_norm": "concejo deliberante tigre tiene ordenanza fiscal impositiva pese a la oposición del massismo",
-  "resumen": "Concejo Deliberante: Tigre tiene ordenanza fiscal impositiva pese a la oposición del massismo. Concejo Deliberante: Tigre tiene ordenanza fiscal impositiva pese a la oposición del massismo",
+  "resumen": "El Concejo Deliberante de Tigre aprobó la ordenanza fiscal impositiva pese a la oposición del massismo.",
   "relevante": 1,
-  "resumen_ia": false,
+  "resumen_ia": true,
   "recolectado": "2026-11-27T22:49:38+00:00"
  },
  {
@@ -666,9 +666,9 @@
   "publicado": "2026-11-26T12:25:44+00:00",
   "id": "e71ef7d9e3ec0845",
   "titulo_norm": "ricardo quintela encabezó un encuentro con la juventud del frente renovador en caba",
-  "resumen": "Ricardo Quintela, encabezó un encuentro con la juventud del Frente Renovador en CABA",
+  "resumen": "El gobernador riojano Ricardo Quintela encabezó un encuentro con la juventud del Frente Renovador en CABA.",
   "relevante": 1,
-  "resumen_ia": false,
+  "resumen_ia": true,
   "recolectado": "2026-11-27T22:49:38+00:00"
  },
  {

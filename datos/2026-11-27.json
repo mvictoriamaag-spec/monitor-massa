@@ -10,9 +10,9 @@
   "publicado": "2026-11-27T22:18:45+00:00",
   "id": "5e41685f7c1058df",
   "titulo_norm": "sabrina selva siguen ajustando a las personas con discapacidad",
-  "resumen": "SABRINA SELVA: “SIGUEN AJUSTANDO A LAS PERSONAS CON DISCAPACIDAD”. La diputada Nacional de UxP se quejó por la no asignación de partidas específicas para cumplir la nueva ley.",
+  "resumen": "La diputada nacional de UxP Sabrina Selva criticó que no se asignen partidas específicas para cumplir la nueva ley de discapacidad y denunció nuevos ajustes sobre las personas con discapacidad.",
   "relevante": 1,
-  "resumen_ia": false,
+  "resumen_ia": true,
   "recolectado": "2026-11-27T22:49:38+00:00"
  },
  {
@@ -42,9 +42,9 @@
   "publicado": "2026-11-27T20:57:35+00:00",
   "id": "6b4da977ce4171b4",
   "titulo_norm": "tras la cumbre massista en san fernando kicillof se reunió con intendentes y entregó equipo para enfrentar a el niño",
-  "resumen": "Tras la cumbre massista en San Fernando, Kicillof se reunió con intendentes y entregó equipo para enfrentar a El Niño. A manera de respuesta de la no invitación al kicillofismo para participar del acto peronista en San Fernando, el mandatario bonaerense refuerza vínc",
+  "resumen": "Tras la cumbre massista en San Fernando, a la que no fue invitado el kicillofismo, Kicillof se reunió con intendentes y entregó equipamiento para enfrentar El Niño, en lo que aparece como respuesta al desaire.",
   "relevante": 1,
-  "resumen_ia": false,
+  "resumen_ia": true,
   "recolectado": "2026-11-27T22:49:38+00:00"
  },
  {
@@ -90,9 +90,9 @@
   "publicado": "2026-11-27T17:55:49+00:00",
   "id": "255fef309084036b",
   "titulo_norm": "ayelén rasquetti impulsa una mayor transparencia en los precios de los combustibles y busca poner límites a los aumentos",
-  "resumen": "Ayelén Rasquetti impulsa una mayor transparencia en los precios de los Combustibles y busca poner límites a los aumentos sorpresivos.. Diputados dio media sanción a la iniciativa que establece un plazo mínimo de 24 horas para informar modificaciones de precios superiores al…",
+  "resumen": "La diputada Ayelén Rasquetti impulsa mayor transparencia en los precios de los combustibles: Diputados dio media sanción a su proyecto que exige informar con 24 horas de anticipación cambios superiores al 1%, con sanciones por incumplimiento.",
   "relevante": 1,
-  "resumen_ia": false,
+  "resumen_ia": true,
   "recolectado": "2026-11-27T22:49:38+00:00"
  },
  {
@@ -106,9 +106,9 @@
   "publicado": "2026-11-27T17:48:45+00:00",
   "id": "424cdae83791af74",
   "titulo_norm": "malena galmarini y una posible candidatura en tigre estoy pensando seriamente en volver a hacerlo",
-  "resumen": "Malena Galmarini y una posible candidatura en Tigre: “Estoy pensando seriamente en volver a hacerlo”. De cara a las elecciones de 2027, comienza a moverse el escenario político en Tigre. En una entrevista, la dirigente reconoció que analiza volver a postularse como candidata…",
+  "resumen": "Malena Galmarini analiza volver a ser candidata a intendenta de Tigre de cara a 2027, reclama alternancia y cuestiona la gestión de Julio Zamora.",
   "relevante": 1,
-  "resumen_ia": false,
+  "resumen_ia": true,
   "recolectado": "2026-11-27T22:49:38+00:00"
  },
  {
@@ -122,9 +122,9 @@
   "publicado": "2026-11-27T17:24:00+00:00",
   "id": "4decd8cafee47a08",
   "titulo_norm": "misiones passalacqua rompió con el frente renovador y lanzó su candidatura a gobernador",
-  "resumen": "Misiones: Passalacqua rompió con el Frente Renovador y lanzó su candidatura a gobernador. El jefe provincial liderará el Movimiento por lo que Viene y pidió mayor transparencia y control sobre las cuentas públicas misioneras.",
+  "resumen": "El jefe provincial de Misiones, Passalacqua, rompió con el Frente Renovador y lanzó su candidatura a gobernador al frente del Movimiento por lo que Viene, con pedidos de transparencia en las cuentas públicas.",
   "relevante": 1,
-  "resumen_ia": false,
+  "resumen_ia": true,
   "recolectado": "2026-11-27T22:49:38+00:00"
  },
  {
@@ -148,15 +148,31 @@
   "fuente": "Flipr.news",
   "autor": "Flipr.news",
   "tipo": "nota",
+  "titulo": "Massa: «El Gobierno se apura si celebra la suspensión de las Paso en el Senado, falta Diputados»",
+  "texto": "Massa viajó a Córdoba y habló sobre las PASO y el Presupuesto. El sábado viaja Kicillof.",
+  "url": "https://flipr.com.ar/nacionales/politica/lapoliticaonline/massa-el-gobierno-se-apura-si-celebra-la-suspension-de-las-paso-en-el-senado-falta-diputados/",
+  "publicado": "2026-11-27T14:51:10+00:00",
+  "id": "d7d6731cf4e47f86",
+  "titulo_norm": "massa el gobierno se apura si celebra la suspensión de las paso en el senado falta diputados",
+  "resumen": "Sergio Massa, en un viaje a Córdoba, advierte al Gobierno que no debe celebrar la suspensión de las PASO en el Senado, porque falta que la apruebe Diputados. También habló sobre el Presupuesto.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-27T22:50:16+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "Flipr.news",
+  "autor": "Flipr.news",
+  "tipo": "nota",
   "titulo": "PBA: Diputados dio media sanción al proyecto de Rasquetti para informar los cambios en el precio de los combustibles",
   "texto": "La iniciativa de la diputada del Frente Renovador alcanza a las subas y bajas superiores al 1%. Establece obligaciones para las empresas abastecedoras y las estaciones de servicio…",
   "url": "https://flipr.com.ar/buenos-aires/conurbano/norteonline/pba-diputados-dio-media-sancion-al-proyecto-de-rasquetti-para-informar-los-cambios-en-el-precio-de-los-combustibles/",
   "publicado": "2026-11-27T14:19:57+00:00",
   "id": "7b19b43e281a13f6",
   "titulo_norm": "pba diputados dio media sanción al proyecto de rasquetti para informar los cambios en el precio de los combustibles",
-  "resumen": "PBA: Diputados dio media sanción al proyecto de Rasquetti para informar los cambios en el precio de los combustibles. La iniciativa de la diputada del Frente Renovador alcanza a las subas y bajas superiores al 1%. Establece obligaciones para las empresas abastecedoras y las…",
+  "resumen": "Diputados bonaerense dio media sanción al proyecto de la diputada del Frente Renovador Ayelén Rasquetti que obliga a informar con 24 horas de anticipación las subas y bajas de combustibles superiores al 1%.",
   "relevante": 1,
-  "resumen_ia": false,
+  "resumen_ia": true,
   "recolectado": "2026-11-27T22:49:38+00:00"
  },
  {
@@ -218,9 +234,9 @@
   "publicado": "2026-11-27T13:46:55+00:00",
   "id": "6cf66f883f8f6ab2",
   "titulo_norm": "tigre malena galmarini dijo que está pensando seriamente en volver a ser candidata a intendenta",
-  "resumen": "Tigre: Malena Galmarini dijo que está pensando “seriamente” en volver a ser candidata a intendenta. Malena Galmarini dijo que piensa seriamente en volver a competir por la Intendencia de Tigre. Reclamó alternancia y cuestionó la gestión de Julio Zamora.",
+  "resumen": "Malena Galmarini afirmó que piensa seriamente en volver a competir por la Intendencia de Tigre, reclamó alternancia y cuestionó la gestión de Julio Zamora.",
   "relevante": 1,
-  "resumen_ia": false,
+  "resumen_ia": true,
   "recolectado": "2026-11-27T22:49:38+00:00"
  },
  {
@@ -282,9 +298,9 @@
   "publicado": "2026-11-27T12:40:24+00:00",
   "id": "e1ce6bd37b6f7dc9",
   "titulo_norm": "ante conductas temerarias marinucci planteó registrar los utv y cuatriciclos",
-  "resumen": "Ante conductas \"temerarias\", Marinucci planteó registrar los UTV y cuatriciclos. Provincia | Tras los recientes episodios de conducción temeraria en los médanos de Pinamar, el ministro de Transporte de la provincia de Buenos Aires, Martín",
+  "resumen": "El ministro de Transporte bonaerense Martín Marinucci planteó registrar los UTV y cuatriciclos tras episodios de conducción temeraria en los médanos de Pinamar.",
   "relevante": 1,
-  "resumen_ia": false,
+  "resumen_ia": true,
   "recolectado": "2026-11-27T22:49:38+00:00"
  },
  {
@@ -346,9 +362,9 @@
   "publicado": "2026-11-27T11:37:14+00:00",
   "id": "3cbabc07b9a56cd0",
   "titulo_norm": "utv y cuatriciclos bajo la lupa marinucci plantea registrarlos y advierte sobre la conducción temeraria",
-  "resumen": "UTV y cuatriciclos bajo la lupa: Marinucci plantea registrarlos y advierte sobre la conducción temeraria. El ministro de Transporte bonaerense reveló que mantuvo reuniones con legisladores para avanzar en la regulación de estos vehículos y pidió mayor compromiso de los…",
+  "resumen": "Marinucci, ministro de Transporte bonaerense, dijo que se reunió con legisladores para avanzar en la regulación de UTV y cuatriciclos y pidió a los municipios más compromiso ante la temporada.",
   "relevante": 1,
-  "resumen_ia": false,
+  "resumen_ia": true,
   "recolectado": "2026-11-27T22:49:38+00:00"
  },
  {
@@ -378,9 +394,9 @@
   "publicado": "2026-11-27T10:54:32+00:00",
   "id": "29730679f05414aa",
   "titulo_norm": "marina salzmann en diputados vuelven a ajustar sobre los sectores más vulnerables",
-  "resumen": "MARINA SALZMANN en DIPUTADOS: “Vuelven a AJUSTAR sobre los SECTORES MÁS VULNERABLES”. https://www.youtube.com/shorts/AGSfzA9TMsE Seguí la transmisión en vivo las 24 horas: https://www.youtube.com/@c5n/live Visitá https://www.c5n.com/ Suscribite a nuestro canal: https://bit.ly/",
+  "resumen": "La diputada Marina Salzmann cuestionó que el Gobierno vuelva a ajustar sobre los sectores más vulnerables, en una intervención en Diputados difundida en video.",
   "relevante": 1,
-  "resumen_ia": false,
+  "resumen_ia": true,
   "recolectado": "2026-11-27T22:49:38+00:00"
  },
  {
@@ -410,9 +426,9 @@
   "publicado": "2026-11-27T10:27:32+00:00",
   "id": "6f61fc5c2b1896a2",
   "titulo_norm": "vuelven a ajustar sobre los más vulnerables marina salzmann en duro de domar desde el congreso",
-  "resumen": "«VUELVEN a AJUSTAR sobre los MÁS VULNERABLES» | Marina SALZMANN en DURO DE DOMAR desde el CONGRESO. https://www.youtube.com/watch?v=EEARqLceQx4 Seguí la transmisión en vivo las 24 horas: https://www.youtube.com/@c5n/live Visitá https://www.c5n.com/ Suscribite a nuestro canal:…",
+  "resumen": "Marina Salzmann, en una entrevista desde el Congreso, criticó nuevos ajustes del Gobierno sobre los sectores más vulnerables.",
   "relevante": 1,
-  "resumen_ia": false,
+  "resumen_ia": true,
   "recolectado": "2026-11-27T22:49:38+00:00"
  },
  {
@@ -490,9 +506,9 @@
   "publicado": "2026-11-27T03:06:15+00:00",
   "id": "28d75ee30c254df3",
   "titulo_norm": "el massismo avanzó en el proyecto para transparentar los precios de los combustibles",
-  "resumen": "El massismo avanzó en el proyecto para transparentar los precios de los combustibles. Ante las subas sostenidas del combustible, Massa busca regular el aumento de precio en territorio bonaerense.",
+  "resumen": "El massismo avanzó con el proyecto para transparentar los precios de los combustibles; Massa busca regular los aumentos de precio en territorio bonaerense ante las subas sostenidas.",
   "relevante": 1,
-  "resumen_ia": false,
+  "resumen_ia": true,
   "recolectado": "2026-11-27T22:49:38+00:00"
  }
 ]
