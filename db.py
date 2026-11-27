@@ -8,9 +8,11 @@ import re
 from datetime import date, datetime, timedelta, timezone
 
 from config import DATOS_DIR, TZ
+from fuentes.temas import temas_de
 
 
-X_DIR = DATOS_DIR / "x"  # los posts de X van aparte: los sube la PC, no GitHub Actions, y así no chocan
+X_DIR = DATOS_DIR / "x"  # X e Instagram van aparte: los sube la PC, no GitHub Actions, y así no chocan
+REDES_PC = ("x", "instagram")
 
 
 def _ruta(fecha, carpeta=None):
@@ -27,8 +29,8 @@ def _leer_dia(fecha):
 
 def _escribir_dia(fecha, menciones):
     menciones.sort(key=lambda m: m["publicado"], reverse=True)
-    for carpeta, grupo in ((DATOS_DIR, [m for m in menciones if m.get("plataforma") != "x"]),
-                           (X_DIR, [m for m in menciones if m.get("plataforma") == "x"])):
+    for carpeta, grupo in ((DATOS_DIR, [m for m in menciones if m.get("plataforma") not in REDES_PC]),
+                           (X_DIR, [m for m in menciones if m.get("plataforma") in REDES_PC])):
         ruta = _ruta(fecha, carpeta)
         if grupo or ruta.exists():
             carpeta.mkdir(parents=True, exist_ok=True)
@@ -93,7 +95,13 @@ def actualizar(menciones):
 
 
 def _preparar(m):
-    return {**m, "publicado_local": datetime.fromisoformat(m["publicado"]).astimezone(TZ)}
+    """Agrega lo que usa la página: hora local, red, alcance y de quiénes habla."""
+    plataforma = m.get("plataforma")
+    red = plataforma if plataforma in REDES_PC else "portales"
+    alcance = m.get("alcance") or (plataforma if red == "portales" else "")
+    temas = temas_de(f"{m.get('titulo', '')} {m.get('texto', '')}") or ["massa"]
+    return {**m, "publicado_local": datetime.fromisoformat(m["publicado"]).astimezone(TZ),
+            "red": red, "alcance": alcance, "temas": temas}
 
 
 def del_dia(fecha, incluir_descartadas=False):
@@ -114,13 +122,20 @@ def dias_guardados():
 
 
 def resumen_por_dia():
-    """[{fecha, total, nacional, interior, portal}] de los días con menciones, más reciente primero."""
+    """Por día con menciones (más reciente primero): {fecha, total, conteos}.
+
+    conteos es una lista de [tema, red, alcance, cantidad] para que la página muestre los
+    totales del dirigente y los filtros elegidos.
+    """
     resultado = []
     for fecha in dias_guardados():
-        d = {"fecha": fecha, "total": 0, "nacional": 0, "interior": 0, "portal": 0, "x": 0}
-        for m in del_dia(fecha):
-            d["total"] += 1
-            d[m["plataforma"]] = d.get(m["plataforma"], 0) + 1
-        if d["total"]:
-            resultado.append(d)
+        conteos = {}
+        menciones = del_dia(fecha)
+        for m in menciones:
+            for t in ["", *m["temas"]]:  # "" = todas (cada mención cuenta una sola vez)
+                clave = (t, m["red"], m["alcance"])
+                conteos[clave] = conteos.get(clave, 0) + 1
+        if menciones:
+            resultado.append({"fecha": fecha, "total": len(menciones),
+                              "conteos": [[*k, n] for k, n in conteos.items()]})
     return resultado

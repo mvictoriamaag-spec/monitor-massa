@@ -10,7 +10,10 @@ from urllib.parse import quote_plus, urlparse
 import feedparser
 import requests
 
-from fuentes import es_link_web, limpiar_html, menciona_massa
+import time
+
+from fuentes import es_link_web, limpiar_html, menciona_alguno
+from fuentes.temas import NOMBRES, frase
 
 log = logging.getLogger(__name__)
 
@@ -99,6 +102,8 @@ DOMINIOS_INTERIOR = {urlparse(u).hostname.removeprefix("www.") for u in INTERIOR
     "opinandosannicolas.ar", "eleco.com.ar", "lu9mardelplata.com.ar", "pinamar24.com.ar",
 }
 
+TURNOS = 4  # corridas de 15 minutos en las que se reparten los demás dirigentes
+
 GOOGLE_NEWS = "https://news.google.com/rss/search?q={q}&hl=es-419&gl=AR&ceid=AR:es-419"
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/130 Safari/537.36"}
 
@@ -127,16 +132,26 @@ def clasificar(url):
     return "portal"
 
 
-def recolectar(horas_atras=24):
+def recolectar(horas_atras=24, todos=False):
+    """todos=True busca a todos los dirigentes juntos (para cargar días anteriores a mano)."""
     limite = datetime.now(timezone.utc) - timedelta(hours=horas_atras)
     fuentes = [(m, u, "nacional") for m, u in NACIONALES.items()]
     fuentes += [(m, u, "interior") for m, u in INTERIOR.items()]
     # Google Noticias va al final: cubre portales sin RSS y la deduplicación prioriza los feeds directos.
-    fuentes.append(("Google Noticias",
-                    GOOGLE_NEWS.format(q=quote_plus('"Sergio Massa" OR Massa when:1d')), None))
+    # Massa en cada corrida. A los demás dirigentes se los busca de a uno (Google pierde notas si
+    # se juntan varios nombres en una búsqueda), repartidos en TURNOS corridas para no hacer
+    # demasiados pedidos: cada uno se busca una vez por hora y cada búsqueda cubre 24 horas.
+    turno = int(datetime.now(timezone.utc).timestamp() // 900) % TURNOS
+    otros = [s for s in NOMBRES if s != "massa"]
+    consultas = ['"Sergio Massa" OR Massa'] + [frase(s) for i, s in enumerate(otros) if todos or i % TURNOS == turno]
+    for i, q in enumerate(consultas):
+        fuentes.append((f"Google Noticias{'' if i == 0 else f' ({i + 1})'}",
+                        GOOGLE_NEWS.format(q=quote_plus(f"{q} when:{max(1, horas_atras // 24)}d")), None))
 
     def leer(fuente):
         medio, url, _ = fuente
+        if medio.startswith("Google Noticias ("):
+            time.sleep(1.5 * int(medio.split("(")[1].rstrip(")")))  # escalonadas, para que Google no las frene (error 429)
         try:
             return _leer(url), None
         except Exception as e:  # un medio caído no frena al resto
@@ -152,19 +167,21 @@ def recolectar(horas_atras=24):
             errores.append(error)
             continue
         if not feed.entries:
+            if medio.startswith("Google Noticias ("):
+                continue  # puede no haber notas de esos dirigentes en el día
             log.warning("%s respondió sin notas (¿cambió la dirección del RSS?)", medio)
             errores.append(f"{medio}: respondió sin notas")
             continue
         for e in feed.entries:
             titulo = limpiar_html(e.get("title", ""))
             bajada = limpiar_html(e.get("summary", ""))[:1500]
-            if not menciona_massa(f"{titulo} {bajada}"):
+            if not menciona_alguno(f"{titulo} {bajada}"):
                 continue
             publicado = _fecha(e)
             if not publicado or publicado < limite or not es_link_web(e.get("link")):
                 continue
             fuente = medio
-            if medio == "Google Noticias":
+            if medio.startswith("Google Noticias"):
                 fuente = (e.get("source") or {}).get("title") or medio
                 if titulo.endswith(f" - {fuente}"):
                     titulo = titulo[: -len(f" - {fuente}")]

@@ -1,7 +1,8 @@
-"""Busca menciones en X desde esta PC y las sube al monitor. Lo ejecuta una tarea programada de Windows.
+"""Busca menciones en X e Instagram desde esta PC y las sube al monitor. Lo ejecuta una tarea programada de Windows.
 
 1. Trae lo último del repositorio.
-2. Lee X con tu sesión, resume con Claude y guarda en datos/x/.
+2. Lee X con tu sesión y los perfiles públicos de medios en Instagram, resume con Claude y
+   guarda en datos/x/ (ahí van X e Instagram).
 3. Sube los cambios y pide a GitHub que regenere la página.
 
 Para probarlo a mano:  .venv\\Scripts\\python.exe x_buscar.py
@@ -30,20 +31,27 @@ def main():
 
     import db
     import resumen
-    from fuentes import x
+    from fuentes import instagram, x
 
-    encontradas, avisos = x.recolectar()
-    for a in avisos:
-        log.warning(a)
-    nuevas = db.filtrar_nuevas(encontradas)
+    nuevas = []
+    for nombre, fuente in (("X", x), ("Instagram", instagram)):
+        try:
+            encontradas, avisos = fuente.recolectar()
+        except Exception as e:  # si una red falla, la otra sigue
+            log.error("%s falló: %s", nombre, e)
+            continue
+        for a in avisos:
+            log.warning(a)
+        estas = db.filtrar_nuevas(encontradas)
+        log.info("%s: %d encontradas, %d nuevas", nombre, len(encontradas), len(estas))
+        nuevas += estas
     resumen.resumir(nuevas)
     db.guardar(nuevas)
-    log.info("X: %d encontradas, %d nuevas", len(encontradas), len(nuevas))
     if not nuevas:
         return
 
     git("add", "datos/x")
-    git("commit", "-q", "-m", f"Menciones en X ({len(nuevas)})")
+    git("commit", "-q", "-m", f"Menciones en X e Instagram ({len(nuevas)})")
     for _ in range(3):
         if git("pull", "--rebase", "-q", "origin", "main").returncode == 0 and git("push", "-q").returncode == 0:
             # Regenera la página ya, sin esperar a la próxima corrida programada.

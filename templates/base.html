@@ -1,4 +1,4 @@
-{% from "_tarjeta.html" import tarjeta %}<!doctype html>
+{% from "_tarjeta.html" import tarjeta with context %}<!doctype html>
 <html lang="es">
 <head>
   <meta charset="utf-8">
@@ -10,12 +10,16 @@
 <body data-generado="{{ (generado.timestamp() * 1000)|int }}"{% if pestana in ('ultima', 'hoy') %} data-recargar="1"{% endif %}>
 <header class="sitio">
   <div class="contenedor">
-    <h1>Menciones a Sergio Massa</h1>
-    <p class="sub">Portales nacionales, medios del interior y X · se actualiza sola cada 15 minutos</p>
+    <h1>Menciones a <span id="quien-nombre">Sergio Massa y el Frente Renovador</span></h1>
+    <p class="sub">Portales nacionales y del interior, X e Instagram · se actualiza sola cada 15 minutos</p>
     <nav class="pestanas">
-      <a href="{{ raiz }}index.html" class="{{ 'activa' if pestana == 'ultima' }}">Última hora</a>
-      <a href="{{ raiz }}hoy.html" class="{{ 'activa' if pestana == 'hoy' }}">Hoy, por hora</a>
-      <a href="{{ raiz }}historial.html" class="{{ 'activa' if pestana == 'historial' }}">Menciones pasadas</a>
+      <a href="{{ raiz }}index.html" class="con-quien {{ 'activa' if pestana == 'ultima' }}">Última hora</a>
+      <a href="{{ raiz }}hoy.html" class="con-quien {{ 'activa' if pestana == 'hoy' }}">Hoy, por hora</a>
+      <a href="{{ raiz }}historial.html" class="con-quien {{ 'activa' if pestana == 'historial' }}">Menciones pasadas</a>
+    </nav>
+    <nav class="dirigentes" aria-label="Dirigentes">
+      <button type="button" data-quien="">Todos</button>
+      {% for slug, nombre in nombres.items() %}<button type="button" data-quien="{{ slug }}">{{ nombre }}</button>{% endfor %}
     </nav>
   </div>
 </header>
@@ -185,38 +189,101 @@
   });
   seguir();
 
-  // Filtros por tipo de medio y, en "Última hora", sólo lo de los últimos 60 minutos
-  let filtro = guardado.leer("sessionStorage", "filtro") || "";
+  // Pestaña de dirigente (?quien=...) + filtros de red, medios y búsqueda por texto.
+  const NOMBRES = {{ nombres|tojson }};
+  const params = new URLSearchParams(location.search);
+  const estado = {
+    quien: params.has("quien") ? params.get("quien") : (guardado.leer("sessionStorage", "quien") || ""),
+    red: guardado.leer("sessionStorage", "red") || "",
+    alcance: guardado.leer("sessionStorage", "alcance") || "",
+    texto: "",
+  };
+  if (!(estado.quien in NOMBRES)) estado.quien = "";
+  const normalizar = (t) => (t || "").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+  const buscador = document.getElementById("buscar");
+
+  function cumple(t) {
+    if (estado.quien && !t.dataset.temas.split(" ").includes(estado.quien)) return false;
+    if (estado.red && t.dataset.red !== estado.red) return false;
+    if (estado.alcance && t.dataset.alcance !== estado.alcance) return false;
+    if (estado.texto) {
+      if (!t._texto) t._texto = normalizar(t.textContent);
+      if (!t._texto.includes(estado.texto)) return false;
+    }
+    return true;
+  }
+
   function aplicar() {
     document.getElementById("viejo").hidden = Date.now() - Number(document.body.dataset.generado) < 60 * 60 * 1000;
     const limite = document.body.dataset.ultimaHora ? Date.now() - 60 * 60 * 1000 : 0;
-    document.querySelectorAll(".tarjeta").forEach((t) => {
-      const siempre = t.closest("[data-siempre]");
-      t.hidden = (filtro && t.dataset.plataforma !== filtro) || (!siempre && Number(t.dataset.ts) < limite);
-    });
     let visibles = 0;
     document.querySelectorAll(".grupo").forEach((g) => {
-      const n = g.querySelectorAll(".tarjeta:not([hidden])").length;
+      const tope = Number(g.dataset.siempre) || 0;  // "Últimas notas de portales": sin límite de hora, hasta N
+      let n = 0;
+      g.querySelectorAll(".tarjeta").forEach((t) => {
+        const ok = cumple(t) && (tope || Number(t.dataset.ts) >= limite) && (!tope || n < tope);
+        t.hidden = !ok;
+        if (ok) n++;
+      });
       g.hidden = n === 0;
       const c = g.querySelector(".cantidad");
       if (c) c.textContent = n;
-      if (!g.dataset.siempre) visibles += n;
+      if (!tope) visibles += n;
     });
+    // Menciones pasadas: totales del día según la pestaña y los filtros
+    document.querySelectorAll("tr.dia").forEach((fila) => {
+      const tot = { portales: 0, x: 0, instagram: 0 };
+      JSON.parse(fila.dataset.conteos).forEach(([tema, red, alcance, n]) => {
+        if (tema !== estado.quien) return;  // tema "" = todas las menciones del día
+        if (estado.alcance && alcance !== estado.alcance) return;
+        tot[red] += n;
+      });
+      if (estado.red) for (const r in tot) if (r !== estado.red) tot[r] = 0;
+      tot.total = tot.portales + tot.x + tot.instagram;
+      fila.querySelectorAll("[data-col]").forEach((c) => (c.textContent = tot[c.dataset.col]));
+      fila.hidden = tot.total === 0;
+      if (!fila.hidden) visibles++;
+    });
+    const tv = document.getElementById("total-visible");
+    if (tv) tv.textContent = visibles;
     const vacio = document.getElementById("vacio");
     if (vacio) vacio.hidden = visibles > 0;
+
+    // Pestañas, chips y links que conservan el dirigente elegido
+    document.getElementById("quien-nombre").textContent = NOMBRES[estado.quien] || "Sergio Massa y el Frente Renovador";
+    document.querySelectorAll("[data-quien]").forEach((b) => b.classList.toggle("sel", b.dataset.quien === estado.quien));
+    document.querySelectorAll("[data-grupo]").forEach((g) => g.querySelectorAll("[data-valor]").forEach((b) =>
+      b.classList.toggle("sel", b.dataset.valor === estado[g.dataset.grupo])));
+    document.querySelectorAll("a.con-quien").forEach((a) => {
+      if (!a.dataset.base) a.dataset.base = a.getAttribute("href");
+      a.setAttribute("href", a.dataset.base + (estado.quien ? "?quien=" + encodeURIComponent(estado.quien) : ""));
+    });
   }
-  document.querySelectorAll("[data-filtro]").forEach((b) => b.addEventListener("click", () => {
-    filtro = b.dataset.filtro;
-    guardado.escribir("sessionStorage", "filtro", filtro);
-    document.querySelectorAll("[data-filtro]").forEach((x) => x.classList.toggle("sel", x === b));
+
+  document.querySelectorAll("[data-quien]").forEach((b) => b.addEventListener("click", () => {
+    estado.quien = b.dataset.quien;
+    guardado.escribir("sessionStorage", "quien", estado.quien);
+    const u = new URL(location.href);
+    estado.quien ? u.searchParams.set("quien", estado.quien) : u.searchParams.delete("quien");
+    u.searchParams.delete("v");
+    history.replaceState(null, "", u);
     aplicar();
   }));
-  document.querySelectorAll("[data-filtro]").forEach((x) => x.classList.toggle("sel", x.dataset.filtro === filtro));
+  document.querySelectorAll("[data-grupo]").forEach((g) => g.querySelectorAll("[data-valor]").forEach((b) =>
+    b.addEventListener("click", () => {
+      estado[g.dataset.grupo] = b.dataset.valor;
+      guardado.escribir("sessionStorage", g.dataset.grupo, b.dataset.valor);
+      aplicar();
+    })));
+  if (buscador) buscador.addEventListener("input", () => { estado.texto = normalizar(buscador.value.trim()); aplicar(); });
   aplicar();
+  const elegido = document.querySelector(".dirigentes .sel");
+  if (elegido) elegido.scrollIntoView({ block: "nearest", inline: "center" });
 
-  // Última hora y Hoy se recargan cada 5 minutos, salvo que se esté pegando el token o siguiendo una actualización.
+  // Última hora y Hoy se recargan cada 5 minutos, salvo que se esté pegando el token, siguiendo una
+  // actualización o escribiendo en el buscador.
   if (document.body.dataset.recargar) setInterval(() => {
-    if (panel.hidden && !guardado.leer("sessionStorage", "actualizando_desde")) location.reload();
+    if (panel.hidden && !guardado.leer("sessionStorage", "actualizando_desde") && !(buscador && buscador.value)) location.reload();
   }, 5 * 60 * 1000);
   setInterval(aplicar, 60 * 1000);
 </script>

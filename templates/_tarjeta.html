@@ -1,17 +1,21 @@
-{% set ETQ = {"nacional": "Nacional", "interior": "Interior", "portal": "Otro portal", "x": "X"} %}
+{% set ETQ = {"nacional": "Nacional", "interior": "Interior", "portal": "Otro portal"} %}
+{% set RED = {"x": "X", "instagram": "Instagram"} %}
 {% macro tarjeta(m) -%}
-<article class="tarjeta" data-plataforma="{{ m.plataforma }}" data-ts="{{ (m.publicado_local.timestamp() * 1000)|int }}">
+<article class="tarjeta" data-red="{{ m.red }}" data-alcance="{{ m.alcance }}" data-temas="{{ m.temas|join(' ') }}"
+         data-ts="{{ (m.publicado_local.timestamp() * 1000)|int }}">
   <div class="meta">
-    <span class="badge {{ m.plataforma }}">{{ ETQ[m.plataforma] }}</span>
+    {% if m.red in RED %}<span class="badge {{ m.red }}">{{ RED[m.red] }}</span>{% endif %}
+    {% if m.alcance %}<span class="badge {{ m.alcance }}">{{ ETQ[m.alcance] }}</span>{% endif %}
     <strong>{{ m.fuente }}</strong>
     {% if m.seguidores %}<span class="seguidores">{{ '{:,}'.format(m.seguidores).replace(',', '.') }} seguidores</span>{% endif %}
     <time datetime="{{ m.publicado }}">{{ m.publicado_local.strftime('%H:%M') }} h</time>
   </div>
   {% if m.titulo %}<h3>{{ m.titulo }}</h3>{% endif %}
   {% if m.resumen and m.resumen != m.titulo %}<p class="resumen">{{ m.resumen }}</p>{% endif %}
+  <div class="quienes">{% for t in m.temas %}<span class="quien">{{ nombres[t] }}</span>{% endfor %}</div>
   <a class="link" href="{{ m.url }}" target="_blank" rel="noopener">{{ m.url }}</a>
   <div class="acciones">
-    <a class="boton primario" href="{{ m.url }}" target="_blank" rel="noopener">Abrir nota</a>
+    <a class="boton primario" href="{{ m.url }}" target="_blank" rel="noopener">{{ 'Abrir nota' if m.red == 'portales' else 'Abrir publicación' }}</a>
     <button type="button" data-copiar="{{ m.url }}">Copiar link</button>
     <a class="boton" target="_blank" rel="noopener"
        href="https://wa.me/?text={{ ((m.titulo or m.resumen or '') ~ ' ' ~ m.url) | urlencode }}">WhatsApp</a>

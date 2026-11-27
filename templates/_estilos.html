@@ -44,7 +44,17 @@
   .panel-token input { flex: 1 1 220px; min-width: 0; font: inherit; font-size: 13px; padding: 6px 10px;
                        border: 1px solid var(--borde); border-radius: 8px; background: var(--fondo); color: var(--tinta); }
   .panel-token .error { color: var(--aviso); font-weight: 600; }
-  .filtros { display: flex; flex-wrap: wrap; gap: 6px; margin: 8px 0 18px; }
+  nav.dirigentes { display: flex; gap: 6px; padding: 10px 0 12px; overflow-x: auto; scrollbar-width: thin; }
+  nav.dirigentes button { white-space: nowrap; border-radius: 999px; font-size: 13px; padding: 5px 12px; flex: none; }
+  nav.dirigentes button.sel { background: var(--acento); border-color: var(--acento); color: #fff; }
+  @media (min-width: 700px) { nav.dirigentes { flex-wrap: wrap; overflow: visible; } }
+  .controles { margin: 8px 0 18px; display: grid; gap: 8px; }
+  .buscar { width: 100%; font: inherit; font-size: 15px; padding: 9px 12px; border: 1px solid var(--borde);
+            border-radius: 10px; background: var(--papel); color: var(--tinta); }
+  .filtros { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; }
+  .filtros .etiqueta { font-size: 12px; color: var(--suave); width: 56px; }
+  .quienes { display: flex; flex-wrap: wrap; gap: 4px; margin: 2px 0 6px; }
+  .quien { font-size: 11px; color: var(--acento); border: 1px solid var(--borde); border-radius: 999px; padding: 0 8px; }
   h2.hora { font-size: 14px; text-transform: uppercase; letter-spacing: .06em; color: var(--suave);
             margin: 28px 0 10px; padding-bottom: 6px; border-bottom: 1px solid var(--borde);
             display: flex; justify-content: space-between; }
@@ -56,6 +66,7 @@
   .badge { font-size: 11px; font-weight: 700; padding: 1px 7px; border-radius: 5px; color: #fff; }
   .badge.nacional { background: var(--nacional); } .badge.interior { background: var(--interior); }
   .badge.portal { background: var(--portal); } .badge.x { background: #000; }
+  .badge.instagram { background: #c13584; }
   .tipo { font-size: 11px; border: 1px solid var(--borde); border-radius: 5px; padding: 0 6px; }
   .tarjeta h3 { font-size: 16px; margin: 8px 0 2px; line-height: 1.35; }
   .resumen { margin: 6px 0 8px; }

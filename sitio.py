@@ -10,6 +10,7 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 import db
 from config import BASE, REPO, SITIO_DIR, TZ
+from fuentes.temas import NOMBRES
 
 jinja = Environment(loader=FileSystemLoader(BASE / "templates"), autoescape=select_autoescape(["html"]))
 
@@ -42,13 +43,14 @@ def _escribir(ruta_relativa, plantilla, **contexto):
 def generar(avisos=()):
     ahora = datetime.now(TZ)
     hoy = ahora.date()
-    comun = {"generado": ahora, "hoy": hoy, "avisos": list(avisos), "repo": REPO}
+    comun = {"generado": ahora, "hoy": hoy, "avisos": list(avisos), "repo": REPO, "nombres": NOMBRES}
 
     # Última hora: se incluyen 3 horas y el navegador oculta lo que tenga más de 60 minutos,
     # así la página sigue siendo correcta aunque se mire un rato después de generada.
-    # Además, las últimas notas de portales (aunque tengan más de una hora), para que la portada
-    # no quede sólo con posts de X cuando los diarios no publicaron nada en los últimos 60 minutos.
-    portales = [m for m in db.recientes(horas=24) if m["plataforma"] != "x"][:15]
+    # Además, las notas de portales de las últimas 24 horas (el navegador muestra las 15 más
+    # recientes del dirigente elegido), para que la portada no quede sólo con redes cuando los
+    # diarios no publicaron nada en los últimos 60 minutos.
+    portales = [m for m in db.recientes(horas=24) if m["red"] == "portales"]
     _escribir("index.html", "ultima_hora.html", pestana="ultima",
               menciones=db.recientes(horas=3), portales=portales, **comun)
 

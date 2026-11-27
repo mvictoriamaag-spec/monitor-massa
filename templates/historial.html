@@ -1,25 +1,26 @@
 {% extends "base.html" %}
-{% block titulo %}Menciones pasadas · Menciones a Massa{% endblock %}
+{% block titulo %}Menciones pasadas · Monitor Frente Renovador{% endblock %}
 {% block contenido %}
 <p class="sub" style="margin-bottom:12px">Cada día queda guardado con su fecha y sus menciones ordenadas por hora.
-  Cada día tiene su propio link para compartir.</p>
+  Cada día tiene su propio link para compartir. Los números son de la pestaña y los filtros elegidos.</p>
+{% include "_filtros.html" %}
 {% if dias %}
 <table class="dias">
-  <thead><tr><th>Fecha</th><th>Total</th><th class="ocultar-movil">Nacionales</th>
-    <th class="ocultar-movil">Interior</th><th class="ocultar-movil">Otros</th><th class="ocultar-movil">X</th></tr></thead>
+  <thead><tr><th>Fecha</th><th>Total</th><th class="ocultar-movil">Portales</th>
+    <th class="ocultar-movil">X</th><th class="ocultar-movil">Instagram</th></tr></thead>
   <tbody>
   {% for d in dias %}
-    <tr>
-      <td><a href="{{ raiz }}dia/{{ d.fecha.isoformat() }}.html">{{ d.fecha_larga|capitalize }}</a></td>
-      <td class="num"><strong>{{ d.total }}</strong></td>
-      <td class="num ocultar-movil">{{ d.nacional }}</td>
-      <td class="num ocultar-movil">{{ d.interior }}</td>
-      <td class="num ocultar-movil">{{ d.portal }}</td>
-      <td class="num ocultar-movil">{{ d.x }}</td>
+    <tr class="dia" data-conteos='{{ d.conteos|tojson }}'>
+      <td><a class="con-quien" href="{{ raiz }}dia/{{ d.fecha.isoformat() }}.html">{{ d.fecha_larga|capitalize }}</a></td>
+      <td class="num"><strong data-col="total">{{ d.total }}</strong></td>
+      <td class="num ocultar-movil" data-col="portales"></td>
+      <td class="num ocultar-movil" data-col="x"></td>
+      <td class="num ocultar-movil" data-col="instagram"></td>
     </tr>
   {% endfor %}
   </tbody>
 </table>
+<div class="vacio" id="vacio" hidden>No hay menciones guardadas para esta selección.</div>
 {% else %}
 <div class="vacio">Todavía no hay menciones guardadas.</div>
 {% endif %}

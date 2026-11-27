@@ -2,7 +2,7 @@
 
 Usa un perfil de Chrome aparte (carpeta perfil-x/, no se sube a GitHub) en el que iniciás
 sesión una vez con `x_login.py`. Después `x_buscar.py` abre la búsqueda de X, junta los posts
-recientes que nombran a Massa y los guarda como cualquier otra mención.
+recientes que nombran a Massa o a los demás dirigentes y los guarda como cualquier otra mención.
 
 Ojo: leer X de esta forma va contra sus términos y X puede limitar o suspender la cuenta.
 Por eso se busca pocas veces (cada 30 minutos) y con pocas páginas.
@@ -13,13 +13,15 @@ from datetime import datetime, timedelta, timezone
 from urllib.parse import quote
 
 from config import BASE
-from fuentes import menciona_massa
+from fuentes import menciona_alguno
+from fuentes.temas import busquedas
 
 log = logging.getLogger(__name__)
 
 PERFIL = BASE / "perfil-x"
-BUSQUEDA = '(Massa OR @SergioMassa) -Felipe lang:es'
-DESPLAZAMIENTOS = 10  # cuántas veces se baja en la página de resultados
+# Una búsqueda para Massa y otra(s) para el resto de los dirigentes, así Massa no los tapa.
+BUSQUEDAS = ['(Massa OR @SergioMassa) -Felipe lang:es'] + [f'({q}) lang:es' for q in busquedas(sin_massa=True)]
+DESPLAZAMIENTOS = 8  # cuántas veces se baja en cada página de resultados
 MIN_SEGUIDORES = 5000  # se descartan los posts de cuentas más chicas
 
 # Lee los posts visibles en la página de resultados.
@@ -94,20 +96,23 @@ def recolectar(horas_atras=24):
         try:
             pagina = navegador.new_page()
             pagina.on("response", lambda r: _seguidores_de(r, seguidores))
-            pagina.goto(f"https://x.com/search?q={quote(BUSQUEDA)}&src=typed_query&f=live",
-                        wait_until="domcontentloaded", timeout=60_000)
-            try:
-                pagina.wait_for_selector('article[data-testid="tweet"]', timeout=30_000)
-            except Exception:
-                if "/login" in pagina.url or "/i/flow" in pagina.url:
-                    return [], ["X: la sesión se cerró. Volvé a ejecutar x_login.py para iniciar sesión."]
-                return [], ["X: no aparecieron resultados (puede ser un límite temporal de X)."]
-            for _ in range(DESPLAZAMIENTOS):
-                for post in pagina.evaluate(_LEER_POSTS):
-                    if post["url"] and "/status/" in post["url"]:
-                        vistos[post["url"].split("?")[0]] = post
-                pagina.mouse.wheel(0, 2500)
-                time.sleep(2.5)
+            for i, busqueda in enumerate(BUSQUEDAS):
+                pagina.goto(f"https://x.com/search?q={quote(busqueda)}&src=typed_query&f=live",
+                            wait_until="domcontentloaded", timeout=60_000)
+                try:
+                    pagina.wait_for_selector('article[data-testid="tweet"]', timeout=30_000)
+                except Exception:
+                    if "/login" in pagina.url or "/i/flow" in pagina.url:
+                        return [], ["X: la sesión se cerró. Volvé a ejecutar x_login.py para iniciar sesión."]
+                    if i == 0:
+                        return [], ["X: no aparecieron resultados (puede ser un límite temporal de X)."]
+                    continue  # puede no haber posts recientes de esos dirigentes
+                for _ in range(DESPLAZAMIENTOS):
+                    for post in pagina.evaluate(_LEER_POSTS):
+                        if post["url"] and "/status/" in post["url"]:
+                            vistos[post["url"].split("?")[0]] = post
+                    pagina.mouse.wheel(0, 2500)
+                    time.sleep(2.5)
         finally:
             navegador.close()
 
@@ -116,7 +121,7 @@ def recolectar(horas_atras=24):
 
     menciones, chicas = [], 0
     for url, post in vistos.items():
-        if not post["publicado"] or not menciona_massa(post["texto"]):
+        if not post["publicado"] or not menciona_alguno(post["texto"]):
             continue
         cantidad = seguidores.get(url.rstrip("/").split("/status/")[-1].split("/")[0])
         if cantidad is None or cantidad < MIN_SEGUIDORES:

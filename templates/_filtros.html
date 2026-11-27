@@ -1,7 +1,17 @@
-<div class="filtros">
-  <button type="button" class="chip sel" data-filtro="">Todas</button>
-  <button type="button" class="chip" data-filtro="nacional">Nacionales</button>
-  <button type="button" class="chip" data-filtro="interior">Interior</button>
-  <button type="button" class="chip" data-filtro="portal">Otros portales</button>
-  <button type="button" class="chip" data-filtro="x">X</button>
+<div class="controles">
+  <input type="search" id="buscar" class="buscar" placeholder="Buscar en las menciones (nombre, medio, tema…)" autocomplete="off">
+  <div class="filtros" data-grupo="red" aria-label="Red">
+    <span class="etiqueta">Red</span>
+    <button type="button" class="chip" data-valor="">Todas</button>
+    <button type="button" class="chip" data-valor="portales">Portales</button>
+    <button type="button" class="chip" data-valor="x">X</button>
+    <button type="button" class="chip" data-valor="instagram">Instagram</button>
+  </div>
+  <div class="filtros" data-grupo="alcance" aria-label="Alcance">
+    <span class="etiqueta">Medios</span>
+    <button type="button" class="chip" data-valor="">Todos</button>
+    <button type="button" class="chip" data-valor="nacional">Nacionales</button>
+    <button type="button" class="chip" data-valor="interior">Interior</button>
+    <button type="button" class="chip" data-valor="portal">Otros portales</button>
+  </div>
 </div>
