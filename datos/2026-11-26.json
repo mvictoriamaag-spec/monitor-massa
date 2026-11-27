@@ -32,6 +32,22 @@
   "recolectado": "2026-11-27T03:06:31+00:00"
  },
  {
+  "plataforma": "interior",
+  "fuente": "0343 Noticias",
+  "autor": "0343 Noticias",
+  "tipo": "nota",
+  "titulo": "Massa abordó en Córdoba el debate sobre la Inteligencia Artificial: \"Necesitamos ciencia y pensamiento autónomo para que también la IA sea argentina\"",
+  "texto": "Sergio Massa participó en la UNC de un foro sobre inteligencia artificial y políticas públicas, y escuchó reclamos científicos ante el ajuste y el desfinanciamiento.",
+  "url": "https://0343.com.ar/nacionales/massa-abordo-en-cordoba-el-debate-sobre-la-inteligencia-artificial-necesitamos-ciencia-y-pensamiento-autonomo-para-que-tambien-la-ia-sea-argentina_1795739580",
+  "publicado": "2026-11-27T00:33:00+00:00",
+  "id": "0458280e07ca7af1",
+  "titulo_norm": "massa abordó en córdoba el debate sobre la inteligencia artificial necesitamos ciencia y pensamiento autónomo para que t",
+  "resumen": "Sergio Massa participó en la UNC de un foro sobre inteligencia artificial y políticas públicas, donde dijo: \"Necesitamos ciencia y pensamiento autónomo para que también la IA sea argentina\". Escuchó reclamos científicos por el ajuste y el desfinanciamiento.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-27T11:43:30+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "Provincia Noticias",
   "autor": "Provincia Noticias",
@@ -110,6 +126,22 @@
   "relevante": 1,
   "resumen_ia": true,
   "recolectado": "2026-11-27T03:06:31+00:00"
+ },
+ {
+  "plataforma": "interior",
+  "fuente": "Primera Página",
+  "autor": "Primera Página",
+  "tipo": "nota",
+  "titulo": "De pedir el voto por Massa a coordinar La Libertad Avanza: el giro de Roberto Costa",
+  "texto": "Sebastián Pareja lo incorporó al armado territorial de Mercedes, desplazando a Rafael Velázquez, señalado por su cercanía con Wado de Pedro.",
+  "url": "https://primerapagina.info/politica/de-pedir-el-voto-por-massa-a-coordinar-la-libertad-avanza--el-giro-de-roberto-costa_a6b089f155e0aceca405a8824",
+  "publicado": "2026-11-26T22:14:55+00:00",
+  "id": "fa8719ef8498f860",
+  "titulo_norm": "de pedir el voto por massa a coordinar la libertad avanza el giro de roberto costa",
+  "resumen": "Roberto Costa, que antes pidió el voto por Massa, fue incorporado por Sebastián Pareja al armado territorial de La Libertad Avanza en Mercedes, en reemplazo de Rafael Velázquez, cercano a Wado de Pedro.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-27T11:43:30+00:00"
  },
  {
   "plataforma": "interior",
