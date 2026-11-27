@@ -1,18 +1,21 @@
-# Monitor de menciones a Sergio Massa
+# Monitor de menciones a Sergio Massa y el Frente Renovador
 
 Página web que reúne las menciones a Sergio Massa en portales de noticias nacionales y del
 interior. Se publica gratis en GitHub Pages y se actualiza sola cada 15 minutos en la nube
 (GitHub Actions), aunque tu computadora esté apagada. Se abre desde cualquier navegador, en la
 computadora o el celular, y se comparte con el link.
 
-## Pestañas
-- **Última hora**: menciones publicadas en los últimos 60 minutos.
-- **Hoy, por hora**: todo el día agrupado por franja horaria (15:00 a 15:59, etc.).
-- **Menciones pasadas**: un renglón por día. Cada día tiene su propia página
-  (`dia/AAAA-MM-DD.html`) con todas sus menciones ordenadas por hora, con su link para compartir.
+## Pestañas y filtros
+- **Última hora**: menciones de los últimos 60 minutos, y debajo las últimas notas de portales.
+- **Hoy, por hora**: todo el día agrupado por franja horaria.
+- **Menciones pasadas**: un renglón por día, con su propia página (`dia/AAAA-MM-DD.html`).
+- **Una pestaña por dirigente** (Todos, Sergio Massa, Massismo, Frente Renovador, Fundación
+  Encuentro, Malena Galmarini, etc.). El link conserva el dirigente elegido (`?quien=...`), así se
+  puede compartir. Para sumar o sacar dirigentes: `fuentes/temas.py`.
+- **Buscador** por texto y filtros **Red** (Portales, X, Instagram) y **Medios** (Nacionales,
+  Interior, Otros portales).
 
-Cada mención tiene un resumen breve, el link directo a la nota y botones para copiarlo o
-compartirlo por WhatsApp. Se puede filtrar por Nacionales, Interior y Otros portales.
+Cada mención tiene un resumen breve, el link directo y botones para copiarlo o compartirlo por WhatsApp.
 
 ## Fuentes
 - **Portales nacionales**: Clarín, La Nación, Infobae, Página/12, Ámbito, Perfil, TN, La Política
@@ -22,8 +25,13 @@ compartirlo por WhatsApp. Se puede filtrar por Nacionales, Interior y Otros port
   0221, 0223, InfoCielo, El Litoral (Corrientes), Época, Misiones Online, Diario Norte, Chaco Día
   por Día, Diario Panorama, El Ancasti, Tiempo de San Juan, Diario de Cuyo, Diario Huarpe, El Diario
   de la República, La Arena, El Chubut, El Sureño, Uno Entre Ríos.
-- **Google Noticias**: suma el resto de los portales (incluidos los del interior sin RSS, como
+- **Google Noticias**: una búsqueda de Massa en cada corrida y una por cada dirigente, repartidas
+  en turnos (cada dirigente se busca una vez por hora). Suma el resto de los portales (incluidos los del interior sin RSS, como
   La Voz o Cadena 3). La app convierte cada link de Google en el link directo de la nota.
+
+- **Instagram** (desde la compu, cada 30 minutos, junto con X): perfiles públicos de unos 40
+  medios nacionales y del interior, sin usar ninguna cuenta. Se guardan las publicaciones que
+  nombran a algún dirigente. Lista de medios: `fuentes/instagram.py`.
 
 ## Resúmenes con tu plan de Claude
 Los resúmenes los escribe Claude Code usando un token de tu suscripción de Claude
