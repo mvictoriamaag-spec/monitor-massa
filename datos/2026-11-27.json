@@ -1,6 +1,22 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "Flipr.news",
+  "autor": "Flipr.news",
+  "tipo": "nota",
+  "titulo": "Massa viajó a Córdoba con una agenda de Inteligencia Artificial para impulsar el empleo",
+  "texto": "En el marco de un foro universitario desarrollado en la Facultad de Matemática, Astronomía, Física y Computación (FAMAF) de la UNC, el líder del Frente Renovador anticipó que incorporará un capítulo…",
+  "url": "https://flipr.com.ar/buenos-aires/bsasnoticia/massa-viajo-a-cordoba-con-una-agenda-de-inteligencia-artificial-para-impulsar-el-empleo/",
+  "publicado": "2026-11-27T22:39:44+00:00",
+  "id": "bbe23ce6b0f462db",
+  "titulo_norm": "massa viajó a córdoba con una agenda de inteligencia artificial para impulsar el empleo",
+  "resumen": "Massa viajó a Córdoba para participar en un foro universitario en la FAMAF (UNC), donde como líder del Frente Renovador anticipó un capítulo de su agenda de inteligencia artificial orientado a impulsar el empleo.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-27T23:09:34+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Radio Provincia",
   "autor": "Radio Provincia",
   "tipo": "nota",
