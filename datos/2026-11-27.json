@@ -1,6 +1,22 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "Bache3000",
+  "autor": "Bache3000",
+  "tipo": "nota",
+  "titulo": "García Larraburu se reunió con Massa y lo invitó a visitar Bariloche",
+  "texto": "El movimiento del peronismo nacional hacia Río Negro suma un nuevo capítulo con la reunión entre uno de los nombres que suenan para encabezar al es",
+  "url": "https://baribache3000.com.ar/nota/7099/garcia-larraburu-se-reunio-con-massa-y-lo-invito-a-visitar-bariloche/",
+  "publicado": "2026-11-27T23:42:47+00:00",
+  "id": "1d222bfcc5a33345",
+  "titulo_norm": "garcía larraburu se reunió con massa y lo invitó a visitar bariloche",
+  "resumen": "Bache3000 informa que García Larraburu se reunió con Sergio Massa y lo invitó a visitar Bariloche. La nota lo ubica en el movimiento del peronismo nacional hacia Río Negro y como uno de los nombres que suenan para encabezar un espacio, aunque el texto está cortado.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-27T23:46:47+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Nuevo Diario Web",
   "autor": "Nuevo Diario Web",
   "tipo": "nota",
