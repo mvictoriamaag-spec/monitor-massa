@@ -65,6 +65,22 @@
  },
  {
   "plataforma": "portal",
+  "fuente": "Flipr.news",
+  "autor": "Flipr.news",
+  "tipo": "nota",
+  "titulo": "Bevilacqua respaldó a Massa para 2027 y pidió una fórmula que integre conurbano e interior",
+  "texto": "El intendente de Villarino, Carlos Bevilacqua, respaldó a Sergio Massa para 2027 y propuso una fórmula que integre al conurbano con el interior bonaerense. La entrada Bevilacqua respaldó a Massa para…",
+  "url": "https://flipr.com.ar/buenos-aires/laprovinciaenvivo/bevilacqua-respaldo-a-massa-para-2027-y-pidio-una-formula-que-integre-conurbano-e-interior/",
+  "publicado": "2026-11-27T13:51:34+00:00",
+  "id": "636379fd4735db52",
+  "titulo_norm": "bevilacqua respaldó a massa para 2027 y pidió una fórmula que integre conurbano e interior",
+  "resumen": "El intendente de Villarino, Carlos Bevilacqua, respaldó a Sergio Massa como candidato para 2027 y propuso una fórmula que integre el conurbano con el interior bonaerense.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-27T22:09:14+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "La Noticia Web",
   "autor": "La Noticia Web",
   "tipo": "nota",
