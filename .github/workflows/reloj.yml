@@ -1,0 +1,41 @@
+name: Reloj (actualiza cada 15 minutos)
+
+# GitHub demora muchísimo los "schedule" (a veces corren cada 8 horas). Este reloj queda
+# prendido en la nube: cada 15 minutos dispara "Actualizar menciones" y, antes de llegar al
+# límite de 6 horas por job, se vuelve a lanzar solo. No depende de la computadora.
+# El repositorio es público, así que los minutos de Actions son gratis.
+
+on:
+  schedule:
+    - cron: "7 */3 * * *"   # por si la cadena se corta, la retoma
+  workflow_dispatch:
+
+permissions:
+  actions: write
+
+concurrency:
+  group: reloj
+  cancel-in-progress: false
+
+jobs:
+  reloj:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - name: Disparar la actualización cada 15 minutos
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          fin=$(( $(date +%s) + 5*3600 + 30*60 ))   # 5 h 30 min
+          while [ "$(date +%s)" -lt "$fin" ]; do
+            gh workflow run actualizar.yml --ref main || echo "No se pudo disparar; reintento en 15 min"
+            sleep 900
+          done
+
+      - name: Volver a lanzar el reloj
+        if: success() || failure()   # si lo cancelás a mano, no se relanza
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: gh workflow run reloj.yml --ref main

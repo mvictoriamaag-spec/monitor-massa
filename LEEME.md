@@ -33,8 +33,14 @@ Se descuentan del uso de tu plan; no hace falta clave de API ni cambiar de plan.
 página sigue funcionando con resúmenes simples (título y bajada).
 
 ## Cómo funciona
-- `.github/workflows/actualizar.yml`: cada 15 minutos ejecuta `actualizar.py`, guarda las
-  menciones nuevas en `datos/` (un archivo por día) y publica la carpeta `sitio/`.
+- `.github/workflows/actualizar.yml`: ejecuta `actualizar.py`, guarda las menciones nuevas en
+  `datos/` (un archivo por día) y publica la carpeta `sitio/`.
+- `.github/workflows/reloj.yml`: queda corriendo en la nube y dispara `actualizar.yml` cada 15
+  minutos (el "schedule" propio de GitHub se demora horas). Se relanza solo cada 5 h 30 min y,
+  si la cadena se corta, el respaldo de cada 3 horas la retoma. No necesita la computadora.
+- **Posts de X**: los busca la computadora (tarea de Windows "Monitor Massa - X", con tu sesión de
+  X). Con la compu apagada la página sigue actualizándose con los portales; sólo faltan los posts
+  de X nuevos hasta que se prenda.
 - Para actualizar a mano: botón **Actualizar ahora** en la página. La primera vez en cada
   navegador pide un token de GitHub (fine-grained, sólo este repositorio, permiso *Actions: Read
   and write*), que queda guardado en ese navegador. Dispara el mismo proceso que corre cada 15
