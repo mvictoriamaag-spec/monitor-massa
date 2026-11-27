@@ -1,6 +1,22 @@
 [
  {
   "plataforma": "portal",
+  "fuente": "Nuevo Diario Web",
+  "autor": "Nuevo Diario Web",
+  "tipo": "nota",
+  "titulo": "Sergio Massa comparó al peronismo con un avión y defendió la movilidad social en respuesta a un niño",
+  "texto": "Al responder a la consulta de un niño, Sergio Massa definió al peronismo como un avión y destacó el federalismo, el desarrollo industrial y la educación pública.",
+  "url": "https://nuevodiarioweb.com.ar/el-pais/sergio-massa-comparo-al-peronismo-con-un-avion-y-defendio-la-movilidad-social-en-respuesta-a-un-nino.htm",
+  "publicado": "2026-11-27T23:34:00+00:00",
+  "id": "c42f7bc2856ecf52",
+  "titulo_norm": "sergio massa comparó al peronismo con un avión y defendió la movilidad social en respuesta a un niño",
+  "resumen": "Sergio Massa, al responder la consulta de un niño, definió al peronismo como un avión y destacó el federalismo, el desarrollo industrial y la educación pública, en defensa de la movilidad social.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-27T23:39:49+00:00"
+ },
+ {
+  "plataforma": "portal",
   "fuente": "Flipr.news",
   "autor": "Flipr.news",
   "tipo": "nota",
