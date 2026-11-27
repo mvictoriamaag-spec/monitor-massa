@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "dataene.com.ar",
+  "autor": "dataene.com.ar",
+  "tipo": "nota",
+  "titulo": "Massa propuso en Córdoba usar la IA para la producción y el empleo",
+  "texto": "En un foro universitario en FAMAF, planteó sumar la tecnología a la plataforma de su espacio e incorporar reclamos del sector científico.",
+  "url": "https://dataene.com.ar/nota/17306/massa-propuso-en-cordoba-usar-la-ia-para-la-produccion-y-el",
+  "publicado": "2026-11-27T11:22:33+00:00",
+  "id": "22c543c13e707ddc",
+  "titulo_norm": "massa propuso en córdoba usar la ia para la producción y el empleo",
+  "resumen": "Sergio Massa planteó, en un foro universitario de la FAMAF en Córdoba, sumar la inteligencia artificial a la plataforma de su espacio para impulsar la producción y el empleo. También propuso incorporar reclamos del sector científico.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-27T12:11:05+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Infobae",
   "autor": "Infobae",
