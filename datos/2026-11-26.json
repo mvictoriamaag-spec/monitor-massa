@@ -384,6 +384,22 @@
   "recolectado": "2026-11-26T20:28:12+00:00"
  },
  {
+  "plataforma": "portal",
+  "fuente": "Codigo Baires",
+  "autor": "Codigo Baires",
+  "tipo": "nota",
+  "titulo": "Massa en Córdoba: \"Nuestra fuerza unida volverá a poner a la Argentina de pie\"",
+  "texto": "El líder del Frente Renovador participó de un foro sobre inteligencia artificial en la UNC y anticipó que buscará incorporar un capítulo sobre IA a la plataforma política del peronismo.",
+  "url": "https://www.codigobaires.com.ar/2026-11-26/massa-en-cordoba-nuestra-fuerza-unida-volvera-a-poner-a-la-argentina-de-pie-252085/",
+  "publicado": "2026-11-26T19:32:00+00:00",
+  "id": "807321326992eb47",
+  "titulo_norm": "massa en córdoba nuestra fuerza unida volverá a poner a la argentina de pie",
+  "resumen": "Sergio Massa, líder del Frente Renovador, participó de un foro sobre inteligencia artificial en la UNC de Córdoba. Afirmó que la fuerza unida volverá a poner a la Argentina de pie y adelantó que buscará incorporar un capítulo de IA en la plataforma del peronismo.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-27T13:30:58+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Minuto Uno",
   "autor": "Minuto Uno",

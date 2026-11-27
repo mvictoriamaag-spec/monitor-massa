@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "nacional",
+  "fuente": "Noticias Urbanas",
+  "autor": "Noticias Urbanas",
+  "tipo": "nota",
+  "titulo": "IA, empleo y producción: los ejes que Massa sumará al programa peronista",
+  "texto": "",
+  "url": "https://www.noticiasurbanas.com.ar/ia-empleo-y-produccion-los-ejes-que-massa-sumara-al-programa-peronista",
+  "publicado": "2026-11-27T13:01:38+00:00",
+  "id": "998e3506cfc6847c",
+  "titulo_norm": "ia empleo y producción los ejes que massa sumará al programa peronista",
+  "resumen": "Anuncio de que Sergio Massa incluirá inteligencia artificial, empleo y producción como ejes del programa del peronismo. Aparece como propuesta política a futuro.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-27T13:30:58+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "Diario Lo Nuestro",
   "autor": "Diario Lo Nuestro",
