@@ -224,6 +224,22 @@
   "recolectado": "2026-11-27T03:06:31+00:00"
  },
  {
+  "plataforma": "portal",
+  "fuente": "La Nueva Mañana",
+  "autor": "La Nueva Mañana",
+  "tipo": "nota",
+  "titulo": "Sergio Massa pasó por Córdoba y participó del cierre del Foro \"IA y políticas públicas\"",
+  "texto": "",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV005QTVDRVVveHFaX1NMNXJyaldVYmUyR19Gc2NoMkRBTnFvMF9Zd3hXcDhiUDl6Ym5VcjJrd1B2YUdXWkY1WFdtUHFSLWQ4cDU2Y3lZUU5EYVpUMU9lMTg5alNvdFhOMXdDc0VtVHVwU3E0Q05Zb2JXbnB1Zml2ZHdJQ1c2eExPYUtVLU1CRGNjbEtsRzJjYWxyRVpmUEFENk44ckU3VU1KeFF5WnBKUk00S0ZCaVltdHZib3FR0gG2AUFVX3lxTE5DVTdxUFdFNXRXRkpXSDVSM29BeU50VFFGS3lCWG5pejNfNktTZ2piR2gyNzRYRTlSWTZrajNpeWZBOVMxUkNTZlJGRU9EaXhtRDVjeEpRRHd4STdTQXdZYTJEWXJEdjRlb2tlZ2FRWXZqNmt6NTY1c3VYcnNlbWlLZ2duZFJPeTRySHRrTWRzS05DZXFWV3hxaDA4VklUUC12OHRNN1dIc2YyaGE0THh0MXJ3dDhR?oc=5",
+  "publicado": "2026-11-26T21:11:15+00:00",
+  "id": "34caa21550691284",
+  "titulo_norm": "sergio massa pasó por córdoba y participó del cierre del foro ia y políticas públicas",
+  "resumen": "Noticia sobre la visita de Sergio Massa a Córdoba, donde participó del cierre del Foro \"IA y políticas públicas\". Aparece como cobertura de su agenda pública, sin críticas ni respaldos explícitos.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-27T12:31:15+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "El Argentino Diario",
   "autor": "El Argentino Diario",
