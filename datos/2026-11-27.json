@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "Cooltivarte Portal",
+  "autor": "Cooltivarte Portal",
+  "tipo": "nota",
+  "titulo": "Charla con Gabriel Massa ¿Cómo llega el cine uruguayo a las salas? por Diego Castro Famea",
+  "texto": "",
+  "url": "https://cooltivarte.com/portal/charla-con-gabriel-massa-como-llega-el-cine-uruguayo-a-las-salas/",
+  "publicado": "2026-11-27T22:13:49+00:00",
+  "id": "ccb762e6070a4ae4",
+  "titulo_norm": "charla con gabriel massa cómo llega el cine uruguayo a las salas por diego castro famea",
+  "resumen": "Charla con Gabriel Massa sobre cómo el cine uruguayo llega a las salas, firmada por Diego Castro Famea. La palabra 'Massa' corresponde a Gabriel Massa, no a Sergio Massa.",
+  "relevante": 0,
+  "resumen_ia": true,
+  "recolectado": "2026-11-27T22:19:08+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "Tiempo de San Juan",
   "autor": "Tiempo de San Juan",
