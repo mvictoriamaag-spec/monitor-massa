@@ -191,7 +191,8 @@
     document.getElementById("viejo").hidden = Date.now() - Number(document.body.dataset.generado) < 60 * 60 * 1000;
     const limite = document.body.dataset.ultimaHora ? Date.now() - 60 * 60 * 1000 : 0;
     document.querySelectorAll(".tarjeta").forEach((t) => {
-      t.hidden = (filtro && t.dataset.plataforma !== filtro) || Number(t.dataset.ts) < limite;
+      const siempre = t.closest("[data-siempre]");
+      t.hidden = (filtro && t.dataset.plataforma !== filtro) || (!siempre && Number(t.dataset.ts) < limite);
     });
     let visibles = 0;
     document.querySelectorAll(".grupo").forEach((g) => {
@@ -199,7 +200,7 @@
       g.hidden = n === 0;
       const c = g.querySelector(".cantidad");
       if (c) c.textContent = n;
-      visibles += n;
+      if (!g.dataset.siempre) visibles += n;
     });
     const vacio = document.getElementById("vacio");
     if (vacio) vacio.hidden = visibles > 0;

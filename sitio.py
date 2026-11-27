@@ -46,8 +46,11 @@ def generar(avisos=()):
 
     # Última hora: se incluyen 3 horas y el navegador oculta lo que tenga más de 60 minutos,
     # así la página sigue siendo correcta aunque se mire un rato después de generada.
+    # Además, las últimas notas de portales (aunque tengan más de una hora), para que la portada
+    # no quede sólo con posts de X cuando los diarios no publicaron nada en los últimos 60 minutos.
+    portales = [m for m in db.recientes(horas=24) if m["plataforma"] != "x"][:15]
     _escribir("index.html", "ultima_hora.html", pestana="ultima",
-              menciones=db.recientes(horas=3), **comun)
+              menciones=db.recientes(horas=3), portales=portales, **comun)
 
     for fecha in {hoy, *db.dias_guardados()}:
         menciones = db.del_dia(fecha)

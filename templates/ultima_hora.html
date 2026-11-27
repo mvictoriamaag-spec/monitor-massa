@@ -9,4 +9,10 @@
 </section>
 <div class="vacio" id="vacio" hidden>No hay menciones publicadas en la última hora.<br>
   La página se actualiza sola cada 5 minutos.</div>
+{% if portales %}
+<section class="grupo" data-siempre="1">
+  <h2 class="hora"><span>Últimas notas de portales</span><span class="cantidad">{{ portales|length }}</span></h2>
+  {% for m in portales %}{{ tarjeta(m) }}{% endfor %}
+</section>
+{% endif %}
 {% endblock %}
