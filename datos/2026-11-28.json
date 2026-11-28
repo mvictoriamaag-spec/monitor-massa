@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "nacional",
+  "fuente": "TN",
+  "autor": "TN",
+  "tipo": "nota",
+  "titulo": "Los límites del modelo de Milei, la decisión de Bullrich y la “interna digital” que imagina Massa para enfrentar a Kicillof",
+  "texto": "En medio de la recesión, la senadora le reclama al Gobierno que la recuperación llegue a la gente y mantiene abiertas sus opciones electorales. El líder del Frente Renovador propone una votación con reconocimiento facial para definir la candidatura presidencial del peronismo.",
+  "url": "https://tn.com.ar/politica/2026/11/28/los-limites-del-modelo-economico-de-milei-la-decision-de-bullrich-y-la-interna-digital-que-quiere-massa/",
+  "publicado": "2026-11-28T08:29:00+00:00",
+  "id": "80684cd2bb5b9a9b",
+  "titulo_norm": "los límites del modelo de milei la decisión de bullrich y la interna digital que imagina massa para enfrentar a kicillof",
+  "resumen": "Nota de TN sobre los límites del modelo de Milei y la interna peronista. Massa, líder del Frente Renovador, propone una votación con reconocimiento facial para definir la candidatura presidencial del peronismo frente a Kicillof.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-28T08:40:45+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "Prensa Mercosur",
   "autor": "Prensa Mercosur",
