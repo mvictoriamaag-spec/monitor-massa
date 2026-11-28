@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "portal",
+  "fuente": "Prensa Mercosur",
+  "autor": "Prensa Mercosur",
+  "tipo": "nota",
+  "titulo": "Charla con Gabriel Massa ¿Cómo llega el cine uruguayo a las salas?",
+  "texto": "",
+  "url": "https://prensamercosur.org/2026/11/28/charla-con-gabriel-massa-como-llega-el-cine-uruguayo-a-las-salas/",
+  "publicado": "2026-11-28T06:57:42+00:00",
+  "id": "6e3cf9cc7c05f8b3",
+  "titulo_norm": "charla con gabriel massa cómo llega el cine uruguayo a las salas",
+  "resumen": "Charla con Gabriel Massa, otra persona con el mismo apellido, sobre cómo llega el cine uruguayo a las salas. No menciona a Sergio Massa ni a dirigentes del Frente Renovador.",
+  "relevante": 0,
+  "resumen_ia": true,
+  "recolectado": "2026-11-28T08:25:42+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "Perfil",
   "autor": "Perfil",
