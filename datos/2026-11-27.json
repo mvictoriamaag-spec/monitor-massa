@@ -128,6 +128,22 @@
   "recolectado": "2026-11-27T22:49:38+00:00"
  },
  {
+  "plataforma": "portal",
+  "fuente": "Grupo La Provincia",
+  "autor": "Grupo La Provincia",
+  "tipo": "nota",
+  "titulo": "Camino al 2027: Kicillof suma un aliado con cuentas pendientes con Massa",
+  "texto": "",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOWJsNkJTb2JlVEp2N09ERmhvWU0yWVJVUVhGaDBFc2EtQ3V6ZE84N3BMekItYlRLTFVmaXoxckNyMUs1X3lPenBqcGJjMDk4ZldmZlpBVnRuak5Vc2tSejFEVktwYXMzNmEyYUVVVE1MYTJpbGxPQS1pMmEwVEtyUXZfQklJOS0xN1U5NmJ2ZFMwNTZOUC0yOXBqWlp1cjhOTG4td3pXLTlTYTBFQUNQMEljUjFvRENf0gGwAUFVX3lxTE0zRWdyaTZKN2pHeWdMNkw0VWRNbTVpWk05RG1FVXo5eTJ2S2ViVkJEeC14Q09kOGRoMmQzV0I3eVpHRVNUVzlGZFVXTU5aS2p5NExHNnA3bkFtb2NXdmNWOFdaa0lYdHVWQ0VCU01XMlpWNlFvM0stUE1tTE1Kb1F6OHBwUV9tNWUxcUlTc1pscUNHNkRrYWtIc3h6WFIwVG44a052MENoYjFKaWRZRXVu?oc=5",
+  "publicado": "2026-11-27T20:08:00+00:00",
+  "id": "470557520762bfd7",
+  "titulo_norm": "camino al 2027 kicillof suma un aliado con cuentas pendientes con massa",
+  "resumen": "Nota sobre la carrera hacia 2027 en la que Axel Kicillof suma un aliado que tiene cuentas pendientes con Sergio Massa. Sugiere tensiones políticas entre el sector de Massa y ese aliado.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-28T01:39:54+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "Tiempo de San Juan",
   "autor": "Tiempo de San Juan",
