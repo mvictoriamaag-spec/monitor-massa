@@ -1,0 +1,31 @@
+name: Prueba redes en la nube
+on: workflow_dispatch
+jobs:
+  prueba:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt playwright
+      - name: Instagram
+        run: |
+          python - <<'PY'
+          import logging; logging.basicConfig(level=logging.INFO)
+          from fuentes import instagram
+          instagram.NACIONALES = instagram.NACIONALES[:8]; instagram.INTERIOR = instagram.INTERIOR[:4]
+          m, a = instagram.recolectar(horas_atras=72)
+          print("MENCIONES", len(m), a)
+          for x in m: print(x["fuente"], x["url"])
+          PY
+      - name: X sin sesion
+        run: |
+          python - <<'PY'
+          from playwright.sync_api import sync_playwright
+          with sync_playwright() as p:
+              b = p.chromium.launch(channel="chrome"); pg = b.new_page()
+              pg.goto("https://x.com/search?q=Massa&f=live", wait_until="domcontentloaded"); pg.wait_for_timeout(8000)
+              print("X URL", pg.url, pg.locator('article').count())
+          PY
