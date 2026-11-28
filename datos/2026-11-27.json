@@ -1,5 +1,37 @@
 [
  {
+  "plataforma": "nacional",
+  "fuente": "La Nación",
+  "autor": "La Nación",
+  "tipo": "nota",
+  "titulo": "La oposición analizó la posible construcción de una agenda común para derrotar a Milei en las elecciones",
+  "texto": "Dirigentes del kirchnerismo y de Axel Kicillof compartieron un encuentro con referentes del massismo, de la UCR y de la Coalición Cívica, entre otros sectores, en una convocatoria de Martín Lousteau en la Facultad de Ciencias Económicas de la UBA; estuvo la cantante Lali Espósito",
+  "url": "https://www.lanacion.com.ar/politica/la-oposicion-analizo-la-posible-construccion-de-una-agenda-comun-para-derrotar-a-milei-en-las-nid27112026/",
+  "publicado": "2026-11-28T01:44:34+00:00",
+  "id": "ca911ae4d59baf34",
+  "titulo_norm": "la oposición analizó la posible construcción de una agenda común para derrotar a milei en las elecciones",
+  "resumen": "Nota sobre un encuentro de la oposición en la Facultad de Ciencias Económicas de la UBA, convocado por Martín Lousteau, para analizar una agenda común frente a Milei. Participan dirigentes del kirchnerismo, de Kicillof y del massismo, entre otros sectores.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-28T01:54:49+00:00"
+ },
+ {
+  "plataforma": "portal",
+  "fuente": "www.diariovoces.com.ar",
+  "autor": "www.diariovoces.com.ar",
+  "tipo": "nota",
+  "titulo": "El peronismo mantendrá las PASO bonaerenses: los candidatos de Kicillof, Massa y el “tapado” de Cristina Kirchner",
+  "texto": "El PJ busca mantendrá las PASO bonaerenses para enfrentar a Santilli y ordenar su interna nacional. Los candidatos de Cristina, Kicillof y el plan B de Massa.",
+  "url": "https://www.diariovoces.com.ar/politica/el-peronismo-mantendra-las-paso-bonaerenses-los-candidatos-de-kicillof-massa-y-el-tapado-de-cristina-kirchner/",
+  "publicado": "2026-11-28T01:38:52+00:00",
+  "id": "e6b52b402bec3553",
+  "titulo_norm": "el peronismo mantendrá las paso bonaerenses los candidatos de kicillof massa y el tapado de cristina kirchner",
+  "resumen": "Nota sobre la decisión del PJ de mantener las PASO bonaerenses frente a Santilli, junto con las candidaturas en disputa de Kicillof y Cristina Kirchner. Menciona también un plan B de Sergio Massa.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-28T01:54:49+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "Identidad Correntina",
   "autor": "Identidad Correntina",
