@@ -48,6 +48,22 @@
   "recolectado": "2026-11-27T23:39:49+00:00"
  },
  {
+  "plataforma": "interior",
+  "fuente": "Corrientes Hoy",
+  "autor": "Corrientes Hoy",
+  "tipo": "nota",
+  "titulo": "Insólito: Massa quiso dar cátedra de economía en Córdoba tras dejar al país al borde de la hiperinflación",
+  "texto": "",
+  "url": "https://www.corrienteshoy.com/nacionales/insolito-massa-quiso-dar-catedra-de-economia-en-cordoba-tras-dejar-al-pais-al-borde-de-la-hiperinflacion.htm",
+  "publicado": "2026-11-27T23:07:26+00:00",
+  "id": "50281caa2f16b2fa",
+  "titulo_norm": "insólito massa quiso dar cátedra de economía en córdoba tras dejar al país al borde de la hiperinflación",
+  "resumen": "Nota de Corrientes Hoy con tono crítico e irónico: Sergio Massa habría dado una charla de economía en Córdoba, a la que el medio atribuye haber llevado al país al borde de la hiperinflación.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-28T01:04:35+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "Flipr.news",
   "autor": "Flipr.news",
