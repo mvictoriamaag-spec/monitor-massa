@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "interior",
+  "fuente": "Identidad Correntina",
+  "autor": "Identidad Correntina",
+  "tipo": "nota",
+  "titulo": "Massa aterrizó en Córdoba y apuntó al Presupuesto y las PASO",
+  "texto": "Sergio Massa participÃ³ de una actividad acadÃ©mica en la UNC y aprovechÃ³ la coyuntura nacional para marcar postura sobre el Presupuesto y la suspensiÃ³n de las PASO. En paralelo, se reacomodan los vÃ­nculos entre el peronismo nacional y el cordobes...",
+  "url": "https://www.identidadcorrentina.com.ar/noticia/47331_massa-aterriz-en-crdoba-y-apunt-al-presupuesto-y-las-paso.htm",
+  "publicado": "2026-11-28T00:01:41+00:00",
+  "id": "339f6f90cfdd5ba8",
+  "titulo_norm": "massa aterrizó en córdoba y apuntó al presupuesto y las paso",
+  "resumen": "Sergio Massa participó de una actividad académica en la UNC de Córdoba y marcó postura sobre el Presupuesto y la suspensión de las PASO. Además, se reacomodan los vínculos entre el peronismo nacional y el cordobés.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-28T00:09:49+00:00"
+ },
+ {
   "plataforma": "portal",
   "fuente": "Bache3000",
   "autor": "Bache3000",
