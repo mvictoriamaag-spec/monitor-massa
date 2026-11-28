@@ -576,6 +576,22 @@
   "recolectado": "2026-11-27T11:43:30+00:00"
  },
  {
+  "plataforma": "portal",
+  "fuente": "Tendencia de Noticias",
+  "autor": "Tendencia de Noticias",
+  "tipo": "nota",
+  "titulo": "Navidad para Todos: el Instituto Salesiano Lorenzo Massa organiza una gran peña solidaria",
+  "texto": "La propuesta se desarrollará este viernes 27 de noviembre, de 20 a 23 h, en la sede del establecimiento educativo. Habrá espectáculos musicales, baile y actuaciones de alumnos del colegio. La entrada consistirá en la donación de un alimento para el armado de canastas navideñas.",
+  "url": "https://tendenciadenoticias.com.ar/tendencias/navidad-para-todos-el-instituto-salesiano-lorenzo-massa-organiza-una-gran-pena-solidaria",
+  "publicado": "2026-11-27T09:12:25+00:00",
+  "id": "3555900919383629",
+  "titulo_norm": "navidad para todos el instituto salesiano lorenzo massa organiza una gran peña solidaria",
+  "resumen": "Anuncia una peña solidaria de Navidad en el Instituto Salesiano Lorenzo Massa, el viernes 27 de noviembre, con música, baile y actuaciones de alumnos. La entrada es la donación de un alimento para canastas navideñas. El apellido Massa corresponde al nombre del colegio, no a Sergio Massa.",
+  "relevante": 0,
+  "resumen_ia": true,
+  "recolectado": "2026-11-28T03:09:58+00:00"
+ },
+ {
   "plataforma": "interior",
   "fuente": "MDZ Online",
   "autor": "MDZ Online",
