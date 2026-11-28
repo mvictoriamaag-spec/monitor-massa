@@ -1,5 +1,21 @@
 [
  {
+  "plataforma": "interior",
+  "fuente": "HOY ROJAS",
+  "autor": "HOY ROJAS",
+  "tipo": "nota",
+  "titulo": "Día de la Militancia: actos disímiles de La Cámpora, el massismo en alianza federal y la estrategia de gestión de Kicillof",
+  "texto": "A un año de las elecciones nacionales, el arco peronista conmemorará la fecha con cónclaves fragmentados que exponen las tensiones internas del espacio. Mientras Máximo Kirchner encabezará un acto partidario en La Pampa y movilizaciones hacia el domicilio de Cristina Kirchner, el Frente Renovador sellará su convergencia con el Peronismo Federal en San Fernando, en tanto que el gobernador bonaerense optará por priorizar la gestión y concentrar su demostración de fuerza para el Día de la Soberanía en Punta Indio.",
+  "url": "https://hoyrojas.com.ar/index1.php?que=noticias&id=52268",
+  "publicado": "2026-11-28T02:01:11+00:00",
+  "id": "51b1f7851708359d",
+  "titulo_norm": "día de la militancia actos disímiles de la cámpora el massismo en alianza federal y la estrategia de gestión de kicillof",
+  "resumen": "Nota sobre el Día de la Militancia peronista y las tensiones internas del espacio. Menciona que el massismo sellará una convergencia con el Peronismo Federal en San Fernando, mientras La Cámpora y Kicillof realizan actos por separado.",
+  "relevante": 1,
+  "resumen_ia": true,
+  "recolectado": "2026-11-28T07:25:23+00:00"
+ },
+ {
   "plataforma": "nacional",
   "fuente": "La Nación",
   "autor": "La Nación",
